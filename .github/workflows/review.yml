@@ -1,0 +1,142 @@
+# Runs one Roster level-A review of a public GitHub repo and commits the result to reviews/<owner>__<name>/.
+# Dispatched by tryroster.dev/try (POST /api/review), which finds the run again by the [job] in its name.
+# Inputs only ever reach the shell through env, after the regex checks in the first step.
+name: review
+run-name: review ${{ inputs.repo }} [${{ inputs.job }}]
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: owner/name of a public GitHub repo that records sessions with Entire
+        required: true
+        type: string
+      job:
+        description: id the caller uses to find this run
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: review-${{ inputs.repo }}
+  cancel-in-progress: false
+
+env:
+  GIT_TERMINAL_PROMPT: "0"
+  # The Roster commit every review runs. status.json records it next to each result.
+  ROSTER_SHA: f2940cf3f29fadbbf17dbe6749cef8908808620b
+  BUN_VERSION: 1.3.11
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check the request
+        env:
+          REPO: ${{ inputs.repo }}
+          JOB: ${{ inputs.job }}
+        run: |
+          if ! [[ "$REPO" =~ ^[A-Za-z0-9]([A-Za-z0-9-]{0,37}[A-Za-z0-9])?/[A-Za-z0-9._-]{1,100}$ ]] || [[ "$REPO" =~ /\.+$ ]]; then
+            echo "::error::not an owner/name GitHub repository: $REPO"; exit 1
+          fi
+          if ! [[ "$JOB" =~ ^[A-Za-z0-9-]{6,64}$ ]]; then echo "::error::bad job id"; exit 1; fi
+          {
+            echo "SLUG=${REPO/\//__}"
+            echo "STARTED_AT=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          } >> "$GITHUB_ENV"
+
+      - name: Check out roster-reviews
+        uses: actions/checkout@v4
+        with:
+          path: out
+
+      - name: Refuse opted-out repos
+        env:
+          REPO: ${{ inputs.repo }}
+        run: |
+          if jq -e --arg r "${REPO,,}" 'map(ascii_downcase) | index($r) != null' out/opt-outs.json > /dev/null; then
+            echo "::error::$REPO has opted out of public Roster reviews"; exit 1
+          fi
+
+      - name: Check out Roster
+        uses: actions/checkout@v4
+        with:
+          repository: rajkaria/roster
+          ref: ${{ env.ROSTER_SHA }}
+          path: roster
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: ${{ env.BUN_VERSION }}
+
+      - name: Install Roster
+        working-directory: roster
+        run: bun install --frozen-lockfile
+
+      - name: Read the repo's heads
+        env:
+          REPO: ${{ inputs.repo }}
+        run: |
+          heads=$(git ls-remote "https://github.com/$REPO" HEAD refs/heads/entire/checkpoints/v1 || true)
+          {
+            echo "TARGET_HEAD=$(awk '$2=="HEAD"{print $1}' <<< "$heads")"
+            echo "CHECKPOINT_HEAD=$(awk '$2=="refs/heads/entire/checkpoints/v1"{print $1}' <<< "$heads")"
+          } >> "$GITHUB_ENV"
+
+      - name: Review
+        id: review
+        continue-on-error: true
+        working-directory: roster
+        env:
+          REPO: ${{ inputs.repo }}
+          NEATLOGS_API_KEY: ${{ secrets.NEATLOGS_API_KEY }}
+        run: |
+          set -o pipefail
+          mkdir -p "$RUNNER_TEMP/result"
+          bun src/cli.ts review "https://github.com/$REPO" --observational --out "$RUNNER_TEMP/result" 2>&1 | tee "$RUNNER_TEMP/review.log"
+
+      - name: Publish
+        working-directory: out
+        env:
+          REPO: ${{ inputs.repo }}
+          JOB: ${{ inputs.job }}
+          REVIEW_OUTCOME: ${{ steps.review.outcome }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ "$REVIEW_OUTCOME" = success ] && [ -f "$RUNNER_TEMP/result/review.json" ]; then
+            outcome=ok; error=""
+          elif grep -q "no Entire data" "$RUNNER_TEMP/review.log"; then
+            outcome=no_entire_data; error="This repo has no Entire checkpoints."
+          else
+            outcome=failed; error=$(grep -v '^\s*$' "$RUNNER_TEMP/review.log" | tail -n 3 | cut -c1-300)
+          fi
+          # Aggregate results only: sessions.json (which carries each session's first prompt) is not republished.
+          rm -f "$RUNNER_TEMP/result/sessions.json"
+          for attempt in 1 2 3 4 5; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            # A new result replaces the old one. A failed run only updates status.json, so an earlier good review stays up.
+            if [ "$outcome" = ok ]; then rm -rf "reviews/$SLUG"; fi
+            mkdir -p "reviews/$SLUG"
+            if [ "$outcome" = ok ]; then cp "$RUNNER_TEMP/result/"* "reviews/$SLUG/"; fi
+            jq -n \
+              --arg job "$JOB" --arg repo "$REPO" --arg outcome "$outcome" --arg error "$error" \
+              --arg run_id "$GITHUB_RUN_ID" --arg run_url "$RUN_URL" --arg roster_sha "$ROSTER_SHA" \
+              --arg target_head "$TARGET_HEAD" --arg checkpoint_head "$CHECKPOINT_HEAD" \
+              --arg started_at "$STARTED_AT" --arg finished_at "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+              '{job: $job, repo: $repo, outcome: $outcome, error: (if $error == "" then null else $error end),
+                run_id: ($run_id | tonumber), run_url: $run_url, roster_sha: $roster_sha,
+                target_head: $target_head, checkpoint_head: (if $checkpoint_head == "" then null else $checkpoint_head end),
+                started_at: $started_at, finished_at: $finished_at}' > "reviews/$SLUG/status.json"
+            bun scripts/index.ts
+            git add -A reviews index.json
+            git -c user.name="roster-reviews[bot]" -c user.email="roster-reviews@users.noreply.github.com" \
+              commit -q -m "review $REPO: $outcome [$JOB]"
+            if git push -q origin HEAD:main; then exit 0; fi
+            echo "push lost a race (attempt $attempt), retrying"
+            sleep $((attempt * 3))
+          done
+          echo "::error::could not push the result after 5 attempts"; exit 1
