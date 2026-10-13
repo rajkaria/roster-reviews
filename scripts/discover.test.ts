@@ -38,7 +38,7 @@ describe("searchTrailers", () => {
 describe("check", () => {
   test("canonical name and both heads", async () => {
     const f = fake(repo("Octo/Cat"), head("Octo/Cat", "main", "h1"), head("Octo/Cat", "entire/checkpoints/v1", "c1"));
-    expect(await check(f.gh, "octo/cat")).toEqual({ ok: true, heads: { fullName: "Octo/Cat", target: "h1", checkpoint: "c1" } });
+    expect(await check(f.gh, "octo/cat")).toEqual({ ok: true, heads: { fullName: "Octo/Cat", target: "h1", checkpoint: "c1" }, createdAt: null });
   });
   test("checkpoint refs without the branch count, with a null checkpoint head", async () => {
     const f = fake(repo("Octo/Cat"), head("Octo/Cat", "main", "h1"), at("/repos/Octo/Cat/git/matching-refs/entire/checkpoints/", [{ ref: "x" }]));
@@ -61,6 +61,14 @@ test("upToDate needs a settled outcome and the same heads", () => {
   expect(upToDate(null, heads)).toBe(false);
 });
 
+test("repos created during neatHack are held back until results, then reviewed", async () => {
+  const entry = () => fake(repo("H/Entry", { created_at: "2026-10-10T08:00:00Z" }), head("H/Entry", "main", "h"), head("H/Entry", "entire/checkpoints/v1", "c"));
+  const during = await plan(entry().gh, ["h/entry"], { max: 5, optOuts: [], status: () => null, now: new Date("2026-10-13T12:00:00Z") });
+  expect(during.plans).toEqual([{ repo: "H/Entry", action: "skip", why: "created during neatHack 2026: held until results" }]);
+  const after = await plan(entry().gh, ["h/entry"], { max: 5, optOuts: [], status: () => null, now: new Date("2026-10-17T00:00:01Z") });
+  expect(after.plans[0]!.action).toBe("dispatch");
+});
+
 describe("plan", () => {
   const f = () =>
     fake(
@@ -74,6 +82,7 @@ describe("plan", () => {
       max: 1,
       optOuts: ["X/Out"],
       status: (name) => (name === "A/One" ? { outcome: "ok", target_head: "h1", checkpoint_head: "c1" } : null),
+      now: new Date("2026-10-13T12:00:00Z"),
     });
     expect(plans).toEqual([
       { repo: "A/One", action: "skip", why: "up to date" },

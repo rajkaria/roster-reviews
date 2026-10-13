@@ -22,6 +22,10 @@ Every review that [Roster](https://github.com/rajkaria/roster) runs live from [t
 - **Prompts stay out:** only aggregate results are published. The per-session file that carries each session's first prompt is not.
 - **Not hackathon evidence:** live reviews started after neatHack 2026. They are separate from the frozen evidence in `rajkaria/roster` (`reports/`, `docs/FACTS.md` and the forward run).
 
+## neatHack 2026 entries
+
+Roster is itself a neatHack 2026 entry. Until results are announced (16 Oct 2026), neither tryroster.dev/try nor the daily discovery reviews a repo created on or after 8 Oct 2026, so no competing entry gets a published review while judging is open.
+
 ## Opting out
 
 To have your repo refused and its review removed, open an issue, or a PR that adds `"owner/name"` to [`opt-outs.json`](opt-outs.json).

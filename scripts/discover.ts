@@ -7,6 +7,12 @@ import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 export const SIZE_CAP_KB = 300 * 1024;
+/**
+ * Repos created from this time on are held back until HOLD_UNTIL: they are most likely other neatHack 2026 entries,
+ * and Roster (itself an entry) does not publish reviews of competing entries while judging is open.
+ */
+export const HOLD_CREATED_FROM = "2026-10-08T00:00:00Z";
+export const HOLD_UNTIL = "2026-10-17T00:00:00Z";
 const API = "https://api.github.com";
 const WORKER = "rajkaria/roster-reviews";
 
@@ -63,11 +69,15 @@ export interface Heads {
   checkpoint: string | null;
 }
 
-export type Check = { ok: true; heads: Heads } | { ok: false; reason: "not_found" | "private" | "too_large" | "no_entire_data" | "empty" };
+export type Check =
+  | { ok: true; heads: Heads; createdAt: string | null }
+  | { ok: false; reason: "not_found" | "private" | "too_large" | "no_entire_data" | "empty" };
 
 /** The repo's canonical name and heads, or why it can't be reviewed. */
 export async function check(gh: Gh, repo: string): Promise<Check> {
-  const info = await json<{ full_name: string; private: boolean; size: number; default_branch: string }>(await gh(`/repos/${enc(repo)}`));
+  const info = await json<{ full_name: string; private: boolean; size: number; default_branch: string; created_at?: string }>(
+    await gh(`/repos/${enc(repo)}`),
+  );
   if (!info) return { ok: false, reason: "not_found" };
   if (info.private) return { ok: false, reason: "private" };
   if (info.size > SIZE_CAP_KB) return { ok: false, reason: "too_large" };
@@ -80,7 +90,7 @@ export async function check(gh: Gh, repo: string): Promise<Check> {
     const refs = await json<unknown[]>(await gh(`/repos/${enc(info.full_name)}/git/matching-refs/entire/checkpoints/`));
     if (!Array.isArray(refs) || refs.length === 0) return { ok: false, reason: "no_entire_data" };
   }
-  return { ok: true, heads: { fullName: info.full_name, target, checkpoint } };
+  return { ok: true, heads: { fullName: info.full_name, target, checkpoint }, createdAt: info.created_at ?? null };
 }
 
 /** True when reviews/<slug>/status.json already covers these heads (a good review, or a definite no-data). */
@@ -111,7 +121,7 @@ export interface Plan {
 export async function plan(
   gh: Gh,
   candidates: string[],
-  opts: { max: number; optOuts: string[]; status: (fullName: string) => Parameters<typeof upToDate>[0] },
+  opts: { max: number; optOuts: string[]; status: (fullName: string) => Parameters<typeof upToDate>[0]; now?: Date },
 ): Promise<{ plans: Plan[]; heads: Map<string, Heads> }> {
   const optOut = new Set(opts.optOuts.map((r) => r.toLowerCase()));
   const done = new Set<string>();
@@ -136,6 +146,11 @@ export async function plan(
       continue;
     }
     const name = c.heads.fullName;
+    const now = (opts.now ?? new Date()).toISOString();
+    if (now < HOLD_UNTIL && c.createdAt !== null && c.createdAt >= HOLD_CREATED_FROM) {
+      plans.push({ repo: name, action: "skip", why: "created during neatHack 2026: held until results" });
+      continue;
+    }
     if (optOut.has(name.toLowerCase())) {
       plans.push({ repo: name, action: "skip", why: "opted out" });
       continue;
