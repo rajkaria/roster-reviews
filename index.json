@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-13T12:09:52.831Z",
+  "generated_at": "2026-10-13T13:14:02.970Z",
   "reviews": [
     {
       "repo": "yorrick/agent-skills",
       "slug": "yorrick__agent-skills",
       "href": "/r/yorrick/agent-skills",
       "outcome": "ok",
-      "generated_at": "2026-10-13T12:09:34.425Z",
-      "finished_at": "2026-10-13T12:09:52Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38395223659",
+      "generated_at": "2026-10-13T13:13:42.394Z",
+      "finished_at": "2026-10-13T13:14:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38403250392",
       "label": "no_suspect",
       "sessions": 24,
       "mature_sessions": 23,
@@ -22,6 +22,7 @@
           "mature_sessions": 3,
           "spend_usd": null,
           "survival": 1,
+          "surviving_changes": 3,
           "cost_per_surviving_change": null
         },
         {
@@ -33,6 +34,7 @@
           "mature_sessions": 1,
           "spend_usd": 10.2151028,
           "survival": 0,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -44,6 +46,7 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 1,
+          "surviving_changes": 1,
           "cost_per_surviving_change": null
         },
         {
@@ -53,8 +56,9 @@
           "model": "claude-opus-5-5",
           "sessions": 1,
           "mature_sessions": 0,
-          "spend_usd": 5580.6831642,
+          "spend_usd": 185.8974806,
           "survival": null,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -66,6 +70,7 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 0,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -77,6 +82,7 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 0.9230769230769231,
+          "surviving_changes": 0.9230769230769231,
           "cost_per_surviving_change": null
         },
         {
@@ -88,6 +94,7 @@
           "mature_sessions": 10,
           "spend_usd": null,
           "survival": 0.1545098039215686,
+          "surviving_changes": 1.5450980392156861,
           "cost_per_surviving_change": null
         },
         {
@@ -99,6 +106,7 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 1,
+          "surviving_changes": 1,
           "cost_per_surviving_change": null
         },
         {
@@ -110,6 +118,7 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 0,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -121,6 +130,7 @@
           "mature_sessions": 4,
           "spend_usd": null,
           "survival": 0,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
@@ -172,6 +182,7 @@
           "mature_sessions": 3,
           "spend_usd": null,
           "survival": 0.996742671009772,
+          "surviving_changes": 2.990228013029316,
           "cost_per_surviving_change": null
         },
         {
@@ -183,6 +194,7 @@
           "mature_sessions": 1,
           "spend_usd": 26.214786,
           "survival": 0,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -194,6 +206,7 @@
           "mature_sessions": 0,
           "spend_usd": null,
           "survival": null,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -205,6 +218,7 @@
           "mature_sessions": 2,
           "spend_usd": null,
           "survival": 0,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -216,6 +230,7 @@
           "mature_sessions": 39,
           "spend_usd": null,
           "survival": 0.9378018862781443,
+          "surviving_changes": 36.57427356484763,
           "cost_per_surviving_change": null
         },
         {
@@ -227,6 +242,7 @@
           "mature_sessions": 9,
           "spend_usd": null,
           "survival": 0.8987153871335525,
+          "surviving_changes": 8.088438484201973,
           "cost_per_surviving_change": null
         },
         {
@@ -238,6 +254,7 @@
           "mature_sessions": 6,
           "spend_usd": null,
           "survival": 0.48739495798319327,
+          "surviving_changes": 2.9243697478991595,
           "cost_per_surviving_change": null
         },
         {
@@ -249,6 +266,7 @@
           "mature_sessions": 6,
           "spend_usd": 2.0366286,
           "survival": 0.9967426710097719,
+          "surviving_changes": 5.980456026058631,
           "cost_per_surviving_change": 0.25788117047930287
         },
         {
@@ -260,6 +278,7 @@
           "mature_sessions": 6,
           "spend_usd": null,
           "survival": 0.1192156862745098,
+          "surviving_changes": 0.7152941176470589,
           "cost_per_surviving_change": null
         },
         {
@@ -271,6 +290,7 @@
           "mature_sessions": 0,
           "spend_usd": null,
           "survival": null,
+          "surviving_changes": 0,
           "cost_per_surviving_change": null
         },
         {
@@ -282,6 +302,7 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 0.9775280898876404,
+          "surviving_changes": 0.9775280898876404,
           "cost_per_surviving_change": null
         }
       ]
