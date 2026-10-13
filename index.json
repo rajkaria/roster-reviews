@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-10-13T13:24:52.190Z",
+  "generated_at": "2026-10-13T13:24:54.512Z",
   "reviews": [
+    {
+      "repo": "tum-ai/ehl",
+      "slug": "tum-ai__ehl",
+      "href": "/r/tum-ai/ehl",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:33.784Z",
+      "finished_at": "2026-10-13T13:24:54Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404681521",
+      "label": "insufficient_data",
+      "sessions": 9,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "2ba4ae5c8491",
+          "label": "Claude Code · claude-opus-5 (rules db1010)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3785c2ed3bdb",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 94.0533532,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3cfe8d33093b",
+          "label": "Claude Code · claude-opus-5 (rules bbdb33)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8762ebc1025f",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "89a85202db64",
+          "label": "Claude Code · claude-opus-5 (rules 59eee4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d758b7b1eb58",
+          "label": "Claude Code · claude-opus-5 (rules 6d4585)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "SahidGit/git-explore",
       "slug": "SahidGit__git-explore",
