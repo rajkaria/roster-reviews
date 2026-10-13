@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-13T13:24:36.613Z",
+  "generated_at": "2026-10-13T13:24:38.394Z",
   "reviews": [
+    {
+      "repo": "tedkulp/drops",
+      "slug": "tedkulp__drops",
+      "href": "/r/tedkulp/drops",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:30.866Z",
+      "finished_at": "2026-10-13T13:24:38Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404675837",
+      "label": "insufficient_data",
+      "sessions": 10,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "078ed681503b",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.6080148000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "89c76a3a0112",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 9,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/jev-orchestrator",
       "slug": "petercr__jev-orchestrator",
