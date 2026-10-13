@@ -69,6 +69,11 @@ test("repos created during neatHack are held back until results, then reviewed",
   expect(after.plans[0]!.action).toBe("dispatch");
 });
 
+test("repos with a frozen hackathon review are held until results", async () => {
+  const { plans } = await plan(fake().gh, ["Frozen/Repo"], { max: 5, optOuts: [], frozen: ["frozen/repo"], status: () => null, now: new Date("2026-10-13T12:00:00Z") });
+  expect(plans).toEqual([{ repo: "Frozen/Repo", action: "skip", why: "has a frozen hackathon review: held until results" }]);
+});
+
 describe("plan", () => {
   const f = () =>
     fake(

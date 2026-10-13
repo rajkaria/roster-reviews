@@ -121,9 +121,17 @@ export interface Plan {
 export async function plan(
   gh: Gh,
   candidates: string[],
-  opts: { max: number; optOuts: string[]; status: (fullName: string) => Parameters<typeof upToDate>[0]; now?: Date },
+  opts: {
+    max: number;
+    optOuts: string[];
+    status: (fullName: string) => Parameters<typeof upToDate>[0];
+    now?: Date;
+    /** Repos whose hackathon-time review is published, frozen, on tryroster.dev (frozen.json); held like entries. */
+    frozen?: string[];
+  },
 ): Promise<{ plans: Plan[]; heads: Map<string, Heads> }> {
   const optOut = new Set(opts.optOuts.map((r) => r.toLowerCase()));
+  const frozen = new Set((opts.frozen ?? []).map((r) => r.toLowerCase()));
   const done = new Set<string>();
   const plans: Plan[] = [];
   const heads = new Map<string, Heads>();
@@ -134,6 +142,10 @@ export async function plan(
     done.add(key);
     if (optOut.has(key)) {
       plans.push({ repo, action: "skip", why: "opted out" });
+      continue;
+    }
+    if (frozen.has(key) && (opts.now ?? new Date()).toISOString() < HOLD_UNTIL) {
+      plans.push({ repo, action: "skip", why: "has a frozen hackathon review: held until results" });
       continue;
     }
     if (dispatches >= opts.max) {
@@ -195,6 +207,7 @@ if (import.meta.main) {
   const { plans } = await plan(gh, candidates, {
     max,
     optOuts: readJson<string[]>(join(root, "opt-outs.json"), []),
+    frozen: readJson<string[]>(join(root, "frozen.json"), []),
     status: (name) => readJson(join(root, "reviews", name.replace("/", "__"), "status.json"), null),
   });
 
