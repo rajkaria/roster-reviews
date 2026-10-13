@@ -1,0 +1,13 @@
+{
+  "job": "e2e-test-0003",
+  "repo": "sequant-io/sequant",
+  "outcome": "no_entire_data",
+  "error": "This repo has no Entire checkpoints.",
+  "run_id": 38395077682,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38395077682",
+  "roster_sha": "f2940cf3f29fadbbf17dbe6749cef8908808620b",
+  "target_head": "2635a7b08d2d6788b14cc6160072f33a3b17cddc",
+  "checkpoint_head": null,
+  "started_at": "2026-10-13T12:08:13Z",
+  "finished_at": "2026-10-13T12:08:23Z"
+}
