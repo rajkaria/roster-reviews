@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-13T13:24:17.011Z",
+  "generated_at": "2026-10-13T13:24:18.971Z",
   "reviews": [
+    {
+      "repo": "basher83/Zammad-MCP",
+      "slug": "basher83__Zammad-MCP",
+      "href": "/r/basher83/Zammad-MCP",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:16.627Z",
+      "finished_at": "2026-10-13T13:24:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404645573",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "6e5338beb68a",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8333333333333334,
+          "surviving_changes": 0.8333333333333334,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8e7f3b7d42ad",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 2.6235304,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 2.6235304
+        },
+        {
+          "setup_id": "95b988777634",
+          "label": "Codex · gpt-6-astra",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 7.410042000000001,
+          "survival": 0.89375,
+          "surviving_changes": 0.89375,
+          "cost_per_surviving_change": 6.162087832167832
+        }
+      ]
+    },
     {
       "repo": "MuskanPaliwal/skill-picker",
       "slug": "MuskanPaliwal__skill-picker",
