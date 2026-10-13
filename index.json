@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-13T13:24:15.689Z",
+  "generated_at": "2026-10-13T13:24:17.011Z",
   "reviews": [
+    {
+      "repo": "MuskanPaliwal/skill-picker",
+      "slug": "MuskanPaliwal__skill-picker",
+      "href": "/r/MuskanPaliwal/skill-picker",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:14.432Z",
+      "finished_at": "2026-10-13T13:24:16Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404639297",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "55f909339936",
+          "label": "Claude Code · claude-opus-5-5 (rules 1e97af)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.2901012,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8489e0ed39d1",
+          "label": "Claude Code · claude-opus-5-5 (rules 60c690)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 7.3866686,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/ccw",
       "slug": "petercr__ccw",
