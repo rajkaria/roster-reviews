@@ -1,0 +1,29 @@
+# Review: crcorbett/taxkit
+
+- Review id: `crcorbett__taxkit-20261013132357`
+- Created: 2026-10-13T13:23:57.851Z
+- Entire data: yes
+- Evidence level: A (observational)
+- Label: `insufficient_data`
+- Suspect: none
+
+No suspect call: no setup has ≥ 8 mature sessions.
+
+## Setups
+
+| Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
+| `2900641a46e4` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 22.4% | 0.0% | 1.2% | 0.0% | — | A |
+| `4656e773d771` | Codex · gpt-5.5 | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 100.0% | — | A |
+| `5a7bfeeaed3d` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 11.8% | 100.0% | 90.1% | 0.0% | — | A |
+| `63e124e6f8f7` | Claude Code · claude-opus-5-5 (rules 504e1e) | 1 | 1 | $114.65 | 99.3% | 0.0% | 1.6% | 0.0% | $115.50 | A |
+| `77c9cb3ebba0` | Claude Code · claude-opus-5-5 (rules 96451a) | 1 | 1 | $54.76 | 100.0% | 0.0% | 9.5% | 0.0% | $54.76 | A |
+| `8e6235252b30` | Claude Code · claude-opus-5 | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 100.0% | — | A |
+| `ecdff216b516` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.2% | 0.0% | 6.8% | 0.0% | — | A |
+
+## Notes
+
+- 44 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 49 sessions have no price (unknown model, or a price that depends on prompt size)
+- 44 sessions have no setup because their rules hash is unknown
+- suspect call: no setup has ≥ 8 mature sessions
