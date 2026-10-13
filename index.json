@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-13T13:24:48.274Z",
+  "generated_at": "2026-10-13T13:24:52.190Z",
   "reviews": [
+    {
+      "repo": "SahidGit/git-explore",
+      "slug": "SahidGit__git-explore",
+      "href": "/r/SahidGit/git-explore",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:12.903Z",
+      "finished_at": "2026-10-13T13:24:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404642572",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9408740359897172,
+          "surviving_changes": 1.8817480719794344,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "itsmeyaw/binden",
       "slug": "itsmeyaw__binden",
