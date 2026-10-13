@@ -11,6 +11,7 @@ Every review that [Roster](https://github.com/rajkaria/roster) runs live from [t
     - the Actions run that produced it
     - the target repo's HEAD and its `entire/checkpoints/v1` head at review time
 - **`index.json`:** one summary row per review. It is rebuilt by `scripts/index.ts` on every commit, and the live-reviews table on tryroster.dev/r reads it.
+- **`.github/workflows/discover.yml`:** runs daily. `scripts/discover.ts` finds public repos with Entire checkpoints, from `seeds.json` plus GitHub commit search for the `Entire-Checkpoint:` trailer. It dispatches a review for each one whose heads moved since its last review.
 - **`.github/workflows/review.yml`:** the worker. tryroster.dev dispatches it with a repo and a job id. It checks out Roster, runs the review on a GitHub-hosted runner and commits the result.
 
 ## What a live review is

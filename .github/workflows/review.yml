@@ -26,7 +26,7 @@ concurrency:
 env:
   GIT_TERMINAL_PROMPT: "0"
   # The Roster commit every review runs. status.json records it next to each result.
-  ROSTER_SHA: f2940cf3f29fadbbf17dbe6749cef8908808620b
+  ROSTER_SHA: fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8
   BUN_VERSION: 1.3.11
 
 jobs:

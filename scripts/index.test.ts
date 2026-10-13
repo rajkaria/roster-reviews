@@ -17,7 +17,7 @@ const review = {
   generated_at: "2026-10-13T10:00:00Z",
   label: "no_suspect",
   setups: [
-    { setup_id: "s1", label: "Claude Code · opus", harness: "Claude Code", model: "claude-opus-5-5", sessions: 4, mature_sessions: 3, spend_usd: 2, survival: 0.9, cost_per_surviving_change: 0.5 },
+    { setup_id: "s1", label: "Claude Code · opus", harness: "Claude Code", model: "claude-opus-5-5", sessions: 4, mature_sessions: 3, spend_usd: 2, survival: 0.9, surviving_changes: 4, cost_per_surviving_change: 0.5 },
     { setup_id: "s2", label: null, harness: "Codex", model: "gpt", sessions: 2, mature_sessions: 0, spend_usd: null, survival: null, cost_per_surviving_change: null },
   ],
 };
@@ -25,7 +25,8 @@ const review = {
 test("a successful review is ok, with totals summed over setups", () => {
   const e = entryFor("a__one", { repo: "a/one", outcome: "ok", finished_at: "2026-10-13T10:01:00Z", run_url: "https://github.com/x/y/actions/runs/1" }, review)!;
   expect(e).toMatchObject({ repo: "a/one", href: "/r/a/one", outcome: "ok", sessions: 6, mature_sessions: 3, label: "no_suspect" });
-  expect(e.setups[0]).toMatchObject({ setup_id: "s1", survival: 0.9, cost_per_surviving_change: 0.5 });
+  expect(e.setups[0]).toMatchObject({ setup_id: "s1", survival: 0.9, surviving_changes: 4, cost_per_surviving_change: 0.5 });
+  expect(e.setups[1]!.surviving_changes).toBeNull();
 });
 
 test("a run with no review.json keeps its status outcome, and anything unknown is failed", () => {

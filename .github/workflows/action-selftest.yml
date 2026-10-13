@@ -1,0 +1,25 @@
+# Checks that `uses: rajkaria/roster@<ref>` (the GitHub Action) runs, on a public repo with Entire checkpoints.
+name: action-selftest
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Roster ref to test
+        default: main
+      source:
+        description: repo to review
+        default: https://github.com/teslamint/entirecontext
+jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: rajkaria/roster@main
+        id: roster
+        with:
+          source: ${{ inputs.source }}
+      - name: The action gave a label
+        env:
+          LABEL: ${{ steps.roster.outputs.label }}
+        run: |
+          echo "label=$LABEL"
+          [[ "$LABEL" =~ ^(suspect|no_suspect|insufficient_data)$ ]]

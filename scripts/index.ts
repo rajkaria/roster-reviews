@@ -13,6 +13,7 @@ export interface SetupSummary {
   mature_sessions: number;
   spend_usd: number | null;
   survival: number | null;
+  surviving_changes: number | null;
   cost_per_surviving_change: number | null;
 }
 
@@ -64,6 +65,7 @@ export function entryFor(slug: string, status: Record<string, unknown> | null, r
         mature_sessions: num(s.mature_sessions) ?? num(s.sessions) ?? 0,
         spend_usd: num(s.spend_usd),
         survival: num(s.survival),
+        surviving_changes: num(s.surviving_changes),
         cost_per_surviving_change: num(s.cost_per_surviving_change),
       }))
     : [];
