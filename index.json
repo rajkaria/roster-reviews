@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-13T13:24:41.431Z",
+  "generated_at": "2026-10-13T13:24:43.527Z",
   "reviews": [
+    {
+      "repo": "stevenn/ctxlayer",
+      "slug": "stevenn__ctxlayer",
+      "href": "/r/stevenn/ctxlayer",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:30.568Z",
+      "finished_at": "2026-10-13T13:24:43Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404672691",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "4d2461997a69",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9792171105730427,
+          "surviving_changes": 1.9584342211460855,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6a3e6254b9c6",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 6.9813706,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "95e08621d120",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9772727272727273,
+          "surviving_changes": 0.9772727272727273,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fbf87d367b7f",
+          "label": "Claude Code · claude-fable-5-1",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sauyon/dotfiles",
       "slug": "sauyon__dotfiles",
