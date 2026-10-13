@@ -1,0 +1,13 @@
+{
+  "job": "e2e-test-0002",
+  "repo": "octocat/Hello-World",
+  "outcome": "no_entire_data",
+  "error": "This repo has no Entire checkpoints.",
+  "run_id": 38394991563,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38394991563",
+  "roster_sha": "f2940cf3f29fadbbf17dbe6749cef8908808620b",
+  "target_head": "7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
+  "checkpoint_head": null,
+  "started_at": "2026-10-13T12:07:30Z",
+  "finished_at": "2026-10-13T12:07:36Z"
+}
