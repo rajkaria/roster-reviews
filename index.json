@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-13T13:24:25.923Z",
+  "generated_at": "2026-10-13T13:24:28.839Z",
   "reviews": [
+    {
+      "repo": "partio-io/cli",
+      "slug": "partio-io__cli",
+      "href": "/r/partio-io/cli",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:26.056Z",
+      "finished_at": "2026-10-13T13:24:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404662635",
+      "label": "no_suspect",
+      "sessions": 11,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "27ed88905130",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 11,
+          "mature_sessions": 11,
+          "spend_usd": 19.7737162,
+          "survival": 0.9358376505405112,
+          "surviving_changes": 10.294214155945623,
+          "cost_per_surviving_change": 1.9208572796767887
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
