@@ -1,0 +1,53 @@
+{
+  "id": "femto__minion-code-20261013132419",
+  "repo": "femto/minion-code",
+  "created_at": "2026-10-13T13:24:19.024Z",
+  "generated_at": "2026-10-13T13:24:19.024Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "5da2b10719e2",
+      "label": "Claude Code · gpt-5.6-sol",
+      "harness": "Claude Code",
+      "model": "gpt-5.6-sol",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "670fd650ff95",
+      "label": "Claude Code · claude-opus-4-5-20251101",
+      "harness": "Claude Code",
+      "model": "claude-opus-4-5-20251101",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

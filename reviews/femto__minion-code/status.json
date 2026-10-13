@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261013-014",
+  "repo": "femto/minion-code",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 38404648577,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404648577",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "26e373ee019605f50be4f149fb9efc2ee167de03",
+  "checkpoint_head": "75dc59e75676671798995d1cb3471e8ce81497ab",
+  "started_at": "2026-10-13T13:24:13Z",
+  "finished_at": "2026-10-13T13:24:21Z"
+}

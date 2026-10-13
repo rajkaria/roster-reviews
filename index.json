@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-13T13:24:18.971Z",
+  "generated_at": "2026-10-13T13:24:21.317Z",
   "reviews": [
+    {
+      "repo": "femto/minion-code",
+      "slug": "femto__minion-code",
+      "href": "/r/femto/minion-code",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:19.024Z",
+      "finished_at": "2026-10-13T13:24:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404648577",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "5da2b10719e2",
+          "label": "Claude Code · gpt-5.6-sol",
+          "harness": "Claude Code",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "670fd650ff95",
+          "label": "Claude Code · claude-opus-4-5-20251101",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-5-20251101",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "basher83/Zammad-MCP",
       "slug": "basher83__Zammad-MCP",
