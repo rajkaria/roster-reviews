@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261013-004",
+  "repo": "jpotter185/tallyo-backend",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 38404616574,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404616574",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "07df3d2ce4d373cd7e4d181477ddb9266fcb48a0",
+  "checkpoint_head": "91c209598d74a37808b0977c596963dcb9c4f9da",
+  "started_at": "2026-10-13T13:23:59Z",
+  "finished_at": "2026-10-13T13:24:06Z"
+}
