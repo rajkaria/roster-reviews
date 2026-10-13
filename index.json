@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-13T13:24:21.317Z",
+  "generated_at": "2026-10-13T13:24:23.475Z",
   "reviews": [
+    {
+      "repo": "heykatie/smolstuff",
+      "slug": "heykatie__smolstuff",
+      "href": "/r/heykatie/smolstuff",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:21.203Z",
+      "finished_at": "2026-10-13T13:24:23Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404652287",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "db96cd66adaa",
+          "label": "Cursor · default",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9900990099009901,
+          "surviving_changes": 0.9900990099009901,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "femto/minion-code",
       "slug": "femto__minion-code",
