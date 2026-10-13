@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-13T13:24:06.799Z",
+  "generated_at": "2026-10-13T13:24:11.049Z",
   "reviews": [
+    {
+      "repo": "cdenihan/XFER",
+      "slug": "cdenihan__XFER",
+      "href": "/r/cdenihan/XFER",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:08.798Z",
+      "finished_at": "2026-10-13T13:24:11Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404628826",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "474d5c8d5fb8",
+          "label": "Copilot CLI · unknown",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jpotter185/tallyo-backend",
       "slug": "jpotter185__tallyo-backend",
