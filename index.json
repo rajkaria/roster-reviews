@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-13T13:24:30.828Z",
+  "generated_at": "2026-10-13T13:24:32.934Z",
   "reviews": [
+    {
+      "repo": "chikachow/cyspbot",
+      "slug": "chikachow__cyspbot",
+      "href": "/r/chikachow/cyspbot",
+      "outcome": "ok",
+      "generated_at": "2026-10-13T13:24:13.186Z",
+      "finished_at": "2026-10-13T13:24:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404635092",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": 52.604844,
+          "survival": 0.4534938160820881,
+          "surviving_changes": 0.9069876321641762,
+          "cost_per_surviving_change": 31.77806287305889
+        },
+        {
+          "setup_id": "247cc446a8a5",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.2119815668202765,
+          "surviving_changes": 0.423963133640553,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f5e5e5ebaeae",
+          "label": "Codex · gpt-5.6-luna",
+          "harness": "Codex",
+          "model": "gpt-5.6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.06487695749440715,
+          "surviving_changes": 0.06487695749440715,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "feniix/pi-extensions",
       "slug": "feniix__pi-extensions",
