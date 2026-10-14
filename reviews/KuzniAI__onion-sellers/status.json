@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261014-014",
+  "repo": "KuzniAI/onion-sellers",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 38537830526,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537830526",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "59bab0f8a063ff1c80e1b14fe47fe6bac77d7af8",
+  "checkpoint_head": null,
+  "started_at": "2026-10-14T08:49:14Z",
+  "finished_at": "2026-10-14T08:49:20Z"
+}

@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-14T08:49:18.124Z",
+  "generated_at": "2026-10-14T08:49:20.390Z",
   "reviews": [
+    {
+      "repo": "KuzniAI/onion-sellers",
+      "slug": "KuzniAI__onion-sellers",
+      "href": "/r/KuzniAI/onion-sellers",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:17.588Z",
+      "finished_at": "2026-10-14T08:49:20Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537830526",
+      "label": "insufficient_data",
+      "sessions": 18,
+      "mature_sessions": 16,
+      "setups": [
+        {
+          "setup_id": "4388cdcf3222",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": 1.7078136,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "88f9b79fcd40",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8eb1b5f294bc",
+          "label": "Claude Code · claude-sonnet-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.7193877551020408,
+          "surviving_changes": 2.877551020408163,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b734ed3ddd97",
+          "label": "Claude Code · claude-sonnet-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.7195767195767195,
+          "surviving_changes": 4.317460317460317,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.19750456493989513,
+          "surviving_changes": 0.5925136948196854,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jpotter185/tallyo-backend",
       "slug": "jpotter185__tallyo-backend",
