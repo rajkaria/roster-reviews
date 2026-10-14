@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-14T08:49:20.390Z",
+  "generated_at": "2026-10-14T08:49:21.834Z",
   "reviews": [
+    {
+      "repo": "amelia2802/thecodehood",
+      "slug": "amelia2802__thecodehood",
+      "href": "/r/amelia2802/thecodehood",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:20.517Z",
+      "finished_at": "2026-10-14T08:49:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537836382",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9913194444444444,
+          "surviving_changes": 0.9913194444444444,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "KuzniAI/onion-sellers",
       "slug": "KuzniAI__onion-sellers",
