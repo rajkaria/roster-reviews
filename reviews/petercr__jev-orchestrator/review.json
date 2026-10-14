@@ -1,8 +1,8 @@
 {
-  "id": "petercr__jev-orchestrator-20261013132427",
+  "id": "petercr__jev-orchestrator-20261014084919",
   "repo": "petercr/jev-orchestrator",
-  "created_at": "2026-10-13T13:24:27.189Z",
-  "generated_at": "2026-10-13T13:24:27.189Z",
+  "created_at": "2026-10-14T08:49:19.401Z",
+  "generated_at": "2026-10-14T08:49:19.401Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -101,6 +101,25 @@
       "evidence_level": "A"
     },
     {
+      "setup_id": "8fccdcfb3fa6",
+      "label": "Codex · gpt-6-luna (rules unknown)",
+      "harness": "Codex",
+      "model": "gpt-6-luna",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
       "setup_id": "a39cc49ab51e",
       "label": "Codex · gpt-6.1-sol (rules unknown)",
       "harness": "Codex",
@@ -121,7 +140,7 @@
     },
     {
       "setup_id": "aa663c1fb61f",
-      "label": "Codex · gpt-6-luna",
+      "label": "Codex · gpt-6-luna (rules unknown)",
       "harness": "Codex",
       "model": "gpt-6-luna",
       "rules_hash": null,
