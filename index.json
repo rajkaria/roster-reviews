@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-14T08:49:31.405Z",
+  "generated_at": "2026-10-14T08:49:34.050Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:26.489Z",
+      "finished_at": "2026-10-14T08:49:34Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537843221",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/email-os",
       "slug": "BbrSofiane__email-os",
@@ -2160,32 +2186,6 @@
           "survival": 0.9358376505405112,
           "surviving_changes": 10.294214155945623,
           "cost_per_surviving_change": 1.9208572796767887
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:24:23.342Z",
-      "finished_at": "2026-10-13T13:24:25Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404659107",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
         }
       ]
     },
