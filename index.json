@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-14T08:52:36.574Z",
+  "generated_at": "2026-10-14T08:53:52.308Z",
   "reviews": [
+    {
+      "repo": "thedannywahl/pantoken",
+      "slug": "thedannywahl__pantoken",
+      "href": "/r/thedannywahl/pantoken",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:24.279Z",
+      "finished_at": "2026-10-14T08:53:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537840766",
+      "label": "insufficient_data",
+      "sessions": 47,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "177f24172156",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "47fac911859e",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 5,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "abe3b65964ca",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 7,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f199b89c9c99",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 34,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "PathlandDev/Pathland",
       "slug": "PathlandDev__Pathland",
