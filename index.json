@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-10-14T08:49:26.326Z",
+  "generated_at": "2026-10-14T08:49:28.007Z",
   "reviews": [
+    {
+      "repo": "MandavkarPranjal/environment",
+      "slug": "MandavkarPranjal__environment",
+      "href": "/r/MandavkarPranjal/environment",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:21.659Z",
+      "finished_at": "2026-10-14T08:49:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537838496",
+      "label": "insufficient_data",
+      "sessions": 10,
+      "mature_sessions": 10,
+      "setups": [
+        {
+          "setup_id": "224c99c9a498",
+          "label": "OpenCode · x-preview-f-free",
+          "harness": "OpenCode",
+          "model": "x-preview-f-free",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.06818181818181818,
+          "surviving_changes": 0.13636363636363635,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2d219ed3eee1",
+          "label": "Pi · deepseek-v4-flash-free",
+          "harness": "Pi",
+          "model": "deepseek-v4-flash-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "56938a7c028f",
+          "label": "OpenCode · muse-spark-1.3-contributor-free",
+          "harness": "OpenCode",
+          "model": "muse-spark-1.3-contributor-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b52918a5b18e",
+          "label": "OpenCode · mimo-v2.5-free",
+          "harness": "OpenCode",
+          "model": "mimo-v2.5-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f008feab70a6",
+          "label": "OpenCode · space-bunny-free",
+          "harness": "OpenCode",
+          "model": "space-bunny-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f2321205a072",
+          "label": "OpenCode · deepseek-v4-flash-free",
+          "harness": "OpenCode",
+          "model": "deepseek-v4-flash-free",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.9991554054054054,
+          "surviving_changes": 3.9966216216216215,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sauyon/dotfiles",
       "slug": "sauyon__dotfiles",
