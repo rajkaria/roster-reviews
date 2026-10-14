@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-14T08:49:44.897Z",
+  "generated_at": "2026-10-14T08:49:46.615Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:16.542Z",
+      "finished_at": "2026-10-14T08:49:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537821443",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "tum-ai/ehl",
       "slug": "tum-ai__ehl",
