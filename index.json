@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-14T08:49:16.359Z",
+  "generated_at": "2026-10-14T08:49:18.124Z",
   "reviews": [
+    {
+      "repo": "jpotter185/tallyo-backend",
+      "slug": "jpotter185__tallyo-backend",
+      "href": "/r/jpotter185/tallyo-backend",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:12.238Z",
+      "finished_at": "2026-10-14T08:49:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537818993",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "2e22715283dd",
+          "label": "Claude Code · claude-fable-5 (rules 12add4)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8108374384236454,
+          "surviving_changes": 1.6216748768472908,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3d35ea4b1e59",
+          "label": "Claude Code · claude-opus-5-5 (rules 805cab)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 2.3135063999999996,
+          "survival": 0.6363636363636364,
+          "surviving_changes": 0.6363636363636364,
+          "cost_per_surviving_change": 3.6355100571428567
+        },
+        {
+          "setup_id": "4e2b1b355517",
+          "label": "Claude Code · claude-fable-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9536082474226804,
+          "surviving_changes": 1.9072164948453607,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "656e37f4654d",
+          "label": "Claude Code · claude-fable-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.25,
+          "surviving_changes": 0.25,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b4b7e7a5bf04",
+          "label": "Claude Code · claude-opus-5-5 (rules ffa2d5)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 3.0064302,
+          "survival": 0.8522727272727273,
+          "surviving_changes": 0.8522727272727273,
+          "cost_per_surviving_change": 3.527544768
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
@@ -1970,80 +2044,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jpotter185/tallyo-backend",
-      "slug": "jpotter185__tallyo-backend",
-      "href": "/r/jpotter185/tallyo-backend",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:24:03.983Z",
-      "finished_at": "2026-10-13T13:24:06Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404616574",
-      "label": "insufficient_data",
-      "sessions": 7,
-      "mature_sessions": 6,
-      "setups": [
-        {
-          "setup_id": "2e22715283dd",
-          "label": "Claude Code · claude-fable-5 (rules 12add4)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.8108374384236454,
-          "surviving_changes": 1.6216748768472908,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "3d35ea4b1e59",
-          "label": "Claude Code · claude-opus-5-5 (rules 805cab)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 2.3135063999999996,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4e2b1b355517",
-          "label": "Claude Code · claude-fable-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9536082474226804,
-          "surviving_changes": 1.9072164948453607,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "656e37f4654d",
-          "label": "Claude Code · claude-fable-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.25,
-          "surviving_changes": 0.25,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "b4b7e7a5bf04",
-          "label": "Claude Code · claude-opus-5-5 (rules ffa2d5)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 3.0064302,
-          "survival": 0.8522727272727273,
-          "surviving_changes": 0.8522727272727273,
-          "cost_per_surviving_change": 3.527544768
         }
       ]
     },
