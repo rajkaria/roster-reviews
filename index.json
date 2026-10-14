@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-14T08:49:13.192Z",
+  "generated_at": "2026-10-14T08:49:16.359Z",
   "reviews": [
+    {
+      "repo": "babamba2/abap-mcp-adt-powerup",
+      "slug": "babamba2__abap-mcp-adt-powerup",
+      "href": "/r/babamba2/abap-mcp-adt-powerup",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:10.673Z",
+      "finished_at": "2026-10-14T08:49:16Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537809080",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "206c0e2840de",
+          "label": "Claude Code · claude-opus-4-7",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9947698744769874,
+          "surviving_changes": 0.9947698744769874,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "alehar9320/agentic-odi",
       "slug": "alehar9320__agentic-odi",
