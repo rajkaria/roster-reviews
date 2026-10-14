@@ -1,6 +1,152 @@
 {
-  "generated_at": "2026-10-14T08:49:48.617Z",
+  "generated_at": "2026-10-14T08:49:50.119Z",
   "reviews": [
+    {
+      "repo": "k-kinzal/php-ai-toolkit",
+      "slug": "k-kinzal__php-ai-toolkit",
+      "href": "/r/k-kinzal/php-ai-toolkit",
+      "outcome": "ok",
+      "generated_at": "2026-10-14T08:49:14.041Z",
+      "finished_at": "2026-10-14T08:49:50Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537823413",
+      "label": "suspect",
+      "sessions": 70,
+      "mature_sessions": 67,
+      "setups": [
+        {
+          "setup_id": "0f6c2c59eb07",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 9,
+          "mature_sessions": 9,
+          "spend_usd": 31.596604,
+          "survival": 0.17790622992935134,
+          "surviving_changes": 1.601156069364162,
+          "cost_per_surviving_change": 19.733619104693137
+        },
+        {
+          "setup_id": "2081c38379b2",
+          "label": "Claude Code · claude-opus-5-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.0033182,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 18,
+          "mature_sessions": 18,
+          "spend_usd": 218.13463399999998,
+          "survival": 0.4446360415317305,
+          "surviving_changes": 8.003448747571149,
+          "cost_per_surviving_change": 27.25507976373292
+        },
+        {
+          "setup_id": "5fc0651f60b1",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 13,
+          "mature_sessions": 13,
+          "spend_usd": null,
+          "survival": 0.004924953095684803,
+          "surviving_changes": 0.06402439024390244,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "61c0d6d4698a",
+          "label": "Claude Code · claude-fable-5",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "841a05aa8e82",
+          "label": "Claude Code · claude-fable-5-1 (rules ada8e9)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.1721346487368318,
+          "surviving_changes": 1.2049425411578225,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a1e60f2852ed",
+          "label": "Claude Code · claude-fable-5-1 (rules 56c762)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "aa283bdaa3e2",
+          "label": "Cursor · grok-4.7-high",
+          "harness": "Cursor",
+          "model": "grok-4.7-high",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9743223965763196,
+          "surviving_changes": 1.9486447931526392,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "acae6be63ebe",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": 19.289068,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 6.385135999999999
+        },
+        {
+          "setup_id": "db795108a87f",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": 58.383334,
+          "survival": 0.38759689922480617,
+          "surviving_changes": 2.325581395348837,
+          "cost_per_surviving_change": 25.10483362
+        },
+        {
+          "setup_id": "fe91757040ba",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 9,
+          "mature_sessions": 9,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "anthnel/devdesk",
       "slug": "anthnel__devdesk",
