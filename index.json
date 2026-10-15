@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-15T08:24:22.801Z",
+  "generated_at": "2026-10-15T08:24:42.234Z",
   "reviews": [
+    {
+      "repo": "jeffblankenburg/devsassemble",
+      "slug": "jeffblankenburg__devsassemble",
+      "href": "/r/jeffblankenburg/devsassemble",
+      "outcome": "ok",
+      "generated_at": "2026-10-15T08:23:49.374Z",
+      "finished_at": "2026-10-15T08:24:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705321428",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "4880dd07fa1e",
+          "label": "Claude Code · claude-opus-4-8[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7012987012987013,
+          "surviving_changes": 0.7012987012987013,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sandbox-kit/kit",
       "slug": "sandbox-kit__kit",
