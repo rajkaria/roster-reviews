@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-15T08:24:14.873Z",
+  "generated_at": "2026-10-15T08:24:22.801Z",
   "reviews": [
+    {
+      "repo": "sandbox-kit/kit",
+      "slug": "sandbox-kit__kit",
+      "href": "/r/sandbox-kit/kit",
+      "outcome": "ok",
+      "generated_at": "2026-10-15T08:23:49.430Z",
+      "finished_at": "2026-10-15T08:24:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705326470",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "2d8921051711",
+          "label": "Cursor · composer-2.5",
+          "harness": "Cursor",
+          "model": "composer-2.5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.16676267281105991,
+          "surviving_changes": 0.16676267281105991,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a86303d751c2",
+          "label": "Cursor · grok-4.7-medium (rules unknown)",
+          "harness": "Cursor",
+          "model": "grok-4.7-medium",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9176470588235294,
+          "surviving_changes": 0.9176470588235294,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "acd0b356d769",
+          "label": "Cursor · grok-4.7-medium (rules unknown)",
+          "harness": "Cursor",
+          "model": "grok-4.7-medium",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "feniix/pi-extensions",
       "slug": "feniix__pi-extensions",
