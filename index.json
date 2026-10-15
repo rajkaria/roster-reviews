@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-15T08:23:42.247Z",
+  "generated_at": "2026-10-15T08:23:45.588Z",
   "reviews": [
+    {
+      "repo": "alehar9320/agentic-odi",
+      "slug": "alehar9320__agentic-odi",
+      "href": "/r/alehar9320/agentic-odi",
+      "outcome": "ok",
+      "generated_at": "2026-10-15T08:23:42.012Z",
+      "finished_at": "2026-10-15T08:23:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705319069",
+      "label": "insufficient_data",
+      "sessions": 31,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "23c9bebb98c6",
+          "label": "OpenCode · big-pickle",
+          "harness": "OpenCode",
+          "model": "big-pickle",
+          "sessions": 31,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Syati/rails8-todo",
       "slug": "Syati__rails8-todo",
@@ -2360,32 +2386,6 @@
           "spend_usd": null,
           "survival": 0.9947698744769874,
           "surviving_changes": 0.9947698744769874,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "alehar9320/agentic-odi",
-      "slug": "alehar9320__agentic-odi",
-      "href": "/r/alehar9320/agentic-odi",
-      "outcome": "ok",
-      "generated_at": "2026-10-14T08:49:10.867Z",
-      "finished_at": "2026-10-14T08:49:13Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537814184",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "23c9bebb98c6",
-          "label": "OpenCode · big-pickle",
-          "harness": "OpenCode",
-          "model": "big-pickle",
-          "sessions": 6,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]

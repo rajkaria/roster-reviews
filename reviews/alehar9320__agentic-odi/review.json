@@ -1,8 +1,8 @@
 {
-  "id": "alehar9320__agentic-odi-20261014084910",
+  "id": "alehar9320__agentic-odi-20261015082342",
   "repo": "alehar9320/agentic-odi",
-  "created_at": "2026-10-14T08:49:10.867Z",
-  "generated_at": "2026-10-14T08:49:10.867Z",
+  "created_at": "2026-10-15T08:23:42.012Z",
+  "generated_at": "2026-10-15T08:23:42.012Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,16 +11,16 @@
       "harness": "OpenCode",
       "model": "big-pickle",
       "rules_hash": null,
-      "sessions": 6,
-      "mature_sessions": 0,
+      "sessions": 31,
+      "mature_sessions": 1,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
-      "unattended": 0.6666666666666666,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
+      "unattended": 0.9032258064516129,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
