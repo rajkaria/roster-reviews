@@ -1,7 +1,7 @@
 # Review: xifan2333/fcitx5-vinput
 
-- Review id: `xifan2333__fcitx5-vinput-20261014084916`
-- Created: 2026-10-14T08:49:16.542Z
+- Review id: `xifan2333__fcitx5-vinput-20261015082340`
+- Created: 2026-10-15T08:23:40.949Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`

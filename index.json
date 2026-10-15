@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-15T08:23:51.522Z",
+  "generated_at": "2026-10-15T08:24:08.397Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-15T08:23:40.949Z",
+      "finished_at": "2026-10-15T08:24:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705323583",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -1542,19 +1555,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-14T08:49:16.542Z",
-      "finished_at": "2026-10-14T08:49:46Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537821443",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "wangxumarshall/sdcshield",
