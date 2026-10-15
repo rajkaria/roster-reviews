@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-15T08:23:40.603Z",
+  "generated_at": "2026-10-15T08:23:42.247Z",
   "reviews": [
+    {
+      "repo": "Syati/rails8-todo",
+      "slug": "Syati__rails8-todo",
+      "href": "/r/Syati/rails8-todo",
+      "outcome": "ok",
+      "generated_at": "2026-10-15T08:23:39.177Z",
+      "finished_at": "2026-10-15T08:23:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705316517",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "0d9e4e9204d7",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "38240b2214bd",
+          "label": "Codex · gpt-5.5",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.989010989010989,
+          "surviving_changes": 1.978021978021978,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ac8ee3b80198",
+          "label": "Codex · gpt-5.6-terra",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e324ddc33a6f",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 6.4636700000000005,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/jev-orchestrator",
       "slug": "petercr__jev-orchestrator",
