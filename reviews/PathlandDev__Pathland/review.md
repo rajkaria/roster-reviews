@@ -1,7 +1,7 @@
 # Review: PathlandDev/Pathland
 
-- Review id: `PathlandDev__Pathland-20261014084902`
-- Created: 2026-10-14T08:49:02.865Z
+- Review id: `PathlandDev__Pathland-20261015082333`
+- Created: 2026-10-15T08:23:33.901Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -29,7 +29,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `75cf7d8ffa85` | OpenCode · deepseek-v4-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 12.6% | 0.0% | 19.7% | 0.0% | — | A |
 | `75f7fa35b93b` | OpenCode · deepseek-v4-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `7ef3fab41e5c` | OpenCode · deepseek-v4-flash (rules unknown) | 3 | 3 | unknown (0/3 priced) | 4.5% | 100.0% | 88.9% | 66.7% | — | A |
-| `88f04c27cbda` | OpenCode · unknown (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
+| `88f04c27cbda` | OpenCode · unknown (rules unknown) | 1 | 1 | unknown (0/1 priced) | 63.3% | 0.0% | 36.1% | 100.0% | — | A |
 | `8ad02ad8698d` | OpenCode · deepseek-v4-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 0.0% | 100.0% | 100.0% | 100.0% | — | A |
 | `a9971549241a` | OpenCode · deepseek-v4-pro (rules unknown) | 1 | 1 | $6.28 | 2.8% | 0.0% | 11.5% | 0.0% | $227.81 | A |
 | `ac246be51d8e` | OpenCode · unknown (rules unknown) | 1 | 1 | unknown (0/1 priced) | 0.3% | 100.0% | 73.1% | 100.0% | — | A |
@@ -44,7 +44,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 0 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 39 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
