@@ -1,8 +1,8 @@
 {
-  "id": "sauyon__dotfiles-20261014084904",
+  "id": "sauyon__dotfiles-20261016081556",
   "repo": "sauyon/dotfiles",
-  "created_at": "2026-10-14T08:49:04.726Z",
-  "generated_at": "2026-10-14T08:49:04.726Z",
+  "created_at": "2026-10-16T08:15:56.714Z",
+  "generated_at": "2026-10-16T08:15:56.714Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -183,16 +183,16 @@
       "model": "claude-opus-5-5",
       "rules_hash": "9f03484fa0f0e36d039293c418430dc0605d9e5e226841f814c3f18186797d9a",
       "sessions": 3,
-      "mature_sessions": 2,
-      "spend_usd": 3.7422854,
+      "mature_sessions": 3,
+      "spend_usd": 8.0554576,
       "priced_sessions": 3,
       "spend_lower_bound": false,
-      "unattended": 0.6666666666666666,
-      "survival": 0.9905660377358491,
+      "unattended": 0.3333333333333333,
+      "survival": 0.9937106918238993,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 1.9811320754716981,
-      "cost_per_surviving_change": 1.4691791809523809,
+      "surviving_changes": 2.981132075471698,
+      "cost_per_surviving_change": 2.7021471696202535,
       "evidence_level": "A"
     },
     {
@@ -220,12 +220,12 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "b0512a055bfe107bfae4ba8ca0aba720d5875a6e47946b453fa11d58fd167f6d",
-      "sessions": 3,
+      "sessions": 4,
       "mature_sessions": 2,
-      "spend_usd": 7.394505,
-      "priced_sessions": 3,
+      "spend_usd": 8.3690426,
+      "priced_sessions": 4,
       "spend_lower_bound": false,
-      "unattended": 0,
+      "unattended": 0.25,
       "survival": 0.8928571428571428,
       "reverted": 0,
       "rework_human": 0,
@@ -274,11 +274,11 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 5.3625,
+  "odds_ratio": 5.5,
   "ci95": [
-    0.7751468939950453,
-    37.0980087423066
+    0.8117813771737209,
+    37.2637274647981
   ],
-  "p_value": 0.2548427311945006,
+  "p_value": 0.23087517493137458,
   "evidence_level": "A"
 }
