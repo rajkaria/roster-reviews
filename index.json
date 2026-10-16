@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-16T08:16:09.847Z",
+  "generated_at": "2026-10-16T08:16:12.052Z",
   "reviews": [
+    {
+      "repo": "ladislas/mypac",
+      "slug": "ladislas__mypac",
+      "href": "/r/ladislas/mypac",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:16:04.462Z",
+      "finished_at": "2026-10-16T08:16:12Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872535588",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "072becd05f2e",
+          "label": "Pi · gpt-5.6-sol (rules unknown)",
+          "harness": "Pi",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9815950920245399,
+          "surviving_changes": 0.9815950920245399,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5a271f20e79b",
+          "label": "Pi · gpt-5.6-sol (rules unknown)",
+          "harness": "Pi",
+          "model": "gpt-5.6-sol",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.7972579597141001,
+          "surviving_changes": 3.9862897985705006,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Pine-Island-Food-Pantry-Site/main-website",
       "slug": "Pine-Island-Food-Pantry-Site__main-website",
