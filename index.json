@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-16T08:16:07.359Z",
+  "generated_at": "2026-10-16T08:16:09.847Z",
   "reviews": [
+    {
+      "repo": "Pine-Island-Food-Pantry-Site/main-website",
+      "slug": "Pine-Island-Food-Pantry-Site__main-website",
+      "href": "/r/Pine-Island-Food-Pantry-Site/main-website",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:16:06.393Z",
+      "finished_at": "2026-10-16T08:16:09Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872533052",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "31d8692c51ce",
+          "label": "Claude Code · claude-opus-4-7",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4a2d21b89599",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 5.5242698,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "bf3cc74f2e1b",
+          "label": "Claude Code · claude-haiku-5-5",
+          "harness": "Claude Code",
+          "model": "claude-haiku-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.14571743,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
