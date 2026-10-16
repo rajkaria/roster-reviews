@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-16T08:15:59.505Z",
+  "generated_at": "2026-10-16T08:16:01.075Z",
   "reviews": [
+    {
+      "repo": "alehar9320/agentic-odi",
+      "slug": "alehar9320__agentic-odi",
+      "href": "/r/alehar9320/agentic-odi",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:15:54.194Z",
+      "finished_at": "2026-10-16T08:16:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872510349",
+      "label": "no_suspect",
+      "sessions": 38,
+      "mature_sessions": 31,
+      "setups": [
+        {
+          "setup_id": "23c9bebb98c6",
+          "label": "OpenCode · big-pickle",
+          "harness": "OpenCode",
+          "model": "big-pickle",
+          "sessions": 37,
+          "mature_sessions": 31,
+          "spend_usd": null,
+          "survival": 0.26306398345832205,
+          "surviving_changes": 8.154983487207984,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "81653cead980",
+          "label": "OpenCode · unknown",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Syati/rails8-todo",
       "slug": "Syati__rails8-todo",
@@ -768,32 +806,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "alehar9320/agentic-odi",
-      "slug": "alehar9320__agentic-odi",
-      "href": "/r/alehar9320/agentic-odi",
-      "outcome": "ok",
-      "generated_at": "2026-10-15T08:23:42.012Z",
-      "finished_at": "2026-10-15T08:23:45Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705319069",
-      "label": "insufficient_data",
-      "sessions": 31,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "23c9bebb98c6",
-          "label": "OpenCode · big-pickle",
-          "harness": "OpenCode",
-          "model": "big-pickle",
-          "sessions": 31,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
