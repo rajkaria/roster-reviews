@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-16T08:16:18.682Z",
+  "generated_at": "2026-10-16T08:16:22.344Z",
   "reviews": [
+    {
+      "repo": "hslee16/Archy",
+      "slug": "hslee16__Archy",
+      "href": "/r/hslee16/Archy",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:15:59.413Z",
+      "finished_at": "2026-10-16T08:16:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872525347",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "2566075cb9c5",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 9.840213199999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ed1935e7dfd6",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8842592592592593,
+          "surviving_changes": 0.8842592592592593,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "feniix/pi-extensions",
       "slug": "feniix__pi-extensions",
