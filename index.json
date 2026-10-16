@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-16T08:16:22.344Z",
+  "generated_at": "2026-10-16T08:16:25.676Z",
   "reviews": [
+    {
+      "repo": "theRealMarkCastillo/pg-agent-memory-demo",
+      "slug": "theRealMarkCastillo__pg-agent-memory-demo",
+      "href": "/r/theRealMarkCastillo/pg-agent-memory-demo",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:16:00.942Z",
+      "finished_at": "2026-10-16T08:16:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872528673",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
