@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-16T08:16:17.123Z",
+  "generated_at": "2026-10-16T08:16:18.682Z",
   "reviews": [
+    {
+      "repo": "feniix/pi-extensions",
+      "slug": "feniix__pi-extensions",
+      "href": "/r/feniix/pi-extensions",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:15:55.575Z",
+      "finished_at": "2026-10-16T08:16:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872516279",
+      "label": "insufficient_data",
+      "sessions": 10,
+      "mature_sessions": 8,
+      "setups": [
+        {
+          "setup_id": "0577ea333d81",
+          "label": "Claude Code · claude-fable-5-1 (rules 19682c)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2adc417bb40b",
+          "label": "Pi · gpt-6.1-sol (rules unknown)",
+          "harness": "Pi",
+          "model": "gpt-6.1-sol",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.7623176235960953,
+          "surviving_changes": 3.8115881179804765,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "336c5e076159",
+          "label": "Pi · gpt-6.1-sol (rules unknown)",
+          "harness": "Pi",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9940828402366864,
+          "surviving_changes": 0.9940828402366864,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3b031737e683",
+          "label": "Claude Code · claude-fable-5-1 (rules 5e3f67)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c1fbf82667f9",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 26.686078200000004,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "integrio-intropy/intropy-cli",
       "slug": "integrio-intropy__intropy-cli",
@@ -1195,80 +1269,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "feniix/pi-extensions",
-      "slug": "feniix__pi-extensions",
-      "href": "/r/feniix/pi-extensions",
-      "outcome": "ok",
-      "generated_at": "2026-10-15T08:23:39.259Z",
-      "finished_at": "2026-10-15T08:24:14Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705313889",
-      "label": "insufficient_data",
-      "sessions": 10,
-      "mature_sessions": 7,
-      "setups": [
-        {
-          "setup_id": "0577ea333d81",
-          "label": "Claude Code · claude-fable-5-1 (rules 19682c)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-1",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "2adc417bb40b",
-          "label": "Pi · gpt-6.1-sol (rules unknown)",
-          "harness": "Pi",
-          "model": "gpt-6.1-sol",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 0.7623176235960953,
-          "surviving_changes": 3.8115881179804765,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "336c5e076159",
-          "label": "Pi · gpt-6.1-sol (rules unknown)",
-          "harness": "Pi",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9940828402366864,
-          "surviving_changes": 0.9940828402366864,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "3b031737e683",
-          "label": "Claude Code · claude-fable-5-1 (rules 5e3f67)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-1",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "c1fbf82667f9",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": 21.299644200000003,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
