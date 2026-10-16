@@ -604,7 +604,7 @@
     "status": "mature",
     "survival": 0.992638036809816,
     "reverted": false,
-    "rework_human": 0.01592356687898089,
+    "rework_human": 0.01910828025477707,
     "rework_agent": 0,
     "unattended": false,
     "tests_at_commit": null,

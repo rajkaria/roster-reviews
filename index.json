@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-16T08:16:36.531Z",
+  "generated_at": "2026-10-16T08:18:06.964Z",
   "reviews": [
+    {
+      "repo": "crcorbett/taxkit",
+      "slug": "crcorbett__taxkit",
+      "href": "/r/crcorbett/taxkit",
+      "outcome": "ok",
+      "generated_at": "2026-10-16T08:16:05.189Z",
+      "finished_at": "2026-10-16T08:18:06Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872537753",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "2900641a46e4",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.22407407407407406,
+          "surviving_changes": 0.22407407407407406,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4656e773d771",
+          "label": "Codex · gpt-5.5",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5a7bfeeaed3d",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.11770524233432245,
+          "surviving_changes": 0.11770524233432245,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "63e124e6f8f7",
+          "label": "Claude Code · claude-opus-5-5 (rules 504e1e)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 114.65203100000001,
+          "survival": 0.992638036809816,
+          "surviving_changes": 0.992638036809816,
+          "cost_per_surviving_change": 115.50235508652658
+        },
+        {
+          "setup_id": "77c9cb3ebba0",
+          "label": "Claude Code · claude-opus-5-5 (rules 96451a)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 54.758855000000004,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 54.758855000000004
+        },
+        {
+          "setup_id": "8e6235252b30",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ecdff216b516",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9424920127795527,
+          "surviving_changes": 0.9424920127795527,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sauyon/dotfiles",
       "slug": "sauyon__dotfiles",
@@ -3272,104 +3370,6 @@
           "spend_usd": 130.0721676,
           "survival": 0,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "crcorbett/taxkit",
-      "slug": "crcorbett__taxkit",
-      "href": "/r/crcorbett/taxkit",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:23:57.851Z",
-      "finished_at": "2026-10-13T13:25:40Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404607029",
-      "label": "insufficient_data",
-      "sessions": 7,
-      "mature_sessions": 7,
-      "setups": [
-        {
-          "setup_id": "2900641a46e4",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.22407407407407406,
-          "surviving_changes": 0.22407407407407406,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4656e773d771",
-          "label": "Codex · gpt-5.5",
-          "harness": "Codex",
-          "model": "gpt-5.5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "5a7bfeeaed3d",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.11770524233432245,
-          "surviving_changes": 0.11770524233432245,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "63e124e6f8f7",
-          "label": "Claude Code · claude-opus-5-5 (rules 504e1e)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 114.65203100000001,
-          "survival": 0.992638036809816,
-          "surviving_changes": 0.992638036809816,
-          "cost_per_surviving_change": 115.50235508652658
-        },
-        {
-          "setup_id": "77c9cb3ebba0",
-          "label": "Claude Code · claude-opus-5-5 (rules 96451a)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 54.758855000000004,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 54.758855000000004
-        },
-        {
-          "setup_id": "8e6235252b30",
-          "label": "Claude Code · claude-opus-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "ecdff216b516",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9424920127795527,
-          "surviving_changes": 0.9424920127795527,
           "cost_per_surviving_change": null
         }
       ]
