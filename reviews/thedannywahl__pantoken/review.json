@@ -1,8 +1,8 @@
 {
-  "id": "thedannywahl__pantoken-20261014084924",
+  "id": "thedannywahl__pantoken-20261016081602",
   "repo": "thedannywahl/pantoken",
-  "created_at": "2026-10-14T08:49:24.279Z",
-  "generated_at": "2026-10-14T08:49:24.279Z",
+  "created_at": "2026-10-16T08:16:02.133Z",
+  "generated_at": "2026-10-16T08:16:02.133Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -30,12 +30,12 @@
       "harness": "Copilot CLI",
       "model": "unknown",
       "rules_hash": null,
-      "sessions": 5,
+      "sessions": 6,
       "mature_sessions": 0,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
-      "unattended": 0.6,
+      "unattended": 0.5,
       "survival": null,
       "reverted": null,
       "rework_human": null,

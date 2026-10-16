@@ -1,7 +1,7 @@
 # Review: thedannywahl/pantoken
 
-- Review id: `thedannywahl__pantoken-20261014084924`
-- Created: 2026-10-14T08:49:24.279Z
+- Review id: `thedannywahl__pantoken-20261016081602`
+- Created: 2026-10-16T08:16:02.133Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -14,14 +14,14 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `177f24172156` | Copilot CLI · unknown (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `47fac911859e` | Copilot CLI · unknown (rules unknown) | 5 | 0 | unknown (0/5 priced) | too young | too young | too young | 60.0% | — | A |
+| `47fac911859e` | Copilot CLI · unknown (rules unknown) | 6 | 0 | unknown (0/6 priced) | too young | too young | too young | 50.0% | — | A |
 | `abe3b65964ca` | Copilot CLI · unknown (rules unknown) | 7 | 0 | unknown (0/7 priced) | too young | too young | too young | 14.3% | — | A |
 | `f199b89c9c99` | Copilot CLI · unknown (rules unknown) | 34 | 0 | unknown (0/34 priced) | too young | too young | too young | 17.6% | — | A |
 
 ## Notes
 
-- 422 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 42 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
+- 429 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 43 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
 - could not be scored: f226ac34-f0ee-4383-89b7-797d2b11e90e: not_scored: time budget
 - could not be scored: 23ccb751-6357-458b-b363-8f85d489fd72: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
 - could not be scored: 565bcf9b-ba61-423d-be2f-599eb26a95b1: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
@@ -64,6 +64,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 - could not be scored: 3ccac868-4d84-4690-9d1d-7e7b38515d34: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
 - could not be scored: 99dc03f3-838a-4873-96ec-67e0e1a8e8f1: not_scored: time budget
 - could not be scored: b06ada0e-f74c-4fe7-8ab5-bf8ffcb568ca: not_scored: time budget
-- 464 sessions have no price (unknown model, or a price that depends on prompt size)
-- 417 sessions have no setup because their rules hash is unknown
+- could not be scored: e3870ca5-d4c3-4353-b4f0-b25f0db627e3: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
+- 472 sessions have no price (unknown model, or a price that depends on prompt size)
+- 424 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
