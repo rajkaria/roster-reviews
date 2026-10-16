@@ -1,8 +1,8 @@
 {
-  "id": "Syati__rails8-todo-20261015082339",
+  "id": "Syati__rails8-todo-20261016081554",
   "repo": "Syati/rails8-todo",
-  "created_at": "2026-10-15T08:23:39.177Z",
-  "generated_at": "2026-10-15T08:23:39.177Z",
+  "created_at": "2026-10-16T08:15:54.104Z",
+  "generated_at": "2026-10-16T08:15:54.104Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -38,7 +38,7 @@
       "unattended": 0.5,
       "survival": 0.989010989010989,
       "reverted": 0,
-      "rework_human": 0,
+      "rework_human": 0.023809523809523808,
       "surviving_changes": 1.978021978021978,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -69,16 +69,16 @@
       "model": "claude-opus-5-5",
       "rules_hash": "92e14bc7877ab127c6e5cfa0701d58432edece9e3e43ffe4a58f1ce4d1933c37",
       "sessions": 1,
-      "mature_sessions": 0,
-      "spend_usd": 6.4636700000000005,
+      "mature_sessions": 1,
+      "spend_usd": 18.509543400000002,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
-      "cost_per_surviving_change": null,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": 18.509543400000002,
       "evidence_level": "A"
     }
   ],
