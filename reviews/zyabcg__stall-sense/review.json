@@ -1,0 +1,14 @@
+{
+  "id": "zyabcg__stall-sense-20261017075240",
+  "repo": "zyabcg/stall-sense",
+  "created_at": "2026-10-17T07:52:40.871Z",
+  "generated_at": "2026-10-17T07:52:40.871Z",
+  "has_entire_data": true,
+  "setups": [],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
