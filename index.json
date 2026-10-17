@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-17T07:53:02.972Z",
+  "generated_at": "2026-10-17T07:53:05.042Z",
   "reviews": [
+    {
+      "repo": "indkhan/Moneo",
+      "slug": "indkhan__Moneo",
+      "href": "/r/indkhan/Moneo",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:37.072Z",
+      "finished_at": "2026-10-17T07:53:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015256939",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c8230baaea81",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 23.9446612,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Stefan98167/slavs-and-a-ottman",
       "slug": "Stefan98167__slavs-and-a-ottman",
