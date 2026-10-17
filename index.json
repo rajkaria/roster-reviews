@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-17T07:53:26.189Z",
+  "generated_at": "2026-10-17T07:53:38.407Z",
   "reviews": [
+    {
+      "repo": "advikdivekar/sellcraft",
+      "slug": "advikdivekar__sellcraft",
+      "href": "/r/advikdivekar/sellcraft",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:27.400Z",
+      "finished_at": "2026-10-17T07:53:38Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015247280",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 4.1455334,
+          "survival": 0.9190556492411467,
+          "surviving_changes": 0.9190556492411467,
+          "cost_per_surviving_change": 3.3173498280733944
+        }
+      ]
+    },
     {
       "repo": "sauyon/dotfiles",
       "slug": "sauyon__dotfiles",
