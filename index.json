@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-17T07:52:55.466Z",
+  "generated_at": "2026-10-17T07:52:58.439Z",
   "reviews": [
+    {
+      "repo": "ROHITCRAFTSYT/pitstop",
+      "slug": "ROHITCRAFTSYT__pitstop",
+      "href": "/r/ROHITCRAFTSYT/pitstop",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:51.368Z",
+      "finished_at": "2026-10-17T07:52:58Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015266754",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 4.428188,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 4.428188
+        }
+      ]
+    },
     {
       "repo": "JustinBeaudry/kb",
       "slug": "JustinBeaudry__kb",
