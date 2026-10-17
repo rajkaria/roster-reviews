@@ -1,6 +1,152 @@
 {
-  "generated_at": "2026-10-17T07:52:36.041Z",
+  "generated_at": "2026-10-17T07:52:37.616Z",
   "reviews": [
+    {
+      "repo": "itsmeyaw/binden",
+      "slug": "itsmeyaw__binden",
+      "href": "/r/itsmeyaw/binden",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:22.682Z",
+      "finished_at": "2026-10-17T07:52:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015245171",
+      "label": "no_suspect",
+      "sessions": 62,
+      "mature_sessions": 42,
+      "setups": [
+        {
+          "setup_id": "2dd3bfb9140f",
+          "label": "OpenCode · openai.gpt-5.6-terra (rules unknown)",
+          "harness": "OpenCode",
+          "model": "openai.gpt-5.6-terra",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.0958904109589041,
+          "surviving_changes": 0.0958904109589041,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "39e8d6de23c8",
+          "label": "OpenCode · unknown",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.9666666666666667,
+          "surviving_changes": 2.9,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4eccfade9d2f",
+          "label": "OpenCode · anthropic.claude-sonnet-5-5 (rules unknown)",
+          "harness": "OpenCode",
+          "model": "anthropic.claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 6.973173900000001,
+          "survival": 0.9459915611814346,
+          "surviving_changes": 0.9459915611814346,
+          "cost_per_surviving_change": 7.3712855231935785
+        },
+        {
+          "setup_id": "58d5e138ac43",
+          "label": "OpenCode · openai.gpt-5.6-luna (rules unknown)",
+          "harness": "OpenCode",
+          "model": "openai.gpt-5.6-luna",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "72e05b2601c3",
+          "label": "OpenCode · anthropic.claude-sonnet-5-5 (rules unknown)",
+          "harness": "OpenCode",
+          "model": "anthropic.claude-sonnet-5-5",
+          "sessions": 8,
+          "mature_sessions": 6,
+          "spend_usd": 3.8121824999999996,
+          "survival": 0.6661011146353898,
+          "surviving_changes": 3.9966066878123385,
+          "cost_per_surviving_change": 0.7489277364039042
+        },
+        {
+          "setup_id": "76b2410a6ec5",
+          "label": "OpenCode · openai.gpt-5.6-terra (rules unknown)",
+          "harness": "OpenCode",
+          "model": "openai.gpt-5.6-terra",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.7728776978417266,
+          "surviving_changes": 3.8643884892086326,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7a56f837eb8d",
+          "label": "OpenCode · anthropic.claude-haiku-5-5",
+          "harness": "OpenCode",
+          "model": "anthropic.claude-haiku-5-5",
+          "sessions": 10,
+          "mature_sessions": 0,
+          "spend_usd": 0.38964691,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ad4d7748363",
+          "label": "OpenCode · openai.gpt-6-luna",
+          "harness": "OpenCode",
+          "model": "openai.gpt-6-luna",
+          "sessions": 12,
+          "mature_sessions": 12,
+          "spend_usd": null,
+          "survival": 0.7263971972969979,
+          "surviving_changes": 8.716766367563975,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "af30b581bf01",
+          "label": "OpenCode · anthropic.claude-opus-5-5",
+          "harness": "OpenCode",
+          "model": "anthropic.claude-opus-5-5",
+          "sessions": 7,
+          "mature_sessions": 0,
+          "spend_usd": 9.789800399999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b9da429088d0",
+          "label": "OpenCode · openai.gpt-6.1-sol",
+          "harness": "OpenCode",
+          "model": "openai.gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d38c60a026b9",
+          "label": "OpenCode · openai.gpt-5.6-luna (rules unknown)",
+          "harness": "OpenCode",
+          "model": "openai.gpt-5.6-luna",
+          "sessions": 13,
+          "mature_sessions": 13,
+          "spend_usd": null,
+          "survival": 0.5898438773309972,
+          "surviving_changes": 7.667970405302964,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "alexsnow348/alexsnow348.github.io",
       "slug": "alexsnow348__alexsnow348.github.io",
@@ -3546,116 +3692,6 @@
           "spend_usd": null,
           "survival": 0.9408740359897172,
           "surviving_changes": 1.8817480719794344,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "itsmeyaw/binden",
-      "slug": "itsmeyaw__binden",
-      "href": "/r/itsmeyaw/binden",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:24:27.329Z",
-      "finished_at": "2026-10-13T13:24:48Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404655508",
-      "label": "no_suspect",
-      "sessions": 42,
-      "mature_sessions": 37,
-      "setups": [
-        {
-          "setup_id": "2dd3bfb9140f",
-          "label": "OpenCode · openai.gpt-5.6-terra (rules unknown)",
-          "harness": "OpenCode",
-          "model": "openai.gpt-5.6-terra",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.0958904109589041,
-          "surviving_changes": 0.0958904109589041,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "39e8d6de23c8",
-          "label": "OpenCode · unknown",
-          "harness": "OpenCode",
-          "model": "unknown",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": null,
-          "survival": 0.9666666666666667,
-          "surviving_changes": 2.9,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4eccfade9d2f",
-          "label": "OpenCode · anthropic.claude-sonnet-5-5 (rules unknown)",
-          "harness": "OpenCode",
-          "model": "anthropic.claude-sonnet-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 6.973173900000001,
-          "survival": 0.9459915611814346,
-          "surviving_changes": 0.9459915611814346,
-          "cost_per_surviving_change": 7.3712855231935785
-        },
-        {
-          "setup_id": "72e05b2601c3",
-          "label": "OpenCode · anthropic.claude-sonnet-5-5 (rules unknown)",
-          "harness": "OpenCode",
-          "model": "anthropic.claude-sonnet-5-5",
-          "sessions": 6,
-          "mature_sessions": 1,
-          "spend_usd": 2.9931696,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 0
-        },
-        {
-          "setup_id": "76b2410a6ec5",
-          "label": "OpenCode · openai.gpt-5.6-terra (rules unknown)",
-          "harness": "OpenCode",
-          "model": "openai.gpt-5.6-terra",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 0.9584892086330935,
-          "surviving_changes": 4.792446043165468,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "7ad4d7748363",
-          "label": "OpenCode · openai.gpt-6-luna",
-          "harness": "OpenCode",
-          "model": "openai.gpt-6-luna",
-          "sessions": 12,
-          "mature_sessions": 12,
-          "spend_usd": null,
-          "survival": 0.8116726210258115,
-          "surviving_changes": 9.740071452309738,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "b9da429088d0",
-          "label": "OpenCode · openai.gpt-6.1-sol",
-          "harness": "OpenCode",
-          "model": "openai.gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "d38c60a026b9",
-          "label": "OpenCode · openai.gpt-5.6-luna",
-          "harness": "OpenCode",
-          "model": "openai.gpt-5.6-luna",
-          "sessions": 13,
-          "mature_sessions": 13,
-          "spend_usd": null,
-          "survival": 0.7393222238432421,
-          "surviving_changes": 9.611188909962147,
           "cost_per_surviving_change": null
         }
       ]
