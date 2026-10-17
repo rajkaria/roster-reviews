@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-17T07:52:29.693Z",
+  "generated_at": "2026-10-17T07:52:34.131Z",
   "reviews": [
+    {
+      "repo": "compteccharan/TrustIntern",
+      "slug": "compteccharan__TrustIntern",
+      "href": "/r/compteccharan/TrustIntern",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:28.306Z",
+      "finished_at": "2026-10-17T07:52:34Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015248312",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c39c3f88fb5c",
+          "label": "Cursor · cursor",
+          "harness": "Cursor",
+          "model": "cursor",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "partio-io/cli",
       "slug": "partio-io__cli",
