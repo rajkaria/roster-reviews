@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-16T08:20:44.642Z",
+  "generated_at": "2026-10-17T07:52:29.693Z",
   "reviews": [
+    {
+      "repo": "partio-io/cli",
+      "slug": "partio-io__cli",
+      "href": "/r/partio-io/cli",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:27.948Z",
+      "finished_at": "2026-10-17T07:52:29Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015250245",
+      "label": "no_suspect",
+      "sessions": 17,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "27ed88905130",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 17,
+          "mature_sessions": 11,
+          "spend_usd": 25.6164756,
+          "survival": 0.9373005960340205,
+          "surviving_changes": 10.310306556374226,
+          "cost_per_surviving_change": 1.9178591918564374
+        }
+      ]
+    },
     {
       "repo": "thedannywahl/pantoken",
       "slug": "thedannywahl__pantoken",
@@ -876,32 +902,6 @@
           "survival": 0.8456322897881339,
           "surviving_changes": 1.6912645795762677,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "partio-io/cli",
-      "slug": "partio-io__cli",
-      "href": "/r/partio-io/cli",
-      "outcome": "ok",
-      "generated_at": "2026-10-16T08:16:10.969Z",
-      "finished_at": "2026-10-16T08:16:14Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872541995",
-      "label": "no_suspect",
-      "sessions": 17,
-      "mature_sessions": 11,
-      "setups": [
-        {
-          "setup_id": "27ed88905130",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 17,
-          "mature_sessions": 11,
-          "spend_usd": 25.6164756,
-          "survival": 0.9358376505405112,
-          "surviving_changes": 10.294214155945623,
-          "cost_per_surviving_change": 1.9208572796767887
         }
       ]
     },
