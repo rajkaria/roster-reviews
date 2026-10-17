@@ -1,7 +1,7 @@
 # Review: thedannywahl/pantoken
 
-- Review id: `thedannywahl__pantoken-20261016081602`
-- Created: 2026-10-16T08:16:02.133Z
+- Review id: `thedannywahl__pantoken-20261017075244`
+- Created: 2026-10-17T07:52:44.135Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -20,8 +20,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 429 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 43 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
+- 428 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 44 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
 - could not be scored: f226ac34-f0ee-4383-89b7-797d2b11e90e: not_scored: time budget
 - could not be scored: 23ccb751-6357-458b-b363-8f85d489fd72: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
 - could not be scored: 565bcf9b-ba61-423d-be2f-599eb26a95b1: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
@@ -65,6 +65,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 - could not be scored: 99dc03f3-838a-4873-96ec-67e0e1a8e8f1: not_scored: time budget
 - could not be scored: b06ada0e-f74c-4fe7-8ab5-bf8ffcb568ca: not_scored: time budget
 - could not be scored: e3870ca5-d4c3-4353-b4f0-b25f0db627e3: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
+- could not be scored: a501999e-e940-40c4-a642-dd34956b2bcf: not_scored: time budget
 - 472 sessions have no price (unknown model, or a price that depends on prompt size)
 - 424 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions

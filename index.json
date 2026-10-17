@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-17T07:54:06.048Z",
+  "generated_at": "2026-10-17T07:57:19.061Z",
   "reviews": [
+    {
+      "repo": "thedannywahl/pantoken",
+      "slug": "thedannywahl__pantoken",
+      "href": "/r/thedannywahl/pantoken",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:44.135Z",
+      "finished_at": "2026-10-17T07:57:19Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015263130",
+      "label": "insufficient_data",
+      "sessions": 48,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "177f24172156",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "47fac911859e",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "abe3b65964ca",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 7,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f199b89c9c99",
+          "label": "Copilot CLI · unknown (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "unknown",
+          "sessions": 34,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "rodbegbie/stopwatch-screensaver",
       "slug": "rodbegbie__stopwatch-screensaver",
@@ -1903,68 +1965,6 @@
           "survival": 0.9373005960340205,
           "surviving_changes": 10.310306556374226,
           "cost_per_surviving_change": 1.9178591918564374
-        }
-      ]
-    },
-    {
-      "repo": "thedannywahl/pantoken",
-      "slug": "thedannywahl__pantoken",
-      "href": "/r/thedannywahl/pantoken",
-      "outcome": "ok",
-      "generated_at": "2026-10-16T08:16:02.133Z",
-      "finished_at": "2026-10-16T08:20:44Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872530855",
-      "label": "insufficient_data",
-      "sessions": 48,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "177f24172156",
-          "label": "Copilot CLI · unknown (rules unknown)",
-          "harness": "Copilot CLI",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "47fac911859e",
-          "label": "Copilot CLI · unknown (rules unknown)",
-          "harness": "Copilot CLI",
-          "model": "unknown",
-          "sessions": 6,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "abe3b65964ca",
-          "label": "Copilot CLI · unknown (rules unknown)",
-          "harness": "Copilot CLI",
-          "model": "unknown",
-          "sessions": 7,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "f199b89c9c99",
-          "label": "Copilot CLI · unknown (rules unknown)",
-          "harness": "Copilot CLI",
-          "model": "unknown",
-          "sessions": 34,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
