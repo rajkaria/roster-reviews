@@ -1,0 +1,35 @@
+# Review: babamba2/superclaude-for-sap
+
+- Review id: `babamba2__superclaude-for-sap-20261017075226`
+- Created: 2026-10-17T07:52:26.838Z
+- Entire data: yes
+- Evidence level: A (observational)
+- Label: `insufficient_data`
+- Suspect: none
+
+No suspect call: no setup has ≥ 8 mature sessions.
+
+## Setups
+
+| Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
+| `04c1c01c12ca` | Claude Code · claude-opus-5-5 (rules b8b629) | 3 | 1 | $128.70 | 97.1% | 0.0% | 0.0% | 100.0% | $122.60 | A |
+| `1a3f1e9f9aac` | Claude Code · claude-opus-5-5 (rules 09cf05) | 2 | 2 | $25.38 | 98.9% | 0.0% | 0.0% | 100.0% | $12.83 | A |
+| `3a5df6d57f00` | Claude Code · claude-opus-5-5 (rules unknown) | 1 | 1 | $1.82 | 90.3% | 0.0% | 4.2% | 100.0% | $2.02 | A |
+| `4962478318ca` | Claude Code · claude-opus-4-7[1m] | 1 | 1 | unknown (0/1 priced) | 85.0% | 0.0% | 8.9% | 0.0% | — | A |
+| `4f20676e66f9` | Claude Code · claude-opus-5-5 (rules c2b135) | 4 | 4 | $56.31 | 95.3% | 0.0% | 1.1% | 100.0% | $14.78 | A |
+| `575f72e67eeb` | Claude Code · claude-opus-5-5 (rules unknown) | 1 | 1 | $0.70 | 100.0% | 0.0% | 0.0% | 100.0% | $0.70 | A |
+| `713ed3781fc7` | Claude Code · claude-opus-4-7 (rules unknown) | 6 | 5 | unknown (0/6 priced) | 69.7% | 0.0% | 5.8% | 66.7% | — | A |
+| `a374448a951f` | Claude Code · claude-opus-5-5 (rules c0935b) | 2 | 2 | $34.30 | 97.8% | 0.0% | 1.0% | 100.0% | $17.53 | A |
+| `a381cc570203` | Claude Code · claude-opus-4-7 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 51.0% | 0.0% | 14.3% | 50.0% | — | A |
+| `b84cde69171a` | Claude Code · claude-opus-4-8[1m] | 1 | 1 | unknown (0/1 priced) | 95.9% | 0.0% | 3.1% | 0.0% | — | A |
+| `c4595f0cb476` | Claude Code · claude-fable-5 | 1 | 1 | unknown (0/1 priced) | 95.7% | 0.0% | 2.4% | 0.0% | — | A |
+| `dc969432d1ac` | Claude Code · claude-sonnet-4-6 | 1 | 1 | unknown (0/1 priced) | 94.7% | 0.0% | 3.9% | 0.0% | — | A |
+| `dd8dca5d364d` | Claude Code · claude-opus-5-5 (rules 416805) | 4 | 4 | $43.25 | 91.3% | 0.0% | 0.0% | 100.0% | $11.85 | A |
+
+## Notes
+
+- 7 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 16 sessions have no price (unknown model, or a price that depends on prompt size)
+- 4 sessions have no setup because their rules hash is unknown
+- suspect call: no setup has ≥ 8 mature sessions
