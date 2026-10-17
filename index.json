@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-17T07:52:49.553Z",
+  "generated_at": "2026-10-17T07:52:51.044Z",
   "reviews": [
+    {
+      "repo": "chrisdoc/hevy-mcp",
+      "slug": "chrisdoc__hevy-mcp",
+      "href": "/r/chrisdoc/hevy-mcp",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:44.885Z",
+      "finished_at": "2026-10-17T07:52:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015263889",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "BbrSofiane/sof-pi",
       "slug": "BbrSofiane__sof-pi",

@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261017-021",
+  "repo": "chrisdoc/hevy-mcp",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 39015263889,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015263889",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "602f7e099837f682b1bd935295592a750eecdd30",
+  "checkpoint_head": "1162cb72806115d39b67a4a28eb466f53c87d2e4",
+  "started_at": "2026-10-17T07:52:41Z",
+  "finished_at": "2026-10-17T07:52:51Z"
+}

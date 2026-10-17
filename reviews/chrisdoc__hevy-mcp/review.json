@@ -1,0 +1,14 @@
+{
+  "id": "chrisdoc__hevy-mcp-20261017075244",
+  "repo": "chrisdoc/hevy-mcp",
+  "created_at": "2026-10-17T07:52:44.885Z",
+  "generated_at": "2026-10-17T07:52:44.885Z",
+  "has_entire_data": true,
+  "setups": [],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
