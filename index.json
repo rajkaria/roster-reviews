@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-17T07:52:58.439Z",
+  "generated_at": "2026-10-17T07:53:01.573Z",
   "reviews": [
+    {
+      "repo": "isHeSatoshi/paperci",
+      "slug": "isHeSatoshi__paperci",
+      "href": "/r/isHeSatoshi/paperci",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:37.224Z",
+      "finished_at": "2026-10-17T07:53:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015256028",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "38ebabe06351",
+          "label": "Factory AI Droid · deepseek-v4.1-flash",
+          "harness": "Factory AI Droid",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9268978444236177,
+          "surviving_changes": 0.9268978444236177,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "bf25ac87c2ae",
+          "label": "Factory AI Droid · unknown",
+          "harness": "Factory AI Droid",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.935117599351176,
+          "surviving_changes": 0.935117599351176,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "ROHITCRAFTSYT/pitstop",
       "slug": "ROHITCRAFTSYT__pitstop",

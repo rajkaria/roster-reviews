@@ -1,0 +1,53 @@
+{
+  "id": "isHeSatoshi__paperci-20261017075237",
+  "repo": "isHeSatoshi/paperci",
+  "created_at": "2026-10-17T07:52:37.224Z",
+  "generated_at": "2026-10-17T07:52:37.224Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "38ebabe06351",
+      "label": "Factory AI Droid · deepseek-v4.1-flash",
+      "harness": "Factory AI Droid",
+      "model": "deepseek-v4.1-flash",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.9268978444236177,
+      "reverted": 0,
+      "rework_human": 0.013843648208469055,
+      "surviving_changes": 0.9268978444236177,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "bf25ac87c2ae",
+      "label": "Factory AI Droid · unknown",
+      "harness": "Factory AI Droid",
+      "model": "unknown",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": 0.935117599351176,
+      "reverted": 0,
+      "rework_human": 0.03548153511947864,
+      "surviving_changes": 0.935117599351176,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
