@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-17T07:52:34.131Z",
+  "generated_at": "2026-10-17T07:52:36.041Z",
   "reviews": [
+    {
+      "repo": "alexsnow348/alexsnow348.github.io",
+      "slug": "alexsnow348__alexsnow348.github.io",
+      "href": "/r/alexsnow348/alexsnow348.github.io",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:31.293Z",
+      "finished_at": "2026-10-17T07:52:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015253099",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.18534710000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.7667316161424897,
+          "surviving_changes": 3.066926464569959,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "compteccharan/TrustIntern",
       "slug": "compteccharan__TrustIntern",
