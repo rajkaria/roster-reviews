@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-17T07:52:39.585Z",
+  "generated_at": "2026-10-17T07:52:42.291Z",
   "reviews": [
+    {
+      "repo": "0x7067/jev-browse",
+      "slug": "0x7067__jev-browse",
+      "href": "/r/0x7067/jev-browse",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:40.202Z",
+      "finished_at": "2026-10-17T07:52:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015260717",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c9058ddbbd1b",
+          "label": "Pi · swe-2",
+          "harness": "Pi",
+          "model": "swe-2",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
