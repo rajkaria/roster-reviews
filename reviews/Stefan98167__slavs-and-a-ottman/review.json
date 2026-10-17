@@ -1,0 +1,53 @@
+{
+  "id": "Stefan98167__slavs-and-a-ottman-20261017075250",
+  "repo": "Stefan98167/slavs-and-a-ottman",
+  "created_at": "2026-10-17T07:52:50.598Z",
+  "generated_at": "2026-10-17T07:52:50.598Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "5d58148ee8b1",
+      "label": "Codex · gpt-5.6-terra",
+      "harness": "Codex",
+      "model": "gpt-5.6-terra",
+      "rules_hash": null,
+      "sessions": 3,
+      "mature_sessions": 3,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0.6666666666666666,
+      "survival": 0.6418219461697723,
+      "reverted": 0,
+      "rework_human": 0.015199418358188102,
+      "surviving_changes": 1.9254658385093169,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "64bbc9f14c5d",
+      "label": "Codex · gpt-6-luna",
+      "harness": "Codex",
+      "model": "gpt-6-luna",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": 1,
+      "reverted": 1,
+      "rework_human": 1,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

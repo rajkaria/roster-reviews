@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-17T07:53:01.573Z",
+  "generated_at": "2026-10-17T07:53:02.972Z",
   "reviews": [
+    {
+      "repo": "Stefan98167/slavs-and-a-ottman",
+      "slug": "Stefan98167__slavs-and-a-ottman",
+      "href": "/r/Stefan98167/slavs-and-a-ottman",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:50.598Z",
+      "finished_at": "2026-10-17T07:53:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015267837",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "5d58148ee8b1",
+          "label": "Codex · gpt-5.6-terra",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.6418219461697723,
+          "surviving_changes": 1.9254658385093169,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "isHeSatoshi/paperci",
       "slug": "isHeSatoshi__paperci",
