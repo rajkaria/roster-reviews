@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-17T07:52:53.780Z",
+  "generated_at": "2026-10-17T07:52:55.466Z",
   "reviews": [
+    {
+      "repo": "JustinBeaudry/kb",
+      "slug": "JustinBeaudry__kb",
+      "href": "/r/JustinBeaudry/kb",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:44.331Z",
+      "finished_at": "2026-10-17T07:52:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015257854",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 67.134456,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5b2b1e537406",
+          "label": "Codex · gpt-5.5",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.6756756756756757,
+          "surviving_changes": 0.6756756756756757,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8936cf987a58",
+          "label": "Claude Code · claude-opus-4-7",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.5,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d358ae17c46f",
+          "label": "Claude Code · claude-opus-4-7[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e9b48cc262bb",
+          "label": "Claude Code · claude-opus-4-6",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.35514018691588783,
+          "surviving_changes": 0.7102803738317757,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/jev-orchestrator",
       "slug": "petercr__jev-orchestrator",
