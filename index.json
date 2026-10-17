@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-10-17T07:52:48.099Z",
+  "generated_at": "2026-10-17T07:52:49.553Z",
   "reviews": [
+    {
+      "repo": "BbrSofiane/sof-pi",
+      "slug": "BbrSofiane__sof-pi",
+      "href": "/r/BbrSofiane/sof-pi",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:45.447Z",
+      "finished_at": "2026-10-17T07:52:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015264838",
+      "label": "no_suspect",
+      "sessions": 29,
+      "mature_sessions": 24,
+      "setups": [
+        {
+          "setup_id": "099a9c85002f",
+          "label": "Pi · z-ai/glm-5.3-flash",
+          "harness": "Pi",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2e61eeee33a3",
+          "label": "Pi · openai/gpt-5.6-sol (rules unknown)",
+          "harness": "Pi",
+          "model": "openai/gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.03170028818443804,
+          "surviving_changes": 0.03170028818443804,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4decb342af6e",
+          "label": "Pi · openai/gpt-6.1-sol",
+          "harness": "Pi",
+          "model": "openai/gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5bb74fe6f234",
+          "label": "Pi · openai/gpt-5.6-sol (rules unknown)",
+          "harness": "Pi",
+          "model": "openai/gpt-5.6-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9951690821256038,
+          "surviving_changes": 1.9903381642512077,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "700401dba21d",
+          "label": "Pi · glm-5.3-flash",
+          "harness": "Pi",
+          "model": "glm-5.3-flash",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "759b34790f0f",
+          "label": "Pi · z-ai/glm-5.2",
+          "harness": "Pi",
+          "model": "z-ai/glm-5.2",
+          "sessions": 8,
+          "mature_sessions": 8,
+          "spend_usd": null,
+          "survival": 0.554483933624376,
+          "surviving_changes": 4.435871468995008,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "94cea859859a",
+          "label": "Pi · openai/gpt-5.6-luna-pro",
+          "harness": "Pi",
+          "model": "openai/gpt-5.6-luna-pro",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.8975658749852299,
+          "surviving_changes": 6.282961124896609,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d3b36d147ed1",
+          "label": "Pi · ~google/gemini-flash-latest",
+          "harness": "Pi",
+          "model": "~google/gemini-flash-latest",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.9995687796463993,
+          "surviving_changes": 5.997412677878396,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "zyabcg/stall-sense",
       "slug": "zyabcg__stall-sense",
