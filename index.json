@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-17T07:53:12.090Z",
+  "generated_at": "2026-10-17T07:53:20.288Z",
   "reviews": [
+    {
+      "repo": "cdenihan/jbsync",
+      "slug": "cdenihan__jbsync",
+      "href": "/r/cdenihan/jbsync",
+      "outcome": "ok",
+      "generated_at": "2026-10-17T07:52:40.338Z",
+      "finished_at": "2026-10-17T07:53:20Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015258805",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
