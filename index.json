@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-10-18T08:07:26.426Z",
+  "generated_at": "2026-10-18T08:07:27.881Z",
   "reviews": [
+    {
+      "repo": "sandbox-kit/kit",
+      "slug": "sandbox-kit__kit",
+      "href": "/r/sandbox-kit/kit",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:03.236Z",
+      "finished_at": "2026-10-18T08:07:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110201174",
+      "label": "insufficient_data",
+      "sessions": 10,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "2a87b8e41377",
+          "label": "Cursor · default (rules unknown)",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2d8921051711",
+          "label": "Cursor · composer-2.5",
+          "harness": "Cursor",
+          "model": "composer-2.5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.16330645161290322,
+          "surviving_changes": 0.16330645161290322,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "710fadb52a32",
+          "label": "Cursor · default (rules unknown)",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a86303d751c2",
+          "label": "Cursor · grok-4.7-medium (rules unknown)",
+          "harness": "Cursor",
+          "model": "grok-4.7-medium",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.38323126990236905,
+          "surviving_changes": 0.7664625398047381,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "acd0b356d769",
+          "label": "Cursor · grok-4.7-medium (rules unknown)",
+          "harness": "Cursor",
+          "model": "grok-4.7-medium",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b91ca13b8bfd",
+          "label": "Cursor · default (rules unknown)",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sauyon/dotfiles",
       "slug": "sauyon__dotfiles",
@@ -1698,56 +1784,6 @@
           "survival": 0.9127946834736334,
           "surviving_changes": 3.6511787338945334,
           "cost_per_surviving_change": 11.845476639777477
-        }
-      ]
-    },
-    {
-      "repo": "sandbox-kit/kit",
-      "slug": "sandbox-kit__kit",
-      "href": "/r/sandbox-kit/kit",
-      "outcome": "ok",
-      "generated_at": "2026-10-17T07:52:45.404Z",
-      "finished_at": "2026-10-17T07:53:09Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015262310",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "2d8921051711",
-          "label": "Cursor · composer-2.5",
-          "harness": "Cursor",
-          "model": "composer-2.5",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.16561059907834103,
-          "surviving_changes": 0.16561059907834103,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "a86303d751c2",
-          "label": "Cursor · grok-4.7-medium (rules unknown)",
-          "harness": "Cursor",
-          "model": "grok-4.7-medium",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.7529411764705882,
-          "surviving_changes": 0.7529411764705882,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "acd0b356d769",
-          "label": "Cursor · grok-4.7-medium (rules unknown)",
-          "harness": "Cursor",
-          "model": "grok-4.7-medium",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
         }
       ]
     },
