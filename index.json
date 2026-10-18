@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-18T08:07:35.366Z",
+  "generated_at": "2026-10-18T08:07:37.864Z",
   "reviews": [
+    {
+      "repo": "Krishtiy/Scope_Creep",
+      "slug": "Krishtiy__Scope_Creep",
+      "href": "/r/Krishtiy/Scope_Creep",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:12.183Z",
+      "finished_at": "2026-10-18T08:07:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110209580",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.898690990855496,
+          "surviving_changes": 2.696072972566488,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "entireio/forgemark",
       "slug": "entireio__forgemark",
