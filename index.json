@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-18T08:07:45.398Z",
+  "generated_at": "2026-10-18T08:07:49.620Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:18.391Z",
+      "finished_at": "2026-10-18T08:07:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110217552",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "k-kinzal/php-ai-toolkit",
       "slug": "k-kinzal__php-ai-toolkit",
@@ -2804,19 +2817,6 @@
           "cost_per_surviving_change": 11.845476639777477
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-17T07:52:40.859Z",
-      "finished_at": "2026-10-17T07:53:06Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015259806",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "Stefan98167/slavs-and-a-ottman",
