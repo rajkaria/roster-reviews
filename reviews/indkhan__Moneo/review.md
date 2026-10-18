@@ -1,7 +1,7 @@
 # Review: indkhan/Moneo
 
-- Review id: `indkhan__Moneo-20261017075237`
-- Created: 2026-10-17T07:52:37.072Z
+- Review id: `indkhan__Moneo-20261018080659`
+- Created: 2026-10-18T08:06:59.769Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `c8230baaea81` | Claude Code · claude-opus-5-5 | 2 | 0 | $23.94 | too young | too young | too young | 0.0% | — | A |
+| `c8230baaea81` | Claude Code · claude-opus-5-5 | 4 | 2 | $30.84 | 70.6% | 50.0% | 36.1% | 25.0% | $8.86 | A |
 
 ## Notes
 
