@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-18T08:07:22.675Z",
+  "generated_at": "2026-10-18T08:07:24.591Z",
   "reviews": [
+    {
+      "repo": "xcjohnmark/mone",
+      "slug": "xcjohnmark__mone",
+      "href": "/r/xcjohnmark/mone",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:17.210Z",
+      "finished_at": "2026-10-18T08:07:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110213380",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Binoui/SLOPArena",
       "slug": "Binoui__SLOPArena",
