@@ -1,8 +1,8 @@
 {
-  "id": "rodbegbie__stopwatch-screensaver-20261017075227",
+  "id": "rodbegbie__stopwatch-screensaver-20261018080701",
   "repo": "rodbegbie/stopwatch-screensaver",
-  "created_at": "2026-10-17T07:52:27.079Z",
-  "generated_at": "2026-10-17T07:52:27.079Z",
+  "created_at": "2026-10-18T08:07:01.114Z",
+  "generated_at": "2026-10-18T08:07:01.114Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -112,11 +112,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.6923076923076923,
+      "survival": 0.6153846153846154,
       "reverted": 0,
-      "rework_human": 0.06666666666666667,
-      "surviving_changes": 0.6923076923076923,
-      "cost_per_surviving_change": 0.8020799222222222,
+      "rework_human": 0.13333333333333333,
+      "surviving_changes": 0.6153846153846154,
+      "cost_per_surviving_change": 0.9023399125,
       "evidence_level": "A"
     },
     {
@@ -397,11 +397,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.5909090909090909,
+      "survival": 0.5,
       "reverted": 0,
-      "rework_human": 0.08333333333333333,
-      "surviving_changes": 0.5909090909090909,
-      "cost_per_surviving_change": 9.995622153846153,
+      "rework_human": 0.16666666666666666,
+      "surviving_changes": 0.5,
+      "cost_per_surviving_change": 11.813008,
       "evidence_level": "A"
     },
     {
@@ -440,6 +440,25 @@
       "rework_human": 0,
       "surviving_changes": 0.6666666666666666,
       "cost_per_surviving_change": 11.72392455,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "78909204a713",
+      "label": "Claude Code · claude-sonnet-5-5 (rules ae71dc)",
+      "harness": "Claude Code",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": "ae71dcc03293316eb7d0f437217d4de16a4fbf4f134504a0b68e6b283142fd03",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 4.0200256,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {
@@ -549,11 +568,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.5169082125603864,
+      "survival": 0.5120772946859904,
       "reverted": 0,
       "rework_human": 0.018957345971563982,
-      "surviving_changes": 0.5169082125603864,
-      "cost_per_surviving_change": 16.795274458878506,
+      "surviving_changes": 0.5120772946859904,
+      "cost_per_surviving_change": 16.953720444339623,
       "evidence_level": "A"
     },
     {
@@ -796,11 +815,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
-      "survival": 1,
+      "survival": 0.3333333333333333,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 1,
-      "cost_per_surviving_change": 1.1241389,
+      "surviving_changes": 0.3333333333333333,
+      "cost_per_surviving_change": 3.3724167,
       "evidence_level": "A"
     },
     {
