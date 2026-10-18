@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-18T08:10:51.952Z",
+  "generated_at": "2026-10-18T08:15:22.822Z",
   "reviews": [
+    {
+      "repo": "orin-dx/caliper",
+      "slug": "orin-dx__caliper",
+      "href": "/r/orin-dx/caliper",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:05.294Z",
+      "finished_at": "2026-10-18T08:15:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110203219",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "1dd8bd1ac246",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9508196721311475,
+          "surviving_changes": 0.9508196721311475,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "35aa2c871858",
+          "label": "Claude Code · claude-sonnet-5 (rules 9bffeb)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9137168141592921,
+          "surviving_changes": 0.9137168141592921,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c3b4d0cf13d2",
+          "label": "Claude Code · claude-sonnet-5 (rules ca5bbf)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c70cc9e34e1f",
+          "label": "Claude Code · claude-sonnet-5 (rules 978aa0)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9508196721311475,
+          "surviving_changes": 0.9508196721311475,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "cb8e85ad0a05",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8141592920353983,
+          "surviving_changes": 0.8141592920353983,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "PathlandDev/Pathland",
       "slug": "PathlandDev__Pathland",
