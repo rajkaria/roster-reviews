@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-18T08:07:20.412Z",
+  "generated_at": "2026-10-18T08:07:22.675Z",
   "reviews": [
+    {
+      "repo": "Binoui/SLOPArena",
+      "slug": "Binoui__SLOPArena",
+      "href": "/r/Binoui/SLOPArena",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:10.212Z",
+      "finished_at": "2026-10-18T08:07:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110207809",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "3749ddbb94ae",
+          "label": "Claude Code · claude-opus-5-5 (rules d742ed)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 6.3110208000000005,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "383db04e27bd",
+          "label": "Claude Code · claude-opus-5-5 (rules aa0a28)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 40.83193059999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4c7d9ca5285d",
+          "label": "Claude Code · claude-opus-5-5 (rules f58084)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 13.605250400000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7679e5741e6f",
+          "label": "Claude Code · claude-opus-5-5 (rules 99d164)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 29.1970812,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/email-os",
       "slug": "BbrSofiane__email-os",
