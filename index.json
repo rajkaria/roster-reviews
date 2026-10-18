@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-18T08:07:19.079Z",
+  "generated_at": "2026-10-18T08:07:20.412Z",
   "reviews": [
+    {
+      "repo": "BbrSofiane/email-os",
+      "slug": "BbrSofiane__email-os",
+      "href": "/r/BbrSofiane/email-os",
+      "outcome": "ok",
+      "generated_at": "2026-10-18T08:07:14.222Z",
+      "finished_at": "2026-10-18T08:07:20Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110214497",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "07bb48443cba",
+          "label": "Pi · openai/gpt-6.1-sol",
+          "harness": "Pi",
+          "model": "openai/gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8594306049822064,
+          "surviving_changes": 0.8594306049822064,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "13c4217bacc0",
+          "label": "Pi · gpt-6-astra",
+          "harness": "Pi",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.483631,
+          "survival": 0.9829059829059829,
+          "surviving_changes": 0.9829059829059829,
+          "cost_per_surviving_change": 1.5094332782608695
+        },
+        {
+          "setup_id": "35330a03cbb9",
+          "label": "Pi · z-ai/glm-5.3-flash",
+          "harness": "Pi",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "645bdcfd61d8",
+          "label": "Pi · glm-5.3-flash",
+          "harness": "Pi",
+          "model": "glm-5.3-flash",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
@@ -4384,68 +4446,6 @@
           "harness": "Claude Code",
           "model": "claude-sonnet-5",
           "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "BbrSofiane/email-os",
-      "slug": "BbrSofiane__email-os",
-      "href": "/r/BbrSofiane/email-os",
-      "outcome": "ok",
-      "generated_at": "2026-10-14T08:49:08.756Z",
-      "finished_at": "2026-10-14T08:49:31Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38537811610",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "07bb48443cba",
-          "label": "Pi · openai/gpt-6.1-sol",
-          "harness": "Pi",
-          "model": "openai/gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "13c4217bacc0",
-          "label": "Pi · gpt-6-astra",
-          "harness": "Pi",
-          "model": "gpt-6-astra",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 1.483631,
-          "survival": 0.9829059829059829,
-          "surviving_changes": 0.9829059829059829,
-          "cost_per_surviving_change": 1.5094332782608695
-        },
-        {
-          "setup_id": "35330a03cbb9",
-          "label": "Pi · z-ai/glm-5.3-flash",
-          "harness": "Pi",
-          "model": "z-ai/glm-5.3-flash",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "645bdcfd61d8",
-          "label": "Pi · glm-5.3-flash",
-          "harness": "Pi",
-          "model": "glm-5.3-flash",
-          "sessions": 2,
           "mature_sessions": 0,
           "spend_usd": null,
           "survival": null,
