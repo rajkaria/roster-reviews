@@ -1,7 +1,7 @@
 # Review: crcorbett/taxkit
 
-- Review id: `crcorbett__taxkit-20261016081605`
-- Created: 2026-10-16T08:16:05.189Z
+- Review id: `crcorbett__taxkit-20261018080720`
+- Created: 2026-10-18T08:07:20.561Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -16,7 +16,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `2900641a46e4` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 22.4% | 0.0% | 1.2% | 0.0% | — | A |
 | `4656e773d771` | Codex · gpt-5.5 | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 100.0% | — | A |
 | `5a7bfeeaed3d` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 11.8% | 100.0% | 90.1% | 0.0% | — | A |
-| `63e124e6f8f7` | Claude Code · claude-opus-5-5 (rules 504e1e) | 1 | 1 | $114.65 | 99.3% | 0.0% | 1.9% | 0.0% | $115.50 | A |
+| `63e124e6f8f7` | Claude Code · claude-opus-5-5 (rules 504e1e) | 1 | 1 | $114.65 | 88.1% | 0.0% | 13.2% | 0.0% | $130.14 | A |
 | `77c9cb3ebba0` | Claude Code · claude-opus-5-5 (rules 96451a) | 1 | 1 | $54.76 | 100.0% | 0.0% | 9.5% | 0.0% | $54.76 | A |
 | `8e6235252b30` | Claude Code · claude-opus-5 | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 100.0% | — | A |
 | `ecdff216b516` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.2% | 0.0% | 6.8% | 0.0% | — | A |
