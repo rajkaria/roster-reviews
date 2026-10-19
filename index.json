@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-10-19T08:59:57.423Z",
+  "generated_at": "2026-10-19T09:00:01.821Z",
   "reviews": [
+    {
+      "repo": "petercr/jev-orchestrator",
+      "slug": "petercr__jev-orchestrator",
+      "href": "/r/petercr/jev-orchestrator",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T08:59:53.371Z",
+      "finished_at": "2026-10-19T09:00:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226745604",
+      "label": "insufficient_data",
+      "sessions": 12,
+      "mature_sessions": 12,
+      "setups": [
+        {
+          "setup_id": "0d67e9e9afc4",
+          "label": "Codex · gpt-5.6-terra",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.979381443298969,
+          "surviving_changes": 0.979381443298969,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "15894bbd258d",
+          "label": "Codex · gpt-6-astra",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 2.702412,
+          "survival": 0.9239130434782609,
+          "surviving_changes": 0.9239130434782609,
+          "cost_per_surviving_change": 2.924963576470588
+        },
+        {
+          "setup_id": "1593e4ec5ef9",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8646101113967438,
+          "surviving_changes": 0.8646101113967438,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2d85e4310da1",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9605263157894737,
+          "surviving_changes": 1.9210526315789473,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "308b61c6d44f",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9928985678778555,
+          "surviving_changes": 1.985797135755711,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4e21faaa6348",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9739583333333334,
+          "surviving_changes": 0.9739583333333334,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8fccdcfb3fa6",
+          "label": "Codex · gpt-6-luna (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.41875,
+          "surviving_changes": 0.41875,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a39cc49ab51e",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9498644986449865,
+          "surviving_changes": 0.9498644986449865,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "aa663c1fb61f",
+          "label": "Codex · gpt-6-luna (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9605263157894737,
+          "surviving_changes": 0.9605263157894737,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "deb3d82a719f",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9174825174825175,
+          "surviving_changes": 0.9174825174825175,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/sof-pi",
       "slug": "BbrSofiane__sof-pi",
@@ -3273,140 +3407,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "petercr/jev-orchestrator",
-      "slug": "petercr__jev-orchestrator",
-      "href": "/r/petercr/jev-orchestrator",
-      "outcome": "ok",
-      "generated_at": "2026-10-18T08:07:02.808Z",
-      "finished_at": "2026-10-18T08:07:11Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110202153",
-      "label": "insufficient_data",
-      "sessions": 12,
-      "mature_sessions": 12,
-      "setups": [
-        {
-          "setup_id": "0d67e9e9afc4",
-          "label": "Codex · gpt-5.6-terra",
-          "harness": "Codex",
-          "model": "gpt-5.6-terra",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.979381443298969,
-          "surviving_changes": 0.979381443298969,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "15894bbd258d",
-          "label": "Codex · gpt-6-astra",
-          "harness": "Codex",
-          "model": "gpt-6-astra",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 2.702412,
-          "survival": 0.9239130434782609,
-          "surviving_changes": 0.9239130434782609,
-          "cost_per_surviving_change": 2.924963576470588
-        },
-        {
-          "setup_id": "1593e4ec5ef9",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.8671808054841473,
-          "surviving_changes": 0.8671808054841473,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "2d85e4310da1",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9605263157894737,
-          "surviving_changes": 1.9210526315789473,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "308b61c6d44f",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9928985678778555,
-          "surviving_changes": 1.985797135755711,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4e21faaa6348",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9895833333333334,
-          "surviving_changes": 0.9895833333333334,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "8fccdcfb3fa6",
-          "label": "Codex · gpt-6-luna (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6-luna",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.41875,
-          "surviving_changes": 0.41875,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "a39cc49ab51e",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9539295392953929,
-          "surviving_changes": 0.9539295392953929,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "aa663c1fb61f",
-          "label": "Codex · gpt-6-luna (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6-luna",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9605263157894737,
-          "surviving_changes": 0.9605263157894737,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "deb3d82a719f",
-          "label": "Codex · gpt-5.6-sol",
-          "harness": "Codex",
-          "model": "gpt-5.6-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9174825174825175,
-          "surviving_changes": 0.9174825174825175,
           "cost_per_surviving_change": null
         }
       ]

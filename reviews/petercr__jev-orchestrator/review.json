@@ -1,8 +1,8 @@
 {
-  "id": "petercr__jev-orchestrator-20261018080702",
+  "id": "petercr__jev-orchestrator-20261019085953",
   "repo": "petercr/jev-orchestrator",
-  "created_at": "2026-10-18T08:07:02.808Z",
-  "generated_at": "2026-10-18T08:07:02.808Z",
+  "created_at": "2026-10-19T08:59:53.371Z",
+  "generated_at": "2026-10-19T08:59:53.371Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -55,10 +55,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8671808054841473,
+      "survival": 0.8646101113967438,
       "reverted": 0,
       "rework_human": 0.16258879242304658,
-      "surviving_changes": 0.8671808054841473,
+      "surviving_changes": 0.8646101113967438,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -112,10 +112,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9895833333333334,
+      "survival": 0.9739583333333334,
       "reverted": 0,
       "rework_human": 0.032407407407407406,
-      "surviving_changes": 0.9895833333333334,
+      "surviving_changes": 0.9739583333333334,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -150,10 +150,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9539295392953929,
+      "survival": 0.9498644986449865,
       "reverted": 0,
       "rework_human": 0.07426376440460948,
-      "surviving_changes": 0.9539295392953929,
+      "surviving_changes": 0.9498644986449865,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
