@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-19T09:00:39.299Z",
+  "generated_at": "2026-10-19T09:00:44.553Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T09:00:07.000Z",
+      "finished_at": "2026-10-19T09:00:44Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226769214",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "hacker-git-code/underwrite-",
       "slug": "hacker-git-code__underwrite-",
@@ -4085,19 +4098,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-18T08:07:18.391Z",
-      "finished_at": "2026-10-18T08:07:49Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110217552",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "k-kinzal/php-ai-toolkit",
