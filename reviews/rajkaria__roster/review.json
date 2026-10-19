@@ -1,0 +1,149 @@
+{
+  "id": "rajkaria__roster-20261019090012",
+  "repo": "rajkaria/roster",
+  "created_at": "2026-10-19T09:00:12.909Z",
+  "generated_at": "2026-10-19T09:00:12.909Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "6a200cd990a7",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "dabdd04c2d924f1e355b9f5ad27c1268a39177cf5579f9cfe3a35647be309801",
+      "sessions": 29,
+      "mature_sessions": 29,
+      "spend_usd": 19.437769399999997,
+      "priced_sessions": 29,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": 0.9767980251849446,
+      "reverted": 0,
+      "rework_human": 0.019800084294280717,
+      "surviving_changes": 28.327142730363395,
+      "cost_per_surviving_change": 0.6861888466839606,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "97433f7b4446",
+      "label": "Claude Code · claude-sonnet-5-5 (rules 243fa2)",
+      "harness": "Claude Code",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": "243fa26caa1f686668b910cedfda21d5bb8a4c1a1e185b1e27c63f729bc5398f",
+      "sessions": 15,
+      "mature_sessions": 15,
+      "spend_usd": 6.3707007,
+      "priced_sessions": 15,
+      "spend_lower_bound": false,
+      "unattended": 0.5333333333333333,
+      "survival": 0.9468176360525542,
+      "reverted": 0,
+      "rework_human": 0.010120280260757336,
+      "surviving_changes": 14.202264540788313,
+      "cost_per_surviving_change": 0.44856935890073113,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "a9544a002085",
+      "label": "Claude Code · claude-sonnet-5-5 (rules dabdd0)",
+      "harness": "Claude Code",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": "dabdd04c2d924f1e355b9f5ad27c1268a39177cf5579f9cfe3a35647be309801",
+      "sessions": 60,
+      "mature_sessions": 39,
+      "spend_usd": 10.789076199999998,
+      "priced_sessions": 60,
+      "spend_lower_bound": false,
+      "unattended": 0.5833333333333334,
+      "survival": 0.9862304173106501,
+      "reverted": 0,
+      "rework_human": 0.0021407867467560524,
+      "surviving_changes": 38.462986275115355,
+      "cost_per_surviving_change": 0.2125131169362248,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "c8d6907735ec",
+      "label": "Claude Code · claude-haiku-5-5",
+      "harness": "Claude Code",
+      "model": "claude-haiku-5-5",
+      "rules_hash": "dabdd04c2d924f1e355b9f5ad27c1268a39177cf5579f9cfe3a35647be309801",
+      "sessions": 19,
+      "mature_sessions": 19,
+      "spend_usd": 0.9597546699999998,
+      "priced_sessions": 19,
+      "spend_lower_bound": true,
+      "unattended": 0.5789473684210527,
+      "survival": 0.9788354565141784,
+      "reverted": 0,
+      "rework_human": 0.008583947906080112,
+      "surviving_changes": 18.59787367376939,
+      "cost_per_surviving_change": 0.05160561292303252,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "f656e13e2af0",
+      "label": "Claude Code · deepseek-flash",
+      "harness": "Claude Code",
+      "model": "deepseek-flash",
+      "rules_hash": "dabdd04c2d924f1e355b9f5ad27c1268a39177cf5579f9cfe3a35647be309801",
+      "sessions": 40,
+      "mature_sessions": 23,
+      "spend_usd": 0.8579456160000001,
+      "priced_sessions": 40,
+      "spend_lower_bound": false,
+      "unattended": 0.625,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 23,
+      "cost_per_surviving_change": 0.023189200434782613,
+      "evidence_level": "A"
+    }
+  ],
+  "tags": {
+    "by_tag": {
+      "A": {
+        "sessions": 21,
+        "setup_ids": [
+          "6a200cd990a7"
+        ]
+      },
+      "B": {
+        "sessions": 56,
+        "setup_ids": [
+          "a9544a002085"
+        ]
+      },
+      "C": {
+        "sessions": 19,
+        "setup_ids": [
+          "c8d6907735ec"
+        ]
+      },
+      "D": {
+        "sessions": 19,
+        "setup_ids": [
+          "97433f7b4446",
+          "a9544a002085"
+        ]
+      },
+      "E": {
+        "sessions": 40,
+        "setup_ids": [
+          "f656e13e2af0"
+        ]
+      }
+    },
+    "tag_accuracy": 0.9612903225806452
+  },
+  "label": "no_suspect",
+  "suspect": null,
+  "odds_ratio": 7.5957108816521055,
+  "ci95": [
+    0.6919489864179724,
+    83.38016953578948
+  ],
+  "p_value": 1,
+  "evidence_level": "A"
+}
