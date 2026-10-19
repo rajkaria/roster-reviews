@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-19T09:00:01.821Z",
+  "generated_at": "2026-10-19T09:00:05.699Z",
   "reviews": [
+    {
+      "repo": "theRealMarkCastillo/pg-agent-memory-demo",
+      "slug": "theRealMarkCastillo__pg-agent-memory-demo",
+      "href": "/r/theRealMarkCastillo/pg-agent-memory-demo",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T09:00:02.425Z",
+      "finished_at": "2026-10-19T09:00:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226761731",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.5658082,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/jev-orchestrator",
       "slug": "petercr__jev-orchestrator",
@@ -3364,44 +3402,6 @@
           "label": "Claude Code · claude-fable-5-1",
           "harness": "Claude Code",
           "model": "claude-fable-5-1",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "theRealMarkCastillo/pg-agent-memory-demo",
-      "slug": "theRealMarkCastillo__pg-agent-memory-demo",
-      "href": "/r/theRealMarkCastillo/pg-agent-memory-demo",
-      "outcome": "ok",
-      "generated_at": "2026-10-18T08:07:10.696Z",
-      "finished_at": "2026-10-18T08:07:14Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110210584",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 3.5658082,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": null,
