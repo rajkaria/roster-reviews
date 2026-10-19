@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-19T08:59:45.908Z",
+  "generated_at": "2026-10-19T08:59:51.270Z",
   "reviews": [
+    {
+      "repo": "aashutoshkumarbhardwaj/openSearch",
+      "slug": "aashutoshkumarbhardwaj__openSearch",
+      "href": "/r/aashutoshkumarbhardwaj/openSearch",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T08:59:49.809Z",
+      "finished_at": "2026-10-19T08:59:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226743204",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "21nCo/superfunctions",
       "slug": "21nCo__superfunctions",
