@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261018-016",
+  "job": "disc-20261019-010",
   "repo": "BbrSofiane/sof-pi",
   "outcome": "ok",
   "error": null,
-  "run_id": 39110212483,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110212483",
+  "run_id": 39226748083,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226748083",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "0e46526e913cd3583d30a3e16e6e309eef67096d",
-  "checkpoint_head": "9ec12e2600c2d15ab669d4cd544247aae74cc772",
-  "started_at": "2026-10-18T08:07:08Z",
-  "finished_at": "2026-10-18T08:07:15Z"
+  "target_head": "f8a5a02b3c5112ff494e63d0e95f0103c6975476",
+  "checkpoint_head": "ab5409a601f6537a7b3b16b029b10eb97a2098bd",
+  "started_at": "2026-10-19T08:59:49Z",
+  "finished_at": "2026-10-19T08:59:57Z"
 }
