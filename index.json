@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-19T09:00:35.708Z",
+  "generated_at": "2026-10-19T09:00:39.299Z",
   "reviews": [
+    {
+      "repo": "hacker-git-code/underwrite-",
+      "slug": "hacker-git-code__underwrite-",
+      "href": "/r/hacker-git-code/underwrite-",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T09:00:08.445Z",
+      "finished_at": "2026-10-19T09:00:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226774052",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "97a4a67ed6e6",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 123.3621234,
+          "survival": 0.9535962877030162,
+          "surviving_changes": 0.9535962877030162,
+          "cost_per_surviving_change": 90.14398829829685
+        }
+      ]
+    },
     {
       "repo": "anthnel/devdesk",
       "slug": "anthnel__devdesk",
