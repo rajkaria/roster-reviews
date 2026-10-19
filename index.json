@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-19T09:00:21.075Z",
+  "generated_at": "2026-10-19T09:00:22.669Z",
   "reviews": [
+    {
+      "repo": "lwshanbd/BeadInventory",
+      "slug": "lwshanbd__BeadInventory",
+      "href": "/r/lwshanbd/BeadInventory",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T09:00:03.682Z",
+      "finished_at": "2026-10-19T09:00:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226764002",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "a1d309c71c5d",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "af50215c1fc3",
+          "label": "Claude Code · claude-fable-5",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "FCulig/fight-ai",
       "slug": "FCulig__fight-ai",
