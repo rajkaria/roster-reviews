@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261017-006",
+  "job": "disc-20261019-023",
   "repo": "partio-io/cli",
   "outcome": "ok",
   "error": null,
-  "run_id": 39015250245,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015250245",
+  "run_id": 39226778760,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226778760",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "ae1733dd7a2eaeb4648a170c2086f31618a892d7",
-  "checkpoint_head": "2fccb5682b7b9f79a6f4e9dfc88e6afe76cec107",
-  "started_at": "2026-10-17T07:52:24Z",
-  "finished_at": "2026-10-17T07:52:29Z"
+  "target_head": "d9d710a75dfb47cb97d04f60a0df2409b6a0ca97",
+  "checkpoint_head": "42f8a4d45d9e4ca31f9620463ee5410d8ed7da24",
+  "started_at": "2026-10-19T09:00:05Z",
+  "finished_at": "2026-10-19T09:00:12Z"
 }
