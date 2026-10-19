@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-19T09:00:12.551Z",
+  "generated_at": "2026-10-19T09:00:14.054Z",
   "reviews": [
+    {
+      "repo": "aunraza19/NetCortex",
+      "slug": "aunraza19__NetCortex",
+      "href": "/r/aunraza19/NetCortex",
+      "outcome": "ok",
+      "generated_at": "2026-10-19T08:59:42.615Z",
+      "finished_at": "2026-10-19T09:00:14Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226726740",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "85e902cec130",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.703017,
+          "survival": 0.9988165680473373,
+          "surviving_changes": 0.9988165680473373,
+          "cost_per_surviving_change": 1.7050347926540284
+        }
+      ]
+    },
     {
       "repo": "partio-io/cli",
       "slug": "partio-io__cli",
