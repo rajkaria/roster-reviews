@@ -1,8 +1,8 @@
 {
-  "id": "grzywek__powerpilot-20261018080658",
+  "id": "grzywek__powerpilot-20261019085944",
   "repo": "grzywek/powerpilot",
-  "created_at": "2026-10-18T08:06:58.923Z",
-  "generated_at": "2026-10-18T08:06:58.923Z",
+  "created_at": "2026-10-19T08:59:44.803Z",
+  "generated_at": "2026-10-19T08:59:44.803Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -32,7 +32,7 @@
       "rules_hash": "c6a31d2e8b5b62d079fe9953aee1af8e4895bede04e84b3f021060f4acd580a4",
       "sessions": 1,
       "mature_sessions": 0,
-      "spend_usd": 77.602479,
+      "spend_usd": 111.9100578,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
@@ -93,10 +93,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.5,
-      "survival": 0.9468111771097215,
+      "survival": 0.9463507719531837,
       "reverted": 0,
       "rework_human": 0.0010224948875255625,
-      "surviving_changes": 5.680867062658329,
+      "surviving_changes": 5.678104631719102,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -112,10 +112,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.3333333333333333,
-      "survival": 0.877095765842569,
+      "survival": 0.7696078431372548,
       "reverted": 0,
       "rework_human": 0.03343473103100914,
-      "surviving_changes": 2.631287297527707,
+      "surviving_changes": 2.3088235294117645,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
