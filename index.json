@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-20T08:38:22.063Z",
+  "generated_at": "2026-10-20T08:38:24.819Z",
   "reviews": [
+    {
+      "repo": "Dhruv2mars/superchant",
+      "slug": "Dhruv2mars__superchant",
+      "href": "/r/Dhruv2mars/superchant",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:17.152Z",
+      "finished_at": "2026-10-20T08:38:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394810350",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "91510c9dabef",
+          "label": "OpenCode · deepseek-v4-pro",
+          "harness": "OpenCode",
+          "model": "deepseek-v4-pro",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.052513164,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.052513164
+        },
+        {
+          "setup_id": "94616d29b258",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 4.6361704,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c24c1594de77",
+          "label": "OpenCode · unknown",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "alehar9320/agentic-odi",
       "slug": "alehar9320__agentic-odi",
