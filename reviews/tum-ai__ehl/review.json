@@ -1,8 +1,8 @@
 {
-  "id": "tum-ai__ehl-20261014084914",
+  "id": "tum-ai__ehl-20261020083823",
   "repo": "tum-ai/ehl",
-  "created_at": "2026-10-14T08:49:14.875Z",
-  "generated_at": "2026-10-14T08:49:14.875Z",
+  "created_at": "2026-10-20T08:38:23.835Z",
+  "generated_at": "2026-10-20T08:38:23.835Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -32,7 +32,7 @@
       "rules_hash": "db1010af470e820b4d92c8a3e8f232155365ac64327a4071a3663dde1ea3253e",
       "sessions": 1,
       "mature_sessions": 1,
-      "spend_usd": 112.2385162,
+      "spend_usd": 117.5273908,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
@@ -127,7 +127,7 @@
       "rules_hash": "c54cf11336bc03f2035abaafd3e8ac9c2d1403be56734f493e3305cb48eae124",
       "sessions": 1,
       "mature_sessions": 0,
-      "spend_usd": 3.7275586,
+      "spend_usd": 5.9592844,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
