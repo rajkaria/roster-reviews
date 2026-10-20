@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-20T08:38:31.972Z",
+  "generated_at": "2026-10-20T08:38:34.606Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:06.251Z",
+      "finished_at": "2026-10-20T08:38:34Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394793594",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "entireio/forgemark",
       "slug": "entireio__forgemark",
@@ -1387,19 +1400,6 @@
           "cost_per_surviving_change": 5.640796543421053
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-19T09:00:07.000Z",
-      "finished_at": "2026-10-19T09:00:44Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226769214",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "hacker-git-code/underwrite-",
