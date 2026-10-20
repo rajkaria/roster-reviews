@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-19T09:02:13.368Z",
+  "generated_at": "2026-10-20T08:38:13.037Z",
   "reviews": [
+    {
+      "repo": "21nCo/superfunctions",
+      "slug": "21nCo__superfunctions",
+      "href": "/r/21nCo/superfunctions",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:08.208Z",
+      "finished_at": "2026-10-20T08:38:13Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394796331",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "crcorbett/taxkit",
       "slug": "crcorbett__taxkit",
@@ -3379,19 +3392,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "21nCo/superfunctions",
-      "slug": "21nCo__superfunctions",
-      "href": "/r/21nCo/superfunctions",
-      "outcome": "ok",
-      "generated_at": "2026-10-19T08:59:42.896Z",
-      "finished_at": "2026-10-19T08:59:45Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226729171",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "orin-dx/caliper",
