@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-20T08:38:13.037Z",
+  "generated_at": "2026-10-20T08:38:17.821Z",
   "reviews": [
+    {
+      "repo": "OpenEngine/OpenEngine",
+      "slug": "OpenEngine__OpenEngine",
+      "href": "/r/OpenEngine/OpenEngine",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:10.414Z",
+      "finished_at": "2026-10-20T08:38:17Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394798656",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "9375e8d61ea7",
+          "label": "Claude Code · claude-opus-5-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5[1m]",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 3.1494434,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "21nCo/superfunctions",
       "slug": "21nCo__superfunctions",
