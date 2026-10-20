@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-20T08:38:17.821Z",
+  "generated_at": "2026-10-20T08:38:19.740Z",
   "reviews": [
+    {
+      "repo": "indkhan/Moneo",
+      "slug": "indkhan__Moneo",
+      "href": "/r/indkhan/Moneo",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:12.350Z",
+      "finished_at": "2026-10-20T08:38:19Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394800720",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "5499e095c1db",
+          "label": "Claude Code · claude-opus-5-5 (rules b922ab)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 21.730648600000002,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 21.730648600000002
+        },
+        {
+          "setup_id": "ba9012b2759f",
+          "label": "Claude Code · claude-opus-5-5 (rules 724783)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.317881,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c8230baaea81",
+          "label": "Claude Code · claude-opus-5-5 (rules 5bcfa2)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 4,
+          "mature_sessions": 3,
+          "spend_usd": 51.9328086,
+          "survival": 0.7013574660633483,
+          "surviving_changes": 2.104072398190045,
+          "cost_per_surviving_change": 17.00703855569893
+        }
+      ]
+    },
     {
       "repo": "OpenEngine/OpenEngine",
       "slug": "OpenEngine__OpenEngine",
@@ -4908,32 +4958,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "indkhan/Moneo",
-      "slug": "indkhan__Moneo",
-      "href": "/r/indkhan/Moneo",
-      "outcome": "ok",
-      "generated_at": "2026-10-18T08:06:59.769Z",
-      "finished_at": "2026-10-18T08:07:03Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110200039",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "c8230baaea81",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 4,
-          "mature_sessions": 2,
-          "spend_usd": 30.8412924,
-          "survival": 0.7058823529411764,
-          "surviving_changes": 1.4117647058823528,
-          "cost_per_surviving_change": 8.86491265
         }
       ]
     },
