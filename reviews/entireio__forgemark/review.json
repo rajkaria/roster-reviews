@@ -1,8 +1,8 @@
 {
-  "id": "entireio__forgemark-20261018080724",
+  "id": "entireio__forgemark-20261020083818",
   "repo": "entireio/forgemark",
-  "created_at": "2026-10-18T08:07:24.849Z",
-  "generated_at": "2026-10-18T08:07:24.849Z",
+  "created_at": "2026-10-20T08:38:18.228Z",
+  "generated_at": "2026-10-20T08:38:18.228Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "setup_id": "3c50505db2ea",
-      "label": "Claude Code · claude-fable-5-1",
+      "label": "Claude Code · claude-fable-5-1 (rules unknown)",
       "harness": "Claude Code",
       "model": "claude-fable-5-1",
       "rules_hash": null,
@@ -116,6 +116,25 @@
       "reverted": 1,
       "rework_human": 1,
       "surviving_changes": 0.04,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "ded4c012b894",
+      "label": "Claude Code · claude-fable-5-1 (rules 2352f3)",
+      "harness": "Claude Code",
+      "model": "claude-fable-5-1",
+      "rules_hash": "2352f3333722252cad357e1ca6b3643e797eb2dd8170acf9c243f4bfee5deb7e",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
