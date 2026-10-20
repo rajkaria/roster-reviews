@@ -1,6 +1,128 @@
 {
-  "generated_at": "2026-10-20T08:38:19.740Z",
+  "generated_at": "2026-10-20T08:38:22.063Z",
   "reviews": [
+    {
+      "repo": "alehar9320/agentic-odi",
+      "slug": "alehar9320__agentic-odi",
+      "href": "/r/alehar9320/agentic-odi",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:03.521Z",
+      "finished_at": "2026-10-20T08:38:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394789678",
+      "label": "suspect",
+      "sessions": 93,
+      "mature_sessions": 83,
+      "setups": [
+        {
+          "setup_id": "1337684859d7",
+          "label": "OpenCode · deepseek-v4.1-flash-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "184968ac3576",
+          "label": "OpenCode · nemotron-3.5-lightning-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "nemotron-3.5-lightning-free",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "1eeabb1798a6",
+          "label": "OpenCode · deepseek-v4.1-flash-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "23c9bebb98c6",
+          "label": "OpenCode · big-pickle (rules unknown)",
+          "harness": "OpenCode",
+          "model": "big-pickle",
+          "sessions": 65,
+          "mature_sessions": 65,
+          "spend_usd": null,
+          "survival": 0.4547119359683228,
+          "surviving_changes": 29.556275837940984,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "26452610a5f5",
+          "label": "OpenCode · big-pickle (rules unknown)",
+          "harness": "OpenCode",
+          "model": "big-pickle",
+          "sessions": 15,
+          "mature_sessions": 12,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "408c6ef910f9",
+          "label": "OpenCode · nemotron-3.5-lightning-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "nemotron-3.5-lightning-free",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66a48f543948",
+          "label": "OpenCode · unknown (rules unknown)",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "81653cead980",
+          "label": "OpenCode · unknown (rules unknown)",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ab9f3fbdce0b",
+          "label": "OpenCode · nemotron-3.5-lightning-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "nemotron-3.5-lightning-free",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
@@ -6143,44 +6265,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": 0.14571743,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "alehar9320/agentic-odi",
-      "slug": "alehar9320__agentic-odi",
-      "href": "/r/alehar9320/agentic-odi",
-      "outcome": "ok",
-      "generated_at": "2026-10-16T08:15:54.194Z",
-      "finished_at": "2026-10-16T08:16:01Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38872510349",
-      "label": "no_suspect",
-      "sessions": 38,
-      "mature_sessions": 31,
-      "setups": [
-        {
-          "setup_id": "23c9bebb98c6",
-          "label": "OpenCode · big-pickle",
-          "harness": "OpenCode",
-          "model": "big-pickle",
-          "sessions": 37,
-          "mature_sessions": 31,
-          "spend_usd": null,
-          "survival": 0.26306398345832205,
-          "surviving_changes": 8.154983487207984,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "81653cead980",
-          "label": "OpenCode · unknown",
-          "harness": "OpenCode",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
