@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-20T08:38:39.248Z",
+  "generated_at": "2026-10-20T08:38:42.164Z",
   "reviews": [
+    {
+      "repo": "418todayhope-sys/travel-expense-claim",
+      "slug": "418todayhope-sys__travel-expense-claim",
+      "href": "/r/418todayhope-sys/travel-expense-claim",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:19.390Z",
+      "finished_at": "2026-10-20T08:38:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394815281",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.7817787418655098,
+          "surviving_changes": 3.9088937093275486,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.978021978021978,
+          "surviving_changes": 0.978021978021978,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/jev-orchestrator",
       "slug": "petercr__jev-orchestrator",
@@ -5582,44 +5620,6 @@
       "sessions": 0,
       "mature_sessions": 0,
       "setups": []
-    },
-    {
-      "repo": "418todayhope-sys/travel-expense-claim",
-      "slug": "418todayhope-sys__travel-expense-claim",
-      "href": "/r/418todayhope-sys/travel-expense-claim",
-      "outcome": "ok",
-      "generated_at": "2026-10-17T07:52:29.968Z",
-      "finished_at": "2026-10-17T07:52:45Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015251235",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 6,
-      "setups": [
-        {
-          "setup_id": "64bbc9f14c5d",
-          "label": "Codex · gpt-6-luna",
-          "harness": "Codex",
-          "model": "gpt-6-luna",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 0.7817787418655098,
-          "surviving_changes": 3.9088937093275486,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.978021978021978,
-          "surviving_changes": 0.978021978021978,
-          "cost_per_surviving_change": null
-        }
-      ]
     },
     {
       "repo": "0x7067/jev-browse",
