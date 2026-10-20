@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261020-018",
+  "repo": "usv240/niyam-rulebook",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 39394827538,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394827538",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "ddb79ac191588b780225349362bd05423405fe6c",
+  "checkpoint_head": null,
+  "started_at": "2026-10-20T08:38:20Z",
+  "finished_at": "2026-10-20T08:38:28Z"
+}

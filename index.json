@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-20T08:38:26.950Z",
+  "generated_at": "2026-10-20T08:38:28.769Z",
   "reviews": [
+    {
+      "repo": "usv240/niyam-rulebook",
+      "slug": "usv240__niyam-rulebook",
+      "href": "/r/usv240/niyam-rulebook",
+      "outcome": "ok",
+      "generated_at": "2026-10-20T08:38:25.480Z",
+      "finished_at": "2026-10-20T08:38:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394827538",
+      "label": "insufficient_data",
+      "sessions": 37,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "0f32c4660598",
+          "label": "Claude Code · claude-haiku-5-5 (rules 495148)",
+          "harness": "Claude Code",
+          "model": "claude-haiku-5-5",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": 0.141945775,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "460fe51242df",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 495148)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 16,
+          "mature_sessions": 0,
+          "spend_usd": 2.6951745000000003,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4b2c88eb3c15",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 6fd93f)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 8,
+          "mature_sessions": 3,
+          "spend_usd": 1.4649548000000001,
+          "survival": 0.6666666666666666,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": 0.30921785
+        },
+        {
+          "setup_id": "63f3c4c70585",
+          "label": "Claude Code · claude-haiku-5-5 (rules 7a7b9a)",
+          "harness": "Claude Code",
+          "model": "claude-haiku-5-5",
+          "sessions": 5,
+          "mature_sessions": 0,
+          "spend_usd": 0.122559555,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c092f5388067",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 7a7b9a)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 0.5296943000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
