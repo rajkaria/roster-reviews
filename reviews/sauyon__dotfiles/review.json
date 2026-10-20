@@ -1,8 +1,8 @@
 {
-  "id": "sauyon__dotfiles-20261019085957",
+  "id": "sauyon__dotfiles-20261020083813",
   "repo": "sauyon/dotfiles",
-  "created_at": "2026-10-19T08:59:57.623Z",
-  "generated_at": "2026-10-19T08:59:57.623Z",
+  "created_at": "2026-10-20T08:38:13.452Z",
+  "generated_at": "2026-10-20T08:38:13.452Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -239,17 +239,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "b0512a055bfe107bfae4ba8ca0aba720d5875a6e47946b453fa11d58fd167f6d",
-      "sessions": 9,
+      "sessions": 10,
       "mature_sessions": 5,
-      "spend_usd": 15.8986398,
-      "priced_sessions": 9,
+      "spend_usd": 19.594391599999998,
+      "priced_sessions": 10,
       "spend_lower_bound": false,
-      "unattended": 0.3333333333333333,
+      "unattended": 0.3,
       "survival": 0.9571428571428571,
       "reverted": 0,
       "rework_human": 0,
       "surviving_changes": 4.785714285714286,
-      "cost_per_surviving_change": 2.0368975701492538,
+      "cost_per_surviving_change": 2.1508979402985076,
       "evidence_level": "A"
     },
     {
@@ -264,10 +264,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.12962962962962962,
-      "survival": 0.7967482493897098,
+      "survival": 0.7951874913072126,
       "reverted": 0.02564102564102564,
       "rework_human": 0.05111621183049754,
-      "surviving_changes": 31.07318172619868,
+      "surviving_changes": 31.01231216098129,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -293,11 +293,11 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 5.6875,
+  "odds_ratio": 5.684210526315789,
   "ci95": [
-    0.806217949021728,
-    40.12271903552995
+    0.7788972550409647,
+    41.48204284758959
   ],
-  "p_value": 0.2422716698010637,
+  "p_value": 0.2631818532583498,
   "evidence_level": "A"
 }

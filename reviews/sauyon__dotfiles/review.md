@@ -1,7 +1,7 @@
 # Review: sauyon/dotfiles
 
-- Review id: `sauyon__dotfiles-20261019085957`
-- Created: 2026-10-19T08:59:57.623Z
+- Review id: `sauyon__dotfiles-20261020083813`
+- Created: 2026-10-20T08:38:13.452Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -25,13 +25,13 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | `b354f56354fd` | Claude Code · claude-opus-5 (rules 90f929) | 1 | 1 | unknown (0/1 priced) | 19.3% | 0.0% | 0.0% | 0.0% | — | A |
 | `c1b9ee9cca70` | Claude Code · claude-opus-5-5 (rules 9f0348) | 2 | 2 | $3.91 | 99.1% | 0.0% | 0.0% | 50.0% | $1.98 | A |
 | `e4f4c8b87126` | Claude Code · claude-opus-5 (rules 3c9356) | 2 | 0 | unknown (0/2 priced) | too young | too young | too young | 0.0% | — | A |
-| `ebb836df9269` | Claude Code · claude-opus-5-5 (rules b0512a) | 9 | 5 | $15.90 | 95.7% | 0.0% | 0.0% | 33.3% | $2.04 | A |
-| `ecac97667b19` | Claude Code · claude-opus-5 (rules unknown) | 54 | 39 | unknown (0/54 priced) | 79.7% | 2.6% | 5.1% | 13.0% | — | A |
+| `ebb836df9269` | Claude Code · claude-opus-5-5 (rules b0512a) | 10 | 5 | $19.59 | 95.7% | 0.0% | 0.0% | 30.0% | $2.15 | A |
+| `ecac97667b19` | Claude Code · claude-opus-5 (rules unknown) | 54 | 39 | unknown (0/54 priced) | 79.5% | 2.6% | 5.1% | 13.0% | — | A |
 | `f51430ac53a7` | Claude Code · claude-opus-5-5[1m] | 2 | 2 | $2.76 | 0.0% | 100.0% | 77.0% | 50.0% | — | A |
 
 ## Notes
 
-- 4 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 5 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 31 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
 - could not be scored: cc0d8d43-a8ed-413f-9363-fa207b2bb75f: not_scored: every changed file was skipped (home.nix: over 5000 lines (5151))
 - could not be scored: 6f3dd186-f040-425d-b691-eb244ab5ef49: not_scored: every changed file was skipped (home.nix: over 5000 lines (5151))
