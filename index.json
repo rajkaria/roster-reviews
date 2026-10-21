@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-21T08:40:11.882Z",
+  "generated_at": "2026-10-21T08:40:14.116Z",
   "reviews": [
+    {
+      "repo": "ravblk/auth",
+      "slug": "ravblk__auth",
+      "href": "/r/ravblk/auth",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:40:08.013Z",
+      "finished_at": "2026-10-21T08:40:14Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570990845",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "7d65a9b4d199",
+          "label": "Claude Code · zai-org/GLM-4.7[1m]",
+          "harness": "Claude Code",
+          "model": "zai-org/GLM-4.7[1m]",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b55371711874",
+          "label": "Claude Code · MiniMaxAI/MiniMax-M2.5",
+          "harness": "Claude Code",
+          "model": "MiniMaxAI/MiniMax-M2.5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.6666666666666666,
+          "surviving_changes": 0.6666666666666666,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mebusmein/ralph-cli",
       "slug": "mebusmein__ralph-cli",
