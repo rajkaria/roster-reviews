@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261020-004",
+  "job": "disc-20261021-002",
   "repo": "xifan2333/fcitx5-vinput",
   "outcome": "ok",
   "error": null,
-  "run_id": 39394793594,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394793594",
+  "run_id": 39570957075,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570957075",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "167394e405b78692fa7ba0435990ef8a16e4f6c6",
+  "target_head": "cee0853b400ecdd0765c9eb39f93972d2d5ca767",
   "checkpoint_head": null,
-  "started_at": "2026-10-20T08:38:02Z",
-  "finished_at": "2026-10-20T08:38:34Z"
+  "started_at": "2026-10-21T08:39:48Z",
+  "finished_at": "2026-10-21T08:40:35Z"
 }

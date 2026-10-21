@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-21T08:40:32.432Z",
+  "generated_at": "2026-10-21T08:40:35.107Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:39:53.660Z",
+      "finished_at": "2026-10-21T08:40:35Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570957075",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "djmaam/portfolio-v3",
       "slug": "djmaam__portfolio-v3",
@@ -3001,19 +3014,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-20T08:38:06.251Z",
-      "finished_at": "2026-10-20T08:38:34Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394793594",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "usv240/niyam-rulebook",
