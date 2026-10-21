@@ -1,8 +1,8 @@
 {
-  "id": "jeffblankenburg__devsassemble-20261015082349",
+  "id": "jeffblankenburg__devsassemble-20261021084015",
   "repo": "jeffblankenburg/devsassemble",
-  "created_at": "2026-10-15T08:23:49.374Z",
-  "generated_at": "2026-10-15T08:23:49.374Z",
+  "created_at": "2026-10-21T08:40:15.863Z",
+  "generated_at": "2026-10-21T08:40:15.863Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,7 +11,7 @@
       "harness": "Claude Code",
       "model": "claude-opus-4-8[1m]",
       "rules_hash": null,
-      "sessions": 1,
+      "sessions": 2,
       "mature_sessions": 1,
       "spend_usd": null,
       "priced_sessions": 0,

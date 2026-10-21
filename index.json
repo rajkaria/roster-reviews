@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-21T08:40:39.733Z",
+  "generated_at": "2026-10-21T08:40:46.375Z",
   "reviews": [
+    {
+      "repo": "jeffblankenburg/devsassemble",
+      "slug": "jeffblankenburg__devsassemble",
+      "href": "/r/jeffblankenburg/devsassemble",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:40:15.863Z",
+      "finished_at": "2026-10-21T08:40:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570998993",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "4880dd07fa1e",
+          "label": "Claude Code · claude-opus-4-8[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8[1m]",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7012987012987013,
+          "surviving_changes": 0.7012987012987013,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "entireio/git-sync",
       "slug": "entireio__git-sync",
@@ -8117,32 +8143,6 @@
           "survival": 1,
           "surviving_changes": 1,
           "cost_per_surviving_change": 18.509543400000002
-        }
-      ]
-    },
-    {
-      "repo": "jeffblankenburg/devsassemble",
-      "slug": "jeffblankenburg__devsassemble",
-      "href": "/r/jeffblankenburg/devsassemble",
-      "outcome": "ok",
-      "generated_at": "2026-10-15T08:23:49.374Z",
-      "finished_at": "2026-10-15T08:24:42Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38705321428",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "4880dd07fa1e",
-          "label": "Claude Code · claude-opus-4-8[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.7012987012987013,
-          "surviving_changes": 0.7012987012987013,
-          "cost_per_surviving_change": null
         }
       ]
     },
