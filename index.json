@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-21T08:40:26.993Z",
+  "generated_at": "2026-10-21T08:40:32.432Z",
   "reviews": [
+    {
+      "repo": "djmaam/portfolio-v3",
+      "slug": "djmaam__portfolio-v3",
+      "href": "/r/djmaam/portfolio-v3",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:40:03.952Z",
+      "finished_at": "2026-10-21T08:40:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570981229",
+      "label": "insufficient_data",
+      "sessions": 13,
+      "mature_sessions": 9,
+      "setups": [
+        {
+          "setup_id": "0e24e01306bc",
+          "label": "Claude Code · claude-opus-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.9975213683587507,
+          "surviving_changes": 4.987606841793753,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3ec6c844eb14",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.3608924,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "aab2ac419927",
+          "label": "Claude Code · claude-opus-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 6,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.9991015274034142,
+          "surviving_changes": 2.9973045822102424,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b5b2bb926ed3",
+          "label": "Claude Code · claude-opus-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",
