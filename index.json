@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-21T08:40:35.107Z",
+  "generated_at": "2026-10-21T08:40:39.733Z",
   "reviews": [
+    {
+      "repo": "entireio/git-sync",
+      "slug": "entireio__git-sync",
+      "href": "/r/entireio/git-sync",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:40:07.078Z",
+      "finished_at": "2026-10-21T08:40:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570985757",
+      "label": "no_suspect",
+      "sessions": 96,
+      "mature_sessions": 95,
+      "setups": [
+        {
+          "setup_id": "3a949e7920ec",
+          "label": "Claude Code · claude-opus-4-8",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5b2b1e537406",
+          "label": "Codex · gpt-5.5",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 28,
+          "mature_sessions": 28,
+          "spend_usd": null,
+          "survival": 0.9044005102040822,
+          "surviving_changes": 25.3232142857143,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6b468a41bf53",
+          "label": "Claude Code · claude-opus-4-8[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8[1m]",
+          "sessions": 12,
+          "mature_sessions": 12,
+          "spend_usd": null,
+          "survival": 0.7581451471239994,
+          "surviving_changes": 9.097741765487992,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8936cf987a58",
+          "label": "Claude Code · claude-opus-4-7",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.775,
+          "surviving_changes": 3.1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ab91f254d447",
+          "label": "Claude Code · claude-opus-4-6[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6[1m]",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.41115673968659266,
+          "surviving_changes": 2.878097177806149,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d358ae17c46f",
+          "label": "Claude Code · claude-opus-4-7[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7[1m]",
+          "sessions": 21,
+          "mature_sessions": 21,
+          "spend_usd": null,
+          "survival": 0.678760635068012,
+          "surviving_changes": 14.253973336428253,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e6b3d51c52e9",
+          "label": "Codex · gpt-5.4",
+          "harness": "Codex",
+          "model": "gpt-5.4",
+          "sessions": 23,
+          "mature_sessions": 22,
+          "spend_usd": null,
+          "survival": 0.6392302380148682,
+          "surviving_changes": 14.0630652363271,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
