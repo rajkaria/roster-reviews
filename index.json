@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-21T08:40:16.924Z",
+  "generated_at": "2026-10-21T08:40:19.205Z",
   "reviews": [
+    {
+      "repo": "kangashley/kangashley.github.io",
+      "slug": "kangashley__kangashley.github.io",
+      "href": "/r/kangashley/kangashley.github.io",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:40:11.809Z",
+      "finished_at": "2026-10-21T08:40:19Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570993414",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "42fffe5a197d",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.02631578947368421,
+          "surviving_changes": 0.02631578947368421,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 10.961494,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
