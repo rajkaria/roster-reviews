@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-20T08:40:07.882Z",
+  "generated_at": "2026-10-21T08:40:03.423Z",
   "reviews": [
+    {
+      "repo": "GuJeuk-Check-in/GuJeuk-Check-in-FE",
+      "slug": "GuJeuk-Check-in__GuJeuk-Check-in-FE",
+      "href": "/r/GuJeuk-Check-in/GuJeuk-Check-in-FE",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:40:00.479Z",
+      "finished_at": "2026-10-21T08:40:03Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570976302",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "rodbegbie/stopwatch-screensaver",
       "slug": "rodbegbie__stopwatch-screensaver",

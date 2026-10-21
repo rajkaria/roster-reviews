@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261021-009",
+  "repo": "GuJeuk-Check-in/GuJeuk-Check-in-FE",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 39570976302,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570976302",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "15f3366863a5936b64c9a95cc2a874c67f53adb6",
+  "checkpoint_head": "d1e743a64cc6b18a5e072fc24fb8bacd5b85ed06",
+  "started_at": "2026-10-21T08:39:56Z",
+  "finished_at": "2026-10-21T08:40:03Z"
+}
