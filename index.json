@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-21T08:40:06.214Z",
+  "generated_at": "2026-10-21T08:40:08.856Z",
   "reviews": [
+    {
+      "repo": "entireio/forgemark",
+      "slug": "entireio__forgemark",
+      "href": "/r/entireio/forgemark",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:39:56.721Z",
+      "finished_at": "2026-10-21T08:40:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570968653",
+      "label": "no_suspect",
+      "sessions": 21,
+      "mature_sessions": 17,
+      "setups": [
+        {
+          "setup_id": "247cc446a8a5",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 11,
+          "mature_sessions": 11,
+          "spend_usd": null,
+          "survival": 0.9179646387784642,
+          "surviving_changes": 10.097611026563106,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3152ffc21340",
+          "label": "Claude Code · claude-fable-5",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.6755018013381369,
+          "surviving_changes": 2.0265054040144106,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3a949e7920ec",
+          "label": "Claude Code · claude-opus-4-8",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9459459459459459,
+          "surviving_changes": 0.9459459459459459,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3c50505db2ea",
+          "label": "Claude Code · claude-fable-5-1 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 4.6365252,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 4.6365252
+        },
+        {
+          "setup_id": "6b468a41bf53",
+          "label": "Claude Code · claude-opus-4-8[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.04,
+          "surviving_changes": 0.04,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ded4c012b894",
+          "label": "Claude Code · claude-fable-5-1 (rules 2352f3)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tteggel/.dotfiles",
       "slug": "tteggel__.dotfiles",
@@ -1518,104 +1616,6 @@
       "sessions": 0,
       "mature_sessions": 0,
       "setups": []
-    },
-    {
-      "repo": "entireio/forgemark",
-      "slug": "entireio__forgemark",
-      "href": "/r/entireio/forgemark",
-      "outcome": "ok",
-      "generated_at": "2026-10-20T08:38:18.228Z",
-      "finished_at": "2026-10-20T08:38:31Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394820402",
-      "label": "insufficient_data",
-      "sessions": 20,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "247cc446a8a5",
-          "label": "Codex · gpt-5.6-sol",
-          "harness": "Codex",
-          "model": "gpt-5.6-sol",
-          "sessions": 11,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "3152ffc21340",
-          "label": "Claude Code · claude-fable-5",
-          "harness": "Claude Code",
-          "model": "claude-fable-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "3a949e7920ec",
-          "label": "Claude Code · claude-opus-4-8",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "3c50505db2ea",
-          "label": "Claude Code · claude-fable-5-1 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-1",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 4.6365252,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6b468a41bf53",
-          "label": "Claude Code · claude-opus-4-8[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.04,
-          "surviving_changes": 0.04,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "ded4c012b894",
-          "label": "Claude Code · claude-fable-5-1 (rules 2352f3)",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-1",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
     },
     {
       "repo": "usv240/niyam-rulebook",
