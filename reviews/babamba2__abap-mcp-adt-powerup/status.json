@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261017-010",
+  "job": "disc-20261021-019",
   "repo": "babamba2/abap-mcp-adt-powerup",
   "outcome": "ok",
   "error": null,
-  "run_id": 39015254133,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015254133",
+  "run_id": 39571001942,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39571001942",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "81f314461fc1e4a40d285e5303efaaad6431ad39",
+  "target_head": "c9461c6e522da2e429366d827af02de603287c7b",
   "checkpoint_head": "c85067302dd05acbc71ef4df35dc2e3cd07a22aa",
-  "started_at": "2026-10-17T07:52:29Z",
-  "finished_at": "2026-10-17T07:52:39Z"
+  "started_at": "2026-10-21T08:40:09Z",
+  "finished_at": "2026-10-21T08:40:15Z"
 }
