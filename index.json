@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-10-21T08:41:38.860Z",
+  "generated_at": "2026-10-21T08:43:04.175Z",
   "reviews": [
+    {
+      "repo": "gkeyllorg/gkeyll",
+      "slug": "gkeyllorg__gkeyll",
+      "href": "/r/gkeyllorg/gkeyll",
+      "outcome": "ok",
+      "generated_at": "2026-10-21T08:39:58.195Z",
+      "finished_at": "2026-10-21T08:43:04Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570973645",
+      "label": "suspect",
+      "sessions": 124,
+      "mature_sessions": 102,
+      "setups": [
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 7.682309999999999,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "247cc446a8a5",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5d58148ee8b1",
+          "label": "Codex · gpt-5.6-terra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.004291845493562232,
+          "surviving_changes": 0.008583690987124463,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6bdbcf6d6357",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 81,
+          "mature_sessions": 67,
+          "spend_usd": 329.414444,
+          "survival": 0.1555449220356888,
+          "surviving_changes": 10.421509776391149,
+          "cost_per_surviving_change": 15.460096229530501
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 13,
+          "mature_sessions": 10,
+          "spend_usd": null,
+          "survival": 0.36524158932951994,
+          "surviving_changes": 3.6524158932951996,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e0969b715ba1",
+          "label": "Codex · gpt-5.6-terra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 24,
+          "mature_sessions": 21,
+          "spend_usd": null,
+          "survival": 0.5537754099128308,
+          "surviving_changes": 11.629283608169446,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "rodbegbie/stopwatch-screensaver",
       "slug": "rodbegbie__stopwatch-screensaver",
