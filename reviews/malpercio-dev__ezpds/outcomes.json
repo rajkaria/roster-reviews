@@ -1298,7 +1298,7 @@
   {
     "session_id": "9de49494-92e5-43cb-a89f-cef274cb13c6",
     "status": "mature",
-    "survival": 0.909967845659164,
+    "survival": 0.4405144694533762,
     "reverted": false,
     "rework_human": 0,
     "rework_agent": 0.0028653295128939827,
@@ -1310,7 +1310,7 @@
   {
     "session_id": "92e49456-e61d-4d8e-94d1-71309b531a29",
     "status": "mature",
-    "survival": 0.9704301075268817,
+    "survival": 0.42338709677419356,
     "reverted": false,
     "rework_human": 0,
     "rework_agent": 0.007389162561576354,
@@ -1394,7 +1394,7 @@
   {
     "session_id": "f91fc39e-8a46-45f9-96a5-b3f69bd06389",
     "status": "mature",
-    "survival": 0.8925233644859814,
+    "survival": 0.17757009345794392,
     "reverted": false,
     "rework_human": 0,
     "rework_agent": 0.008968609865470852,
@@ -1418,7 +1418,7 @@
   {
     "session_id": "ab72aa9b-a5f3-4f44-b910-158b24f7566b",
     "status": "mature",
-    "survival": 0.9924812030075187,
+    "survival": 0.9699248120300752,
     "reverted": false,
     "rework_human": 0,
     "rework_agent": 0.0070921985815602835,
@@ -1442,7 +1442,7 @@
   {
     "session_id": "88316797-babd-46d9-a25b-f9e18583db1d",
     "status": "mature",
-    "survival": 0.821826280623608,
+    "survival": 0.45657015590200445,
     "reverted": false,
     "rework_human": 0,
     "rework_agent": 0.0020920502092050207,
