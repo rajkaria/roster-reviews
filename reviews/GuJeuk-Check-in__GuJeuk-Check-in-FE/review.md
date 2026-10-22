@@ -1,7 +1,7 @@
 # Review: GuJeuk-Check-in/GuJeuk-Check-in-FE
 
-- Review id: `GuJeuk-Check-in__GuJeuk-Check-in-FE-20261021084000`
-- Created: 2026-10-21T08:40:00.479Z
+- Review id: `GuJeuk-Check-in__GuJeuk-Check-in-FE-20261022084158`
+- Created: 2026-10-22T08:41:58.250Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`

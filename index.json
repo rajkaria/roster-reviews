@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-22T08:41:55.869Z",
+  "generated_at": "2026-10-22T08:42:00.943Z",
   "reviews": [
+    {
+      "repo": "GuJeuk-Check-in/GuJeuk-Check-in-FE",
+      "slug": "GuJeuk-Check-in__GuJeuk-Check-in-FE",
+      "href": "/r/GuJeuk-Check-in/GuJeuk-Check-in-FE",
+      "outcome": "ok",
+      "generated_at": "2026-10-22T08:41:58.250Z",
+      "finished_at": "2026-10-22T08:42:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749671272",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "kangashley/kangashley.github.io",
       "slug": "kangashley__kangashley.github.io",
@@ -2927,19 +2940,6 @@
           "cost_per_surviving_change": 8.514554
         }
       ]
-    },
-    {
-      "repo": "GuJeuk-Check-in/GuJeuk-Check-in-FE",
-      "slug": "GuJeuk-Check-in__GuJeuk-Check-in-FE",
-      "href": "/r/GuJeuk-Check-in/GuJeuk-Check-in-FE",
-      "outcome": "ok",
-      "generated_at": "2026-10-21T08:40:00.479Z",
-      "finished_at": "2026-10-21T08:40:03Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570976302",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "jai-dewani/aiwritesblogs",
