@@ -8,8 +8,8 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.2804789050392735,
-    "tercile": 3
+    "difficulty": -0.03336807678592271,
+    "tercile": 2
   },
   {
     "session_id": "f8f0e3c0-851b-4d10-82bf-b77a783da607",
@@ -20,8 +20,8 @@
     "rework_agent": 0,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.05405851483546048,
-    "tercile": 2
+    "difficulty": 0.027844693898616768,
+    "tercile": 3
   },
   {
     "session_id": "5d896c0a-a8ab-45ab-ae2a-698df72a0be0",
@@ -32,7 +32,7 @@
     "rework_agent": 0,
     "unattended": true,
     "tests_at_commit": null,
-    "difficulty": -0.2867123686492423,
+    "difficulty": -0.31824471176102287,
     "tercile": 2
   },
   {
@@ -44,7 +44,7 @@
     "rework_agent": 0,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.6613021959617,
+    "difficulty": -0.6366974805939769,
     "tercile": 1
   },
   {
@@ -56,7 +56,7 @@
     "rework_agent": 0.2857142857142857,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 1.8331023291337096,
+    "difficulty": 1.7946609648731318,
     "tercile": 3
   },
   {
@@ -68,7 +68,7 @@
     "rework_agent": 0.16666666666666666,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.06040126118219513,
+    "difficulty": -0.15539527945617448,
     "tercile": 2
   },
   {
@@ -80,7 +80,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.6426091367365172,
+    "difficulty": -0.6874956526754228,
     "tercile": 1
   },
   {
@@ -92,7 +92,19 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.6374173088431793,
+    "difficulty": -0.6558812649596679,
     "tercile": 1
+  },
+  {
+    "session_id": "5f007a6e-273a-4f89-85b5-8e346f995259",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.664576807460439,
+    "tercile": 3
   }
 ]
