@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-22T08:42:04.782Z",
+  "generated_at": "2026-10-22T08:42:06.601Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-10-22T08:42:05.245Z",
+      "finished_at": "2026-10-22T08:42:06Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749685994",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "steelcj/uc-automa",
       "slug": "steelcj__uc-automa",
@@ -2964,32 +2990,6 @@
           "survival": 1,
           "surviving_changes": 1,
           "cost_per_surviving_change": 8.514554
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-10-20T08:38:22.508Z",
-      "finished_at": "2026-10-20T08:39:02Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394822695",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
         }
       ]
     },
