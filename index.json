@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-21T08:43:04.175Z",
+  "generated_at": "2026-10-22T08:41:55.869Z",
   "reviews": [
+    {
+      "repo": "kangashley/kangashley.github.io",
+      "slug": "kangashley__kangashley.github.io",
+      "href": "/r/kangashley/kangashley.github.io",
+      "outcome": "ok",
+      "generated_at": "2026-10-22T08:41:53.171Z",
+      "finished_at": "2026-10-22T08:41:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749657052",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "42fffe5a197d",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.02631578947368421,
+          "surviving_changes": 0.02631578947368421,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 10.961494,
+          "survival": 0.8983957219251337,
+          "surviving_changes": 0.8983957219251337,
+          "cost_per_surviving_change": 12.201186773809523
+        },
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.2444706,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "gkeyllorg/gkeyll",
       "slug": "gkeyllorg__gkeyll",
@@ -2489,44 +2539,6 @@
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "kangashley/kangashley.github.io",
-      "slug": "kangashley__kangashley.github.io",
-      "href": "/r/kangashley/kangashley.github.io",
-      "outcome": "ok",
-      "generated_at": "2026-10-21T08:40:11.809Z",
-      "finished_at": "2026-10-21T08:40:19Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570993414",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "42fffe5a197d",
-          "label": "Claude Code · claude-sonnet-4-6",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-4-6",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.02631578947368421,
-          "surviving_changes": 0.02631578947368421,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 10.961494,
-          "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
