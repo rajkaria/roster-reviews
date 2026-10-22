@@ -1,7 +1,7 @@
 # Review: petercr/jev-orchestrator
 
-- Review id: `petercr__jev-orchestrator-20261020083818`
-- Created: 2026-10-20T08:38:18.111Z
+- Review id: `petercr__jev-orchestrator-20261022084209`
+- Created: 2026-10-22T08:42:09.189Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,15 +13,15 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `0d67e9e9afc4` | Codex · gpt-5.6-terra | 1 | 1 | unknown (0/1 priced) | 97.9% | 0.0% | 10.6% | 0.0% | — | A |
+| `0d67e9e9afc4` | Codex · gpt-5.6-terra | 1 | 1 | unknown (0/1 priced) | 97.2% | 0.0% | 10.6% | 0.0% | — | A |
 | `15894bbd258d` | Codex · gpt-6-astra | 1 | 1 | $2.70 | 92.4% | 0.0% | 17.5% | 0.0% | $2.92 | A |
-| `1593e4ec5ef9` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 86.5% | 0.0% | 16.3% | 0.0% | — | A |
-| `2d85e4310da1` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 96.1% | 0.0% | 5.4% | 100.0% | — | A |
+| `1593e4ec5ef9` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 86.1% | 0.0% | 16.3% | 0.0% | — | A |
+| `2d85e4310da1` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 95.1% | 0.0% | 5.4% | 100.0% | — | A |
 | `308b61c6d44f` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 99.3% | 0.0% | 2.3% | 50.0% | — | A |
-| `4e21faaa6348` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 97.4% | 0.0% | 3.2% | 0.0% | — | A |
+| `4e21faaa6348` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 95.8% | 0.0% | 3.2% | 0.0% | — | A |
 | `8fccdcfb3fa6` | Codex · gpt-6-luna (rules unknown) | 1 | 1 | unknown (0/1 priced) | 41.9% | 100.0% | 58.0% | 100.0% | — | A |
-| `a39cc49ab51e` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 95.0% | 0.0% | 7.4% | 0.0% | — | A |
-| `aa663c1fb61f` | Codex · gpt-6-luna (rules unknown) | 1 | 1 | unknown (0/1 priced) | 96.1% | 0.0% | 5.4% | 100.0% | — | A |
+| `a39cc49ab51e` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.9% | 0.0% | 7.4% | 0.0% | — | A |
+| `aa663c1fb61f` | Codex · gpt-6-luna (rules unknown) | 1 | 1 | unknown (0/1 priced) | 95.1% | 0.0% | 5.4% | 100.0% | — | A |
 | `deb3d82a719f` | Codex · gpt-5.6-sol | 1 | 1 | unknown (0/1 priced) | 91.7% | 0.0% | 15.0% | 0.0% | — | A |
 | `f553008755f6` | Codex · gpt-6.1-sol (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 
