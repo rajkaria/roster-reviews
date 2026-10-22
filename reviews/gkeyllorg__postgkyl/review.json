@@ -1,8 +1,8 @@
 {
-  "id": "gkeyllorg__postgkyl-20261018080724",
+  "id": "gkeyllorg__postgkyl-20261022084207",
   "repo": "gkeyllorg/postgkyl",
-  "created_at": "2026-10-18T08:07:24.648Z",
-  "generated_at": "2026-10-18T08:07:24.648Z",
+  "created_at": "2026-10-22T08:42:07.117Z",
+  "generated_at": "2026-10-22T08:42:07.117Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.7477003942181341,
+      "survival": 0.7398160315374507,
       "reverted": 0,
-      "rework_human": 0.03944315545243619,
-      "surviving_changes": 0.7477003942181341,
+      "rework_human": 0.052204176334106726,
+      "surviving_changes": 0.7398160315374507,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -30,17 +30,17 @@
       "harness": "Codex",
       "model": "gpt-6-astra",
       "rules_hash": null,
-      "sessions": 55,
+      "sessions": 61,
       "mature_sessions": 48,
-      "spend_usd": 238.39759400000008,
-      "priced_sessions": 55,
+      "spend_usd": 258.91350600000004,
+      "priced_sessions": 61,
       "spend_lower_bound": false,
-      "unattended": 0.4909090909090909,
-      "survival": 0.8387291707941863,
-      "reverted": 0,
-      "rework_human": 0.024710291154581236,
-      "surviving_changes": 40.259000198120944,
-      "cost_per_surviving_change": 4.617853277158067,
+      "unattended": 0.5081967213114754,
+      "survival": 0.8215457961940381,
+      "reverted": 0.0625,
+      "rework_human": 0.06814536234554976,
+      "surviving_changes": 39.43419821731383,
+      "cost_per_surviving_change": 4.714439861956547,
       "evidence_level": "A"
     },
     {
@@ -133,7 +133,7 @@
       "unattended": 0.2727272727272727,
       "survival": 0.8244096042291917,
       "reverted": 0,
-      "rework_human": 0.00410522420778205,
+      "rework_human": 0.004898036047105516,
       "surviving_changes": 9.068505646521109,
       "cost_per_surviving_change": 4.203202102501031,
       "evidence_level": "A"
@@ -169,21 +169,21 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8972177174724659,
+      "survival": 0.8971703689876174,
       "reverted": 0,
-      "rework_human": 0.008696721973398778,
-      "surviving_changes": 2.691653152417398,
+      "rework_human": 0.008955894841701935,
+      "surviving_changes": 2.691511106962852,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 5.609302070177366,
+  "odds_ratio": 1.8978662873399714,
   "ci95": [
-    0.5343983561119156,
-    58.87793133088667
+    0.27865769774321714,
+    12.925881731574307
   ],
-  "p_value": 1,
+  "p_value": 0.4950461301319884,
   "evidence_level": "A"
 }
