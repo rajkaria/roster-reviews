@@ -1,7 +1,7 @@
 # Review: sauyon/dotfiles
 
-- Review id: `sauyon__dotfiles-20261021083958`
-- Created: 2026-10-21T08:39:58.294Z
+- Review id: `sauyon__dotfiles-20261022084157`
+- Created: 2026-10-22T08:41:57.692Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -13,7 +13,7 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `07438248e5d8` | Claude Code · claude-opus-5 (rules unknown) | 29 | 17 | unknown (0/29 priced) | 73.2% | 11.8% | 7.3% | 17.2% | — | A |
+| `07438248e5d8` | Claude Code · claude-opus-5 (rules unknown) | 29 | 17 | unknown (0/29 priced) | 72.8% | 11.8% | 7.3% | 17.2% | — | A |
 | `3e9117732985` | Claude Code · claude-opus-5-5 (rules c84ff2) | 1 | 1 | $2.64 | 94.4% | 0.0% | 0.0% | 0.0% | $2.80 | A |
 | `40a454766b71` | Claude Code · claude-opus-5 (rules c1825c) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `49764722ed0e` | Claude Code · claude-opus-5 (rules 9f0348) | 3 | 3 | unknown (0/3 priced) | 31.5% | 0.0% | 0.0% | 0.0% | — | A |
@@ -25,13 +25,13 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | `b354f56354fd` | Claude Code · claude-opus-5 (rules 90f929) | 1 | 1 | unknown (0/1 priced) | 19.3% | 0.0% | 0.0% | 0.0% | — | A |
 | `c1b9ee9cca70` | Claude Code · claude-opus-5-5 (rules 9f0348) | 2 | 2 | $3.91 | 99.1% | 0.0% | 0.0% | 50.0% | $1.98 | A |
 | `e4f4c8b87126` | Claude Code · claude-opus-5 (rules 3c9356) | 2 | 0 | unknown (0/2 priced) | too young | too young | too young | 0.0% | — | A |
-| `ebb836df9269` | Claude Code · claude-opus-5-5 (rules b0512a) | 13 | 7 | $22.90 | 96.1% | 0.0% | 0.0% | 30.8% | $2.67 | A |
+| `ebb836df9269` | Claude Code · claude-opus-5-5 (rules b0512a) | 15 | 10 | $24.85 | 93.6% | 0.0% | 1.4% | 26.7% | $2.27 | A |
 | `ecac97667b19` | Claude Code · claude-opus-5 (rules unknown) | 55 | 39 | unknown (0/55 priced) | 79.3% | 2.6% | 5.1% | 12.7% | — | A |
 | `f51430ac53a7` | Claude Code · claude-opus-5-5[1m] | 2 | 2 | $2.76 | 0.0% | 100.0% | 77.0% | 50.0% | — | A |
 
 ## Notes
 
-- 7 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 6 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 31 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
 - could not be scored: cc0d8d43-a8ed-413f-9363-fa207b2bb75f: not_scored: every changed file was skipped (home.nix: over 5000 lines (5153))
 - could not be scored: 6f3dd186-f040-425d-b691-eb244ab5ef49: not_scored: every changed file was skipped (home.nix: over 5000 lines (5153))

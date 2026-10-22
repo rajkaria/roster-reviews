@@ -1,8 +1,8 @@
 {
-  "id": "sauyon__dotfiles-20261021083958",
+  "id": "sauyon__dotfiles-20261022084157",
   "repo": "sauyon/dotfiles",
-  "created_at": "2026-10-21T08:39:58.294Z",
-  "generated_at": "2026-10-21T08:39:58.294Z",
+  "created_at": "2026-10-22T08:41:57.692Z",
+  "generated_at": "2026-10-22T08:41:57.692Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.1724137931034483,
-      "survival": 0.7318637534920152,
+      "survival": 0.7278069583601693,
       "reverted": 0.11764705882352941,
       "rework_human": 0.07335958005249343,
-      "surviving_changes": 12.441683809364257,
+      "surviving_changes": 12.372718292122878,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -239,17 +239,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "b0512a055bfe107bfae4ba8ca0aba720d5875a6e47946b453fa11d58fd167f6d",
-      "sessions": 13,
-      "mature_sessions": 7,
-      "spend_usd": 22.8990148,
-      "priced_sessions": 13,
+      "sessions": 15,
+      "mature_sessions": 10,
+      "spend_usd": 24.8548476,
+      "priced_sessions": 15,
       "spend_lower_bound": false,
-      "unattended": 0.3076923076923077,
-      "survival": 0.9614512471655329,
+      "unattended": 0.26666666666666666,
+      "survival": 0.9356532356532357,
       "reverted": 0,
-      "rework_human": 0,
-      "surviving_changes": 6.73015873015873,
-      "cost_per_surviving_change": 2.667813096226415,
+      "rework_human": 0.014285714285714285,
+      "surviving_changes": 9.356532356532357,
+      "cost_per_surviving_change": 2.2721482692418116,
       "evidence_level": "A"
     },
     {
@@ -293,11 +293,11 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 6.166666666666666,
+  "odds_ratio": 6.306818181818182,
   "ci95": [
-    0.8768878933032797,
-    43.36674969308251
+    0.9149586456381653,
+    43.47295450798157
   ],
-  "p_value": 0.20833730753111915,
+  "p_value": 0.18843486257956132,
   "evidence_level": "A"
 }
