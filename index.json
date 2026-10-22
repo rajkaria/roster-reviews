@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-22T08:42:09.998Z",
+  "generated_at": "2026-10-22T08:42:11.549Z",
   "reviews": [
+    {
+      "repo": "Squidys-Tools/inkling",
+      "slug": "Squidys-Tools__inkling",
+      "href": "/r/Squidys-Tools/inkling",
+      "outcome": "ok",
+      "generated_at": "2026-10-22T08:42:04.048Z",
+      "finished_at": "2026-10-22T08:42:11Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749677615",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "43cd502b229d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 21.5123154,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6058e8bc0359",
+          "label": "Codex · gpt-6-luna (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "92d063e6d1fd",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 2.8927264,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e875627d1072",
+          "label": "Codex · gpt-6-luna (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
