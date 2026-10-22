@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-22T08:44:57.880Z",
+  "generated_at": "2026-10-22T08:46:14.016Z",
   "reviews": [
+    {
+      "repo": "crcorbett/bundjil",
+      "slug": "crcorbett__bundjil",
+      "href": "/r/crcorbett/bundjil",
+      "outcome": "ok",
+      "generated_at": "2026-10-22T08:41:57.160Z",
+      "finished_at": "2026-10-22T08:46:13Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749663063",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "f19fbbccaa7e",
+          "label": "Codex · gpt-5.5",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7955974842767296,
+          "surviving_changes": 0.7955974842767296,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fd5344e18be7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7955974842767296,
+          "surviving_changes": 0.7955974842767296,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/michi",
       "slug": "orin-dx__michi",
