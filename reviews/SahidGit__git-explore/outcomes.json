@@ -2,9 +2,9 @@
   {
     "session_id": "a0d4017e-0816-4900-ab3a-daf88741f512",
     "status": "mature",
-    "survival": 0.9408740359897172,
+    "survival": 0.9151670951156813,
     "reverted": false,
-    "rework_human": 0.06979405034324943,
+    "rework_human": 0.13615560640732266,
     "rework_agent": 0,
     "unattended": false,
     "tests_at_commit": null,
@@ -14,9 +14,9 @@
   {
     "session_id": "e7b6b29b-38f3-4681-a96d-40d5c1338c0a",
     "status": "mature",
-    "survival": 0.9408740359897172,
+    "survival": 0.9151670951156813,
     "reverted": false,
-    "rework_human": 0.06979405034324943,
+    "rework_human": 0.13615560640732266,
     "rework_agent": 0,
     "unattended": false,
     "tests_at_commit": null,

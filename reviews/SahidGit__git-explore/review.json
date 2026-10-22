@@ -1,8 +1,8 @@
 {
-  "id": "SahidGit__git-explore-20261013132412",
+  "id": "SahidGit__git-explore-20261022084204",
   "repo": "SahidGit/git-explore",
-  "created_at": "2026-10-13T13:24:12.903Z",
-  "generated_at": "2026-10-13T13:24:12.903Z",
+  "created_at": "2026-10-22T08:42:04.725Z",
+  "generated_at": "2026-10-22T08:42:04.725Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9408740359897172,
+      "survival": 0.9151670951156813,
       "reverted": 0,
-      "rework_human": 0.06979405034324943,
-      "surviving_changes": 1.8817480719794344,
+      "rework_human": 0.13615560640732266,
+      "surviving_changes": 1.8303341902313626,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
