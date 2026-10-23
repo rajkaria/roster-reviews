@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-23T08:37:54.273Z",
+  "generated_at": "2026-10-23T08:37:59.983Z",
   "reviews": [
+    {
+      "repo": "21nCo/superfunctions",
+      "slug": "21nCo__superfunctions",
+      "href": "/r/21nCo/superfunctions",
+      "outcome": "ok",
+      "generated_at": "2026-10-23T08:37:56.504Z",
+      "finished_at": "2026-10-23T08:37:59Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39925997091",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "MAUK9086/patch-sloth",
       "slug": "MAUK9086__patch-sloth",
@@ -4114,19 +4127,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "21nCo/superfunctions",
-      "slug": "21nCo__superfunctions",
-      "href": "/r/21nCo/superfunctions",
-      "outcome": "ok",
-      "generated_at": "2026-10-20T08:38:08.208Z",
-      "finished_at": "2026-10-20T08:38:13Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39394796331",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "hacker-git-code/underwrite-",
