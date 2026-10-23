@@ -1,7 +1,7 @@
 # Review: malpercio-dev/ezpds
 
-- Review id: `malpercio-dev__ezpds-20261022084151`
-- Created: 2026-10-22T08:41:51.200Z
+- Review id: `malpercio-dev__ezpds-20261023083753`
+- Created: 2026-10-23T08:37:53.098Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -24,7 +24,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `224e7943034c` | Claude Code · claude-fable-5 (rules b13d2b) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `23a3da0f94c3` | Claude Code · claude-opus-4-8 (rules d0c7c5) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `24d0bb531d1a` | Claude Code · claude-opus-5 (rules d534f5) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
-| `2ddc282bc433` | Claude Code · claude-opus-5 (rules be514b) | 1 | 1 | unknown (0/1 priced) | 42.3% | 0.0% | 0.0% | 0.0% | — | A |
+| `2ddc282bc433` | Claude Code · claude-opus-5 (rules be514b) | 1 | 1 | unknown (0/1 priced) | 16.8% | 0.0% | 0.0% | 0.0% | — | A |
 | `362c03482dd8` | Claude Code · claude-fable-5 (rules c8163e) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `38276a389445` | Claude Code · claude-opus-5 (rules 165053) | 3 | 0 | unknown (0/3 priced) | too young | too young | too young | 0.0% | — | A |
 | `3ffe5a4df537` | Claude Code · claude-opus-5 (rules 3d6f09) | 1 | 1 | unknown (0/1 priced) | 44.1% | 0.0% | 0.0% | 100.0% | — | A |
