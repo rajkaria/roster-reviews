@@ -1,8 +1,8 @@
 {
-  "id": "petercr__jev-orchestrator-20261022084209",
+  "id": "petercr__jev-orchestrator-20261023083748",
   "repo": "petercr/jev-orchestrator",
-  "created_at": "2026-10-22T08:42:09.189Z",
-  "generated_at": "2026-10-22T08:42:09.189Z",
+  "created_at": "2026-10-23T08:37:48.595Z",
+  "generated_at": "2026-10-23T08:37:48.595Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -202,15 +202,15 @@
       "model": "gpt-6.1-sol",
       "rules_hash": null,
       "sessions": 1,
-      "mature_sessions": 0,
+      "mature_sessions": 1,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
+      "survival": 0.9339622641509434,
+      "reverted": 0,
+      "rework_human": 0.05309734513274336,
+      "surviving_changes": 0.9339622641509434,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

@@ -1,7 +1,7 @@
 # Review: petercr/jev-orchestrator
 
-- Review id: `petercr__jev-orchestrator-20261022084209`
-- Created: 2026-10-22T08:42:09.189Z
+- Review id: `petercr__jev-orchestrator-20261023083748`
+- Created: 2026-10-23T08:37:48.595Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -23,11 +23,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `a39cc49ab51e` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.9% | 0.0% | 7.4% | 0.0% | — | A |
 | `aa663c1fb61f` | Codex · gpt-6-luna (rules unknown) | 1 | 1 | unknown (0/1 priced) | 95.1% | 0.0% | 5.4% | 100.0% | — | A |
 | `deb3d82a719f` | Codex · gpt-5.6-sol | 1 | 1 | unknown (0/1 priced) | 91.7% | 0.0% | 15.0% | 0.0% | — | A |
-| `f553008755f6` | Codex · gpt-6.1-sol (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `f553008755f6` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 93.4% | 0.0% | 5.3% | 0.0% | — | A |
 
 ## Notes
 
-- 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 0 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 12 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
