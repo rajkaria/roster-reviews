@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-23T08:38:17.467Z",
+  "generated_at": "2026-10-23T08:38:21.058Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-23T08:37:56.324Z",
+      "finished_at": "2026-10-23T08:38:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39925992882",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "sandbox-kit/kit",
       "slug": "sandbox-kit__kit",
@@ -2611,19 +2624,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-22T08:41:53.898Z",
-      "finished_at": "2026-10-22T08:42:17Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749661201",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "Squidys-Tools/inkling",
