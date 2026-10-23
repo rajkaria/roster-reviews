@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-23T08:37:59.983Z",
+  "generated_at": "2026-10-23T08:38:02.723Z",
   "reviews": [
+    {
+      "repo": "kengallego/kamal-web",
+      "slug": "kengallego__kamal-web",
+      "href": "/r/kengallego/kamal-web",
+      "outcome": "ok",
+      "generated_at": "2026-10-23T08:38:00.858Z",
+      "finished_at": "2026-10-23T08:38:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39925995185",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 6.913345600000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "21nCo/superfunctions",
       "slug": "21nCo__superfunctions",
