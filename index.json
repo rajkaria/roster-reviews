@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-22T08:46:14.016Z",
+  "generated_at": "2026-10-23T08:37:54.273Z",
   "reviews": [
+    {
+      "repo": "MAUK9086/patch-sloth",
+      "slug": "MAUK9086__patch-sloth",
+      "href": "/r/MAUK9086/patch-sloth",
+      "outcome": "ok",
+      "generated_at": "2026-10-23T08:37:51.114Z",
+      "finished_at": "2026-10-23T08:37:54Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39925986184",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.4996821999999999,
+          "survival": 0.9569093610698366,
+          "surviving_changes": 0.9569093610698366,
+          "cost_per_surviving_change": 1.5672144729813662
+        }
+      ]
+    },
     {
       "repo": "crcorbett/bundjil",
       "slug": "crcorbett__bundjil",
