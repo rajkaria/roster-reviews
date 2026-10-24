@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-23T08:40:01.355Z",
+  "generated_at": "2026-10-24T08:12:57.262Z",
   "reviews": [
+    {
+      "repo": "kuanrur/ch03-premium-audit",
+      "slug": "kuanrur__ch03-premium-audit",
+      "href": "/r/kuanrur/ch03-premium-audit",
+      "outcome": "ok",
+      "generated_at": "2026-10-24T08:12:56.196Z",
+      "finished_at": "2026-10-24T08:12:57Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40077152765",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "1de3e97ba338",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.6171267999999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "crcorbett/taxkit",
       "slug": "crcorbett__taxkit",
