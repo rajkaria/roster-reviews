@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-24T08:13:00.140Z",
+  "generated_at": "2026-10-24T08:13:01.995Z",
   "reviews": [
+    {
+      "repo": "Knitresletta/jonatanberntsen.github.io",
+      "slug": "Knitresletta__jonatanberntsen.github.io",
+      "href": "/r/Knitresletta/jonatanberntsen.github.io",
+      "outcome": "ok",
+      "generated_at": "2026-10-24T08:12:56.165Z",
+      "finished_at": "2026-10-24T08:13:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40077151656",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "20a9ee1b49d4",
+          "label": "Claude Code · claude-fable-5-1 (rules 485654)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5950dc05e380",
+          "label": "Claude Code · claude-fable-5-1 (rules 973064)",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6b468a41bf53",
+          "label": "Claude Code · claude-opus-4-8[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8[1m]",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "MAUK9086/patch-sloth",
       "slug": "MAUK9086__patch-sloth",
