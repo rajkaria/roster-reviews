@@ -1,8 +1,8 @@
 {
-  "id": "petercr__jev-orchestrator-20261023083748",
+  "id": "petercr__jev-orchestrator-20261024081253",
   "repo": "petercr/jev-orchestrator",
-  "created_at": "2026-10-23T08:37:48.595Z",
-  "generated_at": "2026-10-23T08:37:48.595Z",
+  "created_at": "2026-10-24T08:12:53.289Z",
+  "generated_at": "2026-10-24T08:12:53.289Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9716494845360825,
+      "survival": 0.9664948453608248,
       "reverted": 0,
       "rework_human": 0.10623556581986143,
-      "surviving_changes": 0.9716494845360825,
+      "surviving_changes": 0.9664948453608248,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -74,10 +74,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 1,
-      "survival": 0.9506578947368421,
+      "survival": 0.9616228070175439,
       "reverted": 0,
       "rework_human": 0.054270462633451956,
-      "surviving_changes": 1.9013157894736843,
+      "surviving_changes": 1.9232456140350878,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -150,10 +150,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9491869918699187,
+      "survival": 0.948509485094851,
       "reverted": 0,
       "rework_human": 0.07426376440460948,
-      "surviving_changes": 0.9491869918699187,
+      "surviving_changes": 0.948509485094851,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -169,10 +169,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 1,
-      "survival": 0.9506578947368421,
+      "survival": 0.9616228070175439,
       "reverted": 0,
       "rework_human": 0.054270462633451956,
-      "surviving_changes": 0.9506578947368421,
+      "surviving_changes": 0.9616228070175439,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
