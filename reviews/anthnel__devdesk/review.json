@@ -1,8 +1,8 @@
 {
-  "id": "anthnel__devdesk-20261019085950",
+  "id": "anthnel__devdesk-20261024081302",
   "repo": "anthnel/devdesk",
-  "created_at": "2026-10-19T08:59:50.368Z",
-  "generated_at": "2026-10-19T08:59:50.368Z",
+  "created_at": "2026-10-24T08:13:02.947Z",
+  "generated_at": "2026-10-24T08:13:02.947Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -223,6 +223,25 @@
       "sessions": 2,
       "mature_sessions": 0,
       "spend_usd": 5.4505244,
+      "priced_sessions": 2,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "1881fd91153f",
+      "label": "Claude Code · claude-opus-5-5 (rules 27b317)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "27b31762f4215aae68788d5aa4dd907199e1d73714ebfd347fc2e8544cdc9f32",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": 5.5872856,
       "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0,
