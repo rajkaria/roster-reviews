@@ -1,8 +1,8 @@
 {
-  "id": "gkeyllorg__postgkyl-20261022084207",
+  "id": "gkeyllorg__postgkyl-20261024081308",
   "repo": "gkeyllorg/postgkyl",
-  "created_at": "2026-10-22T08:42:07.117Z",
-  "generated_at": "2026-10-22T08:42:07.117Z",
+  "created_at": "2026-10-24T08:13:08.336Z",
+  "generated_at": "2026-10-24T08:13:08.336Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -169,10 +169,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8971703689876174,
+      "survival": 0.8971230205027689,
       "reverted": 0,
-      "rework_human": 0.008955894841701935,
-      "surviving_changes": 2.691511106962852,
+      "rework_human": 0.010379304886122823,
+      "surviving_changes": 2.691369061508307,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
