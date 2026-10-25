@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-25T08:31:04.189Z",
+  "generated_at": "2026-10-25T08:31:07.484Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:42.278Z",
+      "finished_at": "2026-10-25T08:31:07Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176896484",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "MAUK9086/patch-sloth",
       "slug": "MAUK9086__patch-sloth",
@@ -3254,19 +3267,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-10-24T08:13:01.037Z",
-      "finished_at": "2026-10-24T08:13:25Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40077153672",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "thorgas/Youmotion",
