@@ -1,0 +1,98 @@
+[
+  {
+    "session_id": "20261020_58",
+    "status": "mature",
+    "survival": 0.041404140414041404,
+    "reverted": false,
+    "rework_human": 0.205229793977813,
+    "rework_agent": 0.001584786053882726,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.6351814474118446,
+    "tercile": 1
+  },
+  {
+    "session_id": "20261020_59",
+    "status": "mature",
+    "survival": 0.26523297491039427,
+    "reverted": false,
+    "rework_human": 0.4782608695652174,
+    "rework_agent": 0,
+    "unattended": true,
+    "tests_at_commit": null,
+    "difficulty": -1.2679282401879197,
+    "tercile": 1
+  },
+  {
+    "session_id": "20261021_1",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.01989347893474587,
+    "tercile": 1
+  },
+  {
+    "session_id": "20261021_9",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.8432695125915893,
+    "tercile": 3
+  },
+  {
+    "session_id": "20261021_13",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.06646408236575242,
+    "tercile": 2
+  },
+  {
+    "session_id": "20261021_14",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.47576483108254086,
+    "tercile": 3
+  },
+  {
+    "session_id": "20261021_27",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.10222737586976323,
+    "tercile": 2
+  },
+  {
+    "session_id": "20261021_30",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.43527736462486444,
+    "tercile": 2
+  }
+]

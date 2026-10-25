@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-25T08:30:43.322Z",
+  "generated_at": "2026-10-25T08:30:45.886Z",
   "reviews": [
+    {
+      "repo": "bioinfornatics/scaleway-ai-toolkit-vscode",
+      "slug": "bioinfornatics__scaleway-ai-toolkit-vscode",
+      "href": "/r/bioinfornatics/scaleway-ai-toolkit-vscode",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:41.953Z",
+      "finished_at": "2026-10-25T08:30:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176895461",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "e630bbaf5465",
+          "label": "Goose · gpt-6.1-sol",
+          "harness": "Goose",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.15331855766221783,
+          "surviving_changes": 0.30663711532443566,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "AbisoyeOnanuga/trail-sketch",
       "slug": "AbisoyeOnanuga__trail-sketch",
