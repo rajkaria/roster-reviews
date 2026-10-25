@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261025-019",
+  "repo": "Zverolinka-IT/animal-helper",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 40176904928,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176904928",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "a491c142f44e28fb4402243a902bb5a1b27c2ae0",
+  "checkpoint_head": null,
+  "started_at": "2026-10-25T08:30:46Z",
+  "finished_at": "2026-10-25T08:30:54Z"
+}
