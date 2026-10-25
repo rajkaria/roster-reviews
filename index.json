@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-25T08:30:41.252Z",
+  "generated_at": "2026-10-25T08:30:43.322Z",
   "reviews": [
+    {
+      "repo": "AbisoyeOnanuga/trail-sketch",
+      "slug": "AbisoyeOnanuga__trail-sketch",
+      "href": "/r/AbisoyeOnanuga/trail-sketch",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:41.410Z",
+      "finished_at": "2026-10-25T08:30:43Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176894412",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "9f92ab817ba4",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d399dd13d248",
+          "label": "Cursor · unknown",
+          "harness": "Cursor",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fec7b0c93855",
+          "label": "Cursor · grok-4.7-medium",
+          "harness": "Cursor",
+          "model": "grok-4.7-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "ngngardner/readaloud",
       "slug": "ngngardner__readaloud",
