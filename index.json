@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-25T08:30:57.169Z",
+  "generated_at": "2026-10-25T08:31:00.718Z",
   "reviews": [
+    {
+      "repo": "wuhuizuo/specrunway",
+      "slug": "wuhuizuo__specrunway",
+      "href": "/r/wuhuizuo/specrunway",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:46.415Z",
+      "finished_at": "2026-10-25T08:31:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176901926",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "a1d33dc27fd1",
+          "label": "OpenCode · deepseek-flash",
+          "harness": "OpenCode",
+          "model": "deepseek-flash",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.09032580600000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "FCulig/fight-ai",
       "slug": "FCulig__fight-ai",
