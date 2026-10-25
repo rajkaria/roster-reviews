@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-25T08:31:10.519Z",
+  "generated_at": "2026-10-25T08:31:13.777Z",
   "reviews": [
+    {
+      "repo": "MoRevolution/dev",
+      "slug": "MoRevolution__dev",
+      "href": "/r/MoRevolution/dev",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:49.123Z",
+      "finished_at": "2026-10-25T08:31:13Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176902898",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "721a737d3da4",
+          "label": "Copilot CLI · auto",
+          "harness": "Copilot CLI",
+          "model": "auto",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "chikachow/cyspbot",
       "slug": "chikachow__cyspbot",

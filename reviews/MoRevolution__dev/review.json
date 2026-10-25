@@ -1,0 +1,34 @@
+{
+  "id": "MoRevolution__dev-20261025083049",
+  "repo": "MoRevolution/dev",
+  "created_at": "2026-10-25T08:30:49.123Z",
+  "generated_at": "2026-10-25T08:30:49.123Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "721a737d3da4",
+      "label": "Copilot CLI · auto",
+      "harness": "Copilot CLI",
+      "model": "auto",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
