@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261024-018",
+  "job": "disc-20261025-025",
   "repo": "thorgas/Youmotion",
   "outcome": "ok",
   "error": null,
-  "run_id": 40077164947,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40077164947",
+  "run_id": 40176911614,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176911614",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "dbce963bb2075ce8f8f8299b6823f910c2ad5081",
+  "target_head": "9d8f92be5678c354461883eb039a206f76975cb8",
   "checkpoint_head": null,
-  "started_at": "2026-10-24T08:13:05Z",
-  "finished_at": "2026-10-24T08:13:23Z"
+  "started_at": "2026-10-25T08:30:56Z",
+  "finished_at": "2026-10-25T08:31:19Z"
 }
