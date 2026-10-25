@@ -1,0 +1,53 @@
+{
+  "id": "AbisoyeOnanuga__houdini-wizard-20261025083043",
+  "repo": "AbisoyeOnanuga/houdini-wizard",
+  "created_at": "2026-10-25T08:30:43.388Z",
+  "generated_at": "2026-10-25T08:30:43.388Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "9f92ab817ba4",
+      "label": "Cursor · grok-4.7-high-fast",
+      "harness": "Cursor",
+      "model": "grok-4.7-high-fast",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "fec7b0c93855",
+      "label": "Cursor · grok-4.7-medium",
+      "harness": "Cursor",
+      "model": "grok-4.7-medium",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

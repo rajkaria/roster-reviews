@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-25T08:30:45.886Z",
+  "generated_at": "2026-10-25T08:30:48.456Z",
   "reviews": [
+    {
+      "repo": "AbisoyeOnanuga/houdini-wizard",
+      "slug": "AbisoyeOnanuga__houdini-wizard",
+      "href": "/r/AbisoyeOnanuga/houdini-wizard",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:43.388Z",
+      "finished_at": "2026-10-25T08:30:48Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176898616",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "9f92ab817ba4",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fec7b0c93855",
+          "label": "Cursor · grok-4.7-medium",
+          "harness": "Cursor",
+          "model": "grok-4.7-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "bioinfornatics/scaleway-ai-toolkit-vscode",
       "slug": "bioinfornatics__scaleway-ai-toolkit-vscode",
