@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261019-003",
+  "job": "disc-20261025-004",
   "repo": "grzywek/powerpilot",
   "outcome": "ok",
   "error": null,
-  "run_id": 39226731521,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226731521",
+  "run_id": 40176888822,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176888822",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "45e446635ff796ca7b7c2072a76764680bb40c17",
-  "checkpoint_head": "55365f58c225410b7603d1b5d6fd0fbc1738f834",
-  "started_at": "2026-10-19T08:59:41Z",
-  "finished_at": "2026-10-19T08:59:55Z"
+  "target_head": "a7878f6c364f37aab5ecc4387e13c15e4c0a3783",
+  "checkpoint_head": "3e1964cdb02a0742e68f49f72652cf29a6cbe886",
+  "started_at": "2026-10-25T08:30:31Z",
+  "finished_at": "2026-10-25T08:30:53Z"
 }
