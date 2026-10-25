@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261019-011",
+  "job": "disc-20261025-015",
   "repo": "FCulig/fight-ai",
   "outcome": "ok",
   "error": null,
-  "run_id": 39226750215,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39226750215",
+  "run_id": 40176900872,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176900872",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "21f7d8fc4facdc42098dc42605b809d613b69ffe",
+  "target_head": "4acccf8a3e5fadfc4096efbeea34b97ba26e318c",
   "checkpoint_head": null,
-  "started_at": "2026-10-19T08:59:51Z",
-  "finished_at": "2026-10-19T09:00:21Z"
+  "started_at": "2026-10-25T08:30:40Z",
+  "finished_at": "2026-10-25T08:30:57Z"
 }
