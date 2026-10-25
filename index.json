@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-24T08:22:16.249Z",
+  "generated_at": "2026-10-25T08:30:39.242Z",
   "reviews": [
+    {
+      "repo": "learner-enthusiast/Newsly",
+      "slug": "learner-enthusiast__Newsly",
+      "href": "/r/learner-enthusiast/Newsly",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:35.572Z",
+      "finished_at": "2026-10-25T08:30:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176889959",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "7e0ac0620981",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 21.42783,
+          "survival": 0.9990494296577946,
+          "surviving_changes": 0.9990494296577946,
+          "cost_per_surviving_change": 13.09892925366318
+        },
+        {
+          "setup_id": "cb5d825e8533",
+          "label": "Cursor · cursor-grok-4.6-medium",
+          "harness": "Cursor",
+          "model": "cursor-grok-4.6-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/caliper",
       "slug": "orin-dx__caliper",

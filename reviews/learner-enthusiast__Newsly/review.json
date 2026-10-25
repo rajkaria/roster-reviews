@@ -1,0 +1,53 @@
+{
+  "id": "learner-enthusiast__Newsly-20261025083035",
+  "repo": "learner-enthusiast/Newsly",
+  "created_at": "2026-10-25T08:30:35.572Z",
+  "generated_at": "2026-10-25T08:30:35.572Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "7e0ac0620981",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "2b0c54dfbb70750c328476a8713a5910cb5e1e14fbf97f91ac55d326362a292a",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "spend_usd": 21.42783,
+      "priced_sessions": 2,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.9990494296577946,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 0.9990494296577946,
+      "cost_per_surviving_change": 13.09892925366318,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "cb5d825e8533",
+      "label": "Cursor · cursor-grok-4.6-medium",
+      "harness": "Cursor",
+      "model": "cursor-grok-4.6-medium",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
