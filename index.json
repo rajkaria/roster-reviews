@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-25T08:31:07.484Z",
+  "generated_at": "2026-10-25T08:31:08.828Z",
   "reviews": [
+    {
+      "repo": "petercr/ultimate-html-penpot-ext",
+      "slug": "petercr__ultimate-html-penpot-ext",
+      "href": "/r/petercr/ultimate-html-penpot-ext",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:43.720Z",
+      "finished_at": "2026-10-25T08:31:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176897608",
+      "label": "insufficient_data",
+      "sessions": 13,
+      "mature_sessions": 12,
+      "setups": [
+        {
+          "setup_id": "3c50505db2ea",
+          "label": "Claude Code · claude-fable-5-1",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "56938a7c028f",
+          "label": "OpenCode · muse-spark-1.3-contributor-free",
+          "harness": "OpenCode",
+          "model": "muse-spark-1.3-contributor-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.782051282051282,
+          "surviving_changes": 0.782051282051282,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5d58148ee8b1",
+          "label": "Codex · gpt-5.6-terra",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.9351153130031266,
+          "surviving_changes": 2.8053459390093796,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9285549817602283,
+          "surviving_changes": 1.8571099635204567,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 18.9389252,
+          "survival": 0.9037263946513104,
+          "surviving_changes": 2.711179183953931,
+          "cost_per_surviving_change": 6.985493733534734
+        },
+        {
+          "setup_id": "f5ac8f185e8d",
+          "label": "OpenCode · gpt-5.6-luna",
+          "harness": "OpenCode",
+          "model": "gpt-5.6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f5e5e5ebaeae",
+          "label": "Codex · gpt-5.6-luna",
+          "harness": "Codex",
+          "model": "gpt-5.6-luna",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9446437724243978,
+          "surviving_changes": 1.8892875448487956,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
@@ -9926,92 +10024,6 @@
           "spend_usd": 130.0721676,
           "survival": 0,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "petercr/ultimate-html-penpot-ext",
-      "slug": "petercr__ultimate-html-penpot-ext",
-      "href": "/r/petercr/ultimate-html-penpot-ext",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:24:30.173Z",
-      "finished_at": "2026-10-13T13:24:55Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404669686",
-      "label": "insufficient_data",
-      "sessions": 12,
-      "mature_sessions": 10,
-      "setups": [
-        {
-          "setup_id": "56938a7c028f",
-          "label": "OpenCode · muse-spark-1.3-contributor-free",
-          "harness": "OpenCode",
-          "model": "muse-spark-1.3-contributor-free",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.782051282051282,
-          "surviving_changes": 0.782051282051282,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "5d58148ee8b1",
-          "label": "Codex · gpt-5.6-terra",
-          "harness": "Codex",
-          "model": "gpt-5.6-terra",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": null,
-          "survival": 0.9351153130031266,
-          "surviving_changes": 2.8053459390093796,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9285549817602283,
-          "surviving_changes": 1.8571099635204567,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "94304fba8bc8",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 3,
-          "mature_sessions": 1,
-          "spend_usd": 18.9389252,
-          "survival": 0.9713553795994411,
-          "surviving_changes": 0.9713553795994411,
-          "cost_per_surviving_change": 11.936803299304723
-        },
-        {
-          "setup_id": "f5ac8f185e8d",
-          "label": "OpenCode · gpt-5.6-luna",
-          "harness": "OpenCode",
-          "model": "gpt-5.6-luna",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "f5e5e5ebaeae",
-          "label": "Codex · gpt-5.6-luna",
-          "harness": "Codex",
-          "model": "gpt-5.6-luna",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9446437724243978,
-          "surviving_changes": 1.8892875448487956,
           "cost_per_surviving_change": null
         }
       ]
