@@ -8,7 +8,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.25007979510572476,
+    "difficulty": -0.2542817000637916,
     "tercile": 1
   },
   {
@@ -20,7 +20,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.34769993813999767,
+    "difficulty": 0.34981698406729245,
     "tercile": 3
   },
   {
@@ -32,7 +32,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.20644829671877835,
+    "difficulty": -0.21018898614873605,
     "tercile": 2
   },
   {
@@ -44,7 +44,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.2682259557474642,
+    "difficulty": 0.2695029059614504,
     "tercile": 3
   },
   {
@@ -56,7 +56,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24873461713457073,
+    "difficulty": -0.2529223026183747,
     "tercile": 1
   },
   {
@@ -68,7 +68,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.20664356448878457,
+    "difficulty": -0.210386318035974,
     "tercile": 2
   },
   {
@@ -80,8 +80,8 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2340895343841039,
-    "tercile": 1
+    "difficulty": -0.23812241107552906,
+    "tercile": 2
   },
   {
     "session_id": "019f069e-1356-7c90-baa1-a1f6fe614a37",
@@ -92,7 +92,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.03034641904210343,
+    "difficulty": 0.029108815775140656,
     "tercile": 3
   },
   {
@@ -104,7 +104,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24420006558664842,
+    "difficulty": -0.24833981768140467,
     "tercile": 1
   },
   {
@@ -116,7 +116,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.1637793952130236,
+    "difficulty": 0.1639522720544005,
     "tercile": 3
   },
   {
@@ -128,7 +128,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.18338500343915423,
+    "difficulty": -0.18688189768941033,
     "tercile": 2
   },
   {
@@ -140,7 +140,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.19388607018171122,
+    "difficulty": -0.19749396806976183,
     "tercile": 2
   },
   {
@@ -152,7 +152,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24656497524561272,
+    "difficulty": -0.25072972609350863,
     "tercile": 1
   },
   {
@@ -164,7 +164,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.012121427174855787,
+    "difficulty": 0.010691172966266135,
     "tercile": 3
   },
   {
@@ -176,7 +176,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24248604849437155,
+    "difficulty": -0.24660768222676052,
     "tercile": 1
   },
   {
@@ -188,7 +188,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2504703306457372,
+    "difficulty": -0.2546763638382674,
     "tercile": 1
   },
   {
@@ -200,8 +200,8 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.11686378312370038,
-    "tercile": 2
+    "difficulty": -0.11965750143701835,
+    "tercile": 3
   },
   {
     "session_id": "019f2aa5-cde2-7500-bbfe-841f979252b9",
@@ -212,7 +212,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.13424261465425436,
+    "difficulty": -0.13722003940119512,
     "tercile": 2
   },
   {
@@ -224,7 +224,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24725926065007925,
+    "difficulty": -0.25143135058146576,
     "tercile": 1
   },
   {
@@ -236,7 +236,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -248,7 +248,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.1756610783144636,
+    "difficulty": -0.17907632526088732,
     "tercile": 2
   },
   {
@@ -260,7 +260,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.25096934828019757,
+    "difficulty": -0.25518065643898663,
     "tercile": 1
   },
   {
@@ -272,7 +272,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.099246290985361,
+    "difficulty": -0.10185378005510633,
     "tercile": 3
   },
   {
@@ -284,7 +284,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.6240689219554744,
+    "difficulty": 0.6291073818047253,
     "tercile": 3
   },
   {
@@ -296,7 +296,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.19440678423506114,
+    "difficulty": -0.19802018643572966,
     "tercile": 2
   },
   {
@@ -308,7 +308,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -320,7 +320,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.24012909328545745,
+    "difficulty": 0.2411090399644355,
     "tercile": 3
   },
   {
@@ -332,7 +332,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.6810654143784023,
+    "difficulty": 0.6867063671129554,
     "tercile": 3
   },
   {
@@ -344,7 +344,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -356,7 +356,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.34297011882206907,
+    "difficulty": 0.34503716724308453,
     "tercile": 3
   },
   {
@@ -368,7 +368,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -380,7 +380,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.15972216488067204,
+    "difficulty": 0.15985215395290103,
     "tercile": 3
   },
   {
@@ -392,7 +392,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24534997578779622,
+    "difficulty": -0.24950188323958367,
     "tercile": 1
   },
   {
@@ -404,7 +404,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.18817991201375153,
+    "difficulty": -0.19172749180936421,
     "tercile": 2
   },
   {
@@ -416,7 +416,7 @@
     "rework_agent": null,
     "unattended": true,
     "tests_at_commit": null,
-    "difficulty": -0.2132609722501066,
+    "difficulty": -0.21707367643681533,
     "tercile": 2
   },
   {
@@ -428,7 +428,7 @@
     "rework_agent": null,
     "unattended": true,
     "tests_at_commit": null,
-    "difficulty": -0.2132609722501066,
+    "difficulty": -0.21707367643681533,
     "tercile": 2
   },
   {
@@ -440,7 +440,7 @@
     "rework_agent": null,
     "unattended": true,
     "tests_at_commit": null,
-    "difficulty": -0.2132609722501066,
+    "difficulty": -0.21707367643681533,
     "tercile": 2
   },
   {
@@ -452,7 +452,7 @@
     "rework_agent": null,
     "unattended": true,
     "tests_at_commit": null,
-    "difficulty": -0.2132609722501066,
+    "difficulty": -0.21707367643681533,
     "tercile": 2
   },
   {
@@ -464,7 +464,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.022405529728516962,
+    "difficulty": 0.021083985694131058,
     "tercile": 3
   },
   {
@@ -476,7 +476,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24606595761115235,
+    "difficulty": -0.2502254334927895,
     "tercile": 1
   },
   {
@@ -488,7 +488,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.5682657325714732,
+    "difficulty": 0.5727143135851713,
     "tercile": 3
   },
   {
@@ -500,7 +500,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.6685031878413352,
+    "difficulty": 0.6740113490339812,
     "tercile": 3
   },
   {
@@ -512,7 +512,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.19481901619396316,
+    "difficulty": -0.19843677597545423,
     "tercile": 2
   },
   {
@@ -524,7 +524,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24606595761115235,
+    "difficulty": -0.2502254334927895,
     "tercile": 1
   },
   {
@@ -536,7 +536,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.12580270770620755,
+    "difficulty": -0.12869091671946634,
     "tercile": 2
   },
   {
@@ -548,7 +548,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2132609722501066,
+    "difficulty": -0.21707367643681533,
     "tercile": 2
   },
   {
@@ -560,7 +560,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -572,7 +572,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2297502506061878,
+    "difficulty": -0.23373725802579703,
     "tercile": 2
   },
   {
@@ -584,7 +584,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2132609722501066,
+    "difficulty": -0.21707367643681533,
     "tercile": 2
   },
   {
@@ -596,7 +596,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.19720562227181704,
+    "difficulty": -0.20084861015280683,
     "tercile": 2
   },
   {
@@ -608,7 +608,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24606595761115235,
+    "difficulty": -0.2502254334927895,
     "tercile": 1
   },
   {
@@ -620,7 +620,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.14552475247683624,
+    "difficulty": -0.14862143733049837,
     "tercile": 2
   },
   {
@@ -632,7 +632,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.22996721479508359,
+    "difficulty": -0.23395651567828363,
     "tercile": 2
   },
   {
@@ -644,7 +644,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.1893298222148993,
+    "difficulty": -0.1928895573675432,
     "tercile": 2
   },
   {
@@ -656,7 +656,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -668,7 +668,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.7160400416284061,
+    "difficulty": 0.7220507006937955,
     "tercile": 3
   },
   {
@@ -680,7 +680,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.3661201977772515,
+    "difficulty": 0.3684319587634049,
     "tercile": 3
   },
   {
@@ -692,7 +692,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.21128659813115477,
+    "difficulty": -0.21507843179918726,
     "tercile": 2
   },
   {
@@ -704,7 +704,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.32988717823165203,
+    "difficulty": 0.3318159307981425,
     "tercile": 3
   },
   {
@@ -716,7 +716,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24606595761115235,
+    "difficulty": -0.2502254334927895,
     "tercile": 1
   },
   {
@@ -728,7 +728,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2507089912535226,
+    "difficulty": -0.2549175472560027,
     "tercile": 1
   },
   {
@@ -740,7 +740,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24780167112231877,
+    "difficulty": -0.2519794947126822,
     "tercile": 1
   },
   {
@@ -752,7 +752,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24780167112231877,
+    "difficulty": -0.2519794947126822,
     "tercile": 1
   },
   {
@@ -764,7 +764,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.09933307666091931,
+    "difficulty": -0.10194148311610096,
     "tercile": 3
   },
   {
@@ -776,7 +776,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -788,7 +788,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.25155515159021624,
+    "difficulty": -0.25577265210070044,
     "tercile": 1
   },
   {
@@ -800,7 +800,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24780167112231877,
+    "difficulty": -0.2519794947126822,
     "tercile": 1
   },
   {
@@ -812,7 +812,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -824,7 +824,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.013935971911530412,
+    "difficulty": -0.015641671097374674,
     "tercile": 3
   },
   {
@@ -836,7 +836,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2181860593380414,
+    "difficulty": -0.2220508251482612,
     "tercile": 2
   },
   {
@@ -848,7 +848,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.21128659813115477,
+    "difficulty": -0.21507843179918726,
     "tercile": 2
   },
   {
@@ -860,7 +860,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24268131626437778,
+    "difficulty": -0.24680501411399847,
     "tercile": 1
   },
   {
@@ -872,7 +872,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.1805210761457296,
+    "difficulty": -0.18398769667658718,
     "tercile": 2
   },
   {
@@ -884,7 +884,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.06362077116866979,
+    "difficulty": -0.06585167351680637,
     "tercile": 3
   },
   {
@@ -896,7 +896,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.05064631267270064,
+    "difficulty": -0.052740065898107626,
     "tercile": 3
   },
   {
@@ -908,7 +908,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.24606595761115235,
+    "difficulty": -0.2502254334927895,
     "tercile": 1
   },
   {
@@ -920,7 +920,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.23139917844179592,
+    "difficulty": -0.23540361618469519,
     "tercile": 2
   },
   {
@@ -932,7 +932,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.4728231858762085,
+    "difficulty": 0.4762628722563155,
     "tercile": 3
   },
   {
@@ -944,7 +944,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.2471507785556314,
+    "difficulty": -0.2513217217552225,
     "tercile": 1
   },
   {
@@ -956,7 +956,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.23139917844179592,
+    "difficulty": -0.23540361618469519,
     "tercile": 2
   },
   {
@@ -968,7 +968,7 @@
     "rework_agent": 0.011235955056179775,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.6972924577452719,
+    "difficulty": 0.8629024821428671,
     "tercile": 3
   },
   {
@@ -980,7 +980,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 1.17466598702768,
+    "difficulty": 1.186354381262489,
     "tercile": 3
   },
   {
@@ -992,19 +992,19 @@
     "rework_agent": 0.08856088560885608,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0.32745693390464914,
+    "difficulty": 0.44812108857577077,
     "tercile": 3
   },
   {
     "session_id": "019ffb56-ca3a-7e33-b02a-c9dc2ecf8cff",
     "status": "mature",
-    "survival": 0.06487695749440715,
+    "survival": 0.06040268456375839,
     "reverted": false,
     "rework_human": 0,
     "rework_agent": 0.39697542533081287,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 1.2748005216106537,
+    "difficulty": 1.3178660057913367,
     "tercile": 3
   },
   {
@@ -1016,7 +1016,7 @@
     "rework_agent": 0.9358974358974359,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 2.7863599753473087,
+    "difficulty": 3.0335139933428836,
     "tercile": 3
   },
   {
@@ -1028,7 +1028,7 @@
     "rework_agent": null,
     "unattended": true,
     "tests_at_commit": null,
-    "difficulty": -0.23311663316575082,
+    "difficulty": -0.23712885389191082,
     "tercile": 2
   },
   {
@@ -1040,11 +1040,23 @@
     "rework_agent": 0.1475826972010178,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 1.1306967570537831,
+    "difficulty": 1.1899501403336397,
     "tercile": 3
   },
   {
     "session_id": "01a128af-a9cf-7593-9095-c823d11df02f",
+    "status": "mature",
+    "survival": 0.708,
+    "reverted": false,
+    "rework_human": 0.024390243902439025,
+    "rework_agent": 0,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.057617028908061724,
+    "tercile": 3
+  },
+  {
+    "session_id": "01a17014-ff2a-7ee2-8e4f-6b6db4ea2610",
     "status": "too_young",
     "survival": null,
     "reverted": null,
@@ -1052,7 +1064,19 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": -0.002300942337479378,
-    "tercile": 3
+    "difficulty": -0.3321910841556678,
+    "tercile": 1
+  },
+  {
+    "session_id": "01a17042-0e65-7ac3-aef3-f102d9277088",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.17083682480455475,
+    "tercile": 2
   }
 ]

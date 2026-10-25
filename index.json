@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-25T08:31:08.828Z",
+  "generated_at": "2026-10-25T08:31:10.519Z",
   "reviews": [
+    {
+      "repo": "chikachow/cyspbot",
+      "slug": "chikachow__cyspbot",
+      "href": "/r/chikachow/cyspbot",
+      "outcome": "ok",
+      "generated_at": "2026-10-25T08:30:49.826Z",
+      "finished_at": "2026-10-25T08:31:10Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176903815",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "15b695c6240d",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 8.149842,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 4,
+          "mature_sessions": 3,
+          "spend_usd": 58.242447999999996,
+          "survival": 0.5383292107213921,
+          "surviving_changes": 1.6149876321641763,
+          "cost_per_surviving_change": 32.57290827020544
+        },
+        {
+          "setup_id": "247cc446a8a5",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.2119815668202765,
+          "surviving_changes": 0.423963133640553,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f5e5e5ebaeae",
+          "label": "Codex · gpt-5.6-luna",
+          "harness": "Codex",
+          "model": "gpt-5.6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.06040268456375839,
+          "surviving_changes": 0.06040268456375839,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/ultimate-html-penpot-ext",
       "slug": "petercr__ultimate-html-penpot-ext",
@@ -10124,56 +10186,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "chikachow/cyspbot",
-      "slug": "chikachow__cyspbot",
-      "href": "/r/chikachow/cyspbot",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:24:13.186Z",
-      "finished_at": "2026-10-13T13:24:32Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404635092",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 5,
-      "setups": [
-        {
-          "setup_id": "229adeb76f33",
-          "label": "Codex · gpt-6-astra",
-          "harness": "Codex",
-          "model": "gpt-6-astra",
-          "sessions": 3,
-          "mature_sessions": 2,
-          "spend_usd": 52.604844,
-          "survival": 0.4534938160820881,
-          "surviving_changes": 0.9069876321641762,
-          "cost_per_surviving_change": 31.77806287305889
-        },
-        {
-          "setup_id": "247cc446a8a5",
-          "label": "Codex · gpt-5.6-sol",
-          "harness": "Codex",
-          "model": "gpt-5.6-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.2119815668202765,
-          "surviving_changes": 0.423963133640553,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "f5e5e5ebaeae",
-          "label": "Codex · gpt-5.6-luna",
-          "harness": "Codex",
-          "model": "gpt-5.6-luna",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.06487695749440715,
-          "surviving_changes": 0.06487695749440715,
           "cost_per_surviving_change": null
         }
       ]
