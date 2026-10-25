@@ -1,7 +1,7 @@
 # Review: anthnel/devdesk
 
-- Review id: `anthnel__devdesk-20261024081302`
-- Created: 2026-10-24T08:13:02.947Z
+- Review id: `anthnel__devdesk-20261025083039`
+- Created: 2026-10-25T08:30:39.663Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `00483159b160` | Claude Code · claude-opus-5-5 (rules e45d12) | 1 | 0 | $23.54 | too young | too young | too young | 0.0% | — | A |
+| `00483159b160` | Claude Code · claude-opus-5-5 (rules e45d12) | 1 | 0 | $26.18 | too young | too young | too young | 0.0% | — | A |
 | `024b7766c4b0` | Claude Code · claude-opus-5-5 (rules 049db1) | 1 | 0 | $1.57 | too young | too young | too young | 0.0% | — | A |
 | `02eb5aa75b25` | Claude Code · claude-sonnet-5 (rules f12a3e) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `051167860c1b` | Claude Code · claude-sonnet-5 (rules d32dc6) | 3 | 0 | unknown (0/3 priced) | too young | too young | too young | 0.0% | — | A |
@@ -25,10 +25,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `10c8ddb53827` | Claude Code · claude-opus-5-5 (rules b08227) | 1 | 0 | $10.76 | too young | too young | too young | 0.0% | — | A |
 | `15f5066d0fff` | Claude Code · claude-opus-5 (rules 1a9a18) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `1697e65f6b6b` | Claude Code · claude-opus-5-5 (rules d28cb6) | 2 | 0 | $5.45 | too young | too young | too young | 0.0% | — | A |
-| `1881fd91153f` | Claude Code · claude-opus-5-5 (rules 27b317) | 2 | 0 | $5.59 | too young | too young | too young | 0.0% | — | A |
+| `1881fd91153f` | Claude Code · claude-opus-5-5 (rules 27b317) | 2 | 0 | $6.29 | too young | too young | too young | 0.0% | — | A |
 | `1c96325249a2` | Claude Code · claude-opus-5-5 (rules f12a3e) | 2 | 0 | $11.38 | too young | too young | too young | 0.0% | — | A |
 | `20cf503bcd51` | Claude Code · claude-sonnet-5 (rules 7b5255) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `266e085f58c0` | Claude Code · claude-sonnet-5 (rules a2ecf7) | 3 | 0 | unknown (0/3 priced) | too young | too young | too young | 0.0% | — | A |
+| `2bb16aa72022` | Claude Code · claude-sonnet-5-5 (rules fc6e6f) | 1 | 0 | $1.32 | too young | too young | too young | 0.0% | — | A |
 | `2efea0b20d00` | Claude Code · claude-sonnet-5 (rules fc24d2) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 | `30f41e179a77` | Claude Code · claude-sonnet-5 (rules 75cb21) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `360ff0ef4673` | Claude Code · claude-sonnet-5 (rules 20eb5b) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
@@ -43,7 +44,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `5df3c7739be9` | Claude Code · claude-opus-5-5 (rules 62bcb9) | 1 | 0 | $18.22 | too young | too young | too young | 0.0% | — | A |
 | `5ea214fa3918` | Claude Code · claude-sonnet-5 (rules 3700df) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `626403a5f59b` | Claude Code · claude-sonnet-5 (rules 4ab0b3) | 2 | 0 | unknown (0/2 priced) | too young | too young | too young | 0.0% | — | A |
-| `6868c9747866` | Claude Code · claude-sonnet-5-5 | 1 | 0 | $0.71 | too young | too young | too young | 0.0% | — | A |
+| `6868c9747866` | Claude Code · claude-sonnet-5-5 (rules e45d12) | 1 | 0 | $0.71 | too young | too young | too young | 0.0% | — | A |
 | `6bc210c80950` | Claude Code · claude-sonnet-5 (rules 07146d) | 2 | 0 | unknown (0/2 priced) | too young | too young | too young | 0.0% | — | A |
 | `6ff392f8e543` | Claude Code · claude-opus-5 (rules e787e5) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `71023d8228fa` | Claude Code · claude-sonnet-5 (rules ef6273) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
@@ -66,11 +67,12 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `d3b168245830` | Claude Code · claude-sonnet-5 (rules 50e9ee) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `d5e232cdc18c` | Claude Code · claude-sonnet-5 (rules 09ce60) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `e032a3bbdf0e` | Claude Code · claude-opus-5-5 (rules 73a898) | 2 | 0 | $34.50 | too young | too young | too young | 0.0% | — | A |
+| `fbde59937b60` | Claude Code · claude-sonnet-5-5 (rules 4cfbcc) | 3 | 0 | $1.63 | too young | too young | too young | 0.0% | — | A |
 | `fec87640c270` | Claude Code · claude-sonnet-5 (rules 6b189d) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 
 ## Notes
 
-- 123 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 127 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 105 sessions have no price (unknown model, or a price that depends on prompt size)
 - 52 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
