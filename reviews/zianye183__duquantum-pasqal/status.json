@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261026-021",
+  "repo": "zianye183/duquantum-pasqal",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 40296585680,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296585680",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "e2de258eb5922080314fb6dbde1090b319fc54ff",
+  "checkpoint_head": null,
+  "started_at": "2026-10-26T09:03:03Z",
+  "finished_at": "2026-10-26T09:03:13Z"
+}
