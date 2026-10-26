@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-26T09:03:05.376Z",
+  "generated_at": "2026-10-26T09:03:07.313Z",
   "reviews": [
+    {
+      "repo": "heath0xFF/mrmr",
+      "slug": "heath0xFF__mrmr",
+      "href": "/r/heath0xFF/mrmr",
+      "outcome": "ok",
+      "generated_at": "2026-10-26T09:03:04.178Z",
+      "finished_at": "2026-10-26T09:03:07Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296581481",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "818535549ccf",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8409542743538767,
+          "surviving_changes": 0.8409542743538767,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "90ac4c6a1ea1",
+          "label": "Pi · z-ai/glm-5.3",
+          "harness": "Pi",
+          "model": "z-ai/glm-5.3",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8409542743538767,
+          "surviving_changes": 0.8409542743538767,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a75a9513b301",
+          "label": "Pi · gpt-6-astra",
+          "harness": "Pi",
+          "model": "gpt-6-astra",
+          "sessions": 5,
+          "mature_sessions": 1,
+          "spend_usd": 116.26379999999999,
+          "survival": 0.9907407407407407,
+          "surviving_changes": 0.9907407407407407,
+          "cost_per_surviving_change": 9.518308485981308
+        }
+      ]
+    },
     {
       "repo": "lwshanbd/BeadInventory",
       "slug": "lwshanbd__BeadInventory",
