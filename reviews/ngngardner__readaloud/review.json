@@ -1,8 +1,8 @@
 {
-  "id": "ngngardner__readaloud-20261025083033",
+  "id": "ngngardner__readaloud-20261026090246",
   "repo": "ngngardner/readaloud",
-  "created_at": "2026-10-25T08:30:33.892Z",
-  "generated_at": "2026-10-25T08:30:33.892Z",
+  "created_at": "2026-10-26T09:02:46.287Z",
+  "generated_at": "2026-10-26T09:02:46.287Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -106,10 +106,10 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "c25e558480c1630d30c42c3f966880066e4432223e40ae06c43ea186e696ae7c",
-      "sessions": 1,
+      "sessions": 2,
       "mature_sessions": 1,
-      "spend_usd": 39.64793,
-      "priced_sessions": 1,
+      "spend_usd": 40.5870102,
+      "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0,
       "survival": 1,
@@ -179,10 +179,10 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 1.4999999999999998,
+  "odds_ratio": 1.2947368421052632,
   "ci95": [
-    0.17154751510074107,
-    13.11589968924172
+    0.1483847263977556,
+    11.297277900497345
   ],
   "p_value": 1,
   "evidence_level": "A"

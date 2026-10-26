@@ -1,7 +1,7 @@
 # Review: ngngardner/readaloud
 
-- Review id: `ngngardner__readaloud-20261025083033`
-- Created: 2026-10-25T08:30:33.892Z
+- Review id: `ngngardner__readaloud-20261026090246`
+- Created: 2026-10-26T09:02:46.287Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -18,14 +18,14 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | `29cb9c5023ec` | Claude Code · claude-opus-4-7 (rules unknown) | 9 | 9 | unknown (0/9 priced) | 85.0% | 11.1% | 0.1% | 22.2% | — | A |
 | `2c4c43b17b2f` | Claude Code · claude-fable-5 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 88.4% | 0.0% | 0.0% | 0.0% | — | A |
 | `30aa39b58a85` | Claude Code · claude-opus-4-6 | 1 | 1 | unknown (0/1 priced) | 93.3% | 0.0% | 0.0% | 0.0% | — | A |
-| `9f7e630adee9` | Claude Code · claude-opus-5-5 | 1 | 1 | $39.65 | 100.0% | 0.0% | 0.0% | 0.0% | $39.65 | A |
+| `9f7e630adee9` | Claude Code · claude-opus-5-5 | 2 | 1 | $40.59 | 100.0% | 0.0% | 0.0% | 0.0% | $39.65 | A |
 | `d03dd80149a6` | Claude Code · claude-opus-4-7 (rules 4d60f2) | 1 | 1 | unknown (0/1 priced) | 7.1% | 100.0% | 0.0% | 0.0% | — | A |
 | `df4d51f9c06a` | Claude Code · claude-opus-4-7 (rules unknown) | 14 | 14 | unknown (0/14 priced) | 83.3% | 14.3% | 0.2% | 7.1% | — | A |
 | `fd9056dabdc4` | Claude Code · claude-fable-5 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 99.0% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes
 
-- 0 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 34 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup with ≥ 8 mature sessions has a difficulty-matched odds ratio above 1 at p < 0.05
