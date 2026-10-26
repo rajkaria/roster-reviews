@@ -1,8 +1,8 @@
 {
-  "id": "babamba2__superclaude-for-sap-20261020083812",
+  "id": "babamba2__superclaude-for-sap-20261026090311",
   "repo": "babamba2/superclaude-for-sap",
-  "created_at": "2026-10-20T08:38:12.352Z",
-  "generated_at": "2026-10-20T08:38:12.352Z",
+  "created_at": "2026-10-26T09:03:11.041Z",
+  "generated_at": "2026-10-26T09:03:11.041Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -98,6 +98,25 @@
       "rework_human": 0.010681072392867644,
       "surviving_changes": 3.810544310494562,
       "cost_per_surviving_change": 14.777529720600889,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "52734aa78c08",
+      "label": "Claude Code · claude-opus-5-5 (rules 89bacb)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "89bacb314b2d81d4035030fc63caf59510770e7d8ce32a1b9783f9fd2d539ab0",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 8.1379352,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {
