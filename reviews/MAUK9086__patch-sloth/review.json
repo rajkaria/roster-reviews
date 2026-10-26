@@ -1,8 +1,8 @@
 {
-  "id": "MAUK9086__patch-sloth-20261025083038",
+  "id": "MAUK9086__patch-sloth-20261026090249",
   "repo": "MAUK9086/patch-sloth",
-  "created_at": "2026-10-25T08:30:38.545Z",
-  "generated_at": "2026-10-25T08:30:38.545Z",
+  "created_at": "2026-10-26T09:02:49.518Z",
+  "generated_at": "2026-10-26T09:02:49.518Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -13,7 +13,7 @@
       "rules_hash": "411bd73d2e73eb7a90392bb0df8dfd6be6b638d1be5336e120575b2b3176ef72",
       "sessions": 1,
       "mature_sessions": 1,
-      "spend_usd": 15.4771568,
+      "spend_usd": 18.4940048,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
@@ -21,7 +21,7 @@
       "reverted": 0,
       "rework_human": 0.019184652278177457,
       "surviving_changes": 0.9569093610698366,
-      "cost_per_surviving_change": 16.174109513043476,
+      "cost_per_surviving_change": 19.326809363975155,
       "evidence_level": "A"
     }
   ],

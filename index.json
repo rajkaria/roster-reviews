@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-26T09:02:54.579Z",
+  "generated_at": "2026-10-26T09:02:56.956Z",
   "reviews": [
+    {
+      "repo": "MAUK9086/patch-sloth",
+      "slug": "MAUK9086__patch-sloth",
+      "href": "/r/MAUK9086/patch-sloth",
+      "outcome": "ok",
+      "generated_at": "2026-10-26T09:02:49.518Z",
+      "finished_at": "2026-10-26T09:02:56Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296557407",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "74a507218537",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 18.4940048,
+          "survival": 0.9569093610698366,
+          "surviving_changes": 0.9569093610698366,
+          "cost_per_surviving_change": 19.326809363975155
+        }
+      ]
+    },
     {
       "repo": "ngngardner/readaloud",
       "slug": "ngngardner__readaloud",
@@ -2573,32 +2599,6 @@
       "sessions": 0,
       "mature_sessions": 0,
       "setups": []
-    },
-    {
-      "repo": "MAUK9086/patch-sloth",
-      "slug": "MAUK9086__patch-sloth",
-      "href": "/r/MAUK9086/patch-sloth",
-      "outcome": "ok",
-      "generated_at": "2026-10-25T08:30:38.545Z",
-      "finished_at": "2026-10-25T08:31:04Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176893219",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "74a507218537",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 15.4771568,
-          "survival": 0.9569093610698366,
-          "surviving_changes": 0.9569093610698366,
-          "cost_per_surviving_change": 16.174109513043476
-        }
-      ]
     },
     {
       "repo": "steelcj/uc-automa",
