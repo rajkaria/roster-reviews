@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-26T09:03:13.358Z",
+  "generated_at": "2026-10-26T09:03:15.243Z",
   "reviews": [
+    {
+      "repo": "johnchque/dg",
+      "slug": "johnchque__dg",
+      "href": "/r/johnchque/dg",
+      "outcome": "ok",
+      "generated_at": "2026-10-26T09:03:05.225Z",
+      "finished_at": "2026-10-26T09:03:15Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296583620",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "29d32998a1e5",
+          "label": "Claude Code · claude-sonnet-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.5343101343101343,
+          "surviving_changes": 1.0686202686202686,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2c82353f96ed",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 19.368557399999997,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "53643298ecbe",
+          "label": "Claude Code · claude-sonnet-5 (rules 325cfe)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "zianye183/duquantum-pasqal",
       "slug": "zianye183__duquantum-pasqal",
