@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-26T09:03:49.841Z",
+  "generated_at": "2026-10-26T09:03:52.277Z",
   "reviews": [
+    {
+      "repo": "418todayhope-sys/travel-expense-claim",
+      "slug": "418todayhope-sys__travel-expense-claim",
+      "href": "/r/418todayhope-sys/travel-expense-claim",
+      "outcome": "ok",
+      "generated_at": "2026-10-26T09:03:00.346Z",
+      "finished_at": "2026-10-26T09:03:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296570974",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 5,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.3762376237623763,
+          "surviving_changes": 1.1287128712871288,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.967032967032967,
+          "surviving_changes": 0.967032967032967,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "alehar9320/agentic-odi",
       "slug": "alehar9320__agentic-odi",
@@ -5506,44 +5544,6 @@
           "spend_usd": null,
           "survival": 0.8971230205027689,
           "surviving_changes": 2.691369061508307,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "418todayhope-sys/travel-expense-claim",
-      "slug": "418todayhope-sys__travel-expense-claim",
-      "href": "/r/418todayhope-sys/travel-expense-claim",
-      "outcome": "ok",
-      "generated_at": "2026-10-24T08:13:04.370Z",
-      "finished_at": "2026-10-24T08:13:21Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40077158403",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 6,
-      "setups": [
-        {
-          "setup_id": "64bbc9f14c5d",
-          "label": "Codex · gpt-6-luna",
-          "harness": "Codex",
-          "model": "gpt-6-luna",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 0.7817787418655098,
-          "surviving_changes": 3.9088937093275486,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.978021978021978,
-          "surviving_changes": 0.978021978021978,
           "cost_per_surviving_change": null
         }
       ]
