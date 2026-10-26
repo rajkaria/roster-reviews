@@ -1,8 +1,8 @@
 {
-  "id": "wuhuizuo__specrunway-20261025083046",
+  "id": "wuhuizuo__specrunway-20261026090258",
   "repo": "wuhuizuo/specrunway",
-  "created_at": "2026-10-25T08:30:46.415Z",
-  "generated_at": "2026-10-25T08:30:46.415Z",
+  "created_at": "2026-10-26T09:02:58.787Z",
+  "generated_at": "2026-10-26T09:02:58.787Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -13,7 +13,7 @@
       "rules_hash": null,
       "sessions": 1,
       "mature_sessions": 0,
-      "spend_usd": 0.09032580600000001,
+      "spend_usd": 0.091932588,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
