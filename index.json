@@ -1,6 +1,152 @@
 {
-  "generated_at": "2026-10-26T09:03:52.277Z",
+  "generated_at": "2026-10-26T09:03:59.564Z",
   "reviews": [
+    {
+      "repo": "PJensen/jshack",
+      "slug": "PJensen__jshack",
+      "href": "/r/PJensen/jshack",
+      "outcome": "ok",
+      "generated_at": "2026-10-26T09:03:15.097Z",
+      "finished_at": "2026-10-26T09:03:59Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296575048",
+      "label": "no_suspect",
+      "sessions": 129,
+      "mature_sessions": 126,
+      "setups": [
+        {
+          "setup_id": "1bb1c1b31a12",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.9221454173067077,
+          "surviving_changes": 5.532872503840246,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4de34d037ef9",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 10,
+          "mature_sessions": 10,
+          "spend_usd": null,
+          "survival": 0.8942727045998933,
+          "surviving_changes": 8.942727045998932,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "536a04067a29",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 43,
+          "mature_sessions": 43,
+          "spend_usd": null,
+          "survival": 0.8166437753502659,
+          "surviving_changes": 35.11568234006143,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "59cb951b5802",
+          "label": "Codex · gpt-5.6-luna",
+          "harness": "Codex",
+          "model": "gpt-5.6-luna",
+          "sessions": 6,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.9365813305468478,
+          "surviving_changes": 3.746325322187391,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "864344e46db6",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.8736601944652156,
+          "surviving_changes": 4.368300972326078,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b427a76691c1",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 22,
+          "mature_sessions": 22,
+          "spend_usd": null,
+          "survival": 0.8297193800597807,
+          "surviving_changes": 18.253826361315177,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b750ac26e94a",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ba0420970548",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 19,
+          "mature_sessions": 19,
+          "spend_usd": null,
+          "survival": 0.87335261889601,
+          "surviving_changes": 16.59369975902419,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f0e781a3e87a",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9014492753623189,
+          "surviving_changes": 1.8028985507246378,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f33026efb84b",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 14,
+          "mature_sessions": 14,
+          "spend_usd": null,
+          "survival": 0.9185415654206942,
+          "surviving_changes": 12.859581915889718,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fe3ef1a191f2",
+          "label": "Codex · gpt-5.5 (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-5.5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "418todayhope-sys/travel-expense-claim",
       "slug": "418todayhope-sys__travel-expense-claim",
