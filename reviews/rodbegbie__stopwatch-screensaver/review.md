@@ -1,7 +1,7 @@
 # Review: rodbegbie/stopwatch-screensaver
 
-- Review id: `rodbegbie__stopwatch-screensaver-20261024081251`
-- Created: 2026-10-24T08:12:51.756Z
+- Review id: `rodbegbie__stopwatch-screensaver-20261027090559`
+- Created: 2026-10-27T09:05:59.513Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -15,13 +15,13 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `083c1ce633b2` | Claude Code · claude-sonnet-5-5 (rules a6e29c) | 1 | 1 | $0.00 | 100.0% | 0.0% | 0.0% | 0.0% | $0.00 | A |
 | `198901a2fb9d` | Claude Code · claude-opus-5-5 (rules bac4e9) | 1 | 1 | $1.86 | 50.0% | 0.0% | 0.0% | 0.0% | $3.73 | A |
-| `1c9132bfd932` | Claude Code · claude-sonnet-5-5 (rules eab872) | 1 | 1 | $0.58 | 56.4% | 0.0% | 0.0% | 0.0% | $1.02 | A |
+| `1c9132bfd932` | Claude Code · claude-sonnet-5-5 (rules eab872) | 1 | 1 | $0.58 | 56.4% | 0.0% | 1.0% | 0.0% | $1.02 | A |
 | `1cece0b9e6ee` | Claude Code · claude-opus-5-5 (rules aff8c1) | 1 | 1 | $10.00 | 100.0% | 0.0% | 0.5% | 0.0% | $10.00 | A |
 | `1daae6277768` | Claude Code · claude-sonnet-5-5 (rules cdc7cf) | 1 | 1 | $0.26 | 100.0% | 0.0% | 0.0% | 0.0% | $0.26 | A |
 | `1e10e04c8909` | Claude Code · claude-sonnet-5-5 (rules e282ac) | 1 | 1 | $0.38 | 100.0% | 0.0% | 0.0% | 0.0% | $0.38 | A |
 | `1f08dd03d27e` | Claude Code · claude-sonnet-5-5 (rules dcfddf) | 1 | 1 | $6.24 | 98.7% | 0.0% | 0.5% | 0.0% | $6.33 | A |
 | `20a608019541` | Claude Code · claude-sonnet-5-5 (rules 3ee41f) | 1 | 1 | $9.53 | 71.4% | 0.0% | 0.0% | 0.0% | $13.35 | A |
-| `24c1ce433cd8` | Claude Code · claude-sonnet-5-5 (rules 942f0e) | 1 | 0 | $0.37 | too young | too young | too young | 0.0% | — | A |
+| `24c1ce433cd8` | Claude Code · claude-sonnet-5-5 (rules 942f0e) | 1 | 1 | $0.37 | 89.5% | 0.0% | 0.0% | 0.0% | $0.42 | A |
 | `2701ff3601fb` | Claude Code · claude-sonnet-5-5 (rules cd349c) | 1 | 1 | $0.00 | 61.5% | 0.0% | 13.3% | 0.0% | $0.00 | A |
 | `31a722179d6d` | Claude Code · claude-sonnet-5-5 (rules 0d1472) | 1 | 1 | $8.63 | 100.0% | 0.0% | 0.0% | 0.0% | $8.63 | A |
 | `3217deb9a5d7` | Claude Code · claude-sonnet-5-5 (rules ef0c1f) | 1 | 1 | $2.88 | 25.2% | 0.0% | 0.1% | 0.0% | $11.42 | A |
@@ -36,7 +36,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `50df0fb06f4f` | Claude Code · claude-sonnet-5-5 (rules 26747d) | 2 | 2 | $8.71 | 98.7% | 0.0% | 0.9% | 0.0% | $4.42 | A |
 | `515eb0c05c9c` | Claude Code · claude-sonnet-5-5 (rules 30066d) | 1 | 1 | $0.67 | 24.5% | 0.0% | 0.3% | 0.0% | $2.72 | A |
 | `5470923a4c71` | Claude Code · claude-sonnet-5-5 (rules b68c4c) | 1 | 1 | $1.45 | 100.0% | 0.0% | 0.0% | 0.0% | $1.45 | A |
-| `55088b3bfd3e` | Claude Code · claude-sonnet-5-5 (rules 97c2c8) | 1 | 0 | $5.20 | too young | too young | too young | 0.0% | — | A |
+| `54f9738583f4` | Claude Code · claude-sonnet-5-5 (rules 7f9e44) | 1 | 0 | $0.47 | too young | too young | too young | 0.0% | — | A |
+| `55088b3bfd3e` | Claude Code · claude-sonnet-5-5 (rules 97c2c8) | 1 | 1 | $5.20 | 100.0% | 0.0% | 0.0% | 0.0% | $5.20 | A |
 | `55c0a6b56312` | Claude Code · claude-sonnet-5-5 (rules a3b10a) | 1 | 1 | $34.94 | 97.1% | 0.0% | 0.0% | 0.0% | $35.99 | A |
 | `60075168a410` | Codex · gpt-6-astra (rules unknown) | 1 | 1 | $8.38 | 96.2% | 0.0% | 4.9% | 0.0% | $8.72 | A |
 | `6813bd53f438` | Claude Code · claude-sonnet-5-5 (rules 360908) | 1 | 1 | $20.71 | 85.7% | 0.0% | 0.0% | 0.0% | $24.16 | A |
@@ -73,11 +74,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `f52ba40fa727` | Claude Code · claude-sonnet-5-5 (rules 7f38e7) | 1 | 1 | $32.26 | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `f5d981d1149a` | Claude Code · claude-opus-5-5 (rules 9f2075) | 1 | 1 | $39.46 | 80.8% | 0.0% | 0.0% | 0.0% | $48.83 | A |
 | `f74af9c90241` | Claude Code · claude-sonnet-5-5 (rules c72b2e) | 1 | 1 | $9.61 | 100.0% | 0.0% | 1.0% | 0.0% | $9.61 | A |
-| `feb29e7b88bc` | Claude Code · claude-sonnet-5-5 (rules b64468) | 1 | 1 | $1.96 | 34.6% | 0.0% | 0.6% | 0.0% | $5.66 | A |
+| `feb29e7b88bc` | Claude Code · claude-sonnet-5-5 (rules b64468) | 1 | 1 | $1.96 | 34.3% | 0.0% | 0.6% | 0.0% | $5.70 | A |
 
 ## Notes
 
-- 23 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 22 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 17 sessions have no price (unknown model, or a price that depends on prompt size)
 - 18 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
