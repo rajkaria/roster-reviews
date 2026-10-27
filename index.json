@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-27T09:07:40.481Z",
+  "generated_at": "2026-10-27T09:09:23.839Z",
   "reviews": [
+    {
+      "repo": "asermax/nagara",
+      "slug": "asermax__nagara",
+      "href": "/r/asermax/nagara",
+      "outcome": "ok",
+      "generated_at": "2026-10-27T09:05:55.831Z",
+      "finished_at": "2026-10-27T09:09:23Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40478195120",
+      "label": "insufficient_data",
+      "sessions": 98,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2caa5b37c296",
+          "label": "Pi · glm-5.3",
+          "harness": "Pi",
+          "model": "glm-5.3",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "57092053b34d",
+          "label": "Claude Code · claude-sonnet-5-5 (rules dcab4e)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 16,
+          "mature_sessions": 0,
+          "spend_usd": 4.0786837,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "935a73483fd5",
+          "label": "Claude Code · claude-sonnet-5-5 (rules aec0d9)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 26,
+          "mature_sessions": 0,
+          "spend_usd": 7.730321800000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "98cf17c19e4c",
+          "label": "Claude Code · claude-opus-5-5 (rules 913fa1)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 13.277234200000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9e38ab85aa4b",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 10,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a8528e7c367a",
+          "label": "Claude Code · claude-opus-5-5 (rules aec0d9)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 31,
+          "mature_sessions": 0,
+          "spend_usd": 263.4296706,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ed9739e717f8",
+          "label": "Claude Code · claude-opus-5-5 (rules dcab4e)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 13,
+          "mature_sessions": 0,
+          "spend_usd": 52.9511054,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "rodbegbie/stopwatch-screensaver",
       "slug": "rodbegbie__stopwatch-screensaver",
