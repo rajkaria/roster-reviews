@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:08.259Z",
+  "generated_at": "2026-10-28T09:47:09.746Z",
   "reviews": [
+    {
+      "repo": "mohan-canarys-org/ecommerce-api",
+      "slug": "mohan-canarys-org__ecommerce-api",
+      "href": "/r/mohan-canarys-org/ecommerce-api",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:47:04.907Z",
+      "finished_at": "2026-10-28T09:47:09Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666923293",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "adfa67ddf71e",
+          "label": "Copilot CLI · auto",
+          "harness": "Copilot CLI",
+          "model": "auto",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "MauricioPerera/KDD",
       "slug": "MauricioPerera__KDD",
