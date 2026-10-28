@@ -1,8 +1,8 @@
 {
-  "id": "toastboy__next-www-toastboy-20261027090556",
+  "id": "toastboy__next-www-toastboy-20261028094655",
   "repo": "toastboy/next-www-toastboy",
-  "created_at": "2026-10-27T09:05:56.733Z",
-  "generated_at": "2026-10-27T09:05:56.733Z",
+  "created_at": "2026-10-28T09:46:55.562Z",
+  "generated_at": "2026-10-28T09:46:55.562Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -145,15 +145,15 @@
       "model": "auto",
       "rules_hash": null,
       "sessions": 2,
-      "mature_sessions": 0,
+      "mature_sessions": 1,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
+      "survival": 0.75,
+      "reverted": 0,
+      "rework_human": 0.027777777777777776,
+      "surviving_changes": 0.75,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -283,10 +283,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8987406110577738,
+      "survival": 0.8984582368554809,
       "reverted": 0,
       "rework_human": 0.00010333247222939809,
-      "surviving_changes": 0.8987406110577738,
+      "surviving_changes": 0.8984582368554809,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -393,7 +393,7 @@
       "rules_hash": "63432cc57d7599c4b426f1d7fa8f4df4e2d2e35224448c5768bfd47d7308f67d",
       "sessions": 1,
       "mature_sessions": 0,
-      "spend_usd": 0.5646847,
+      "spend_usd": 3.9949101000000002,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
@@ -464,11 +464,11 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 1.7206597707576183,
+  "odds_ratio": 1.742319127849356,
   "ci95": [
-    0.6680812602270376,
-    4.431601697220962
+    0.6760075787763019,
+    4.490594541506283
   ],
-  "p_value": 0.3653017162556982,
+  "p_value": 0.3519421209209636,
   "evidence_level": "A"
 }
