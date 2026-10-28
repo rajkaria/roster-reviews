@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:23.147Z",
+  "generated_at": "2026-10-28T09:47:25.994Z",
   "reviews": [
+    {
+      "repo": "9thLevelSoftware/the-synaptic-sea-2d",
+      "slug": "9thLevelSoftware__the-synaptic-sea-2d",
+      "href": "/r/9thLevelSoftware/the-synaptic-sea-2d",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:45.035Z",
+      "finished_at": "2026-10-28T09:47:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666886087",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "91cd089aef09",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Eug1n1/kubi",
       "slug": "Eug1n1__kubi",
