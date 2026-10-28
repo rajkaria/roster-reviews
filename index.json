@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:19.328Z",
+  "generated_at": "2026-10-28T09:47:23.147Z",
   "reviews": [
+    {
+      "repo": "Eug1n1/kubi",
+      "slug": "Eug1n1__kubi",
+      "href": "/r/Eug1n1/kubi",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:58.108Z",
+      "finished_at": "2026-10-28T09:47:23Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666910199",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "508e0808bb9a",
+          "label": "Cursor · grok-4.7-high",
+          "harness": "Cursor",
+          "model": "grok-4.7-high",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "scarecr0w12/PlayWeld",
       "slug": "scarecr0w12__PlayWeld",
