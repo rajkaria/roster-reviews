@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:28.256Z",
+  "generated_at": "2026-10-28T09:47:31.045Z",
   "reviews": [
+    {
+      "repo": "premkumarmandala/church-App",
+      "slug": "premkumarmandala__church-App",
+      "href": "/r/premkumarmandala/church-App",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:49.771Z",
+      "finished_at": "2026-10-28T09:47:31Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666891771",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.43607435230970615,
+          "surviving_changes": 0.8721487046194123,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "konstruktoid/agent-config-baseline",
       "slug": "konstruktoid__agent-config-baseline",
