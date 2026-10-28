@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:09.746Z",
+  "generated_at": "2026-10-28T09:47:11.798Z",
   "reviews": [
+    {
+      "repo": "ai212983/glypherie",
+      "slug": "ai212983__glypherie",
+      "href": "/r/ai212983/glypherie",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:47:00.181Z",
+      "finished_at": "2026-10-28T09:47:11Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666912665",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "84a640968085",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mohan-canarys-org/ecommerce-api",
       "slug": "mohan-canarys-org__ecommerce-api",
