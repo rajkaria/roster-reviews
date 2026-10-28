@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:06.940Z",
+  "generated_at": "2026-10-28T09:47:08.259Z",
   "reviews": [
+    {
+      "repo": "MauricioPerera/KDD",
+      "slug": "MauricioPerera__KDD",
+      "href": "/r/MauricioPerera/KDD",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:47:01.347Z",
+      "finished_at": "2026-10-28T09:47:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666916072",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "acc510ea721f",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jakepearson/jakepearson.github.com",
       "slug": "jakepearson__jakepearson.github.com",
