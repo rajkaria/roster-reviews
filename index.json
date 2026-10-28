@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:16.910Z",
+  "generated_at": "2026-10-28T09:47:19.328Z",
   "reviews": [
+    {
+      "repo": "scarecr0w12/PlayWeld",
+      "slug": "scarecr0w12__PlayWeld",
+      "href": "/r/scarecr0w12/PlayWeld",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:52.635Z",
+      "finished_at": "2026-10-28T09:47:19Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666896603",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "a887cb42a421",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sandbox-kit/kit",
       "slug": "sandbox-kit__kit",
