@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:46:54.176Z",
+  "generated_at": "2026-10-28T09:46:55.736Z",
   "reviews": [
+    {
+      "repo": "konstruktoid/agent-instructions-skills",
+      "slug": "konstruktoid__agent-instructions-skills",
+      "href": "/r/konstruktoid/agent-instructions-skills",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:53.452Z",
+      "finished_at": "2026-10-28T09:46:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666899458",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "05963473a336",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 8.857690600000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
