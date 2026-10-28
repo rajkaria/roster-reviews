@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:46:49.296Z",
+  "generated_at": "2026-10-28T09:46:52.071Z",
   "reviews": [
+    {
+      "repo": "orin-dx/homebrew-tap",
+      "slug": "orin-dx__homebrew-tap",
+      "href": "/r/orin-dx/homebrew-tap",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:45.701Z",
+      "finished_at": "2026-10-28T09:46:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666888972",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "f8a6521f18c1",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 15.5743262,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
