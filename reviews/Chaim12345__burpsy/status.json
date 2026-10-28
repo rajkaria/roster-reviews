@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261028-005",
+  "repo": "Chaim12345/burpsy",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 40666872792,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666872792",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "5b689bb4bdb682d3e34c3361e8a7081d8609fb69",
+  "checkpoint_head": "9095cd09771378688444fd5f12959b55d1b4efc3",
+  "started_at": "2026-10-28T09:46:34Z",
+  "finished_at": "2026-10-28T09:47:04Z"
+}
