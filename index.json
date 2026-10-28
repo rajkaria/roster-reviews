@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:25.994Z",
+  "generated_at": "2026-10-28T09:47:28.256Z",
   "reviews": [
+    {
+      "repo": "konstruktoid/agent-config-baseline",
+      "slug": "konstruktoid__agent-config-baseline",
+      "href": "/r/konstruktoid/agent-config-baseline",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:47:03.048Z",
+      "finished_at": "2026-10-28T09:47:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666920910",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 6.228996800000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "9thLevelSoftware/the-synaptic-sea-2d",
       "slug": "9thLevelSoftware__the-synaptic-sea-2d",
