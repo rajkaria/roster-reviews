@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:47:04.974Z",
+  "generated_at": "2026-10-28T09:47:06.940Z",
   "reviews": [
+    {
+      "repo": "jakepearson/jakepearson.github.com",
+      "slug": "jakepearson__jakepearson.github.com",
+      "href": "/r/jakepearson/jakepearson.github.com",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:47:05.859Z",
+      "finished_at": "2026-10-28T09:47:06Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666925479",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "56471a433889",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.092894,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Chaim12345/burpsy",
       "slug": "Chaim12345__burpsy",
