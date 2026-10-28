@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-27T09:09:23.839Z",
+  "generated_at": "2026-10-28T09:46:40.434Z",
   "reviews": [
+    {
+      "repo": "tacoda/bastion",
+      "slug": "tacoda__bastion",
+      "href": "/r/tacoda/bastion",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:36.989Z",
+      "finished_at": "2026-10-28T09:46:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666867987",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "273b729b2bc0",
+          "label": "Pi · claude-opus-5-5",
+          "harness": "Pi",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 78.5124618,
+          "survival": 0.9897025171624714,
+          "surviving_changes": 0.9897025171624714,
+          "cost_per_surviving_change": 79.32935446612717
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 7.558722999999999,
+          "survival": 0.9897025171624714,
+          "surviving_changes": 0.9897025171624714,
+          "cost_per_surviving_change": 7.637368672832369
+        }
+      ]
+    },
     {
       "repo": "asermax/nagara",
       "slug": "asermax__nagara",

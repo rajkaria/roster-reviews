@@ -1,0 +1,53 @@
+{
+  "id": "tacoda__bastion-20261028094636",
+  "repo": "tacoda/bastion",
+  "created_at": "2026-10-28T09:46:36.989Z",
+  "generated_at": "2026-10-28T09:46:36.989Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "273b729b2bc0",
+      "label": "Pi · claude-opus-5-5",
+      "harness": "Pi",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": 78.5124618,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.9897025171624714,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 0.9897025171624714,
+      "cost_per_surviving_change": 79.32935446612717,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "518d4e106433",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": 7.558722999999999,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.9897025171624714,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 0.9897025171624714,
+      "cost_per_surviving_change": 7.637368672832369,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
