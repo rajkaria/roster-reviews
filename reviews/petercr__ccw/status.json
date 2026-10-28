@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261013-009",
+  "job": "disc-20261028-017",
   "repo": "petercr/ccw",
   "outcome": "ok",
   "error": null,
-  "run_id": 38404632133,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404632133",
+  "run_id": 40666904936,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666904936",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "df6297a19aa80d555856434b16050ee147fb3635",
+  "target_head": "f07689b4c30b3b675df558a76a8d4faa5442617d",
   "checkpoint_head": "04cab9d452671c87e5fe9e56fb4c56dcaf72ee3f",
-  "started_at": "2026-10-13T13:24:05Z",
-  "finished_at": "2026-10-13T13:24:15Z"
+  "started_at": "2026-10-28T09:46:50Z",
+  "finished_at": "2026-10-28T09:46:58Z"
 }
