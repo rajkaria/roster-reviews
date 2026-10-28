@@ -1,8 +1,8 @@
 {
-  "id": "rodbegbie__stopwatch-screensaver-20261027090559",
+  "id": "rodbegbie__stopwatch-screensaver-20261028094641",
   "repo": "rodbegbie/stopwatch-screensaver",
-  "created_at": "2026-10-27T09:05:59.513Z",
-  "generated_at": "2026-10-27T09:05:59.513Z",
+  "created_at": "2026-10-28T09:46:41.217Z",
+  "generated_at": "2026-10-28T09:46:41.217Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -169,11 +169,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8947368421052632,
+      "survival": 0.7894736842105263,
       "reverted": 0,
-      "rework_human": 0,
-      "surviving_changes": 0.8947368421052632,
-      "cost_per_surviving_change": 0.41795797647058824,
+      "rework_human": 0.1,
+      "surviving_changes": 0.7894736842105263,
+      "cost_per_surviving_change": 0.4736857066666667,
       "evidence_level": "A"
     },
     {
@@ -269,6 +269,25 @@
       "rework_human": 0.13966480446927373,
       "surviving_changes": 0.906832298136646,
       "cost_per_surviving_change": 4.263757376027397,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "3cf0639eee69",
+      "label": "Claude Code · claude-sonnet-5-5 (rules 073227)",
+      "harness": "Claude Code",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": "07322765609a136a8fafd80da56da490a2e69345424a8ba7c343f6e628901b40",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 3.4011657,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {
@@ -449,16 +468,16 @@
       "model": "claude-sonnet-5-5",
       "rules_hash": "7f9e443d54bd3d7ca87911cb5ba26df82370d1ce56af5b811cd2a6a115b8cdbc",
       "sessions": 1,
-      "mature_sessions": 0,
+      "mature_sessions": 1,
       "spend_usd": 0.47356729999999997,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
-      "cost_per_surviving_change": null,
+      "survival": 0.975,
+      "reverted": 0,
+      "rework_human": 0.025,
+      "surviving_changes": 0.975,
+      "cost_per_surviving_change": 0.48571005128205125,
       "evidence_level": "A"
     },
     {
