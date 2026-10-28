@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:46:58.639Z",
+  "generated_at": "2026-10-28T09:47:00.683Z",
   "reviews": [
+    {
+      "repo": "nicholaswilde/tfa",
+      "slug": "nicholaswilde__tfa",
+      "href": "/r/nicholaswilde/tfa",
+      "outcome": "ok",
+      "generated_at": "2026-10-28T09:46:58.267Z",
+      "finished_at": "2026-10-28T09:47:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666907784",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "ba148062afd4",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/ccw",
       "slug": "petercr__ccw",
