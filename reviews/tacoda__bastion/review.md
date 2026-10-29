@@ -1,7 +1,7 @@
 # Review: tacoda/bastion
 
-- Review id: `tacoda__bastion-20261028094636`
-- Created: 2026-10-28T09:46:36.989Z
+- Review id: `tacoda__bastion-20261029100526`
+- Created: 2026-10-29T10:05:26.681Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `273b729b2bc0` | Pi · claude-opus-5-5 | 1 | 1 | $78.51 | 99.0% | 0.0% | 0.0% | 0.0% | $79.33 | A |
+| `273b729b2bc0` | Pi · claude-opus-5-5 | 1 | 1 | $164.32 | 99.0% | 0.0% | 0.0% | 0.0% | $166.03 | A |
 | `518d4e106433` | Claude Code · claude-opus-5-5 | 1 | 1 | $7.56 | 99.0% | 0.0% | 0.0% | 0.0% | $7.64 | A |
 
 ## Notes
