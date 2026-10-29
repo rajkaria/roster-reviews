@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-29T10:06:21.206Z",
+  "generated_at": "2026-10-29T10:06:22.843Z",
   "reviews": [
+    {
+      "repo": "MokapotLabs/ghost-in-the-pipeline",
+      "slug": "MokapotLabs__ghost-in-the-pipeline",
+      "href": "/r/MokapotLabs/ghost-in-the-pipeline",
+      "outcome": "ok",
+      "generated_at": "2026-10-29T10:05:48.919Z",
+      "finished_at": "2026-10-29T10:06:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854775861",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mvwi/wt",
       "slug": "mvwi__wt",

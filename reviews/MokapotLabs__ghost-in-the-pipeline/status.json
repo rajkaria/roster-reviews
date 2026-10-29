@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261029-018",
+  "repo": "MokapotLabs/ghost-in-the-pipeline",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 40854775861,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854775861",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "e8872f6b50f798b82cc5716593391b50195df0bc",
+  "checkpoint_head": null,
+  "started_at": "2026-10-29T10:05:44Z",
+  "finished_at": "2026-10-29T10:06:22Z"
+}
