@@ -1,6 +1,128 @@
 {
-  "generated_at": "2026-10-29T10:06:25.929Z",
+  "generated_at": "2026-10-29T10:06:28.722Z",
   "reviews": [
+    {
+      "repo": "chrisdoc/pi-pii-redact",
+      "slug": "chrisdoc__pi-pii-redact",
+      "href": "/r/chrisdoc/pi-pii-redact",
+      "outcome": "ok",
+      "generated_at": "2026-10-29T10:05:41.663Z",
+      "finished_at": "2026-10-29T10:06:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854757718",
+      "label": "no_suspect",
+      "sessions": 24,
+      "mature_sessions": 13,
+      "setups": [
+        {
+          "setup_id": "0d78d4393f57",
+          "label": "Claude Code · claude-opus-5-5 (rules 1c31aa)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 9.4515786,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5111353d9961",
+          "label": "Antigravity · unknown (rules unknown)",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": 5.465558000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5692f6ef27ff",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "619b2a645711",
+          "label": "Antigravity · gemini-3.8-flash-tiered",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-tiered",
+          "sessions": 10,
+          "mature_sessions": 10,
+          "spend_usd": null,
+          "survival": 0.8984251968503937,
+          "surviving_changes": 8.984251968503937,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown (rules unknown)",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 3,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "aed67baf6fb8",
+          "label": "Antigravity · unknown (rules unknown)",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "cff46e5fa9f8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.9863706999999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "dc81c4cd094e",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.0969642,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/sof-pi",
       "slug": "BbrSofiane__sof-pi",
