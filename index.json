@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-29T10:06:40.537Z",
+  "generated_at": "2026-10-29T10:06:42.637Z",
   "reviews": [
+    {
+      "repo": "thorgas/Youmotion",
+      "slug": "thorgas__Youmotion",
+      "href": "/r/thorgas/Youmotion",
+      "outcome": "ok",
+      "generated_at": "2026-10-29T10:05:57.200Z",
+      "finished_at": "2026-10-29T10:06:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854795436",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "1397f4e990fa",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.45723684210526316,
+          "surviving_changes": 0.9144736842105263,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e5bc8d6ee769",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9685598377281948,
+          "surviving_changes": 1.9371196754563895,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "alehar9320/agentic-odi",
       "slug": "alehar9320__agentic-odi",
@@ -3750,44 +3788,6 @@
           "survival": 1,
           "surviving_changes": 1,
           "cost_per_surviving_change": 1.1966328000000002
-        }
-      ]
-    },
-    {
-      "repo": "thorgas/Youmotion",
-      "slug": "thorgas__Youmotion",
-      "href": "/r/thorgas/Youmotion",
-      "outcome": "ok",
-      "generated_at": "2026-10-27T09:06:04.208Z",
-      "finished_at": "2026-10-27T09:06:17Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40478207032",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 4,
-      "setups": [
-        {
-          "setup_id": "1397f4e990fa",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.45723684210526316,
-          "surviving_changes": 0.9144736842105263,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "e5bc8d6ee769",
-          "label": "Codex · gpt-6.1-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9685598377281948,
-          "surviving_changes": 1.9371196754563895,
-          "cost_per_surviving_change": null
         }
       ]
     },
