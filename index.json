@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-29T10:05:31.624Z",
+  "generated_at": "2026-10-29T10:05:39.022Z",
   "reviews": [
+    {
+      "repo": "MJ-NJ/localghost",
+      "slug": "MJ-NJ__localghost",
+      "href": "/r/MJ-NJ/localghost",
+      "outcome": "ok",
+      "generated_at": "2026-10-29T10:05:37.088Z",
+      "finished_at": "2026-10-29T10:05:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854743017",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "85277c34c845",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 0.1246483,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tacoda/bastion",
       "slug": "tacoda__bastion",
