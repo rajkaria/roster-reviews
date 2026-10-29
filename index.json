@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-29T10:05:46.903Z",
+  "generated_at": "2026-10-29T10:05:49.799Z",
   "reviews": [
+    {
+      "repo": "konstruktoid/agent-instructions-skills",
+      "slug": "konstruktoid__agent-instructions-skills",
+      "href": "/r/konstruktoid/agent-instructions-skills",
+      "outcome": "ok",
+      "generated_at": "2026-10-29T10:05:40.022Z",
+      "finished_at": "2026-10-29T10:05:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854755402",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "05963473a336",
+          "label": "Claude Code · claude-opus-5-5 (rules e30d35)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 8.857690600000002,
+          "survival": 0.9990501721007877,
+          "surviving_changes": 2.997150516302363,
+          "cost_per_surviving_change": 2.9553706268071878
+        },
+        {
+          "setup_id": "0cba022d890f",
+          "label": "Claude Code · claude-opus-5-5 (rules 7d23ec)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.325768,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "1ec1f286e147",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.7843353000000004,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "maester365/maester",
       "slug": "maester365__maester",
@@ -2119,32 +2169,6 @@
           "spend_usd": null,
           "survival": 0.24242424242424243,
           "surviving_changes": 0.48484848484848486,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "konstruktoid/agent-instructions-skills",
-      "slug": "konstruktoid__agent-instructions-skills",
-      "href": "/r/konstruktoid/agent-instructions-skills",
-      "outcome": "ok",
-      "generated_at": "2026-10-28T09:46:53.452Z",
-      "finished_at": "2026-10-28T09:46:55Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666899458",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "05963473a336",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 8.857690600000002,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
