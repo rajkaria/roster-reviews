@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261025-006",
+  "job": "disc-20261029-024",
   "repo": "petercr/jev-orchestrator",
   "outcome": "ok",
   "error": null,
-  "run_id": 40176890976,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40176890976",
+  "run_id": 40854792600,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854792600",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "4a9c0241928f9d3677af49328b7c6b4206508ab8",
+  "target_head": "dba8ea19cfa418a9f4fbaaad5433912d67414715",
   "checkpoint_head": null,
-  "started_at": "2026-10-25T08:30:32Z",
-  "finished_at": "2026-10-25T08:30:51Z"
+  "started_at": "2026-10-29T10:05:53Z",
+  "finished_at": "2026-10-29T10:06:14Z"
 }
