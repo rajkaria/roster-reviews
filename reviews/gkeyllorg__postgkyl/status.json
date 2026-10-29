@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261024-016",
+  "job": "disc-20261029-022",
   "repo": "gkeyllorg/postgkyl",
   "outcome": "ok",
   "error": null,
-  "run_id": 40077162806,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40077162806",
+  "run_id": 40854787074,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854787074",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "81ec1148842195e048981c78794d37b8f2e25758",
+  "target_head": "33de7162640933ac7d643bfb5ac5e34a8eb7a57e",
   "checkpoint_head": null,
-  "started_at": "2026-10-24T08:13:04Z",
-  "finished_at": "2026-10-24T08:13:38Z"
+  "started_at": "2026-10-29T10:05:48Z",
+  "finished_at": "2026-10-29T10:06:11Z"
 }

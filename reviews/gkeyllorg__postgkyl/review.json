@@ -1,8 +1,8 @@
 {
-  "id": "gkeyllorg__postgkyl-20261024081308",
+  "id": "gkeyllorg__postgkyl-20261029100552",
   "repo": "gkeyllorg/postgkyl",
-  "created_at": "2026-10-24T08:13:08.336Z",
-  "generated_at": "2026-10-24T08:13:08.336Z",
+  "created_at": "2026-10-29T10:05:52.982Z",
+  "generated_at": "2026-10-29T10:05:52.982Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -31,16 +31,16 @@
       "model": "gpt-6-astra",
       "rules_hash": null,
       "sessions": 61,
-      "mature_sessions": 48,
+      "mature_sessions": 61,
       "spend_usd": 258.91350600000004,
       "priced_sessions": 61,
       "spend_lower_bound": false,
       "unattended": 0.5081967213114754,
-      "survival": 0.8215457961940381,
-      "reverted": 0.0625,
-      "rework_human": 0.06814536234554976,
-      "surviving_changes": 39.43419821731383,
-      "cost_per_surviving_change": 4.714439861956547,
+      "survival": 0.8369212748660888,
+      "reverted": 0.04918032786885246,
+      "rework_human": 0.056692245050856474,
+      "surviving_changes": 51.05219776683142,
+      "cost_per_surviving_change": 5.071544758612057,
       "evidence_level": "A"
     },
     {
@@ -95,7 +95,7 @@
       "unattended": 0,
       "survival": 0.6560126776451486,
       "reverted": 0,
-      "rework_human": 0.003740065451145395,
+      "rework_human": 0.003973819541841982,
       "surviving_changes": 1.9680380329354459,
       "cost_per_surviving_change": 11.468983638661403,
       "evidence_level": "A"
@@ -133,7 +133,7 @@
       "unattended": 0.2727272727272727,
       "survival": 0.8244096042291917,
       "reverted": 0,
-      "rework_human": 0.004898036047105516,
+      "rework_human": 0.008634026084465417,
       "surviving_changes": 9.068505646521109,
       "cost_per_surviving_change": 4.203202102501031,
       "evidence_level": "A"
@@ -169,21 +169,21 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8971230205027689,
+      "survival": 0.8970283235330719,
       "reverted": 0,
-      "rework_human": 0.010379304886122823,
-      "surviving_changes": 2.691369061508307,
+      "rework_human": 0.010527403668010341,
+      "surviving_changes": 2.6910849705992157,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 1.8978662873399714,
+  "odds_ratio": 1.7767100056529113,
   "ci95": [
-    0.27865769774321714,
-    12.925881731574307
+    0.25824426079486995,
+    12.22369254004299
   ],
-  "p_value": 0.4950461301319884,
+  "p_value": 1,
   "evidence_level": "A"
 }
