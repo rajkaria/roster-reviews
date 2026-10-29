@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-29T10:06:18.963Z",
+  "generated_at": "2026-10-29T10:06:21.206Z",
   "reviews": [
+    {
+      "repo": "mvwi/wt",
+      "slug": "mvwi__wt",
+      "href": "/r/mvwi/wt",
+      "outcome": "ok",
+      "generated_at": "2026-10-29T10:05:51.090Z",
+      "finished_at": "2026-10-29T10:06:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854778663",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "ba43704eea7f",
+          "label": "Claude Code · claude-opus-4-7[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7[1m]",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c5ac09abfe58",
+          "label": "Claude Code · claude-opus-5-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.874664,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d11c53d2c986",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.9579206,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Jett191/commit-pack",
       "slug": "Jett191__commit-pack",
