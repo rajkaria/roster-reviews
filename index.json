@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-30T10:08:02.715Z",
+  "generated_at": "2026-10-30T10:08:04.643Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-10-30T10:08:02.443Z",
+      "finished_at": "2026-10-30T10:08:04Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038469018",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "stefanovskyi/stefanovskyi.github.io",
       "slug": "stefanovskyi__stefanovskyi.github.io",
@@ -1567,32 +1593,6 @@
           "spend_usd": null,
           "survival": 0,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:57.116Z",
-      "finished_at": "2026-10-29T10:06:00Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854789993",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
           "cost_per_surviving_change": null
         }
       ]
