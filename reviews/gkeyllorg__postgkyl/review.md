@@ -1,7 +1,7 @@
 # Review: gkeyllorg/postgkyl
 
-- Review id: `gkeyllorg__postgkyl-20261029100552`
-- Created: 2026-10-29T10:05:52.982Z
+- Review id: `gkeyllorg__postgkyl-20261030100804`
+- Created: 2026-10-30T10:08:04.384Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -14,14 +14,14 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `085dfcb5897f` | Codex · gpt-5.6-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 74.0% | 0.0% | 5.2% | 0.0% | — | A |
-| `0f7c611d4469` | Codex · gpt-6-astra (rules unknown) | 61 | 61 | $258.91 | 83.7% | 4.9% | 5.7% | 50.8% | $5.07 | A |
+| `0f7c611d4469` | Codex · gpt-6-astra (rules unknown) | 61 | 61 | $258.91 | 83.5% | 4.9% | 6.1% | 50.8% | $5.08 | A |
 | `28691ca7e13a` | Codex · gpt-5.6-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 79.2% | 0.0% | 0.1% | 0.0% | — | A |
 | `4fc5048b9f4b` | Codex · gpt-5.6-sol (rules unknown) | 3 | 3 | unknown (0/3 priced) | 75.1% | 0.0% | 5.6% | 0.0% | — | A |
 | `6567d112bcac` | Codex · gpt-6-astra (rules unknown) | 3 | 3 | $22.57 | 65.6% | 0.0% | 0.4% | 0.0% | $11.47 | A |
 | `749fbe9c72b9` | Codex · gpt-6-astra (rules unknown) | 2 | 2 | $3.54 | 47.9% | 0.0% | 9.7% | 0.0% | $3.69 | A |
-| `880e8b2d28af` | Codex · gpt-6-astra (rules unknown) | 11 | 11 | $38.12 | 82.4% | 0.0% | 0.9% | 27.3% | $4.20 | A |
-| `a424ac4c98e0` | Codex · gpt-6-astra (rules unknown) | 6 | 6 | $13.51 | 30.6% | 0.0% | 0.0% | 0.0% | $7.37 | A |
-| `c4da1686a163` | Codex · gpt-5.6-sol (rules unknown) | 3 | 3 | unknown (0/3 priced) | 89.7% | 0.0% | 1.1% | 0.0% | — | A |
+| `880e8b2d28af` | Codex · gpt-6-astra (rules unknown) | 11 | 11 | $38.12 | 80.4% | 0.0% | 4.7% | 27.3% | $4.31 | A |
+| `a424ac4c98e0` | Codex · gpt-6-astra (rules unknown) | 6 | 6 | $13.51 | 30.0% | 0.0% | 1.8% | 0.0% | $7.50 | A |
+| `c4da1686a163` | Codex · gpt-5.6-sol (rules unknown) | 3 | 3 | unknown (0/3 priced) | 89.6% | 0.0% | 1.2% | 0.0% | — | A |
 
 ## Notes
 

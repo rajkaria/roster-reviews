@@ -1,8 +1,8 @@
 {
-  "id": "gkeyllorg__postgkyl-20261029100552",
+  "id": "gkeyllorg__postgkyl-20261030100804",
   "repo": "gkeyllorg/postgkyl",
-  "created_at": "2026-10-29T10:05:52.982Z",
-  "generated_at": "2026-10-29T10:05:52.982Z",
+  "created_at": "2026-10-30T10:08:04.384Z",
+  "generated_at": "2026-10-30T10:08:04.384Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -36,11 +36,11 @@
       "priced_sessions": 61,
       "spend_lower_bound": false,
       "unattended": 0.5081967213114754,
-      "survival": 0.8369212748660888,
+      "survival": 0.8351476976555052,
       "reverted": 0.04918032786885246,
-      "rework_human": 0.056692245050856474,
-      "surviving_changes": 51.05219776683142,
-      "cost_per_surviving_change": 5.071544758612057,
+      "rework_human": 0.06071596464944648,
+      "surviving_changes": 50.94400955698582,
+      "cost_per_surviving_change": 5.082315040601195,
       "evidence_level": "A"
     },
     {
@@ -131,11 +131,11 @@
       "priced_sessions": 11,
       "spend_lower_bound": false,
       "unattended": 0.2727272727272727,
-      "survival": 0.8244096042291917,
+      "survival": 0.8044370559785403,
       "reverted": 0,
-      "rework_human": 0.008634026084465417,
-      "surviving_changes": 9.068505646521109,
-      "cost_per_surviving_change": 4.203202102501031,
+      "rework_human": 0.047209584801366895,
+      "surviving_changes": 8.848807615763944,
+      "cost_per_surviving_change": 4.307559126056247,
       "evidence_level": "A"
     },
     {
@@ -150,11 +150,11 @@
       "priced_sessions": 6,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.30573706044326593,
+      "survival": 0.3002283112533761,
       "reverted": 0,
-      "rework_human": 0.0002757859900717043,
-      "surviving_changes": 1.8344223626595957,
-      "cost_per_surviving_change": 7.365043228328269,
+      "rework_human": 0.01838573267144696,
+      "surviving_changes": 1.8013698675202567,
+      "cost_per_surviving_change": 7.500180969829657,
       "evidence_level": "A"
     },
     {
@@ -169,20 +169,20 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8970283235330719,
+      "survival": 0.8958487920788999,
       "reverted": 0,
-      "rework_human": 0.010527403668010341,
-      "surviving_changes": 2.6910849705992157,
+      "rework_human": 0.01195081371243123,
+      "surviving_changes": 2.6875463762367,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 1.7767100056529113,
+  "odds_ratio": 1.9742105263157896,
   "ci95": [
-    0.25824426079486995,
-    12.22369254004299
+    0.20833929971234727,
+    18.70749881370116
   ],
   "p_value": 1,
   "evidence_level": "A"
