@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-30T10:08:04.643Z",
+  "generated_at": "2026-10-30T10:08:07.621Z",
   "reviews": [
+    {
+      "repo": "tbw0391/stl-zoning",
+      "slug": "tbw0391__stl-zoning",
+      "href": "/r/tbw0391/stl-zoning",
+      "outcome": "ok",
+      "generated_at": "2026-10-30T10:07:58.199Z",
+      "finished_at": "2026-10-30T10:08:07Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038457612",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 36.2553894,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": 18.1276947
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -3606,32 +3632,6 @@
           "survival": 0.15835140997830802,
           "surviving_changes": 0.15835140997830802,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "tbw0391/stl-zoning",
-      "slug": "tbw0391__stl-zoning",
-      "href": "/r/tbw0391/stl-zoning",
-      "outcome": "ok",
-      "generated_at": "2026-10-28T09:47:04.464Z",
-      "finished_at": "2026-10-28T09:47:13Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666918881",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 31.338111,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 31.338111
         }
       ]
     },

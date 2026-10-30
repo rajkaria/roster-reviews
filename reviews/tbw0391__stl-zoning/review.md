@@ -1,7 +1,7 @@
 # Review: tbw0391/stl-zoning
 
-- Review id: `tbw0391__stl-zoning-20261028094704`
-- Created: 2026-10-28T09:47:04.464Z
+- Review id: `tbw0391__stl-zoning-20261030100758`
+- Created: 2026-10-30T10:07:58.199Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `518d4e106433` | Claude Code · claude-opus-5-5 | 1 | 1 | $31.34 | 100.0% | 0.0% | 0.0% | 0.0% | $31.34 | A |
+| `518d4e106433` | Claude Code · claude-opus-5-5 | 2 | 2 | $36.26 | 100.0% | 0.0% | 0.0% | 0.0% | $18.13 | A |
 
 ## Notes
 

@@ -8,7 +8,19 @@
     "rework_agent": 0,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0,
+    "difficulty": 0.5,
+    "tercile": 2
+  },
+  {
+    "session_id": "a327d01c-7311-4162-a654-6f1b01a826a4",
+    "status": "mature",
+    "survival": 1,
+    "reverted": false,
+    "rework_human": 0,
+    "rework_agent": 0,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.5,
     "tercile": 1
   }
 ]
