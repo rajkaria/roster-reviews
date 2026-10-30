@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-29T10:08:27.322Z",
+  "generated_at": "2026-10-30T10:07:52.785Z",
   "reviews": [
+    {
+      "repo": "basher83/mothership-gitops",
+      "slug": "basher83__mothership-gitops",
+      "href": "/r/basher83/mothership-gitops",
+      "outcome": "ok",
+      "generated_at": "2026-10-30T10:07:50.340Z",
+      "finished_at": "2026-10-30T10:07:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038444564",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "8a9c8f4738c1",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.5114619999999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f30a8fb79354",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "9thLevelSoftware/the-synaptic-sea-2d",
       "slug": "9thLevelSoftware__the-synaptic-sea-2d",
