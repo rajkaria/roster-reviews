@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-30T10:08:00.077Z",
+  "generated_at": "2026-10-30T10:08:02.715Z",
   "reviews": [
+    {
+      "repo": "stefanovskyi/stefanovskyi.github.io",
+      "slug": "stefanovskyi__stefanovskyi.github.io",
+      "href": "/r/stefanovskyi/stefanovskyi.github.io",
+      "outcome": "ok",
+      "generated_at": "2026-10-30T10:08:00.296Z",
+      "finished_at": "2026-10-30T10:08:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038464401",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.0297858,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "dilfish/md.blogs",
       "slug": "dilfish__md.blogs",
