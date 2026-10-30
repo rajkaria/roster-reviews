@@ -1,8 +1,8 @@
 {
-  "id": "tacoda__bastion-20261029100526",
+  "id": "tacoda__bastion-20261030100751",
   "repo": "tacoda/bastion",
-  "created_at": "2026-10-29T10:05:26.681Z",
-  "generated_at": "2026-10-29T10:05:26.681Z",
+  "created_at": "2026-10-30T10:07:51.287Z",
+  "generated_at": "2026-10-30T10:07:51.287Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -13,7 +13,7 @@
       "rules_hash": null,
       "sessions": 1,
       "mature_sessions": 1,
-      "spend_usd": 164.31677940000003,
+      "spend_usd": 3.7939936,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
@@ -21,7 +21,7 @@
       "reverted": 0,
       "rework_human": 0,
       "surviving_changes": 0.9897025171624714,
-      "cost_per_surviving_change": 166.02643375213876,
+      "cost_per_surviving_change": 3.833468677919075,
       "evidence_level": "A"
     },
     {
