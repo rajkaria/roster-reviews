@@ -1,8 +1,8 @@
 {
-  "id": "babamba2__superclaude-for-sap-20261029100545",
+  "id": "babamba2__superclaude-for-sap-20261030100758",
   "repo": "babamba2/superclaude-for-sap",
-  "created_at": "2026-10-29T10:05:45.868Z",
-  "generated_at": "2026-10-29T10:05:45.868Z",
+  "created_at": "2026-10-30T10:07:58.803Z",
+  "generated_at": "2026-10-30T10:07:58.803Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -120,6 +120,25 @@
       "evidence_level": "A"
     },
     {
+      "setup_id": "55a3daeeee65",
+      "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 2.2483112,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
       "setup_id": "575f72e67eeb",
       "label": "Claude Code · claude-opus-5-5 (rules unknown)",
       "harness": "Claude Code",
@@ -193,6 +212,25 @@
       "rework_human": 0.45454545454545453,
       "surviving_changes": 0.375,
       "cost_per_surviving_change": 221.3265136,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "967ea54bfa4c",
+      "label": "Claude Code · claude-opus-5-5 (rules 85b57f)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "85b57fa4b9e09c7e25ff62bace94872bf1cf3186e6eac6f87a2d1c8d435c8b0c",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": 1.8174274000000001,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": 0.9788359788359788,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 0.9788359788359788,
+      "cost_per_surviving_change": 1.8567231275675677,
       "evidence_level": "A"
     },
     {
