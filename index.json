@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-30T10:07:52.785Z",
+  "generated_at": "2026-10-30T10:08:00.077Z",
   "reviews": [
+    {
+      "repo": "dilfish/md.blogs",
+      "slug": "dilfish__md.blogs",
+      "href": "/r/dilfish/md.blogs",
+      "outcome": "ok",
+      "generated_at": "2026-10-30T10:07:58.148Z",
+      "finished_at": "2026-10-30T10:08:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038455001",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "369a517eadc5",
+          "label": "Pi · deepseek/deepseek-v4.1-flash",
+          "harness": "Pi",
+          "model": "deepseek/deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "basher83/mothership-gitops",
       "slug": "basher83__mothership-gitops",
