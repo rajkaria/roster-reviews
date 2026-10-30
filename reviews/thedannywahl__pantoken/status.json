@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261017-020",
+  "job": "disc-20261030-008",
   "repo": "thedannywahl/pantoken",
   "outcome": "ok",
   "error": null,
-  "run_id": 39015263130,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015263130",
+  "run_id": 41038459899,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038459899",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "7853add322d7ef1789d6a5802176e7d1f7ecc7bf",
+  "target_head": "a124240bc2e672962476198a3b0494c1d5f2ab80",
   "checkpoint_head": null,
-  "started_at": "2026-10-17T07:52:39Z",
-  "finished_at": "2026-10-17T07:57:19Z"
+  "started_at": "2026-10-30T10:07:54Z",
+  "finished_at": "2026-10-30T10:13:31Z"
 }

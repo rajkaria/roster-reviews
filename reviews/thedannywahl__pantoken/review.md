@@ -1,7 +1,7 @@
 # Review: thedannywahl/pantoken
 
-- Review id: `thedannywahl__pantoken-20261017075244`
-- Created: 2026-10-17T07:52:44.135Z
+- Review id: `thedannywahl__pantoken-20261030100758`
+- Created: 2026-10-30T10:07:58.548Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -20,8 +20,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 428 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 44 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
+- 435 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 48 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
 - could not be scored: f226ac34-f0ee-4383-89b7-797d2b11e90e: not_scored: time budget
 - could not be scored: 23ccb751-6357-458b-b363-8f85d489fd72: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
 - could not be scored: 565bcf9b-ba61-423d-be2f-599eb26a95b1: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
@@ -61,11 +61,15 @@ No suspect call: no setup has ≥ 8 mature sessions.
 - could not be scored: f0915802-0228-4f5e-9da3-39134fbf64c2: not_scored: time budget
 - could not be scored: 8d3cb066-d889-4125-a420-b1f8d85c23a2: not_scored: time budget
 - could not be scored: ca27a1b7-bb1e-49cf-ac9f-0f3c0ee35474: not_scored: time budget
-- could not be scored: 3ccac868-4d84-4690-9d1d-7e7b38515d34: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
+- could not be scored: 3ccac868-4d84-4690-9d1d-7e7b38515d34: git blame .github/workflows/ci.yml timed out
 - could not be scored: 99dc03f3-838a-4873-96ec-67e0e1a8e8f1: not_scored: time budget
 - could not be scored: b06ada0e-f74c-4fe7-8ab5-bf8ffcb568ca: not_scored: time budget
 - could not be scored: e3870ca5-d4c3-4353-b4f0-b25f0db627e3: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
 - could not be scored: a501999e-e940-40c4-a642-dd34956b2bcf: not_scored: time budget
-- 472 sessions have no price (unknown model, or a price that depends on prompt size)
-- 424 sessions have no setup because their rules hash is unknown
+- could not be scored: 58eebdd8-48b1-4ca7-80b4-20b9d2e60f14: not_scored: time budget
+- could not be scored: 9d22c6d7-9630-408e-808a-0f7a6ff2422b: git blame packages/scaffold/templates/canvas-theme-editor/src/main.ts.tmpl timed out
+- could not be scored: 55ca63ac-9ded-4579-a61e-e3bed823d557: not_scored: time budget
+- could not be scored: e208e7d9-4845-4db7-8d26-ca117ff6251d: git log --no-walk=unsorted --stdin --root --diff-merges=first-parent -p -U0 --no-color --no-ext-diff --no-renames --no-prefix --format=%x1e%H timed out
+- 483 sessions have no price (unknown model, or a price that depends on prompt size)
+- 435 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
