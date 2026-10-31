@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-31T09:45:12.700Z",
+  "generated_at": "2026-10-31T09:45:20.911Z",
   "reviews": [
+    {
+      "repo": "jarodtaylor/jarodtaylor.com",
+      "slug": "jarodtaylor__jarodtaylor.com",
+      "href": "/r/jarodtaylor/jarodtaylor.com",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:27.966Z",
+      "finished_at": "2026-10-31T09:45:20Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189902108",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "be6b9587cc99",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.5186104,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "SMK1085/paigasus-core",
       "slug": "SMK1085__paigasus-core",
@@ -2432,32 +2458,6 @@
           "spend_usd": null,
           "survival": 0.853035143769968,
           "surviving_changes": 0.853035143769968,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jarodtaylor/jarodtaylor.com",
-      "slug": "jarodtaylor__jarodtaylor.com",
-      "href": "/r/jarodtaylor/jarodtaylor.com",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:39.770Z",
-      "finished_at": "2026-10-29T10:06:52Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854760214",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "be6b9587cc99",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 1.5186104,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
