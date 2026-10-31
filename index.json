@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-31T09:44:55.317Z",
+  "generated_at": "2026-10-31T09:44:58.633Z",
   "reviews": [
+    {
+      "repo": "Jett191/commit-pack",
+      "slug": "Jett191__commit-pack",
+      "href": "/r/Jett191/commit-pack",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:52.392Z",
+      "finished_at": "2026-10-31T09:44:58Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189916177",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "9a08df7b2628",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.512684,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b3c576374a7e",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": 11.714389999999998,
+          "survival": 0.9810690423162584,
+          "surviving_changes": 1.9621380846325167,
+          "cost_per_surviving_change": 4.610101639046538
+        }
+      ]
+    },
     {
       "repo": "tbw0391/stl-zoning",
       "slug": "tbw0391__stl-zoning",
@@ -2722,32 +2760,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": 0.9579206,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "Jett191/commit-pack",
-      "slug": "Jett191__commit-pack",
-      "href": "/r/Jett191/commit-pack",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:37.577Z",
-      "finished_at": "2026-10-29T10:06:18Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854749056",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "b3c576374a7e",
-          "label": "Codex · gpt-6-astra",
-          "harness": "Codex",
-          "model": "gpt-6-astra",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": 9.045656,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null

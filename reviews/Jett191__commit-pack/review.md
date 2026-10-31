@@ -1,7 +1,7 @@
 # Review: Jett191/commit-pack
 
-- Review id: `Jett191__commit-pack-20261029100537`
-- Created: 2026-10-29T10:05:37.577Z
+- Review id: `Jett191__commit-pack-20261031094452`
+- Created: 2026-10-31T09:44:52.392Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `b3c576374a7e` | Codex · gpt-6-astra | 2 | 0 | $9.05 | too young | too young | too young | 0.0% | — | A |
+| `9a08df7b2628` | Codex · gpt-6-astra (rules unknown) | 1 | 0 | $3.51 | too young | too young | too young | 0.0% | — | A |
+| `b3c576374a7e` | Codex · gpt-6-astra (rules unknown) | 3 | 2 | $11.71 | 98.1% | 50.0% | 30.4% | 0.0% | $4.61 | A |
 
 ## Notes
 
