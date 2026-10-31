@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-31T09:44:42.738Z",
+  "generated_at": "2026-10-31T09:44:44.798Z",
   "reviews": [
+    {
+      "repo": "orin-dx/homebrew-tap",
+      "slug": "orin-dx__homebrew-tap",
+      "href": "/r/orin-dx/homebrew-tap",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:41.761Z",
+      "finished_at": "2026-10-31T09:44:44Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189918454",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "f8a6521f18c1",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 19.0950492,
+          "survival": 0.8193979933110368,
+          "surviving_changes": 0.8193979933110368,
+          "cost_per_surviving_change": 23.30375392163265
+        }
+      ]
+    },
     {
       "repo": "MJ-NJ/localghost",
       "slug": "MJ-NJ__localghost",
@@ -4943,32 +4969,6 @@
           "spend_usd": null,
           "survival": 0.24242424242424243,
           "surviving_changes": 0.48484848484848486,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "orin-dx/homebrew-tap",
-      "slug": "orin-dx__homebrew-tap",
-      "href": "/r/orin-dx/homebrew-tap",
-      "outcome": "ok",
-      "generated_at": "2026-10-28T09:46:45.701Z",
-      "finished_at": "2026-10-28T09:46:52Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666888972",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "f8a6521f18c1",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 15.5743262,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]

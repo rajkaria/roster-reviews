@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261028-011",
+  "job": "disc-20261031-019",
   "repo": "orin-dx/homebrew-tap",
   "outcome": "ok",
   "error": null,
-  "run_id": 40666888972,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666888972",
+  "run_id": 41189918454,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189918454",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "eadb9f5276971e569b872a2cbf00946434e48c34",
+  "target_head": "2e611c2c78d152eaf5e0cd84130f57928f31b4cc",
   "checkpoint_head": null,
-  "started_at": "2026-10-28T09:46:42Z",
-  "finished_at": "2026-10-28T09:46:52Z"
+  "started_at": "2026-10-31T09:44:37Z",
+  "finished_at": "2026-10-31T09:44:44Z"
 }
