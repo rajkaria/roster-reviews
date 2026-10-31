@@ -1,8 +1,8 @@
 {
-  "id": "maester365__maester-20261029100536",
+  "id": "maester365__maester-20261031094437",
   "repo": "maester365/maester",
-  "created_at": "2026-10-29T10:05:36.582Z",
-  "generated_at": "2026-10-29T10:05:36.582Z",
+  "created_at": "2026-10-31T09:44:37.967Z",
+  "generated_at": "2026-10-31T09:44:37.967Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,11 +17,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9583333333333334,
+      "survival": 0.041666666666666664,
       "reverted": 0,
-      "rework_human": 0,
-      "surviving_changes": 0.9583333333333334,
-      "cost_per_surviving_change": 8.439192417391304,
+      "rework_human": 0.03571428571428571,
+      "surviving_changes": 0.041666666666666664,
+      "cost_per_surviving_change": 194.1014256,
       "evidence_level": "A"
     },
     {
@@ -31,16 +31,16 @@
       "model": "claude-opus-5-5",
       "rules_hash": "c60b6d7beee3960ea91ea153038208e8f8d2ebdca3fcf6b58e9990f6a9aa4938",
       "sessions": 3,
-      "mature_sessions": 0,
+      "mature_sessions": 1,
       "spend_usd": 62.52546500000001,
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
-      "cost_per_surviving_change": null,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": 39.6664436,
       "evidence_level": "A"
     }
   ],
