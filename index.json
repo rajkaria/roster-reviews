@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-31T09:44:50.687Z",
+  "generated_at": "2026-10-31T09:44:52.374Z",
   "reviews": [
+    {
+      "repo": "hslee16/Archy",
+      "slug": "hslee16__Archy",
+      "href": "/r/hslee16/Archy",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:30.271Z",
+      "finished_at": "2026-10-31T09:44:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189905570",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "2566075cb9c5",
+          "label": "Claude Code · claude-opus-5-5 (rules 9852cd)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 12.167639000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "86f2b06d300f",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 5,
+          "mature_sessions": 0,
+          "spend_usd": 23.9092732,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "89db0177573d",
+          "label": "Claude Code · claude-opus-5-5 (rules ea6dcf)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 34.8911944,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ed1935e7dfd6",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8842592592592593,
+          "surviving_changes": 0.8842592592592593,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
@@ -3284,68 +3346,6 @@
           "spend_usd": 3.7843353000000004,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "hslee16/Archy",
-      "slug": "hslee16__Archy",
-      "href": "/r/hslee16/Archy",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:28.001Z",
-      "finished_at": "2026-10-29T10:05:44Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854732910",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "2566075cb9c5",
-          "label": "Claude Code · claude-opus-5-5 (rules 9852cd)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 12.167639000000001,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "86f2b06d300f",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 16.368630500000002,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "89db0177573d",
-          "label": "Claude Code · claude-opus-5-5 (rules ea6dcf)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 34.8911944,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "ed1935e7dfd6",
-          "label": "Claude Code · claude-opus-5[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-5[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.8842592592592593,
-          "surviving_changes": 0.8842592592592593,
           "cost_per_surviving_change": null
         }
       ]
