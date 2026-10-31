@@ -1,7 +1,7 @@
 # Review: SMK1085/paigasus-core
 
-- Review id: `SMK1085__paigasus-core-20261019090000`
-- Created: 2026-10-19T09:00:00.107Z
+- Review id: `SMK1085__paigasus-core-20261031094448`
+- Created: 2026-10-31T09:44:48.206Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -19,7 +19,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `6c64767bc61c` | Claude Code · claude-opus-4-8[1m] | 1 | 1 | unknown (0/1 priced) | 95.1% | 0.0% | 0.0% | 0.0% | — | A |
 | `8eaa1a34c7bb` | Claude Code · claude-opus-5 (rules 533770) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `bf4789fabb5e` | Claude Code · claude-opus-5 (rules 38863e) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `c2bb17dd4f0a` | Claude Code · claude-opus-5-5 | 3 | 0 | $4.92 | too young | too young | too young | 0.0% | — | A |
+| `c2bb17dd4f0a` | Claude Code · claude-opus-5-5 | 3 | 0 | $15.67 | too young | too young | too young | 0.0% | — | A |
 | `d1f1a7550aa2` | Claude Code · claude-opus-5 (rules 45cce8) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `f86cb3c5acd6` | Claude Code · claude-opus-5 (rules 7c2f2f) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 

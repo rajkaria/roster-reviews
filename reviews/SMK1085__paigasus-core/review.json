@@ -1,8 +1,8 @@
 {
-  "id": "SMK1085__paigasus-core-20261019090000",
+  "id": "SMK1085__paigasus-core-20261031094448",
   "repo": "SMK1085/paigasus-core",
-  "created_at": "2026-10-19T09:00:00.107Z",
-  "generated_at": "2026-10-19T09:00:00.107Z",
+  "created_at": "2026-10-31T09:44:48.206Z",
+  "generated_at": "2026-10-31T09:44:48.206Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -127,7 +127,7 @@
       "rules_hash": "c074b5ee3c40f2e3ded23c3e569e73cf2b67dd6911f8bab297df4d9900867074",
       "sessions": 3,
       "mature_sessions": 0,
-      "spend_usd": 4.921156600000001,
+      "spend_usd": 15.6699142,
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
