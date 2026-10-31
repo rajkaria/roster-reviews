@@ -5,7 +5,7 @@
     "survival": 1,
     "reverted": false,
     "rework_human": 0,
-    "rework_agent": 0,
+    "rework_agent": 0.015463917525773196,
     "unattended": false,
     "tests_at_commit": null,
     "difficulty": 0.5,
