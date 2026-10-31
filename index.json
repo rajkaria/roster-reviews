@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-31T09:47:00.636Z",
+  "generated_at": "2026-10-31T09:47:05.025Z",
   "reviews": [
+    {
+      "repo": "katlangorg/katlangnet",
+      "slug": "katlangorg__katlangnet",
+      "href": "/r/katlangorg/katlangnet",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:44.708Z",
+      "finished_at": "2026-10-31T09:47:04Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189921158",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "4aa6df6a559c",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "crcorbett/taxkit",
       "slug": "crcorbett__taxkit",
