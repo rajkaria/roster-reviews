@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-31T09:44:33.421Z",
+  "generated_at": "2026-10-31T09:44:35.146Z",
   "reviews": [
+    {
+      "repo": "aaishikasb/uno-q-workshops",
+      "slug": "aaishikasb__uno-q-workshops",
+      "href": "/r/aaishikasb/uno-q-workshops",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:33.270Z",
+      "finished_at": "2026-10-31T09:44:35Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189909209",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 3.2659959999999995,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": 1.6329979999999997
+        },
+        {
+          "setup_id": "7d3c18094cb3",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 12.013278,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "zaebee/federation-agents",
       "slug": "zaebee__federation-agents",

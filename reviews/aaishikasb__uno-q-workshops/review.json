@@ -1,0 +1,53 @@
+{
+  "id": "aaishikasb__uno-q-workshops-20261031094433",
+  "repo": "aaishikasb/uno-q-workshops",
+  "created_at": "2026-10-31T09:44:33.270Z",
+  "generated_at": "2026-10-31T09:44:33.270Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "229adeb76f33",
+      "label": "Codex · gpt-6-astra (rules unknown)",
+      "harness": "Codex",
+      "model": "gpt-6-astra",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 2,
+      "spend_usd": 3.2659959999999995,
+      "priced_sessions": 2,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 1,
+      "reverted": 0.5,
+      "rework_human": 0.0005446623093681918,
+      "surviving_changes": 2,
+      "cost_per_surviving_change": 1.6329979999999997,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "7d3c18094cb3",
+      "label": "Codex · gpt-6-astra (rules unknown)",
+      "harness": "Codex",
+      "model": "gpt-6-astra",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 12.013278,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
