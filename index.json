@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-30T10:13:31.588Z",
+  "generated_at": "2026-10-31T09:44:30.081Z",
   "reviews": [
+    {
+      "repo": "elpatron68/gotify-desktop",
+      "slug": "elpatron68__gotify-desktop",
+      "href": "/r/elpatron68/gotify-desktop",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:28.059Z",
+      "finished_at": "2026-10-31T09:44:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189900943",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "5c398e146c9b",
+          "label": "Cursor · default",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "thedannywahl/pantoken",
       "slug": "thedannywahl__pantoken",
