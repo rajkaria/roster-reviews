@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-31T09:44:52.374Z",
+  "generated_at": "2026-10-31T09:44:53.898Z",
   "reviews": [
+    {
+      "repo": "mlaplante/resumesite",
+      "slug": "mlaplante__resumesite",
+      "href": "/r/mlaplante/resumesite",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:47.559Z",
+      "finished_at": "2026-10-31T09:44:53Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189924615",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "c6b1059925e8",
+          "label": "Claude Code · claude-opus-5-5 (rules b0b804)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.2444092,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d4a1bf690f0b",
+          "label": "Claude Code · claude-opus-5-5 (rules d980a2)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 0.53674,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fb2431769e78",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7213114754098361,
+          "surviving_changes": 0.7213114754098361,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
