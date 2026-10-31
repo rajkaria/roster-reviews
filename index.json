@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-31T09:44:38.480Z",
+  "generated_at": "2026-10-31T09:44:40.230Z",
   "reviews": [
+    {
+      "repo": "kernelKain/unfinished-business",
+      "slug": "kernelKain__unfinished-business",
+      "href": "/r/kernelKain/unfinished-business",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:34.740Z",
+      "finished_at": "2026-10-31T09:44:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189910234",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "247cc446a8a5",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9f92ab817ba4",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tacoda/bastion",
       "slug": "tacoda__bastion",
