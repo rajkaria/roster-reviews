@@ -1,7 +1,7 @@
 # Review: tacoda/bastion
 
-- Review id: `tacoda__bastion-20261030100751`
-- Created: 2026-10-30T10:07:51.287Z
+- Review id: `tacoda__bastion-20261031094425`
+- Created: 2026-10-31T09:44:25.698Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,12 +13,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `273b729b2bc0` | Pi · claude-opus-5-5 | 1 | 1 | $3.79 | 99.0% | 0.0% | 0.0% | 0.0% | $3.83 | A |
-| `518d4e106433` | Claude Code · claude-opus-5-5 | 1 | 1 | $7.56 | 99.0% | 0.0% | 0.0% | 0.0% | $7.64 | A |
+| `6b2ae178f85f` | Claude Code · claude-opus-5-5 | 1 | 0 | $75.42 | too young | too young | too young | 0.0% | — | A |
 
 ## Notes
 
-- 0 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 0 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
