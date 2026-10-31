@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261029-021",
+  "job": "disc-20261031-025",
   "repo": "crcorbett/taxkit",
   "outcome": "ok",
   "error": null,
-  "run_id": 40854784123,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854784123",
+  "run_id": 41189927126,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189927126",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "990965c205fa715d821faf1568b7d0140bbc6353",
+  "target_head": "4be8e644dc216969ed00f7c186a641605d6b4ef8",
   "checkpoint_head": null,
-  "started_at": "2026-10-29T10:05:47Z",
-  "finished_at": "2026-10-29T10:07:22Z"
+  "started_at": "2026-10-31T09:44:46Z",
+  "finished_at": "2026-10-31T09:47:00Z"
 }
