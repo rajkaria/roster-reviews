@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-31T09:44:40.230Z",
+  "generated_at": "2026-10-31T09:44:42.738Z",
   "reviews": [
+    {
+      "repo": "MJ-NJ/localghost",
+      "slug": "MJ-NJ__localghost",
+      "href": "/r/MJ-NJ/localghost",
+      "outcome": "ok",
+      "generated_at": "2026-10-31T09:44:28.373Z",
+      "finished_at": "2026-10-31T09:44:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189903204",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "85277c34c845",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 0.28793539999999995,
+          "survival": 0.8356643356643356,
+          "surviving_changes": 1.6713286713286712,
+          "cost_per_surviving_change": 0.17227933974895396
+        }
+      ]
+    },
     {
       "repo": "kernelKain/unfinished-business",
       "slug": "kernelKain__unfinished-business",
@@ -3281,32 +3307,6 @@
           "spend_usd": null,
           "survival": 0.8842592592592593,
           "surviving_changes": 0.8842592592592593,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "MJ-NJ/localghost",
-      "slug": "MJ-NJ__localghost",
-      "href": "/r/MJ-NJ/localghost",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:37.088Z",
-      "finished_at": "2026-10-29T10:05:39Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854743017",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "85277c34c845",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": 0.1246483,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
