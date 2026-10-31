@@ -1,8 +1,8 @@
 {
-  "id": "indkhan__Moneo-20261030100751",
+  "id": "indkhan__Moneo-20261031094421",
   "repo": "indkhan/Moneo",
-  "created_at": "2026-10-30T10:07:51.188Z",
-  "generated_at": "2026-10-30T10:07:51.188Z",
+  "created_at": "2026-10-31T09:44:21.969Z",
+  "generated_at": "2026-10-31T09:44:21.969Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -31,16 +31,16 @@
       "model": "claude-sonnet-5-5",
       "rules_hash": "79a7a51b51acfc57a94ebe8bc17adb1916e6472ac72efc2ad217726a0a6acc44",
       "sessions": 3,
-      "mature_sessions": 1,
+      "mature_sessions": 3,
       "spend_usd": 4.7253877,
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.21428571428571427,
+      "survival": 0.7380952380952381,
       "reverted": 0,
-      "rework_human": 0.07142857142857142,
-      "surviving_changes": 0.21428571428571427,
-      "cost_per_surviving_change": 5.864159933333333,
+      "rework_human": 0.023809523809523808,
+      "surviving_changes": 2.2142857142857144,
+      "cost_per_surviving_change": 2.134046058064516,
       "evidence_level": "A"
     },
     {
@@ -49,17 +49,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "79a7a51b51acfc57a94ebe8bc17adb1916e6472ac72efc2ad217726a0a6acc44",
-      "sessions": 20,
-      "mature_sessions": 10,
-      "spend_usd": 66.99990300000002,
-      "priced_sessions": 20,
+      "sessions": 27,
+      "mature_sessions": 21,
+      "spend_usd": 84.3953288,
+      "priced_sessions": 27,
       "spend_lower_bound": false,
-      "unattended": 0.25,
-      "survival": 0.9446317149025493,
+      "unattended": 0.25925925925925924,
+      "survival": 0.8830661835947989,
       "reverted": 0,
-      "rework_human": 0.013333333333333332,
-      "surviving_changes": 9.446317149025493,
-      "cost_per_surviving_change": 4.346385194597833,
+      "rework_human": 0.037141781518750305,
+      "surviving_changes": 18.544389855490778,
+      "cost_per_surviving_change": 3.7858855614606566,
       "evidence_level": "A"
     },
     {
@@ -141,10 +141,10 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 2.4,
+  "odds_ratio": 1.3517241379310345,
   "ci95": [
-    0.16491058577959405,
-    34.928018554844876
+    0.15445395379475846,
+    11.829791987671378
   ],
   "p_value": 1,
   "evidence_level": "A"
