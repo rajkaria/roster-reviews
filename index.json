@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-01T10:33:44.540Z",
+  "generated_at": "2026-11-01T10:33:46.816Z",
   "reviews": [
+    {
+      "repo": "zaebee/federation-agents",
+      "slug": "zaebee__federation-agents",
+      "href": "/r/zaebee/federation-agents",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:19.648Z",
+      "finished_at": "2026-11-01T10:33:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297988362",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "892ecf68a4b5",
+          "label": "OpenCode · deepseek-v4.1-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9978165938864629,
+          "surviving_changes": 0.9978165938864629,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d9d62bb5ec7b",
+          "label": "OpenCode · beam-free",
+          "harness": "OpenCode",
+          "model": "beam-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.36,
+          "surviving_changes": 0.36,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "dc2ba340f4ed",
+          "label": "OpenCode · deepseek-v4.1-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tteggel/.dotfiles",
       "slug": "tteggel__.dotfiles",
@@ -3250,56 +3300,6 @@
           "spend_usd": 12.013278,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "zaebee/federation-agents",
-      "slug": "zaebee__federation-agents",
-      "href": "/r/zaebee/federation-agents",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:24.120Z",
-      "finished_at": "2026-10-31T09:44:33Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189898545",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "892ecf68a4b5",
-          "label": "OpenCode · deepseek-v4.1-flash (rules unknown)",
-          "harness": "OpenCode",
-          "model": "deepseek-v4.1-flash",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9978165938864629,
-          "surviving_changes": 0.9978165938864629,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "d9d62bb5ec7b",
-          "label": "OpenCode · beam-free",
-          "harness": "OpenCode",
-          "model": "beam-free",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.62,
-          "surviving_changes": 0.62,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "dc2ba340f4ed",
-          "label": "OpenCode · deepseek-v4.1-flash (rules unknown)",
-          "harness": "OpenCode",
-          "model": "deepseek-v4.1-flash",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
