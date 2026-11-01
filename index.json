@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-01T10:33:39.026Z",
+  "generated_at": "2026-11-01T10:33:40.793Z",
   "reviews": [
+    {
+      "repo": "justsamridhi/keys-of-the-departed",
+      "slug": "justsamridhi__keys-of-the-departed",
+      "href": "/r/justsamridhi/keys-of-the-departed",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:23.572Z",
+      "finished_at": "2026-11-01T10:33:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297993403",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "343c3e67e10b",
+          "label": "Antigravity · gemini-3.8-flash-medium",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-medium",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ddd2609af425",
+          "label": "Antigravity · claude-sonnet-4-6",
+          "harness": "Antigravity",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9431472081218274,
+          "surviving_changes": 0.9431472081218274,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "femto/minion-code",
       "slug": "femto__minion-code",
