@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-01T10:33:36.736Z",
+  "generated_at": "2026-11-01T10:33:39.026Z",
   "reviews": [
+    {
+      "repo": "femto/minion-code",
+      "slug": "femto__minion-code",
+      "href": "/r/femto/minion-code",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:37.848Z",
+      "finished_at": "2026-11-01T10:33:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41298006978",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "5c5a0d28c0ee",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.314218,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5da2b10719e2",
+          "label": "Claude Code · gpt-5.6-sol",
+          "harness": "Claude Code",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "670fd650ff95",
+          "label": "Claude Code · claude-opus-4-5-20251101",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-5-20251101",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "kernelKain/unfinished-business",
       "slug": "kernelKain__unfinished-business",
@@ -13097,44 +13147,6 @@
           "spend_usd": null,
           "survival": 0.9900990099009901,
           "surviving_changes": 0.9900990099009901,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "femto/minion-code",
-      "slug": "femto__minion-code",
-      "href": "/r/femto/minion-code",
-      "outcome": "ok",
-      "generated_at": "2026-10-13T13:24:19.024Z",
-      "finished_at": "2026-10-13T13:24:21Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/38404648577",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "5da2b10719e2",
-          "label": "Claude Code · gpt-5.6-sol",
-          "harness": "Claude Code",
-          "model": "gpt-5.6-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "670fd650ff95",
-          "label": "Claude Code · claude-opus-4-5-20251101",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-5-20251101",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
