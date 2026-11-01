@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-01T10:33:30.733Z",
+  "generated_at": "2026-11-01T10:33:32.828Z",
   "reviews": [
+    {
+      "repo": "MJ-NJ/localghost",
+      "slug": "MJ-NJ__localghost",
+      "href": "/r/MJ-NJ/localghost",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:29.804Z",
+      "finished_at": "2026-11-01T10:33:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41298001271",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "85277c34c845",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 0.8322473,
+          "survival": 0.8356643356643356,
+          "surviving_changes": 1.6713286713286712,
+          "cost_per_surviving_change": 0.49795549748953977
+        }
+      ]
+    },
     {
       "repo": "julian-perge/ModularPlanters",
       "slug": "julian-perge__ModularPlanters",
@@ -2595,32 +2621,6 @@
           "survival": 0.8193979933110368,
           "surviving_changes": 0.8193979933110368,
           "cost_per_surviving_change": 23.30375392163265
-        }
-      ]
-    },
-    {
-      "repo": "MJ-NJ/localghost",
-      "slug": "MJ-NJ__localghost",
-      "href": "/r/MJ-NJ/localghost",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:28.373Z",
-      "finished_at": "2026-10-31T09:44:42Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189903204",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "85277c34c845",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": 0.28793539999999995,
-          "survival": 0.8356643356643356,
-          "surviving_changes": 1.6713286713286712,
-          "cost_per_surviving_change": 0.17227933974895396
         }
       ]
     },
