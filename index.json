@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-01T10:33:40.793Z",
+  "generated_at": "2026-11-01T10:33:42.787Z",
   "reviews": [
+    {
+      "repo": "heath0xFF/mrmr",
+      "slug": "heath0xFF__mrmr",
+      "href": "/r/heath0xFF/mrmr",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:23.638Z",
+      "finished_at": "2026-11-01T10:33:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297990793",
+      "label": "insufficient_data",
+      "sessions": 9,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "818535549ccf",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8409542743538767,
+          "surviving_changes": 0.8409542743538767,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "87bba3cd7c8a",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 2.4888204,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "90ac4c6a1ea1",
+          "label": "Pi · z-ai/glm-5.3",
+          "harness": "Pi",
+          "model": "z-ai/glm-5.3",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8409542743538767,
+          "surviving_changes": 0.8409542743538767,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a75a9513b301",
+          "label": "Pi · gpt-6-astra",
+          "harness": "Pi",
+          "model": "gpt-6-astra",
+          "sessions": 6,
+          "mature_sessions": 5,
+          "spend_usd": 172.57441599999999,
+          "survival": 0.9099577480872444,
+          "surviving_changes": 4.549788740436222,
+          "cost_per_surviving_change": 26.132857761787037
+        }
+      ]
+    },
     {
       "repo": "justsamridhi/keys-of-the-departed",
       "slug": "justsamridhi__keys-of-the-departed",
@@ -6637,56 +6699,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "heath0xFF/mrmr",
-      "slug": "heath0xFF__mrmr",
-      "href": "/r/heath0xFF/mrmr",
-      "outcome": "ok",
-      "generated_at": "2026-10-26T09:03:04.178Z",
-      "finished_at": "2026-10-26T09:03:07Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40296581481",
-      "label": "insufficient_data",
-      "sessions": 7,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "818535549ccf",
-          "label": "Claude Code · claude-opus-5[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-5[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.8409542743538767,
-          "surviving_changes": 0.8409542743538767,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "90ac4c6a1ea1",
-          "label": "Pi · z-ai/glm-5.3",
-          "harness": "Pi",
-          "model": "z-ai/glm-5.3",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.8409542743538767,
-          "surviving_changes": 0.8409542743538767,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "a75a9513b301",
-          "label": "Pi · gpt-6-astra",
-          "harness": "Pi",
-          "model": "gpt-6-astra",
-          "sessions": 5,
-          "mature_sessions": 1,
-          "spend_usd": 116.26379999999999,
-          "survival": 0.9907407407407407,
-          "surviving_changes": 0.9907407407407407,
-          "cost_per_surviving_change": 9.518308485981308
         }
       ]
     },
