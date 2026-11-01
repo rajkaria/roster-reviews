@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-01T10:34:13.690Z",
+  "generated_at": "2026-11-01T10:34:18.332Z",
   "reviews": [
+    {
+      "repo": "Hotragn/Paperghosts",
+      "slug": "Hotragn__Paperghosts",
+      "href": "/r/Hotragn/Paperghosts",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:14.440Z",
+      "finished_at": "2026-11-01T10:34:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297978564",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "6feea365a03f",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 368.4684034,
+          "survival": 0.9899581589958159,
+          "surviving_changes": 0.9899581589958159,
+          "cost_per_surviving_change": 372.20603724683014
+        }
+      ]
+    },
     {
       "repo": "anthnel/devdesk",
       "slug": "anthnel__devdesk",
