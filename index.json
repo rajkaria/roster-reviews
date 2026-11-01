@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-01T10:33:28.869Z",
+  "generated_at": "2026-11-01T10:33:30.733Z",
   "reviews": [
+    {
+      "repo": "julian-perge/ModularPlanters",
+      "slug": "julian-perge__ModularPlanters",
+      "href": "/r/julian-perge/ModularPlanters",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:18.825Z",
+      "finished_at": "2026-11-01T10:33:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297984933",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "df2a87745251",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 3.0886846,
+          "survival": 0.9864253393665159,
+          "surviving_changes": 0.9864253393665159,
+          "cost_per_surviving_change": 3.131189433944954
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
