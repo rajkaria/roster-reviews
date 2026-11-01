@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-01T10:33:58.641Z",
+  "generated_at": "2026-11-01T10:34:05.504Z",
   "reviews": [
+    {
+      "repo": "kedarbikramshahi-ctrl/practitioner-credentialing",
+      "slug": "kedarbikramshahi-ctrl__practitioner-credentialing",
+      "href": "/r/kedarbikramshahi-ctrl/practitioner-credentialing",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:27.279Z",
+      "finished_at": "2026-11-01T10:34:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297995990",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mikeholownych/nexus-code",
       "slug": "mikeholownych__nexus-code",
