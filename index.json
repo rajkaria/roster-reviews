@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-11-01T10:33:34.804Z",
+  "generated_at": "2026-11-01T10:33:36.736Z",
   "reviews": [
+    {
+      "repo": "kernelKain/unfinished-business",
+      "slug": "kernelKain__unfinished-business",
+      "href": "/r/kernelKain/unfinished-business",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:14.343Z",
+      "finished_at": "2026-11-01T10:33:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297979777",
+      "label": "insufficient_data",
+      "sessions": 19,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "247cc446a8a5",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.7412193754733908,
+          "surviving_changes": 4.447316252840345,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3a8d9820ebf7",
+          "label": "OpenCode · anthropic/claude-haiku-5.5",
+          "harness": "OpenCode",
+          "model": "anthropic/claude-haiku-5.5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "81653cead980",
+          "label": "OpenCode · unknown",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8383059575112555,
+          "surviving_changes": 1.676611915022511,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "892ecf68a4b5",
+          "label": "OpenCode · deepseek-v4.1-flash",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 7,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.3873082377942679,
+          "surviving_changes": 0.7746164755885357,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9f92ab817ba4",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.618066561014263,
+          "surviving_changes": 0.618066561014263,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d9d62bb5ec7b",
+          "label": "OpenCode · beam-free",
+          "harness": "OpenCode",
+          "model": "beam-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "petercr/jev-orchestrator",
       "slug": "petercr__jev-orchestrator",
@@ -2779,44 +2865,6 @@
           "survival": 0.8193979933110368,
           "surviving_changes": 0.8193979933110368,
           "cost_per_surviving_change": 23.30375392163265
-        }
-      ]
-    },
-    {
-      "repo": "kernelKain/unfinished-business",
-      "slug": "kernelKain__unfinished-business",
-      "href": "/r/kernelKain/unfinished-business",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:34.740Z",
-      "finished_at": "2026-10-31T09:44:40Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189910234",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "247cc446a8a5",
-          "label": "Codex · gpt-5.6-sol",
-          "harness": "Codex",
-          "model": "gpt-5.6-sol",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "9f92ab817ba4",
-          "label": "Cursor · grok-4.7-high-fast",
-          "harness": "Cursor",
-          "model": "grok-4.7-high-fast",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
