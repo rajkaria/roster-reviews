@@ -1,7 +1,7 @@
 # Review: orin-dx/homebrew-tap
 
-- Review id: `orin-dx__homebrew-tap-20261031094441`
-- Created: 2026-10-31T09:44:41.761Z
+- Review id: `orin-dx__homebrew-tap-20261101103341`
+- Created: 2026-11-01T10:33:41.301Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `f8a6521f18c1` | Claude Code · claude-sonnet-5-5 | 1 | 1 | $19.10 | 81.9% | 0.0% | 4.5% | 0.0% | $23.30 | A |
+| `f8a6521f18c1` | Claude Code · claude-sonnet-5-5 | 1 | 1 | $26.49 | 81.3% | 0.0% | 6.0% | 0.0% | $32.60 | A |
 
 ## Notes
 

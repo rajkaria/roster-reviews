@@ -1,8 +1,8 @@
 {
-  "id": "orin-dx__homebrew-tap-20261031094441",
+  "id": "orin-dx__homebrew-tap-20261101103341",
   "repo": "orin-dx/homebrew-tap",
-  "created_at": "2026-10-31T09:44:41.761Z",
-  "generated_at": "2026-10-31T09:44:41.761Z",
+  "created_at": "2026-11-01T10:33:41.301Z",
+  "generated_at": "2026-11-01T10:33:41.301Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -13,15 +13,15 @@
       "rules_hash": "19c6366be086056e1b9d28a12cf44582fc099518eb793378bc14b1ebc082d487",
       "sessions": 1,
       "mature_sessions": 1,
-      "spend_usd": 19.0950492,
+      "spend_usd": 26.4948739,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8193979933110368,
+      "survival": 0.8127090301003345,
       "reverted": 0,
-      "rework_human": 0.04491017964071856,
-      "surviving_changes": 0.8193979933110368,
-      "cost_per_surviving_change": 23.30375392163265,
+      "rework_human": 0.059880239520958084,
+      "surviving_changes": 0.8127090301003345,
+      "cost_per_surviving_change": 32.60068846131687,
       "evidence_level": "A"
     }
   ],
