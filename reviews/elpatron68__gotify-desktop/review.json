@@ -1,13 +1,13 @@
 {
-  "id": "elpatron68__gotify-desktop-20261031094428",
+  "id": "elpatron68__gotify-desktop-20261101103316",
   "repo": "elpatron68/gotify-desktop",
-  "created_at": "2026-10-31T09:44:28.059Z",
-  "generated_at": "2026-10-31T09:44:28.059Z",
+  "created_at": "2026-11-01T10:33:16.399Z",
+  "generated_at": "2026-11-01T10:33:16.399Z",
   "has_entire_data": true,
   "setups": [
     {
       "setup_id": "5c398e146c9b",
-      "label": "Cursor · default",
+      "label": "Cursor · default (rules unknown)",
       "harness": "Cursor",
       "model": "default",
       "rules_hash": null,
@@ -21,6 +21,25 @@
       "reverted": 0,
       "rework_human": 0,
       "surviving_changes": 1,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "c66ff88159c1",
+      "label": "Cursor · default (rules unknown)",
+      "harness": "Cursor",
+      "model": "default",
+      "rules_hash": null,
+      "sessions": 3,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

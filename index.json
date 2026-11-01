@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-31T09:50:59.381Z",
+  "generated_at": "2026-11-01T10:33:18.299Z",
   "reviews": [
+    {
+      "repo": "elpatron68/gotify-desktop",
+      "slug": "elpatron68__gotify-desktop",
+      "href": "/r/elpatron68/gotify-desktop",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:16.399Z",
+      "finished_at": "2026-11-01T10:33:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297980994",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "5c398e146c9b",
+          "label": "Cursor · default (rules unknown)",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c66ff88159c1",
+          "label": "Cursor · default (rules unknown)",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/monokl",
       "slug": "orin-dx__monokl",
@@ -2680,32 +2718,6 @@
           "harness": "OpenCode",
           "model": "deepseek-v4.1-flash",
           "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "elpatron68/gotify-desktop",
-      "slug": "elpatron68__gotify-desktop",
-      "href": "/r/elpatron68/gotify-desktop",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:28.059Z",
-      "finished_at": "2026-10-31T09:44:30Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189900943",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "5c398e146c9b",
-          "label": "Cursor · default",
-          "harness": "Cursor",
-          "model": "default",
-          "sessions": 1,
           "mature_sessions": 1,
           "spend_usd": null,
           "survival": 1,
