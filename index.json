@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-01T10:33:24.414Z",
+  "generated_at": "2026-11-01T10:33:27.175Z",
   "reviews": [
+    {
+      "repo": "Maijied/BNP",
+      "slug": "Maijied__BNP",
+      "href": "/r/Maijied/BNP",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:24.767Z",
+      "finished_at": "2026-11-01T10:33:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297992156",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tbw0391/stl-zoning",
       "slug": "tbw0391__stl-zoning",
