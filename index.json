@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-01T10:34:09.512Z",
+  "generated_at": "2026-11-01T10:34:11.920Z",
   "reviews": [
+    {
+      "repo": "kpgalligan/framejob",
+      "slug": "kpgalligan__framejob",
+      "href": "/r/kpgalligan/framejob",
+      "outcome": "ok",
+      "generated_at": "2026-11-01T10:33:27.326Z",
+      "finished_at": "2026-11-01T10:34:11Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297997169",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "70bb22d715d0",
+          "label": "Claude Code · claude-opus-5-5 (rules 62eeb3)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.7159744,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a302941932b2",
+          "label": "Claude Code · claude-opus-5-5 (rules 60535f)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 21.4551346,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "af00e8250e54",
+          "label": "Claude Code · claude-opus-5-5 (rules 2eb8ad)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 7.0380462,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "bda10c167afa",
+          "label": "Claude Code · claude-opus-5-5 (rules d43ce0)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.4830674,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.4830674
+        },
+        {
+          "setup_id": "ceab92e8be0d",
+          "label": "Claude Code · claude-opus-5-5 (rules 48b8e4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 16.1626112,
+          "survival": 0.6669354838709678,
+          "surviving_changes": 0.6669354838709678,
+          "cost_per_surviving_change": 24.234144967351874
+        }
+      ]
+    },
     {
       "repo": "tacoda/bastion",
       "slug": "tacoda__bastion",
