@@ -1,0 +1,14 @@
+{
+  "id": "mikeholownych__nexus-code-20261101103319",
+  "repo": "mikeholownych/nexus-code",
+  "created_at": "2026-11-01T10:33:19.556Z",
+  "generated_at": "2026-11-01T10:33:19.556Z",
+  "has_entire_data": true,
+  "setups": [],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
