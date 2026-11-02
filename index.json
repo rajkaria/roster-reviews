@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:17:36.789Z",
+  "generated_at": "2026-11-02T11:17:40.141Z",
   "reviews": [
+    {
+      "repo": "marekmaro/SelfLearn",
+      "slug": "marekmaro__SelfLearn",
+      "href": "/r/marekmaro/SelfLearn",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:37.981Z",
+      "finished_at": "2026-11-02T11:17:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435635065",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "harrismcc/bookserve",
       "slug": "harrismcc__bookserve",
