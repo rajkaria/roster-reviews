@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:17:43.054Z",
+  "generated_at": "2026-11-02T11:17:46.316Z",
   "reviews": [
+    {
+      "repo": "premkumarmandala/church-App",
+      "slug": "premkumarmandala__church-App",
+      "href": "/r/premkumarmandala/church-App",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:38.597Z",
+      "finished_at": "2026-11-02T11:17:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435629745",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 7,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.4203800343528036,
+          "surviving_changes": 2.1019001717640178,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Knitresletta/jonatanberntsen.github.io",
       "slug": "Knitresletta__jonatanberntsen.github.io",
@@ -4054,32 +4080,6 @@
       "sessions": 0,
       "mature_sessions": 0,
       "setups": []
-    },
-    {
-      "repo": "premkumarmandala/church-App",
-      "slug": "premkumarmandala__church-App",
-      "href": "/r/premkumarmandala/church-App",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:31.701Z",
-      "finished_at": "2026-10-31T09:44:36Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189907924",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 4,
-          "mature_sessions": 3,
-          "spend_usd": null,
-          "survival": 0.10594936845236758,
-          "surviving_changes": 0.31784810535710273,
-          "cost_per_surviving_change": null
-        }
-      ]
     },
     {
       "repo": "aaishikasb/uno-q-workshops",
