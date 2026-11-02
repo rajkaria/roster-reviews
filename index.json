@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:17:49.640Z",
+  "generated_at": "2026-11-02T11:17:52.037Z",
   "reviews": [
+    {
+      "repo": "filadd/agentic-engineering-famaf-extension-course",
+      "slug": "filadd__agentic-engineering-famaf-extension-course",
+      "href": "/r/filadd/agentic-engineering-famaf-extension-course",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:40.794Z",
+      "finished_at": "2026-11-02T11:17:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435640570",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "21cbaa010be1",
+          "label": "Pi · claude-opus-5-5",
+          "harness": "Pi",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 61.869317,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "CalNicklin/household",
       "slug": "CalNicklin__household",
