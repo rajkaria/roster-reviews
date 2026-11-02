@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:17:56.290Z",
+  "generated_at": "2026-11-02T11:17:59.555Z",
   "reviews": [
+    {
+      "repo": "tbw0391/ReZoneThis",
+      "slug": "tbw0391__ReZoneThis",
+      "href": "/r/tbw0391/ReZoneThis",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:47.163Z",
+      "finished_at": "2026-11-02T11:17:59Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435646933",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": 78.092327,
+          "survival": 0.5,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 67.2342754
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
