@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:17:40.141Z",
+  "generated_at": "2026-11-02T11:17:41.572Z",
   "reviews": [
+    {
+      "repo": "thomasgroch/my-site",
+      "slug": "thomasgroch__my-site",
+      "href": "/r/thomasgroch/my-site",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:39.705Z",
+      "finished_at": "2026-11-02T11:17:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435637836",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 4.8283776,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "marekmaro/SelfLearn",
       "slug": "marekmaro__SelfLearn",
@@ -6260,32 +6286,6 @@
           "survival": 1,
           "surviving_changes": 1,
           "cost_per_surviving_change": 1.1966328000000002
-        }
-      ]
-    },
-    {
-      "repo": "thomasgroch/my-site",
-      "slug": "thomasgroch__my-site",
-      "href": "/r/thomasgroch/my-site",
-      "outcome": "ok",
-      "generated_at": "2026-10-27T09:05:58.616Z",
-      "finished_at": "2026-10-27T09:06:00Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40478200235",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": 1.2518208,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },

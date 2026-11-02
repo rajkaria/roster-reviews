@@ -1,8 +1,8 @@
 {
-  "id": "thomasgroch__my-site-20261027090558",
+  "id": "thomasgroch__my-site-20261102111739",
   "repo": "thomasgroch/my-site",
-  "created_at": "2026-10-27T09:05:58.616Z",
-  "generated_at": "2026-10-27T09:05:58.616Z",
+  "created_at": "2026-11-02T11:17:39.705Z",
+  "generated_at": "2026-11-02T11:17:39.705Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,10 +11,10 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": null,
-      "sessions": 2,
+      "sessions": 3,
       "mature_sessions": 0,
-      "spend_usd": 1.2518208,
-      "priced_sessions": 2,
+      "spend_usd": 4.8283776,
+      "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
       "survival": null,
