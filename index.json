@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:18:08.195Z",
+  "generated_at": "2026-11-02T11:18:12.414Z",
   "reviews": [
+    {
+      "repo": "isaacbraun/dotfiles",
+      "slug": "isaacbraun__dotfiles",
+      "href": "/r/isaacbraun/dotfiles",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:47.777Z",
+      "finished_at": "2026-11-02T11:18:12Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435653395",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "81653cead980",
+          "label": "OpenCode · unknown",
+          "harness": "OpenCode",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "thorgas/Youmotion",
       "slug": "thorgas__Youmotion",
