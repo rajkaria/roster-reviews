@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T11:17:59.555Z",
+  "generated_at": "2026-11-02T11:18:01.049Z",
   "reviews": [
+    {
+      "repo": "yogiputrap/slip-gaji-generator-form-data-google-sheet",
+      "slug": "yogiputrap__slip-gaji-generator-form-data-google-sheet",
+      "href": "/r/yogiputrap/slip-gaji-generator-form-data-google-sheet",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:55.068Z",
+      "finished_at": "2026-11-02T11:18:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435650056",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "ddd2609af425",
+          "label": "Antigravity · claude-sonnet-4-6",
+          "harness": "Antigravity",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tbw0391/ReZoneThis",
       "slug": "tbw0391__ReZoneThis",
