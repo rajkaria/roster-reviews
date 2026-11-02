@@ -1,0 +1,53 @@
+{
+  "id": "harrismcc__bookserve-20261102111735",
+  "repo": "harrismcc/bookserve",
+  "created_at": "2026-11-02T11:17:35.161Z",
+  "generated_at": "2026-11-02T11:17:35.161Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "0f2bbd36868b",
+      "label": "Amp · anthropic/claude-opus-5-5",
+      "harness": "Amp",
+      "model": "anthropic/claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "6f041417ff33",
+      "label": "Amp · unknown",
+      "harness": "Amp",
+      "model": "unknown",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": 0.8214285714285714,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 0.8214285714285714,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

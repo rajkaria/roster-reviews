@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-01T10:41:09.297Z",
+  "generated_at": "2026-11-02T11:17:36.789Z",
   "reviews": [
+    {
+      "repo": "harrismcc/bookserve",
+      "slug": "harrismcc__bookserve",
+      "href": "/r/harrismcc/bookserve",
+      "outcome": "ok",
+      "generated_at": "2026-11-02T11:17:35.161Z",
+      "finished_at": "2026-11-02T11:17:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435627229",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "0f2bbd36868b",
+          "label": "Amp · anthropic/claude-opus-5-5",
+          "harness": "Amp",
+          "model": "anthropic/claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6f041417ff33",
+          "label": "Amp · unknown",
+          "harness": "Amp",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8214285714285714,
+          "surviving_changes": 0.8214285714285714,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/caliper",
       "slug": "orin-dx__caliper",
