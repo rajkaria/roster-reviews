@@ -1,0 +1,34 @@
+{
+  "id": "mostafasayed118__Quran-App-20261103105818",
+  "repo": "mostafasayed118/Quran-App",
+  "created_at": "2026-11-03T10:58:18.823Z",
+  "generated_at": "2026-11-03T10:58:18.823Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "edd4ee6db0de",
+      "label": "OpenCode 2 · unknown",
+      "harness": "OpenCode 2",
+      "model": "unknown",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 2,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.6857142857142857,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1.3714285714285714,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
