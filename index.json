@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-03T10:58:27.156Z",
+  "generated_at": "2026-11-03T10:58:30.538Z",
   "reviews": [
+    {
+      "repo": "haxllo/nex",
+      "slug": "haxllo__nex",
+      "href": "/r/haxllo/nex",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:25.409Z",
+      "finished_at": "2026-11-03T10:58:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623638304",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "536c660481d4",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.5573770491803278,
+          "surviving_changes": 0.5573770491803278,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "abslock128w/AMU",
       "slug": "abslock128w__AMU",
