@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-03T10:58:54.910Z",
+  "generated_at": "2026-11-03T10:58:56.535Z",
   "reviews": [
+    {
+      "repo": "Jett191/commit-pack",
+      "slug": "Jett191__commit-pack",
+      "href": "/r/Jett191/commit-pack",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:42.270Z",
+      "finished_at": "2026-11-03T10:58:56Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623670608",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "9a08df7b2628",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.512684,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "afe33c8b62da",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b3c576374a7e",
+          "label": "Codex · gpt-6-astra (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": 11.714389999999998,
+          "survival": 0.9743875278396437,
+          "surviving_changes": 1.9487750556792873,
+          "cost_per_surviving_change": 4.641713764571428
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
@@ -4975,44 +5025,6 @@
           "survival": 0.9956995412844036,
           "surviving_changes": 0.9956995412844036,
           "cost_per_surviving_change": 3.8006799672905274
-        }
-      ]
-    },
-    {
-      "repo": "Jett191/commit-pack",
-      "slug": "Jett191__commit-pack",
-      "href": "/r/Jett191/commit-pack",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:52.392Z",
-      "finished_at": "2026-10-31T09:44:58Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189916177",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "9a08df7b2628",
-          "label": "Codex · gpt-6-astra (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6-astra",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 3.512684,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "b3c576374a7e",
-          "label": "Codex · gpt-6-astra (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6-astra",
-          "sessions": 3,
-          "mature_sessions": 2,
-          "spend_usd": 11.714389999999998,
-          "survival": 0.9810690423162584,
-          "surviving_changes": 1.9621380846325167,
-          "cost_per_surviving_change": 4.610101639046538
         }
       ]
     },

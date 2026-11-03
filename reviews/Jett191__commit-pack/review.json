@@ -1,8 +1,8 @@
 {
-  "id": "Jett191__commit-pack-20261031094452",
+  "id": "Jett191__commit-pack-20261103105842",
   "repo": "Jett191/commit-pack",
-  "created_at": "2026-10-31T09:44:52.392Z",
-  "generated_at": "2026-10-31T09:44:52.392Z",
+  "created_at": "2026-11-03T10:58:42.270Z",
+  "generated_at": "2026-11-03T10:58:42.270Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -25,6 +25,25 @@
       "evidence_level": "A"
     },
     {
+      "setup_id": "afe33c8b62da",
+      "label": "Cursor · grok-4.7-high-fast",
+      "harness": "Cursor",
+      "model": "grok-4.7-high-fast",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
       "setup_id": "b3c576374a7e",
       "label": "Codex · gpt-6-astra (rules unknown)",
       "harness": "Codex",
@@ -36,11 +55,11 @@
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9810690423162584,
+      "survival": 0.9743875278396437,
       "reverted": 0.5,
-      "rework_human": 0.30385487528344673,
-      "surviving_changes": 1.9621380846325167,
-      "cost_per_surviving_change": 4.610101639046538,
+      "rework_human": 0.3129251700680272,
+      "surviving_changes": 1.9487750556792873,
+      "cost_per_surviving_change": 4.641713764571428,
       "evidence_level": "A"
     }
   ],
