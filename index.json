@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-03T10:58:50.569Z",
+  "generated_at": "2026-11-03T10:58:53.279Z",
   "reviews": [
+    {
+      "repo": "rwitesh/openlog",
+      "slug": "rwitesh__openlog",
+      "href": "/r/rwitesh/openlog",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:28.716Z",
+      "finished_at": "2026-11-03T10:58:53Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623651533",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2355281d0421",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 11.257007,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "premkumarmandala/church-App",
       "slug": "premkumarmandala__church-App",
