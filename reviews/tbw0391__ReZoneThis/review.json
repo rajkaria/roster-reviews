@@ -1,8 +1,8 @@
 {
-  "id": "tbw0391__ReZoneThis-20261102111747",
+  "id": "tbw0391__ReZoneThis-20261103105823",
   "repo": "tbw0391/ReZoneThis",
-  "created_at": "2026-11-02T11:17:47.163Z",
-  "generated_at": "2026-11-02T11:17:47.163Z",
+  "created_at": "2026-11-03T10:58:23.335Z",
+  "generated_at": "2026-11-03T10:58:23.335Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,17 +11,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": null,
-      "sessions": 4,
-      "mature_sessions": 2,
-      "spend_usd": 78.092327,
-      "priced_sessions": 4,
+      "sessions": 5,
+      "mature_sessions": 4,
+      "spend_usd": 103.93568520000001,
+      "priced_sessions": 5,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.5,
+      "survival": 0.6650345622119815,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 1,
-      "cost_per_surviving_change": 67.2342754,
+      "surviving_changes": 2.660138248847926,
+      "cost_per_surviving_change": 34.630944929233436,
       "evidence_level": "A"
     }
   ],
