@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-03T10:58:40.594Z",
+  "generated_at": "2026-11-03T10:58:42.486Z",
   "reviews": [
+    {
+      "repo": "lcv-leo/lcv-leo",
+      "slug": "lcv-leo__lcv-leo",
+      "href": "/r/lcv-leo/lcv-leo",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:39.938Z",
+      "finished_at": "2026-11-03T10:58:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623665717",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "21e4552c32a6",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
