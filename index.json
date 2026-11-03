@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-03T10:58:42.486Z",
+  "generated_at": "2026-11-03T10:58:43.808Z",
   "reviews": [
+    {
+      "repo": "binhex/seakarr",
+      "slug": "binhex__seakarr",
+      "href": "/r/binhex/seakarr",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:33.627Z",
+      "finished_at": "2026-11-03T10:58:43Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623660997",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "f2cf008d960c",
+          "label": "Pi · deepseek-v4.1-flash",
+          "harness": "Pi",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "lcv-leo/lcv-leo",
       "slug": "lcv-leo__lcv-leo",
