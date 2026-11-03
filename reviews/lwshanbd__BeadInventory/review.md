@@ -1,7 +1,7 @@
 # Review: lwshanbd/BeadInventory
 
-- Review id: `lwshanbd__BeadInventory-20261029100546`
-- Created: 2026-10-29T10:05:46.390Z
+- Review id: `lwshanbd__BeadInventory-20261103105832`
+- Created: 2026-11-03T10:58:32.503Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`

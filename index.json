@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-03T10:59:20.085Z",
+  "generated_at": "2026-11-03T10:59:22.421Z",
   "reviews": [
+    {
+      "repo": "lwshanbd/BeadInventory",
+      "slug": "lwshanbd__BeadInventory",
+      "href": "/r/lwshanbd/BeadInventory",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:32.503Z",
+      "finished_at": "2026-11-03T10:59:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623654083",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "a1d309c71c5d",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "af50215c1fc3",
+          "label": "Claude Code · claude-fable-5",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "maester365/maester",
       "slug": "maester365__maester",
@@ -6213,44 +6251,6 @@
           "label": "Claude Code · claude-opus-4-8[1m]",
           "harness": "Claude Code",
           "model": "claude-opus-4-8[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "lwshanbd/BeadInventory",
-      "slug": "lwshanbd__BeadInventory",
-      "href": "/r/lwshanbd/BeadInventory",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:46.390Z",
-      "finished_at": "2026-10-29T10:05:58Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854770844",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "a1d309c71c5d",
-          "label": "Claude Code · claude-opus-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "af50215c1fc3",
-          "label": "Claude Code · claude-fable-5",
-          "harness": "Claude Code",
-          "model": "claude-fable-5",
           "sessions": 1,
           "mature_sessions": 1,
           "spend_usd": null,
