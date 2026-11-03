@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-03T10:59:01.074Z",
+  "generated_at": "2026-11-03T10:59:05.624Z",
   "reviews": [
+    {
+      "repo": "filadd/agentic-engineering-famaf-extension-course",
+      "slug": "filadd__agentic-engineering-famaf-extension-course",
+      "href": "/r/filadd/agentic-engineering-famaf-extension-course",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:30.134Z",
+      "finished_at": "2026-11-03T10:59:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623642619",
+      "label": "insufficient_data",
+      "sessions": 89,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "21cbaa010be1",
+          "label": "Pi · claude-opus-5-5",
+          "harness": "Pi",
+          "model": "claude-opus-5-5",
+          "sessions": 7,
+          "mature_sessions": 1,
+          "spend_usd": 94.7125634,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 68.949482
+        },
+        {
+          "setup_id": "4d4105bccf1c",
+          "label": "Pi · claude-sonnet-5-5",
+          "harness": "Pi",
+          "model": "claude-sonnet-5-5",
+          "sessions": 81,
+          "mature_sessions": 0,
+          "spend_usd": 18.2446863,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d43c3ce07d67",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 6.829028600000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sandbox-kit/kit",
       "slug": "sandbox-kit__kit",
@@ -1609,32 +1659,6 @@
           "survival": 0.95,
           "surviving_changes": 0.95,
           "cost_per_surviving_change": 8.962688421052633
-        }
-      ]
-    },
-    {
-      "repo": "filadd/agentic-engineering-famaf-extension-course",
-      "slug": "filadd__agentic-engineering-famaf-extension-course",
-      "href": "/r/filadd/agentic-engineering-famaf-extension-course",
-      "outcome": "ok",
-      "generated_at": "2026-11-02T11:17:40.794Z",
-      "finished_at": "2026-11-02T11:17:52Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41435640570",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "21cbaa010be1",
-          "label": "Pi · claude-opus-5-5",
-          "harness": "Pi",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 61.869317,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
