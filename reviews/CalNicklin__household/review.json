@@ -1,8 +1,8 @@
 {
-  "id": "CalNicklin__household-20261102111733",
+  "id": "CalNicklin__household-20261103105827",
   "repo": "CalNicklin/household",
-  "created_at": "2026-11-02T11:17:33.640Z",
-  "generated_at": "2026-11-02T11:17:33.640Z",
+  "created_at": "2026-11-03T10:58:27.205Z",
+  "generated_at": "2026-11-03T10:58:27.205Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,11 +17,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
-      "survival": 0.9810108092316682,
+      "survival": 0.9781380855000487,
       "reverted": 0,
       "rework_human": 0.018183094636338108,
-      "surviving_changes": 0.9810108092316682,
-      "cost_per_surviving_change": 37.97973646098868,
+      "surviving_changes": 0.9781380855000487,
+      "cost_per_surviving_change": 38.09128031340535,
       "evidence_level": "A"
     }
   ],

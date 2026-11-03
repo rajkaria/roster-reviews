@@ -1,7 +1,7 @@
 # Review: CalNicklin/household
 
-- Review id: `CalNicklin__household-20261102111733`
-- Created: 2026-11-02T11:17:33.640Z
+- Review id: `CalNicklin__household-20261103105827`
+- Created: 2026-11-03T10:58:27.205Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `d6c056475ec1` | Claude Code · claude-opus-5-5 | 1 | 1 | $37.26 | 98.1% | 0.0% | 1.8% | 100.0% | $37.98 | A |
+| `d6c056475ec1` | Claude Code · claude-opus-5-5 | 1 | 1 | $37.26 | 97.8% | 0.0% | 1.8% | 100.0% | $38.09 | A |
 
 ## Notes
 
