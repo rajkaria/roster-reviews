@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-03T10:58:56.535Z",
+  "generated_at": "2026-11-03T10:58:58.712Z",
   "reviews": [
+    {
+      "repo": "sredevopsorg/deepseek-kubernetes-sandbox",
+      "slug": "sredevopsorg__deepseek-kubernetes-sandbox",
+      "href": "/r/sredevopsorg/deepseek-kubernetes-sandbox",
+      "outcome": "ok",
+      "generated_at": "2026-11-03T10:58:45.918Z",
+      "finished_at": "2026-11-03T10:58:58Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623672724",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "Jett191/commit-pack",
       "slug": "Jett191__commit-pack",
