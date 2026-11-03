@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261103-020",
+  "repo": "charlesbeaumont/capture-launcher",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 41623663356,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623663356",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "374dc3afc64ba2d69f8ab8ac9ab52a81730f2633",
+  "checkpoint_head": null,
+  "started_at": "2026-11-03T10:58:31Z",
+  "finished_at": "2026-11-03T10:58:38Z"
+}
