@@ -1,8 +1,8 @@
 {
-  "id": "gkeyllorg__postgkyl-20261102111753",
+  "id": "gkeyllorg__postgkyl-20261104110316",
   "repo": "gkeyllorg/postgkyl",
-  "created_at": "2026-11-02T11:17:53.570Z",
-  "generated_at": "2026-11-02T11:17:53.570Z",
+  "created_at": "2026-11-04T11:03:16.813Z",
+  "generated_at": "2026-11-04T11:03:16.813Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -131,11 +131,11 @@
       "priced_sessions": 11,
       "spend_lower_bound": false,
       "unattended": 0.2727272727272727,
-      "survival": 0.8044370559785403,
+      "survival": 0.8045109057680686,
       "reverted": 0,
       "rework_human": 0.047209584801366895,
-      "surviving_changes": 8.848807615763944,
-      "cost_per_surviving_change": 4.307559126056247,
+      "surviving_changes": 8.849619963448754,
+      "cost_per_surviving_change": 4.307163715214008,
       "evidence_level": "A"
     },
     {
@@ -169,10 +169,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8958487920788999,
+      "survival": 0.895564701169809,
       "reverted": 0,
       "rework_human": 0.01195081371243123,
-      "surviving_changes": 2.6875463762367,
+      "surviving_changes": 2.686694103509427,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

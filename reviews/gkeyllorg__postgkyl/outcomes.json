@@ -806,7 +806,7 @@
   {
     "session_id": "01a06db2-2253-7392-8119-7e4ec590ceeb",
     "status": "mature",
-    "survival": 0.8887784090909091,
+    "survival": 0.8879261363636364,
     "reverted": false,
     "rework_human": 0.0201044096412307,
     "rework_agent": 0,
@@ -1142,7 +1142,7 @@
   {
     "session_id": "01a0a63c-0b2e-7f31-bb4f-99a43551db4b",
     "status": "mature",
-    "survival": 0.35824532900081235,
+    "survival": 0.35905767668562144,
     "reverted": false,
     "rework_human": 0.3978798586572438,
     "rework_agent": 0,
