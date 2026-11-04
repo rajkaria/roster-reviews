@@ -1,7 +1,7 @@
 # Review: julian-perge/ModularPlanters
 
-- Review id: `julian-perge__ModularPlanters-20261101103318`
-- Created: 2026-11-01T10:33:18.825Z
+- Review id: `julian-perge__ModularPlanters-20261104110202`
+- Created: 2026-11-04T11:02:02.730Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `df2a87745251` | Claude Code · claude-opus-5-5 | 1 | 1 | $3.09 | 98.6% | 0.0% | 0.0% | 0.0% | $3.13 | A |
+| `df2a87745251` | Claude Code · claude-opus-5-5 | 1 | 1 | $0.00 | 98.6% | 0.0% | 0.0% | 0.0% | $0.00 | A |
 
 ## Notes
 

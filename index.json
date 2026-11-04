@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-04T11:02:12.723Z",
+  "generated_at": "2026-11-04T11:02:38.327Z",
   "reviews": [
+    {
+      "repo": "julian-perge/ModularPlanters",
+      "slug": "julian-perge__ModularPlanters",
+      "href": "/r/julian-perge/ModularPlanters",
+      "outcome": "ok",
+      "generated_at": "2026-11-04T11:02:02.730Z",
+      "finished_at": "2026-11-04T11:02:38Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818121154",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "df2a87745251",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0,
+          "survival": 0.9864253393665159,
+          "surviving_changes": 0.9864253393665159,
+          "cost_per_surviving_change": 0
+        }
+      ]
+    },
     {
       "repo": "lelalela/my-care",
       "slug": "lelalela__my-care",
@@ -4664,32 +4690,6 @@
           "survival": 0.8356643356643356,
           "surviving_changes": 1.6713286713286712,
           "cost_per_surviving_change": 0.49795549748953977
-        }
-      ]
-    },
-    {
-      "repo": "julian-perge/ModularPlanters",
-      "slug": "julian-perge__ModularPlanters",
-      "href": "/r/julian-perge/ModularPlanters",
-      "outcome": "ok",
-      "generated_at": "2026-11-01T10:33:18.825Z",
-      "finished_at": "2026-11-01T10:33:30Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297984933",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "df2a87745251",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 3.0886846,
-          "survival": 0.9864253393665159,
-          "surviving_changes": 0.9864253393665159,
-          "cost_per_surviving_change": 3.131189433944954
         }
       ]
     },
