@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-03T11:09:43.691Z",
+  "generated_at": "2026-11-04T11:02:12.723Z",
   "reviews": [
+    {
+      "repo": "lelalela/my-care",
+      "slug": "lelalela__my-care",
+      "href": "/r/lelalela/my-care",
+      "outcome": "ok",
+      "generated_at": "2026-11-04T11:02:10.152Z",
+      "finished_at": "2026-11-04T11:02:12Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818138288",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "5c398e146c9b",
+          "label": "Cursor · default",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9c7d9613110f",
+          "label": "Cursor · composer-2.5-fast",
+          "harness": "Cursor",
+          "model": "composer-2.5-fast",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/caliper",
       "slug": "orin-dx__caliper",
