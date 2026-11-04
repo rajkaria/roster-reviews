@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-04T11:02:53.758Z",
+  "generated_at": "2026-11-04T11:03:10.087Z",
   "reviews": [
+    {
+      "repo": "CalNicklin/household",
+      "slug": "CalNicklin__household",
+      "href": "/r/CalNicklin/household",
+      "outcome": "ok",
+      "generated_at": "2026-11-04T11:02:35.834Z",
+      "finished_at": "2026-11-04T11:03:10Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818182591",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "d6c056475ec1",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 37.258532,
+          "survival": 0.9779920148018307,
+          "surviving_changes": 0.9779920148018307,
+          "cost_per_surviving_change": 38.09696954177039
+        }
+      ]
+    },
     {
       "repo": "mlaplante/resumesite",
       "slug": "mlaplante__resumesite",
@@ -1763,32 +1789,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "CalNicklin/household",
-      "slug": "CalNicklin__household",
-      "href": "/r/CalNicklin/household",
-      "outcome": "ok",
-      "generated_at": "2026-11-03T10:58:27.205Z",
-      "finished_at": "2026-11-03T10:58:46Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623620269",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "d6c056475ec1",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 37.258532,
-          "survival": 0.9781380855000487,
-          "surviving_changes": 0.9781380855000487,
-          "cost_per_surviving_change": 38.09128031340535
         }
       ]
     },
