@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-04T11:03:43.303Z",
+  "generated_at": "2026-11-04T11:03:45.160Z",
   "reviews": [
+    {
+      "repo": "abslock128w/AMU",
+      "slug": "abslock128w__AMU",
+      "href": "/r/abslock128w/AMU",
+      "outcome": "ok",
+      "generated_at": "2026-11-04T11:03:10.306Z",
+      "finished_at": "2026-11-04T11:03:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818246922",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "5cd69ef0bfb1",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 78.98650040000001,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 78.98650040000001
+        }
+      ]
+    },
     {
       "repo": "webframp/swamp-extensions",
       "slug": "webframp__swamp-extensions",
@@ -2407,32 +2433,6 @@
           "survival": 0.5573770491803278,
           "surviving_changes": 0.5573770491803278,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "abslock128w/AMU",
-      "slug": "abslock128w__AMU",
-      "href": "/r/abslock128w/AMU",
-      "outcome": "ok",
-      "generated_at": "2026-11-03T10:58:17.434Z",
-      "finished_at": "2026-11-03T10:58:27Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623625018",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "5cd69ef0bfb1",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 58.601146,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 58.601146
         }
       ]
     },
