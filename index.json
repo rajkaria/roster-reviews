@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-04T11:04:28.139Z",
+  "generated_at": "2026-11-04T11:04:40.477Z",
   "reviews": [
+    {
+      "repo": "WolfSoko/wol-sok-mono",
+      "slug": "WolfSoko__wol-sok-mono",
+      "href": "/r/WolfSoko/wol-sok-mono",
+      "outcome": "ok",
+      "generated_at": "2026-11-04T11:02:47.486Z",
+      "finished_at": "2026-11-04T11:04:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818205411",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "35e0ef0d0a7c",
+          "label": "Claude Code · claude-opus-5-5 (rules df466c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 19.6610398,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c52bec8aaa9b",
+          "label": "Claude Code · claude-opus-5-5 (rules bdacdd)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 2.0811514,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.6456561999999999
+        },
+        {
+          "setup_id": "ca0324639e77",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.6212192,
+          "survival": 0.9798657718120806,
+          "surviving_changes": 0.9798657718120806,
+          "cost_per_surviving_change": 0.6339839780821918
+        },
+        {
+          "setup_id": "d9835a0ee8a3",
+          "label": "Claude Code · claude-opus-5-5 (rules f7642c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": 9.2299352,
+          "survival": 0.9798657718120806,
+          "surviving_changes": 0.9798657718120806,
+          "cost_per_surviving_change": 0.7554191821917808
+        }
+      ]
+    },
     {
       "repo": "gkeyllorg/postgkyl",
       "slug": "gkeyllorg__postgkyl",
@@ -10458,44 +10520,6 @@
           "spend_usd": null,
           "survival": 0.7955974842767296,
           "surviving_changes": 0.7955974842767296,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "WolfSoko/wol-sok-mono",
-      "slug": "WolfSoko__wol-sok-mono",
-      "href": "/r/WolfSoko/wol-sok-mono",
-      "outcome": "ok",
-      "generated_at": "2026-10-22T08:42:03.509Z",
-      "finished_at": "2026-10-22T08:42:40Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749675352",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "ca0324639e77",
-          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 0.6212192,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "d9835a0ee8a3",
-          "label": "Claude Code · claude-opus-5-5 (rules f7642c)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 1,
-          "spend_usd": 9.2299352,
-          "survival": 0,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
