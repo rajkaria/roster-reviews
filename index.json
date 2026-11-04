@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-04T11:03:10.087Z",
+  "generated_at": "2026-11-04T11:03:14.320Z",
   "reviews": [
+    {
+      "repo": "cxt2589/tapdoan",
+      "slug": "cxt2589__tapdoan",
+      "href": "/r/cxt2589/tapdoan",
+      "outcome": "ok",
+      "generated_at": "2026-11-04T11:02:50.347Z",
+      "finished_at": "2026-11-04T11:03:14Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818213087",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "a9b9e8f50d8c",
+          "label": "Antigravity · gemini-3.8-flash-medium",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "CalNicklin/household",
       "slug": "CalNicklin__household",
