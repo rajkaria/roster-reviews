@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-05T11:02:58.475Z",
+  "generated_at": "2026-11-05T11:03:02.177Z",
   "reviews": [
+    {
+      "repo": "tbw0391/ReZoneThis",
+      "slug": "tbw0391__ReZoneThis",
+      "href": "/r/tbw0391/ReZoneThis",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:13.143Z",
+      "finished_at": "2026-11-05T11:03:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015590595",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": 119.43770760000001,
+          "survival": 0.6979554001800943,
+          "surviving_changes": 3.4897770009004714,
+          "cost_per_surviving_change": 34.22502571630834
+        }
+      ]
+    },
     {
       "repo": "entireio/git-sync",
       "slug": "entireio__git-sync",
@@ -3938,32 +3964,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "tbw0391/ReZoneThis",
-      "slug": "tbw0391__ReZoneThis",
-      "href": "/r/tbw0391/ReZoneThis",
-      "outcome": "ok",
-      "generated_at": "2026-11-03T10:58:23.335Z",
-      "finished_at": "2026-11-03T10:58:34Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623631207",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 4,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 5,
-          "mature_sessions": 4,
-          "spend_usd": 103.93568520000001,
-          "survival": 0.6650345622119815,
-          "surviving_changes": 2.660138248847926,
-          "cost_per_surviving_change": 34.630944929233436
         }
       ]
     },
