@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-05T11:02:19.821Z",
+  "generated_at": "2026-11-05T11:02:25.211Z",
   "reviews": [
+    {
+      "repo": "mvwi/wt",
+      "slug": "mvwi__wt",
+      "href": "/r/mvwi/wt",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:15.173Z",
+      "finished_at": "2026-11-05T11:02:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015588218",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "b68688912c39",
+          "label": "Claude Code · claude-opus-5-5 (rules 5e3647)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.6405576,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ba43704eea7f",
+          "label": "Claude Code · claude-opus-4-7[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7[1m]",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.6408264250369514,
+          "surviving_changes": 1.9224792751108541,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c5ac09abfe58",
+          "label": "Claude Code · claude-opus-5-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.874664,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.874664
+        },
+        {
+          "setup_id": "d11c53d2c986",
+          "label": "Claude Code · claude-opus-5-5 (rules 2af989)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": 16.400685600000003,
+          "survival": 0.95,
+          "surviving_changes": 0.95,
+          "cost_per_surviving_change": 1.0083374736842106
+        }
+      ]
+    },
     {
       "repo": "tbw0391/Parent-Hub",
       "slug": "tbw0391__Parent-Hub",
@@ -6518,56 +6580,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "mvwi/wt",
-      "slug": "mvwi__wt",
-      "href": "/r/mvwi/wt",
-      "outcome": "ok",
-      "generated_at": "2026-10-29T10:05:51.090Z",
-      "finished_at": "2026-10-29T10:06:21Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40854778663",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "ba43704eea7f",
-          "label": "Claude Code · claude-opus-4-7[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-7[1m]",
-          "sessions": 3,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "c5ac09abfe58",
-          "label": "Claude Code · claude-opus-5-5[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5[1m]",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 0.874664,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "d11c53d2c986",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 0.9579206,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
