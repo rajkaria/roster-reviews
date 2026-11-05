@@ -1,0 +1,34 @@
+{
+  "id": "greysquirr3l__protocol-droid-20261105110231",
+  "repo": "greysquirr3l/protocol-droid",
+  "created_at": "2026-11-05T11:02:31.648Z",
+  "generated_at": "2026-11-05T11:02:31.648Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "cd0a2267d9cd",
+      "label": "Claude Code · claude-sonnet-5-5",
+      "harness": "Claude Code",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": "4d205f3d0f3ef75f6a89f5e1de98f00b6a4467b66166bdbf8cb24f60f54953c7",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 3.8375890999999998,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

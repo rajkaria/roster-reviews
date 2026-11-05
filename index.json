@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-05T11:02:53.248Z",
+  "generated_at": "2026-11-05T11:02:56.042Z",
   "reviews": [
+    {
+      "repo": "greysquirr3l/protocol-droid",
+      "slug": "greysquirr3l__protocol-droid",
+      "href": "/r/greysquirr3l/protocol-droid",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:31.648Z",
+      "finished_at": "2026-11-05T11:02:56Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015634900",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "cd0a2267d9cd",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.8375890999999998,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "integrio-intropy/intropy-cli",
       "slug": "integrio-intropy__intropy-cli",
