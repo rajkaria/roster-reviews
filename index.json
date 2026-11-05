@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-05T11:02:28.215Z",
+  "generated_at": "2026-11-05T11:02:30.088Z",
   "reviews": [
+    {
+      "repo": "konstruktoid/agent-instructions-skills",
+      "slug": "konstruktoid__agent-instructions-skills",
+      "href": "/r/konstruktoid/agent-instructions-skills",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:16.550Z",
+      "finished_at": "2026-11-05T11:02:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015599685",
+      "label": "insufficient_data",
+      "sessions": 11,
+      "mature_sessions": 8,
+      "setups": [
+        {
+          "setup_id": "05963473a336",
+          "label": "Claude Code · claude-opus-5-5 (rules e30d35)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 8.857690600000002,
+          "survival": 0.96764356729302,
+          "surviving_changes": 2.90293070187906,
+          "cost_per_surviving_change": 3.051292472902105
+        },
+        {
+          "setup_id": "0cba022d890f",
+          "label": "Claude Code · claude-opus-5-5 (rules 7d23ec)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 5,
+          "mature_sessions": 4,
+          "spend_usd": 6.5890874,
+          "survival": 0.7931972789115647,
+          "surviving_changes": 3.1727891156462587,
+          "cost_per_surviving_change": 2.047471345626072
+        },
+        {
+          "setup_id": "1ec1f286e147",
+          "label": "Claude Code · claude-sonnet-5-5 (rules e30d35)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 3.7843353000000004,
+          "survival": 0.994552752293578,
+          "surviving_changes": 0.994552752293578,
+          "cost_per_surviving_change": 3.805062417526665
+        },
+        {
+          "setup_id": "cb1b9b6d882e",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 7d23ec)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 1.4169809,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "LCV-Ideas-Software/.github",
       "slug": "LCV-Ideas-Software__.github",
@@ -946,56 +1008,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "konstruktoid/agent-instructions-skills",
-      "slug": "konstruktoid__agent-instructions-skills",
-      "href": "/r/konstruktoid/agent-instructions-skills",
-      "outcome": "ok",
-      "generated_at": "2026-11-04T11:02:43.386Z",
-      "finished_at": "2026-11-04T11:03:35Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41818191860",
-      "label": "insufficient_data",
-      "sessions": 8,
-      "mature_sessions": 5,
-      "setups": [
-        {
-          "setup_id": "05963473a336",
-          "label": "Claude Code · claude-opus-5-5 (rules e30d35)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": 8.857690600000002,
-          "survival": 0.9678001721007877,
-          "surviving_changes": 2.903400516302363,
-          "cost_per_surviving_change": 3.05079872730778
-        },
-        {
-          "setup_id": "0cba022d890f",
-          "label": "Claude Code · claude-opus-5-5 (rules 7d23ec)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 4,
-          "mature_sessions": 1,
-          "spend_usd": 6.4961948000000005,
-          "survival": 0.8666666666666667,
-          "surviving_changes": 0.8666666666666667,
-          "cost_per_surviving_change": 3.978015923076923
-        },
-        {
-          "setup_id": "1ec1f286e147",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 3.7843353000000004,
-          "survival": 0.9956995412844036,
-          "surviving_changes": 0.9956995412844036,
-          "cost_per_surviving_change": 3.8006799672905274
         }
       ]
     },
