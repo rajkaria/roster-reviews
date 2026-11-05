@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-05T11:02:15.769Z",
+  "generated_at": "2026-11-05T11:02:19.821Z",
   "reviews": [
+    {
+      "repo": "tbw0391/Parent-Hub",
+      "slug": "tbw0391__Parent-Hub",
+      "href": "/r/tbw0391/Parent-Hub",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:16.869Z",
+      "finished_at": "2026-11-05T11:02:19Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015596829",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 4.5972818,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "entireio/entire-rsl",
       "slug": "entireio__entire-rsl",
