@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-05T11:02:48.343Z",
+  "generated_at": "2026-11-05T11:02:49.775Z",
   "reviews": [
+    {
+      "repo": "lawzhougc/autodl",
+      "slug": "lawzhougc__autodl",
+      "href": "/r/lawzhougc/autodl",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:27.216Z",
+      "finished_at": "2026-11-05T11:02:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015629251",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2c043a9944ff",
+          "label": "Antigravity · gemini-3.8-flash-medium",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "84fa143f98e0",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
