@@ -1,0 +1,53 @@
+{
+  "id": "LCV-Ideas-Software__.github-20261105110219",
+  "repo": "LCV-Ideas-Software/.github",
+  "created_at": "2026-11-05T11:02:19.720Z",
+  "generated_at": "2026-11-05T11:02:19.720Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "9383dc723dd6",
+      "label": "Claude Code · claude-mythos-5-1",
+      "harness": "Claude Code",
+      "model": "claude-mythos-5-1",
+      "rules_hash": "99822249d9d6e9198caa7e695de6ff89fd73236c48ae23073bf282c18439aeea",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "9690645e9c28",
+      "label": "Codex · gpt-6.1-sol",
+      "harness": "Codex",
+      "model": "gpt-6.1-sol",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.6923076923076923,
+      "reverted": 0,
+      "rework_human": 0.07142857142857142,
+      "surviving_changes": 0.6923076923076923,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
