@@ -1,8 +1,8 @@
 {
-  "id": "petercr__ultimate-html-penpot-ext-20261025083043",
+  "id": "petercr__ultimate-html-penpot-ext-20261105110240",
   "repo": "petercr/ultimate-html-penpot-ext",
-  "created_at": "2026-10-25T08:30:43.720Z",
-  "generated_at": "2026-10-25T08:30:43.720Z",
+  "created_at": "2026-11-05T11:02:40.793Z",
+  "generated_at": "2026-11-05T11:02:40.793Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -15,6 +15,25 @@
       "mature_sessions": 0,
       "spend_usd": null,
       "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "518d4e106433",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 12.050814,
+      "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
       "survival": null,
@@ -57,7 +76,7 @@
       "unattended": 0.6666666666666666,
       "survival": 0.9351153130031266,
       "reverted": 0,
-      "rework_human": 0.2055387981835287,
+      "rework_human": 0.2517699539624232,
       "surviving_changes": 2.8053459390093796,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -76,7 +95,7 @@
       "unattended": 0,
       "survival": 0.9285549817602283,
       "reverted": 0,
-      "rework_human": 0.1062767724127095,
+      "rework_human": 0.16602766519208412,
       "surviving_changes": 1.8571099635204567,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -93,11 +112,11 @@
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0.3333333333333333,
-      "survival": 0.9037263946513104,
+      "survival": 0.90339339431831,
       "reverted": 0,
-      "rework_human": 0.12920768997280044,
-      "surviving_changes": 2.711179183953931,
-      "cost_per_surviving_change": 6.985493733534734,
+      "rework_human": 0.19928514140037135,
+      "surviving_changes": 2.71018018295493,
+      "cost_per_surviving_change": 6.9880686601990964,
       "evidence_level": "A"
     },
     {
@@ -133,7 +152,7 @@
       "unattended": 0.5,
       "survival": 0.9446437724243978,
       "reverted": 0,
-      "rework_human": 0.2449520328917314,
+      "rework_human": 0.3142987665600731,
       "surviving_changes": 1.8892875448487956,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
