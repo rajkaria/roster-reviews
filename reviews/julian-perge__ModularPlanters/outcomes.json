@@ -8,7 +8,19 @@
     "rework_agent": 0.08235294117647059,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0,
+    "difficulty": -0.25,
     "tercile": 1
+  },
+  {
+    "session_id": "dbd11bbf-ac2b-452b-9478-9a63d94ac838",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0.25,
+    "tercile": 2
   }
 ]
