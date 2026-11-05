@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-05T11:02:08.844Z",
+  "generated_at": "2026-11-05T11:02:15.769Z",
   "reviews": [
+    {
+      "repo": "entireio/entire-rsl",
+      "slug": "entireio__entire-rsl",
+      "href": "/r/entireio/entire-rsl",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:08.629Z",
+      "finished_at": "2026-11-05T11:02:15Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015585941",
+      "label": "insufficient_data",
+      "sessions": 9,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "764f583291a5",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 47.6341774,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 47.6341774
+        },
+        {
+          "setup_id": "ea3267cba759",
+          "label": "Claude Code · claude-opus-5-5 (rules 80d159)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": 20.415555599999998,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ef0ef4e7f721",
+          "label": "Claude Code · claude-opus-5-5 (rules 1b7221)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 1.7667625999999998,
+          "survival": 0.9732142857142857,
+          "surviving_changes": 1.9464285714285714,
+          "cost_per_surviving_change": 0.9076945467889908
+        }
+      ]
+    },
     {
       "repo": "mostafasayed118/Quran-App",
       "slug": "mostafasayed118__Quran-App",
