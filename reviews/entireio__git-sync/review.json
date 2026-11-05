@@ -1,8 +1,8 @@
 {
-  "id": "entireio__git-sync-20261021084007",
+  "id": "entireio__git-sync-20261105110216",
   "repo": "entireio/git-sync",
-  "created_at": "2026-10-21T08:40:07.078Z",
-  "generated_at": "2026-10-21T08:40:07.078Z",
+  "created_at": "2026-11-05T11:02:16.730Z",
+  "generated_at": "2026-11-05T11:02:16.730Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -93,10 +93,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.14285714285714285,
-      "survival": 0.41115673968659266,
+      "survival": 0.3988477408568792,
       "reverted": 0.14285714285714285,
       "rework_human": 0.251215348104772,
-      "surviving_changes": 2.878097177806149,
+      "surviving_changes": 2.791934185998154,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -112,10 +112,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.3333333333333333,
-      "survival": 0.678760635068012,
+      "survival": 0.6776754094065153,
       "reverted": 0.047619047619047616,
       "rework_human": 0.08425627150365905,
-      "surviving_changes": 14.253973336428253,
+      "surviving_changes": 14.23118359753682,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -131,10 +131,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.21739130434782608,
-      "survival": 0.6392302380148682,
+      "survival": 0.6366424751693426,
       "reverted": 0.13636363636363635,
       "rework_human": 0.16096434901445497,
-      "surviving_changes": 14.0630652363271,
+      "surviving_changes": 14.006134453725537,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
