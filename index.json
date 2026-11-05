@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-05T11:02:42.818Z",
+  "generated_at": "2026-11-05T11:02:45.196Z",
   "reviews": [
+    {
+      "repo": "maester365/maester",
+      "slug": "maester365__maester",
+      "href": "/r/maester365/maester",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:08.259Z",
+      "finished_at": "2026-11-05T11:02:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015579835",
+      "label": "insufficient_data",
+      "sessions": 16,
+      "mature_sessions": 9,
+      "setups": [
+        {
+          "setup_id": "66cc19d2dd36",
+          "label": "Claude Code · claude-opus-5-5 (rules 73b48c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 8.0875594,
+          "survival": 0.041666666666666664,
+          "surviving_changes": 0.041666666666666664,
+          "cost_per_surviving_change": 194.1014256
+        },
+        {
+          "setup_id": "8c7bc87fbc76",
+          "label": "Claude Code · claude-opus-5-5 (rules c60b6d)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 8,
+          "mature_sessions": 6,
+          "spend_usd": 305.4367626,
+          "survival": 0.8975796585578774,
+          "surviving_changes": 5.385477951347264,
+          "cost_per_surviving_change": 52.01203082261734
+        },
+        {
+          "setup_id": "8dbfcf4d1298",
+          "label": "Claude Code · claude-opus-5-5 (rules 76b8f3)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 7,
+          "mature_sessions": 2,
+          "spend_usd": 22.080737,
+          "survival": 0.7966101694915254,
+          "surviving_changes": 1.5932203389830508,
+          "cost_per_surviving_change": 1.5906394978723404
+        }
+      ]
+    },
     {
       "repo": "sandbox-kit/kit",
       "slug": "sandbox-kit__kit",
@@ -2924,44 +2974,6 @@
           "survival": 0,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "maester365/maester",
-      "slug": "maester365__maester",
-      "href": "/r/maester365/maester",
-      "outcome": "ok",
-      "generated_at": "2026-11-03T10:58:22.715Z",
-      "finished_at": "2026-11-03T10:59:20Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623633712",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "66cc19d2dd36",
-          "label": "Claude Code · claude-opus-5-5 (rules 73b48c)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 8.0875594,
-          "survival": 0.041666666666666664,
-          "surviving_changes": 0.041666666666666664,
-          "cost_per_surviving_change": 194.1014256
-        },
-        {
-          "setup_id": "8c7bc87fbc76",
-          "label": "Claude Code · claude-opus-5-5 (rules c60b6d)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 5,
-          "mature_sessions": 2,
-          "spend_usd": 301.4771654,
-          "survival": 0.9978237214363439,
-          "surviving_changes": 1.9956474428726878,
-          "cost_per_surviving_change": 80.14659170948747
         }
       ]
     },
