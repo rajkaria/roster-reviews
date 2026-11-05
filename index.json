@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-05T11:02:30.088Z",
+  "generated_at": "2026-11-05T11:02:31.841Z",
   "reviews": [
+    {
+      "repo": "sanidhyagoel-mlh/entire-test-app",
+      "slug": "sanidhyagoel-mlh__entire-test-app",
+      "href": "/r/sanidhyagoel-mlh/entire-test-app",
+      "outcome": "ok",
+      "generated_at": "2026-11-05T11:02:31.044Z",
+      "finished_at": "2026-11-05T11:02:31Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015638142",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "konstruktoid/agent-instructions-skills",
       "slug": "konstruktoid__agent-instructions-skills",
