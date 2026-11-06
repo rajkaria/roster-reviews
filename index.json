@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-06T11:00:55.007Z",
+  "generated_at": "2026-11-06T11:00:57.042Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:29.070Z",
+      "finished_at": "2026-11-06T11:00:57Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206927251",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "haodaz/hioffer",
       "slug": "haodaz__hioffer",
@@ -2382,19 +2395,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-05T11:02:20.513Z",
-      "finished_at": "2026-11-05T11:02:48Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015614835",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "maester365/maester",
