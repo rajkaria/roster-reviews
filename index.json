@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-05T11:04:13.523Z",
+  "generated_at": "2026-11-06T11:00:12.044Z",
   "reviews": [
+    {
+      "repo": "mostafasayed118/Quran-App",
+      "slug": "mostafasayed118__Quran-App",
+      "href": "/r/mostafasayed118/Quran-App",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:09.019Z",
+      "finished_at": "2026-11-06T11:00:12Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206878715",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "edd4ee6db0de",
+          "label": "OpenCode 2 · unknown",
+          "harness": "OpenCode 2",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.6857142857142857,
+          "surviving_changes": 1.3714285714285714,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "crcorbett/taxkit",
       "slug": "crcorbett__taxkit",
@@ -2169,32 +2195,6 @@
           "survival": 0.9732142857142857,
           "surviving_changes": 1.9464285714285714,
           "cost_per_surviving_change": 0.9076945467889908
-        }
-      ]
-    },
-    {
-      "repo": "mostafasayed118/Quran-App",
-      "slug": "mostafasayed118__Quran-App",
-      "href": "/r/mostafasayed118/Quran-App",
-      "outcome": "ok",
-      "generated_at": "2026-11-05T11:02:06.219Z",
-      "finished_at": "2026-11-05T11:02:08Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015582828",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "edd4ee6db0de",
-          "label": "OpenCode 2 · unknown",
-          "harness": "OpenCode 2",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.6857142857142857,
-          "surviving_changes": 1.3714285714285714,
-          "cost_per_surviving_change": null
         }
       ]
     },
