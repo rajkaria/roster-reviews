@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-06T11:00:26.499Z",
+  "generated_at": "2026-11-06T11:00:27.767Z",
   "reviews": [
+    {
+      "repo": "LCV-Ideas-Software/.github",
+      "slug": "LCV-Ideas-Software__.github",
+      "href": "/r/LCV-Ideas-Software/.github",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:20.276Z",
+      "finished_at": "2026-11-06T11:00:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206900627",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "8dd34d2d4bd6",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 16.6132074,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9383dc723dd6",
+          "label": "Claude Code · claude-mythos-5-1",
+          "harness": "Claude Code",
+          "model": "claude-mythos-5-1",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9690645e9c28",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.5384615384615384,
+          "surviving_changes": 0.5384615384615384,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "elviskahoro/cmu-database-group-lectures",
       "slug": "elviskahoro__cmu-database-group-lectures",
@@ -2118,44 +2168,6 @@
           "spend_usd": 1.4169809,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "LCV-Ideas-Software/.github",
-      "slug": "LCV-Ideas-Software__.github",
-      "href": "/r/LCV-Ideas-Software/.github",
-      "outcome": "ok",
-      "generated_at": "2026-11-05T11:02:19.720Z",
-      "finished_at": "2026-11-05T11:02:28Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015609093",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "9383dc723dd6",
-          "label": "Claude Code · claude-mythos-5-1",
-          "harness": "Claude Code",
-          "model": "claude-mythos-5-1",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "9690645e9c28",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.6923076923076923,
-          "surviving_changes": 0.6923076923076923,
           "cost_per_surviving_change": null
         }
       ]
