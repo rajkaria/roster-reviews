@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-06T11:00:46.715Z",
+  "generated_at": "2026-11-06T11:00:50.011Z",
   "reviews": [
+    {
+      "repo": "rehanmonline/underwrite-",
+      "slug": "rehanmonline__underwrite-",
+      "href": "/r/rehanmonline/underwrite-",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:32.846Z",
+      "finished_at": "2026-11-06T11:00:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206936294",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "97a4a67ed6e6",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 123.3621234,
+          "survival": 0.9535962877030162,
+          "surviving_changes": 0.9535962877030162,
+          "cost_per_surviving_change": 90.14398829829685
+        }
+      ]
+    },
     {
       "repo": "HamaFx/Kestrel",
       "slug": "HamaFx__Kestrel",
