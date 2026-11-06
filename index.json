@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-06T11:00:51.594Z",
+  "generated_at": "2026-11-06T11:00:53.120Z",
   "reviews": [
+    {
+      "repo": "heath0xFF/sidelit",
+      "slug": "heath0xFF__sidelit",
+      "href": "/r/heath0xFF/sidelit",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:33.568Z",
+      "finished_at": "2026-11-06T11:00:53Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206930317",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "376c1d3a7a4d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 24.1028726,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "81bdde5bb22f",
+          "label": "Pi · gpt-6-astra (rules unknown)",
+          "harness": "Pi",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.144246,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f72833c4a72f",
+          "label": "Pi · gpt-6-astra (rules unknown)",
+          "harness": "Pi",
+          "model": "gpt-6-astra",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 11.84995,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "uvytle/HELP-ME",
       "slug": "uvytle__HELP-ME",
