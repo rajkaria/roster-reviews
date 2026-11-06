@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-06T11:00:44.957Z",
+  "generated_at": "2026-11-06T11:00:46.715Z",
   "reviews": [
+    {
+      "repo": "HamaFx/Kestrel",
+      "slug": "HamaFx__Kestrel",
+      "href": "/r/HamaFx/Kestrel",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:22.084Z",
+      "finished_at": "2026-11-06T11:00:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206911936",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "062fb0627b90",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f1c16e560267",
+          "label": "Claude Code · glm-5.3",
+          "harness": "Claude Code",
+          "model": "glm-5.3",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "thorgas/Youmotion",
       "slug": "thorgas__Youmotion",
