@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-06T11:00:12.044Z",
+  "generated_at": "2026-11-06T11:00:17.514Z",
   "reviews": [
+    {
+      "repo": "Maijied/BNP",
+      "slug": "Maijied__BNP",
+      "href": "/r/Maijied/BNP",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:14.425Z",
+      "finished_at": "2026-11-06T11:00:17Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206891602",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.24868835257082897,
+          "surviving_changes": 0.24868835257082897,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e15b6d85e992",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mostafasayed118/Quran-App",
       "slug": "mostafasayed118__Quran-App",
@@ -6565,32 +6603,6 @@
           "survival": 0.5533170533170534,
           "surviving_changes": 6.63980463980464,
           "cost_per_surviving_change": 0.05298053995310776
-        }
-      ]
-    },
-    {
-      "repo": "Maijied/BNP",
-      "slug": "Maijied__BNP",
-      "href": "/r/Maijied/BNP",
-      "outcome": "ok",
-      "generated_at": "2026-11-01T10:33:24.767Z",
-      "finished_at": "2026-11-01T10:33:27Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297992156",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
