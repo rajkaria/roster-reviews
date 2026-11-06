@@ -1,7 +1,7 @@
 # Review: haodaz/hioffer
 
-- Review id: `haodaz__hioffer-20261027090600`
-- Created: 2026-10-27T09:06:00.796Z
+- Review id: `haodaz__hioffer-20261106110027`
+- Created: 2026-11-06T11:00:27.692Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
