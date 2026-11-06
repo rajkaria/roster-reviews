@@ -1,8 +1,8 @@
 {
-  "id": "teslamint__entirecontext-20261102111753",
+  "id": "teslamint__entirecontext-20261106110036",
   "repo": "teslamint/entirecontext",
-  "created_at": "2026-11-02T11:17:53.100Z",
-  "generated_at": "2026-11-02T11:17:53.100Z",
+  "created_at": "2026-11-06T11:00:36.187Z",
+  "generated_at": "2026-11-06T11:00:36.187Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9918566775244301,
+      "survival": 0.9885993485342018,
       "reverted": 0,
-      "rework_human": 0.004702194357366771,
-      "surviving_changes": 2.97557003257329,
+      "rework_human": 0.009404388714733543,
+      "surviving_changes": 2.9657980456026056,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -93,10 +93,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9378018862781443,
+      "survival": 0.9321038805801387,
       "reverted": 0,
       "rework_human": 0.09265647158023836,
-      "surviving_changes": 36.57427356484763,
+      "surviving_changes": 36.35205134262541,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -150,11 +150,11 @@
       "priced_sessions": 7,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9918566775244299,
+      "survival": 0.9885993485342021,
       "reverted": 0,
-      "rework_human": 0.004702194357366771,
-      "surviving_changes": 5.951140065146579,
-      "cost_per_surviving_change": 0.25915152107279693,
+      "rework_human": 0.009404388714733543,
+      "surviving_changes": 5.931596091205212,
+      "cost_per_surviving_change": 0.2600053975837452,
       "evidence_level": "A"
     },
     {
