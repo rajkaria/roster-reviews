@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-06T11:00:24.617Z",
+  "generated_at": "2026-11-06T11:00:26.499Z",
   "reviews": [
+    {
+      "repo": "elviskahoro/cmu-database-group-lectures",
+      "slug": "elviskahoro__cmu-database-group-lectures",
+      "href": "/r/elviskahoro/cmu-database-group-lectures",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:20.084Z",
+      "finished_at": "2026-11-06T11:00:26Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206897888",
+      "label": "insufficient_data",
+      "sessions": 22,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2cfb671b2bfe",
+          "label": "Pi · accounts/fireworks/models/kimi-k3",
+          "harness": "Pi",
+          "model": "accounts/fireworks/models/kimi-k3",
+          "sessions": 13,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4aec3e30c053",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 5,
+          "mature_sessions": 0,
+          "spend_usd": 2.51736,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "50e810436600",
+          "label": "Claude Code · claude-haiku-4-5-20251001",
+          "harness": "Claude Code",
+          "model": "claude-haiku-4-5-20251001",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
