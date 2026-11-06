@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-06T11:00:50.011Z",
+  "generated_at": "2026-11-06T11:00:51.594Z",
   "reviews": [
+    {
+      "repo": "uvytle/HELP-ME",
+      "slug": "uvytle__HELP-ME",
+      "href": "/r/uvytle/HELP-ME",
+      "outcome": "ok",
+      "generated_at": "2026-11-06T11:00:25.407Z",
+      "finished_at": "2026-11-06T11:00:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206917689",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "217d76a473ee",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": 46.286118200000004,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f3f882bbf675",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.24203940000000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f8624450b2a6",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "rehanmonline/underwrite-",
       "slug": "rehanmonline__underwrite-",
