@@ -1,0 +1,53 @@
+{
+  "id": "basher83__Omni-Scale-20261107101916",
+  "repo": "basher83/Omni-Scale",
+  "created_at": "2026-11-07T10:19:16.843Z",
+  "generated_at": "2026-11-07T10:19:16.843Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "3d09a20eb142",
+      "label": "Pi · claude-opus-5-5",
+      "harness": "Pi",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 0.2475834,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "a46f6e49a98b",
+      "label": "Claude Code · claude-fable-5",
+      "harness": "Claude Code",
+      "model": "claude-fable-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
