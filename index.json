@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T10:19:28.944Z",
+  "generated_at": "2026-11-07T10:19:32.243Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:18:56.100Z",
+      "finished_at": "2026-11-07T10:19:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363412641",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "basher83/Omni-Scale",
       "slug": "basher83__Omni-Scale",
@@ -1919,19 +1932,6 @@
           "cost_per_surviving_change": 0.040327025688073385
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-06T11:00:29.070Z",
-      "finished_at": "2026-11-06T11:00:57Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206927251",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "haodaz/hioffer",
