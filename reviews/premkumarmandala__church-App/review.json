@@ -1,8 +1,8 @@
 {
-  "id": "premkumarmandala__church-App-20261105110220",
+  "id": "premkumarmandala__church-App-20261107101919",
   "repo": "premkumarmandala/church-App",
-  "created_at": "2026-11-05T11:02:20.174Z",
-  "generated_at": "2026-11-05T11:02:20.174Z",
+  "created_at": "2026-11-07T10:19:19.242Z",
+  "generated_at": "2026-11-07T10:19:19.242Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,16 +11,16 @@
       "harness": "Antigravity",
       "model": "unknown",
       "rules_hash": null,
-      "sessions": 7,
+      "sessions": 8,
       "mature_sessions": 7,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.40090336471513954,
+      "survival": 0.3985604595126885,
       "reverted": 0.5714285714285714,
-      "rework_human": 0.0001463287951164682,
-      "surviving_changes": 2.806323553005977,
+      "rework_human": 0.00027667290356276643,
+      "surviving_changes": 2.7899232165888193,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

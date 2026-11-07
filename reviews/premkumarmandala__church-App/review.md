@@ -1,7 +1,7 @@
 # Review: premkumarmandala/church-App
 
-- Review id: `premkumarmandala__church-App-20261105110220`
-- Created: 2026-11-05T11:02:20.174Z
+- Review id: `premkumarmandala__church-App-20261107101919`
+- Created: 2026-11-07T10:19:19.242Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,11 +13,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `66e99877fde1` | Antigravity · unknown | 7 | 7 | unknown (0/7 priced) | 40.1% | 57.1% | 0.0% | 0.0% | — | A |
+| `66e99877fde1` | Antigravity · unknown | 8 | 7 | unknown (0/8 priced) | 39.9% | 57.1% | 0.0% | 0.0% | — | A |
 
 ## Notes
 
-- 0 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 7 sessions have no price (unknown model, or a price that depends on prompt size)
+- 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 8 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
