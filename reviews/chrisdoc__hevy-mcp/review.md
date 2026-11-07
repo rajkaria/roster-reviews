@@ -1,7 +1,7 @@
 # Review: chrisdoc/hevy-mcp
 
-- Review id: `chrisdoc__hevy-mcp-20261017075244`
-- Created: 2026-10-17T07:52:44.885Z
+- Review id: `chrisdoc__hevy-mcp-20261107101919`
+- Created: 2026-11-07T10:19:19.640Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`

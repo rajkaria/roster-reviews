@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T10:19:19.383Z",
+  "generated_at": "2026-11-07T10:19:21.176Z",
   "reviews": [
+    {
+      "repo": "chrisdoc/hevy-mcp",
+      "slug": "chrisdoc__hevy-mcp",
+      "href": "/r/chrisdoc/hevy-mcp",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:19.640Z",
+      "finished_at": "2026-11-07T10:19:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363438744",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "grzywek/powerpilot",
       "slug": "grzywek__powerpilot",
@@ -14956,19 +14969,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "chrisdoc/hevy-mcp",
-      "slug": "chrisdoc__hevy-mcp",
-      "href": "/r/chrisdoc/hevy-mcp",
-      "outcome": "ok",
-      "generated_at": "2026-10-17T07:52:44.885Z",
-      "finished_at": "2026-10-17T07:52:51Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39015263889",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "zyabcg/stall-sense",
