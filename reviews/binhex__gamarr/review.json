@@ -1,0 +1,53 @@
+{
+  "id": "binhex__gamarr-20261107101907",
+  "repo": "binhex/gamarr",
+  "created_at": "2026-11-07T10:19:07.797Z",
+  "generated_at": "2026-11-07T10:19:07.797Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "ba7f6375220d",
+      "label": "Pi · unknown",
+      "harness": "Pi",
+      "model": "unknown",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "f2cf008d960c",
+      "label": "Pi · deepseek-v4.1-flash",
+      "harness": "Pi",
+      "model": "deepseek-v4.1-flash",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

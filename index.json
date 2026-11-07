@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-07T10:19:07.787Z",
+  "generated_at": "2026-11-07T10:19:09.977Z",
   "reviews": [
+    {
+      "repo": "binhex/gamarr",
+      "slug": "binhex__gamarr",
+      "href": "/r/binhex/gamarr",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:07.797Z",
+      "finished_at": "2026-11-07T10:19:09Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363426649",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "ba7f6375220d",
+          "label": "Pi · unknown",
+          "harness": "Pi",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f2cf008d960c",
+          "label": "Pi · deepseek-v4.1-flash",
+          "harness": "Pi",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "basher83/tailnet-microservices",
       "slug": "basher83__tailnet-microservices",
