@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-07T10:19:36.590Z",
+  "generated_at": "2026-11-07T10:19:38.239Z",
   "reviews": [
+    {
+      "repo": "harrismcc/bookserve",
+      "slug": "harrismcc__bookserve",
+      "href": "/r/harrismcc/bookserve",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:12.386Z",
+      "finished_at": "2026-11-07T10:19:38Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363431393",
+      "label": "insufficient_data",
+      "sessions": 13,
+      "mature_sessions": 12,
+      "setups": [
+        {
+          "setup_id": "0f2bbd36868b",
+          "label": "Amp · anthropic/claude-opus-5-5 (rules unknown)",
+          "harness": "Amp",
+          "model": "anthropic/claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.15384615384615385,
+          "surviving_changes": 0.15384615384615385,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "1d4144bb695c",
+          "label": "Amp · unknown (rules unknown)",
+          "harness": "Amp",
+          "model": "unknown",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.8033615288220551,
+          "surviving_changes": 3.2134461152882206,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6f041417ff33",
+          "label": "Amp · unknown (rules unknown)",
+          "harness": "Amp",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9047619047619048,
+          "surviving_changes": 1.8095238095238095,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "cd86ee259ee1",
+          "label": "Amp · claude-opus-5-5",
+          "harness": "Amp",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 9.3511836,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d52e6a5c0c0f",
+          "label": "Amp · anthropic/claude-opus-5-5 (rules unknown)",
+          "harness": "Amp",
+          "model": "anthropic/claude-opus-5-5",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.8556404374563187,
+          "surviving_changes": 4.278202187281593,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
@@ -4686,68 +4760,6 @@
           "survival": 0.7191635553606658,
           "surviving_changes": 6.472471998245992,
           "cost_per_surviving_change": 1.880511588663254
-        }
-      ]
-    },
-    {
-      "repo": "harrismcc/bookserve",
-      "slug": "harrismcc__bookserve",
-      "href": "/r/harrismcc/bookserve",
-      "outcome": "ok",
-      "generated_at": "2026-11-05T11:02:25.799Z",
-      "finished_at": "2026-11-05T11:02:33Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015620866",
-      "label": "insufficient_data",
-      "sessions": 12,
-      "mature_sessions": 10,
-      "setups": [
-        {
-          "setup_id": "0f2bbd36868b",
-          "label": "Amp · anthropic/claude-opus-5-5 (rules unknown)",
-          "harness": "Amp",
-          "model": "anthropic/claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.15384615384615385,
-          "surviving_changes": 0.15384615384615385,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "1d4144bb695c",
-          "label": "Amp · unknown (rules unknown)",
-          "harness": "Amp",
-          "model": "unknown",
-          "sessions": 4,
-          "mature_sessions": 3,
-          "spend_usd": null,
-          "survival": 0.9464661654135339,
-          "surviving_changes": 2.8393984962406016,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6f041417ff33",
-          "label": "Amp · unknown (rules unknown)",
-          "harness": "Amp",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9047619047619048,
-          "surviving_changes": 1.8095238095238095,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "d52e6a5c0c0f",
-          "label": "Amp · anthropic/claude-opus-5-5 (rules unknown)",
-          "harness": "Amp",
-          "model": "anthropic/claude-opus-5-5",
-          "sessions": 5,
-          "mature_sessions": 4,
-          "spend_usd": null,
-          "survival": 0.9131722156714248,
-          "surviving_changes": 3.6526888626856993,
-          "cost_per_surviving_change": null
         }
       ]
     },
