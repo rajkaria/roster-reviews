@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-06T11:01:13.954Z",
+  "generated_at": "2026-11-07T10:18:52.305Z",
   "reviews": [
+    {
+      "repo": "SUPER-STRIKE/HackTrent2026",
+      "slug": "SUPER-STRIKE__HackTrent2026",
+      "href": "/r/SUPER-STRIKE/HackTrent2026",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:18:50.546Z",
+      "finished_at": "2026-11-07T10:18:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363406867",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "3064a55b9aba",
+          "label": "Claude Code · claude-haiku-5-5",
+          "harness": "Claude Code",
+          "model": "claude-haiku-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.046269210000000005,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "anthnel/devdesk",
       "slug": "anthnel__devdesk",
