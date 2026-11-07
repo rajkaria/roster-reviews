@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-07T10:19:23.917Z",
+  "generated_at": "2026-11-07T10:19:25.271Z",
   "reviews": [
+    {
+      "repo": "JustEthanCodes/rustix",
+      "slug": "JustEthanCodes__rustix",
+      "href": "/r/JustEthanCodes/rustix",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:15.054Z",
+      "finished_at": "2026-11-07T10:19:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363432660",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "487c3712ff83",
+          "label": "Zed · unknown",
+          "harness": "Zed",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Kiy-K/oxide",
       "slug": "Kiy-K__oxide",
