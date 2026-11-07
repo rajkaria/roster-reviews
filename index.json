@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-07T10:19:11.901Z",
+  "generated_at": "2026-11-07T10:19:14.828Z",
   "reviews": [
+    {
+      "repo": "basher83/mothership-gitops",
+      "slug": "basher83__mothership-gitops",
+      "href": "/r/basher83/mothership-gitops",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:07.769Z",
+      "finished_at": "2026-11-07T10:19:14Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363423573",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "8a9c8f4738c1",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.5114619999999999,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ea17200c83a3",
+          "label": "Pi · claude-opus-5-5",
+          "harness": "Pi",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.8973938000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f30a8fb79354",
+          "label": "Codex · gpt-5.6-sol",
+          "harness": "Codex",
+          "model": "gpt-5.6-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
@@ -8393,44 +8443,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "basher83/mothership-gitops",
-      "slug": "basher83__mothership-gitops",
-      "href": "/r/basher83/mothership-gitops",
-      "outcome": "ok",
-      "generated_at": "2026-10-30T10:07:50.340Z",
-      "finished_at": "2026-10-30T10:07:52Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41038444564",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "8a9c8f4738c1",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 1.5114619999999999,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "f30a8fb79354",
-          "label": "Codex · gpt-5.6-sol",
-          "harness": "Codex",
-          "model": "gpt-5.6-sol",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]

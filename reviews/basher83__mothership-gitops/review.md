@@ -1,7 +1,7 @@
 # Review: basher83/mothership-gitops
 
-- Review id: `basher83__mothership-gitops-20261030100750`
-- Created: 2026-10-30T10:07:50.340Z
+- Review id: `basher83__mothership-gitops-20261107101907`
+- Created: 2026-11-07T10:19:07.769Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `8a9c8f4738c1` | Claude Code · claude-opus-5-5 | 1 | 0 | $1.51 | too young | too young | too young | 0.0% | — | A |
+| `8a9c8f4738c1` | Claude Code · claude-opus-5-5 | 1 | 1 | $1.51 | 0.0% | 100.0% | 0.0% | 0.0% | — | A |
+| `ea17200c83a3` | Pi · claude-opus-5-5 | 1 | 0 | $1.90 | too young | too young | too young | 0.0% | — | A |
 | `f30a8fb79354` | Codex · gpt-5.6-sol | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes
