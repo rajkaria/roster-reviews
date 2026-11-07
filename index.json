@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-07T10:18:59.504Z",
+  "generated_at": "2026-11-07T10:19:04.239Z",
   "reviews": [
+    {
+      "repo": "bmwinstead/sailing",
+      "slug": "bmwinstead__sailing",
+      "href": "/r/bmwinstead/sailing",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:02.624Z",
+      "finished_at": "2026-11-07T10:19:04Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363420542",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "3685f2a901d4",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 3.9724911999999994,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "DarthMDev/pmd-sky-recomp",
       "slug": "DarthMDev__pmd-sky-recomp",
