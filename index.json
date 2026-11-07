@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-07T10:19:38.239Z",
+  "generated_at": "2026-11-07T10:19:41.257Z",
   "reviews": [
+    {
+      "repo": "tacoda/bastion",
+      "slug": "tacoda__bastion",
+      "href": "/r/tacoda/bastion",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:18:48.579Z",
+      "finished_at": "2026-11-07T10:19:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363403634",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "6b2ae178f85f",
+          "label": "Claude Code · claude-opus-5-5 (rules 2a2f29)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 67.85726460000001,
+          "survival": 0.9014647137150467,
+          "surviving_changes": 1.8029294274300933,
+          "cost_per_surviving_change": 37.6372272633678
+        },
+        {
+          "setup_id": "cfc486fe85ce",
+          "label": "Claude Code · claude-opus-5-5 (rules 17f201)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 3.9262646,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "harrismcc/bookserve",
       "slug": "harrismcc__bookserve",
@@ -7433,32 +7471,6 @@
           "survival": 0.6669354838709678,
           "surviving_changes": 0.6669354838709678,
           "cost_per_surviving_change": 24.234144967351874
-        }
-      ]
-    },
-    {
-      "repo": "tacoda/bastion",
-      "slug": "tacoda__bastion",
-      "href": "/r/tacoda/bastion",
-      "outcome": "ok",
-      "generated_at": "2026-11-01T10:33:16.099Z",
-      "finished_at": "2026-11-01T10:34:09Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41297982262",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "6b2ae178f85f",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 34.4370544,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 34.4370544
         }
       ]
     },
