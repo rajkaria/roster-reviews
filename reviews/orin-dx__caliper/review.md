@@ -1,7 +1,7 @@
 # Review: orin-dx/caliper
 
-- Review id: `orin-dx__caliper-20261103105818`
-- Created: 2026-11-03T10:58:18.238Z
+- Review id: `orin-dx__caliper-20261107101850`
+- Created: 2026-11-07T10:18:50.442Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -16,14 +16,14 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `1dd8bd1ac246` | Claude Code · claude-opus-5[1m] | 1 | 1 | unknown (0/1 priced) | 6.6% | 0.0% | 0.0% | 0.0% | — | A |
 | `35aa2c871858` | Claude Code · claude-sonnet-5 (rules 9bffeb) | 1 | 1 | unknown (0/1 priced) | 10.2% | 0.0% | 0.0% | 0.0% | — | A |
 | `3a03e2f931d9` | Claude Code · claude-sonnet-5-5 (rules 05e076) | 1 | 1 | $4.30 | 13.6% | 100.0% | 80.0% | 0.0% | $31.49 | A |
-| `c3b4d0cf13d2` | Claude Code · claude-sonnet-5 (rules ca5bbf) | 2 | 1 | unknown (0/2 priced) | 3.5% | 0.0% | 0.6% | 50.0% | — | A |
+| `c3b4d0cf13d2` | Claude Code · claude-sonnet-5 (rules ca5bbf) | 2 | 1 | unknown (0/2 priced) | 2.5% | 0.0% | 0.6% | 50.0% | — | A |
 | `c70cc9e34e1f` | Claude Code · claude-sonnet-5 (rules 978aa0) | 1 | 1 | unknown (0/1 priced) | 6.6% | 0.0% | 0.0% | 0.0% | — | A |
 | `cb8e85ad0a05` | Claude Code · claude-sonnet-4-6 | 1 | 1 | unknown (0/1 priced) | 47.8% | 0.0% | 3.4% | 0.0% | — | A |
-| `f8a6521f18c1` | Claude Code · claude-sonnet-5-5 (rules 19c636) | 3 | 2 | $34.71 | 96.3% | 0.0% | 1.0% | 0.0% | $17.97 | A |
+| `f8a6521f18c1` | Claude Code · claude-sonnet-5-5 (rules 19c636) | 3 | 3 | $60.21 | 95.7% | 0.0% | 0.6% | 0.0% | $20.97 | A |
 
 ## Notes
 
-- 81 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 80 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 85 sessions have no price (unknown model, or a price that depends on prompt size)
 - 79 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions

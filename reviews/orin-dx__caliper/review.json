@@ -1,8 +1,8 @@
 {
-  "id": "orin-dx__caliper-20261103105818",
+  "id": "orin-dx__caliper-20261107101850",
   "repo": "orin-dx/caliper",
-  "created_at": "2026-11-03T10:58:18.238Z",
-  "generated_at": "2026-11-03T10:58:18.238Z",
+  "created_at": "2026-11-07T10:18:50.442Z",
+  "generated_at": "2026-11-07T10:18:50.442Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -74,10 +74,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.5,
-      "survival": 0.03503184713375796,
+      "survival": 0.025477707006369428,
       "reverted": 0,
       "rework_human": 0.0063025210084033615,
-      "surviving_changes": 0.03503184713375796,
+      "surviving_changes": 0.025477707006369428,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -126,16 +126,16 @@
       "model": "claude-sonnet-5-5",
       "rules_hash": "19c6366be086056e1b9d28a12cf44582fc099518eb793378bc14b1ebc082d487",
       "sessions": 3,
-      "mature_sessions": 2,
-      "spend_usd": 34.7102725,
+      "mature_sessions": 3,
+      "spend_usd": 60.211711,
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9627766599597585,
+      "survival": 0.957176391683434,
       "reverted": 0,
-      "rework_human": 0.009628610729023384,
-      "surviving_changes": 1.925553319919517,
-      "cost_per_surviving_change": 17.965690766457683,
+      "rework_human": 0.006419073819348923,
+      "surviving_changes": 2.871529175050302,
+      "cost_per_surviving_change": 20.96851793224258,
       "evidence_level": "A"
     }
   ],
