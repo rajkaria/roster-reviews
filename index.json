@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-07T10:19:04.239Z",
+  "generated_at": "2026-11-07T10:19:05.940Z",
   "reviews": [
+    {
+      "repo": "elviskahoro/cmu-database-group-lectures",
+      "slug": "elviskahoro__cmu-database-group-lectures",
+      "href": "/r/elviskahoro/cmu-database-group-lectures",
+      "outcome": "ok",
+      "generated_at": "2026-11-07T10:19:01.508Z",
+      "finished_at": "2026-11-07T10:19:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363416597",
+      "label": "no_suspect",
+      "sessions": 28,
+      "mature_sessions": 22,
+      "setups": [
+        {
+          "setup_id": "2cfb671b2bfe",
+          "label": "Pi · accounts/fireworks/models/kimi-k3",
+          "harness": "Pi",
+          "model": "accounts/fireworks/models/kimi-k3",
+          "sessions": 19,
+          "mature_sessions": 13,
+          "spend_usd": null,
+          "survival": 0.7709717529294802,
+          "surviving_changes": 10.022632788083243,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4aec3e30c053",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": 0.4397527,
+          "survival": 0.7013824884792627,
+          "surviving_changes": 3.506912442396313,
+          "cost_per_surviving_change": 0.12539597358738502
+        },
+        {
+          "setup_id": "50e810436600",
+          "label": "Claude Code · claude-haiku-4-5-20251001",
+          "harness": "Claude Code",
+          "model": "claude-haiku-4-5-20251001",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.7713606522073334,
+          "surviving_changes": 3.0854426088293336,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "bmwinstead/sailing",
       "slug": "bmwinstead__sailing",
@@ -2210,56 +2260,6 @@
           "spend_usd": null,
           "survival": 0.5384615384615384,
           "surviving_changes": 0.5384615384615384,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "elviskahoro/cmu-database-group-lectures",
-      "slug": "elviskahoro__cmu-database-group-lectures",
-      "href": "/r/elviskahoro/cmu-database-group-lectures",
-      "outcome": "ok",
-      "generated_at": "2026-11-06T11:00:20.084Z",
-      "finished_at": "2026-11-06T11:00:26Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206897888",
-      "label": "insufficient_data",
-      "sessions": 22,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "2cfb671b2bfe",
-          "label": "Pi · accounts/fireworks/models/kimi-k3",
-          "harness": "Pi",
-          "model": "accounts/fireworks/models/kimi-k3",
-          "sessions": 13,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4aec3e30c053",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 5,
-          "mature_sessions": 0,
-          "spend_usd": 2.51736,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "50e810436600",
-          "label": "Claude Code · claude-haiku-4-5-20251001",
-          "harness": "Claude Code",
-          "model": "claude-haiku-4-5-20251001",
-          "sessions": 4,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
