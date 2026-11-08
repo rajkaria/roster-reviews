@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:29:05.686Z",
+  "generated_at": "2026-11-08T10:29:16.362Z",
   "reviews": [
+    {
+      "repo": "aadehamid/enterprise-people-graph",
+      "slug": "aadehamid__enterprise-people-graph",
+      "href": "/r/aadehamid/enterprise-people-graph",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:37.647Z",
+      "finished_at": "2026-11-08T10:29:16Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471566334",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c5edeb34ad73",
+          "label": "Pi · glm-5.3-flash:cloud",
+          "harness": "Pi",
+          "model": "glm-5.3-flash:cloud",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "kathryntanardy/hackcamp_2026",
       "slug": "kathryntanardy__hackcamp_2026",
