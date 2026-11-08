@@ -1,0 +1,37 @@
+{
+  "id": "kathryntanardy__hackcamp_2026-20261108102837",
+  "repo": "kathryntanardy/hackcamp_2026",
+  "created_at": "2026-11-08T10:28:37.770Z",
+  "generated_at": "2026-11-08T10:28:37.770Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "518d4e106433",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 13,
+      "mature_sessions": 9,
+      "spend_usd": 18.977689800000004,
+      "priced_sessions": 13,
+      "spend_lower_bound": false,
+      "unattended": 0.07692307692307693,
+      "survival": 0.8637439001990042,
+      "reverted": 0,
+      "rework_human": 0.030921471653991076,
+      "surviving_changes": 7.773695101791037,
+      "cost_per_surviving_change": 1.6467859663097086,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "no_suspect",
+  "suspect": null,
+  "odds_ratio": 0.14859437751004015,
+  "ci95": [
+    0.008633900005653151,
+    2.557394574078805
+  ],
+  "p_value": 1,
+  "evidence_level": "A"
+}
