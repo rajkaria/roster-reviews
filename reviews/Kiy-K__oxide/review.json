@@ -1,8 +1,8 @@
 {
-  "id": "Kiy-K__oxide-20261107101908",
+  "id": "Kiy-K__oxide-20261108102838",
   "repo": "Kiy-K/oxide",
-  "created_at": "2026-11-07T10:19:08.841Z",
-  "generated_at": "2026-11-07T10:19:08.841Z",
+  "created_at": "2026-11-08T10:28:38.055Z",
+  "generated_at": "2026-11-08T10:28:38.055Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -49,10 +49,10 @@
       "harness": "Oh My Pi",
       "model": "claude-haiku-5-5",
       "rules_hash": null,
-      "sessions": 1,
+      "sessions": 2,
       "mature_sessions": 0,
       "spend_usd": 0,
-      "priced_sessions": 1,
+      "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0,
       "survival": null,
@@ -212,6 +212,25 @@
       "rework_human": 0.05555555555555555,
       "surviving_changes": 0.38235294117647056,
       "cost_per_surviving_change": 0.09137735384615385,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "e721b311ee66",
+      "label": "Oh My Pi · claude-sonnet-5-5",
+      "harness": "Oh My Pi",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 0,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {

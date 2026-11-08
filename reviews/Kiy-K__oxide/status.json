@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261107-018",
+  "job": "disc-20261108-014",
   "repo": "Kiy-K/oxide",
   "outcome": "ok",
   "error": null,
-  "run_id": 42363427949,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363427949",
+  "run_id": 42471569897,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471569897",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "33d4ae14b3dab1d95e2866f5a85bbef74b89ce30",
+  "target_head": "cfe7a08db6ef929274202590d8cf03598ed250bb",
   "checkpoint_head": null,
-  "started_at": "2026-11-07T10:19:05Z",
-  "finished_at": "2026-11-07T10:19:23Z"
+  "started_at": "2026-11-08T10:28:35Z",
+  "finished_at": "2026-11-08T10:28:54Z"
 }
