@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-07T10:30:32.008Z",
+  "generated_at": "2026-11-08T10:28:32.400Z",
   "reviews": [
+    {
+      "repo": "aadehamid/enterprise-context-engineering",
+      "slug": "aadehamid__enterprise-context-engineering",
+      "href": "/r/aadehamid/enterprise-context-engineering",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:30.617Z",
+      "finished_at": "2026-11-08T10:28:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471561023",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "229adeb76f33",
+          "label": "Codex · gpt-6-astra",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 5.606122,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c5edeb34ad73",
+          "label": "Pi · glm-5.3-flash:cloud",
+          "harness": "Pi",
+          "model": "glm-5.3-flash:cloud",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/caliper",
       "slug": "orin-dx__caliper",
