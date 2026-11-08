@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-08T10:28:48.455Z",
+  "generated_at": "2026-11-08T10:28:49.779Z",
   "reviews": [
+    {
+      "repo": "tuanluu-agilityio/danang-vite",
+      "slug": "tuanluu-agilityio__danang-vite",
+      "href": "/r/tuanluu-agilityio/danang-vite",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:40.974Z",
+      "finished_at": "2026-11-08T10:28:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471572275",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "4ccb4caad4e2",
+          "label": "Claude Code · claude-opus-5-5 (rules 318a8a)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ab99444f661",
+          "label": "Claude Code · claude-opus-5-5 (rules ccc781)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 5.2076253999999995,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b7115ef94072",
+          "label": "Claude Code · claude-opus-5-5 (rules feea37)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.2155328,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sredevopsorg/dsh-plugins",
       "slug": "sredevopsorg__dsh-plugins",
