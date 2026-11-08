@@ -1,8 +1,8 @@
 {
-  "id": "malpercio-dev__ezpds-20261025083043",
+  "id": "malpercio-dev__ezpds-20261108102849",
   "repo": "malpercio-dev/ezpds",
-  "created_at": "2026-10-25T08:30:43.095Z",
-  "generated_at": "2026-10-25T08:30:43.095Z",
+  "created_at": "2026-11-08T10:28:49.183Z",
+  "generated_at": "2026-11-08T10:28:49.183Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -93,10 +93,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.45657015590200445,
+      "survival": 0.4521158129175947,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 0.45657015590200445,
+      "surviving_changes": 0.4521158129175947,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -226,10 +226,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.16801075268817203,
+      "survival": 0.17069892473118278,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 0.16801075268817203,
+      "surviving_changes": 0.17069892473118278,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },

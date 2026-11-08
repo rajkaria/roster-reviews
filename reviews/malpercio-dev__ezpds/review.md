@@ -1,7 +1,7 @@
 # Review: malpercio-dev/ezpds
 
-- Review id: `malpercio-dev__ezpds-20261025083043`
-- Created: 2026-10-25T08:30:43.095Z
+- Review id: `malpercio-dev__ezpds-20261108102849`
+- Created: 2026-11-08T10:28:49.183Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -17,14 +17,14 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `0f06c7cbbc4f` | Claude Code · claude-opus-5 (rules 6237b6) | 2 | 0 | unknown (0/2 priced) | too young | too young | too young | 100.0% | — | A |
 | `0fce4250dd21` | Claude Code · claude-fable-5 (rules b39261) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `10f9eef2b48b` | Claude Code · claude-fable-5 (rules be514b) | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
-| `1856bc08d3f2` | Claude Code · claude-opus-5 (rules 9acd72) | 1 | 1 | unknown (0/1 priced) | 45.7% | 0.0% | 0.0% | 0.0% | — | A |
+| `1856bc08d3f2` | Claude Code · claude-opus-5 (rules 9acd72) | 1 | 1 | unknown (0/1 priced) | 45.2% | 0.0% | 0.0% | 0.0% | — | A |
 | `18c120f80d33` | Claude Code · claude-sonnet-5 (rules b523a3) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `1ee1248360bc` | Claude Code · claude-opus-5 (rules 19bad5) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `2083f4c93e6e` | Claude Code · claude-opus-5 (rules d7f7ee) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 | `224e7943034c` | Claude Code · claude-fable-5 (rules b13d2b) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `23a3da0f94c3` | Claude Code · claude-opus-4-8 (rules d0c7c5) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `24d0bb531d1a` | Claude Code · claude-opus-5 (rules d534f5) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
-| `2ddc282bc433` | Claude Code · claude-opus-5 (rules be514b) | 1 | 1 | unknown (0/1 priced) | 16.8% | 0.0% | 0.0% | 0.0% | — | A |
+| `2ddc282bc433` | Claude Code · claude-opus-5 (rules be514b) | 1 | 1 | unknown (0/1 priced) | 17.1% | 0.0% | 0.0% | 0.0% | — | A |
 | `362c03482dd8` | Claude Code · claude-fable-5 (rules c8163e) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `38276a389445` | Claude Code · claude-opus-5 (rules 165053) | 3 | 0 | unknown (0/3 priced) | too young | too young | too young | 0.0% | — | A |
 | `3ffe5a4df537` | Claude Code · claude-opus-5 (rules 3d6f09) | 1 | 1 | unknown (0/1 priced) | 44.1% | 0.0% | 0.0% | 100.0% | — | A |
