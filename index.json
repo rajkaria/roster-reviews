@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:29:24.406Z",
+  "generated_at": "2026-11-08T10:29:30.593Z",
   "reviews": [
+    {
+      "repo": "Garinmckayl/fonectaguard",
+      "slug": "Garinmckayl__fonectaguard",
+      "href": "/r/Garinmckayl/fonectaguard",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:53.253Z",
+      "finished_at": "2026-11-08T10:29:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471582411",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "3275534aa999",
+          "label": "Claude Code · anthropic/claude-sonnet-5.5",
+          "harness": "Claude Code",
+          "model": "anthropic/claude-sonnet-5.5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",
