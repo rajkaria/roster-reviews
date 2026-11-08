@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:28:42.011Z",
+  "generated_at": "2026-11-08T10:28:44.861Z",
   "reviews": [
+    {
+      "repo": "saumyajain2007/HTB26-Main",
+      "slug": "saumyajain2007__HTB26-Main",
+      "href": "/r/saumyajain2007/HTB26-Main",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:28.260Z",
+      "finished_at": "2026-11-08T10:28:44Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471554523",
+      "label": "no_suspect",
+      "sessions": 19,
+      "mature_sessions": 9,
+      "setups": [
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 19,
+          "mature_sessions": 9,
+          "spend_usd": 16.562314,
+          "survival": 0.789014785952836,
+          "surviving_changes": 7.101133073575524,
+          "cost_per_surviving_change": 2.227878668950808
+        }
+      ]
+    },
     {
       "repo": "aspekts/viva",
       "slug": "aspekts__viva",
