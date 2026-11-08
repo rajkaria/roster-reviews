@@ -1,0 +1,53 @@
+{
+  "id": "Sairanyx__Newbies-20261108102834",
+  "repo": "Sairanyx/Newbies",
+  "created_at": "2026-11-08T10:28:34.051Z",
+  "generated_at": "2026-11-08T10:28:34.051Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "8bed28f0a1f5",
+      "label": "Claude Code · claude-opus-5-5 (rules 558c72)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "558c7213fabfd71a418d83b34381b7c46519683ebe824db8cb83d83224ce1282",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": 0,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": 0,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "da3d07c7af2b",
+      "label": "Claude Code · claude-opus-5-5 (rules 92c042)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "92c04298d816549fe2cc21584f952ca157563d0018db99e4e1e090092590f3a0",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "spend_usd": 71.48780520000001,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.4652956298200514,
+      "reverted": 0,
+      "rework_human": 0.016574585635359115,
+      "surviving_changes": 0.4652956298200514,
+      "cost_per_surviving_change": 153.63953714254146,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

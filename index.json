@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-08T10:29:16.362Z",
+  "generated_at": "2026-11-08T10:29:21.056Z",
   "reviews": [
+    {
+      "repo": "Sairanyx/Newbies",
+      "slug": "Sairanyx__Newbies",
+      "href": "/r/Sairanyx/Newbies",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:34.051Z",
+      "finished_at": "2026-11-08T10:29:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471562378",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "8bed28f0a1f5",
+          "label": "Claude Code · claude-opus-5-5 (rules 558c72)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0
+        },
+        {
+          "setup_id": "da3d07c7af2b",
+          "label": "Claude Code · claude-opus-5-5 (rules 92c042)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 71.48780520000001,
+          "survival": 0.4652956298200514,
+          "surviving_changes": 0.4652956298200514,
+          "cost_per_surviving_change": 153.63953714254146
+        }
+      ]
+    },
     {
       "repo": "aadehamid/enterprise-people-graph",
       "slug": "aadehamid__enterprise-people-graph",
