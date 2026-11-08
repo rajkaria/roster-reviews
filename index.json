@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:28:39.986Z",
+  "generated_at": "2026-11-08T10:28:42.011Z",
   "reviews": [
+    {
+      "repo": "aspekts/viva",
+      "slug": "aspekts__viva",
+      "href": "/r/aspekts/viva",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:37.752Z",
+      "finished_at": "2026-11-08T10:28:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471567516",
+      "label": "no_suspect",
+      "sessions": 8,
+      "mature_sessions": 8,
+      "setups": [
+        {
+          "setup_id": "13850e446288",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 8,
+          "mature_sessions": 8,
+          "spend_usd": 34.6679304,
+          "survival": 0.7223300170728912,
+          "surviving_changes": 5.77864013658313,
+          "cost_per_surviving_change": 5.999323297626025
+        }
+      ]
+    },
     {
       "repo": "aadehamid/scada_harmonization",
       "slug": "aadehamid__scada_harmonization",

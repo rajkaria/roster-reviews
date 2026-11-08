@@ -1,0 +1,37 @@
+{
+  "id": "aspekts__viva-20261108102837",
+  "repo": "aspekts/viva",
+  "created_at": "2026-11-08T10:28:37.752Z",
+  "generated_at": "2026-11-08T10:28:37.752Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "13850e446288",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "47ca5cd6ef505cdabb5566056d2906d7ca6ab43ee618f2b0ea960ff89311fbe0",
+      "sessions": 8,
+      "mature_sessions": 8,
+      "spend_usd": 34.6679304,
+      "priced_sessions": 8,
+      "spend_lower_bound": false,
+      "unattended": 0.75,
+      "survival": 0.7223300170728912,
+      "reverted": 0,
+      "rework_human": 0.011339455215036922,
+      "surviving_changes": 5.77864013658313,
+      "cost_per_surviving_change": 5.999323297626025,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "no_suspect",
+  "suspect": null,
+  "odds_ratio": 0.16049382716049385,
+  "ci95": [
+    0.009308734243743606,
+    2.7671075231237343
+  ],
+  "p_value": 1,
+  "evidence_level": "A"
+}
