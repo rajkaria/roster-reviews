@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-11-08T10:28:33.746Z",
+  "generated_at": "2026-11-08T10:28:35.990Z",
   "reviews": [
+    {
+      "repo": "penguinyogurt/BioHacks-2026",
+      "slug": "penguinyogurt__BioHacks-2026",
+      "href": "/r/penguinyogurt/BioHacks-2026",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:26.357Z",
+      "finished_at": "2026-11-08T10:28:35Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471555760",
+      "label": "insufficient_data",
+      "sessions": 13,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "160af3e6b72e",
+          "label": "Claude Code · claude-opus-5-5 (rules 430f04)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.559959,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "609576e9c863",
+          "label": "Claude Code · claude-opus-5-5 (rules b2d9ff)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 8.1326734,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6c7e78628f05",
+          "label": "Claude Code · claude-opus-5-5 (rules 79799f)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 13.357578400000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "91482a59168c",
+          "label": "Claude Code · claude-opus-5-5 (rules 2e39b7)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 2.8566946,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b1b6302c195d",
+          "label": "Claude Code · claude-opus-5-5 (rules 56ebf9)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 5.3949968,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b7c6f826a3b0",
+          "label": "Claude Code · claude-opus-5-5 (rules 4675f4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 0.2334908,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c933ac8c01d6",
+          "label": "Claude Code · claude-opus-5-5 (rules 1d5850)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 13.019581999999998,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d01c67a7a608",
+          "label": "Claude Code · claude-opus-5-5 (rules eb0a10)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Nougify/hackcamp27",
       "slug": "Nougify__hackcamp27",
