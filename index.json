@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:28:49.779Z",
+  "generated_at": "2026-11-08T10:28:51.413Z",
   "reviews": [
+    {
+      "repo": "Anty120/NextChapter",
+      "slug": "Anty120__NextChapter",
+      "href": "/r/Anty120/NextChapter",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:42.970Z",
+      "finished_at": "2026-11-08T10:28:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471573550",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "452aae4da11e",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tuanluu-agilityio/danang-vite",
       "slug": "tuanluu-agilityio__danang-vite",
