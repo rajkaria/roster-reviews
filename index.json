@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:28:46.448Z",
+  "generated_at": "2026-11-08T10:28:48.455Z",
   "reviews": [
+    {
+      "repo": "sredevopsorg/dsh-plugins",
+      "slug": "sredevopsorg__dsh-plugins",
+      "href": "/r/sredevopsorg/dsh-plugins",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:45.593Z",
+      "finished_at": "2026-11-08T10:28:48Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471574590",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "69f79f13e87d",
+          "label": "DeepSeek Harness · unknown",
+          "harness": "DeepSeek Harness",
+          "model": "unknown",
+          "sessions": 5,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "kadiralpay08/hack_trent_submission",
       "slug": "kadiralpay08__hack_trent_submission",

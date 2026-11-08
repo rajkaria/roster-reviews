@@ -1,0 +1,34 @@
+{
+  "id": "sredevopsorg__dsh-plugins-20261108102845",
+  "repo": "sredevopsorg/dsh-plugins",
+  "created_at": "2026-11-08T10:28:45.593Z",
+  "generated_at": "2026-11-08T10:28:45.593Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "69f79f13e87d",
+      "label": "DeepSeek Harness · unknown",
+      "harness": "DeepSeek Harness",
+      "model": "unknown",
+      "rules_hash": null,
+      "sessions": 5,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0.6,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
