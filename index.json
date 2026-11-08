@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-08T10:28:44.861Z",
+  "generated_at": "2026-11-08T10:28:46.448Z",
   "reviews": [
+    {
+      "repo": "kadiralpay08/hack_trent_submission",
+      "slug": "kadiralpay08__hack_trent_submission",
+      "href": "/r/kadiralpay08/hack_trent_submission",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:40.123Z",
+      "finished_at": "2026-11-08T10:28:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471568687",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "95a3f38b5b2a",
+          "label": "Claude Code · claude-opus-5-5 (rules c57470)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 8.009799000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d33fb26e3aeb",
+          "label": "Claude Code · claude-opus-5-5 (rules 004a54)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 7.8219558,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 7.603673199999999
+        }
+      ]
+    },
     {
       "repo": "saumyajain2007/HTB26-Main",
       "slug": "saumyajain2007__HTB26-Main",
