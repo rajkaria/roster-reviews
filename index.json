@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-08T10:29:30.593Z",
+  "generated_at": "2026-11-08T10:29:37.089Z",
   "reviews": [
+    {
+      "repo": "julian-perge/ModularPlanters",
+      "slug": "julian-perge__ModularPlanters",
+      "href": "/r/julian-perge/ModularPlanters",
+      "outcome": "ok",
+      "generated_at": "2026-11-08T10:28:44.636Z",
+      "finished_at": "2026-11-08T10:29:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471575680",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "222754085c2f",
+          "label": "Claude Code · claude-opus-5-5 (rules 799102)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.5708718,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.5708718
+        },
+        {
+          "setup_id": "6eda51ae54ba",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 4.2145003999999995,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 4.2145003999999995
+        },
+        {
+          "setup_id": "df2a87745251",
+          "label": "Claude Code · claude-opus-5-5 (rules 9f6369)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 0.6344026,
+          "survival": 0.9728506787330317,
+          "surviving_changes": 1.9457013574660633,
+          "cost_per_surviving_change": 0.3260534293023256
+        }
+      ]
+    },
     {
       "repo": "Garinmckayl/fonectaguard",
       "slug": "Garinmckayl__fonectaguard",
@@ -4342,44 +4392,6 @@
           "survival": 0.9775280898876404,
           "surviving_changes": 0.9775280898876404,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "julian-perge/ModularPlanters",
-      "slug": "julian-perge__ModularPlanters",
-      "href": "/r/julian-perge/ModularPlanters",
-      "outcome": "ok",
-      "generated_at": "2026-11-06T11:00:13.534Z",
-      "finished_at": "2026-11-06T11:00:59Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206888201",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "6eda51ae54ba",
-          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 4.2145003999999995,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 4.2145003999999995
-        },
-        {
-          "setup_id": "df2a87745251",
-          "label": "Claude Code · claude-opus-5-5 (rules 9f6369)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": 0.11152719999999999,
-          "survival": 0.9864253393665159,
-          "surviving_changes": 0.9864253393665159,
-          "cost_per_surviving_change": 0.040327025688073385
         }
       ]
     },
