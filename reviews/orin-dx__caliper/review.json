@@ -1,8 +1,8 @@
 {
-  "id": "orin-dx__caliper-20261107101850",
+  "id": "orin-dx__caliper-20261108102831",
   "repo": "orin-dx/caliper",
-  "created_at": "2026-11-07T10:18:50.442Z",
-  "generated_at": "2026-11-07T10:18:50.442Z",
+  "created_at": "2026-11-08T10:28:31.641Z",
+  "generated_at": "2026-11-08T10:28:31.641Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -127,15 +127,15 @@
       "rules_hash": "19c6366be086056e1b9d28a12cf44582fc099518eb793378bc14b1ebc082d487",
       "sessions": 3,
       "mature_sessions": 3,
-      "spend_usd": 60.211711,
+      "spend_usd": 84.1227513,
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.957176391683434,
+      "survival": 0.9390677397719651,
       "reverted": 0,
       "rework_human": 0.006419073819348923,
-      "surviving_changes": 2.871529175050302,
-      "cost_per_surviving_change": 20.96851793224258,
+      "surviving_changes": 2.8172032193158953,
+      "cost_per_surviving_change": 29.860377385351573,
       "evidence_level": "A"
     }
   ],
