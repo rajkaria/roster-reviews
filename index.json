@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T10:41:58.178Z",
+  "generated_at": "2026-11-09T11:40:48.673Z",
   "reviews": [
+    {
+      "repo": "DarthMDev/pmd-sky-recomp",
+      "slug": "DarthMDev__pmd-sky-recomp",
+      "href": "/r/DarthMDev/pmd-sky-recomp",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:40:47.203Z",
+      "finished_at": "2026-11-09T11:40:48Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610920202",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 4,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.7063865722522662,
+          "surviving_changes": 2.1191597167567986,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/caliper",
       "slug": "orin-dx__caliper",
@@ -4385,32 +4411,6 @@
           "sessions": 3,
           "mature_sessions": 0,
           "spend_usd": 3.9724911999999994,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "DarthMDev/pmd-sky-recomp",
-      "slug": "DarthMDev__pmd-sky-recomp",
-      "href": "/r/DarthMDev/pmd-sky-recomp",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:18:57.941Z",
-      "finished_at": "2026-11-07T10:18:59Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363415331",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
