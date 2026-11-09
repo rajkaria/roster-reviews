@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-09T11:40:48.673Z",
+  "generated_at": "2026-11-09T11:40:52.587Z",
   "reviews": [
+    {
+      "repo": "Kavanio/RecordAgent",
+      "slug": "Kavanio__RecordAgent",
+      "href": "/r/Kavanio/RecordAgent",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:40:49.588Z",
+      "finished_at": "2026-11-09T11:40:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610922948",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "4cae8c540e19",
+          "label": "Antigravity · gemini-4-argon-high",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5ac99c8a8237",
+          "label": "Antigravity · claude-opus-5-5-medium",
+          "harness": "Antigravity",
+          "model": "claude-opus-5-5-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fccbf9529a40",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9775280898876404,
+          "surviving_changes": 0.9775280898876404,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "DarthMDev/pmd-sky-recomp",
       "slug": "DarthMDev__pmd-sky-recomp",
