@@ -1,7 +1,7 @@
 # Review: babamba2/superclaude-for-sap
 
-- Review id: `babamba2__superclaude-for-sap-20261106110010`
-- Created: 2026-11-06T11:00:10.689Z
+- Review id: `babamba2__superclaude-for-sap-20261109114109`
+- Created: 2026-11-09T11:41:09.548Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -28,6 +28,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `967ea54bfa4c` | Claude Code · claude-opus-5-5 (rules 85b57f) | 3 | 3 | $12.14 | 99.3% | 0.0% | 0.0% | 100.0% | $4.08 | A |
 | `a374448a951f` | Claude Code · claude-opus-5-5 (rules c0935b) | 2 | 2 | $34.30 | 97.6% | 0.0% | 1.2% | 100.0% | $17.58 | A |
 | `a381cc570203` | Claude Code · claude-opus-4-7 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 51.0% | 0.0% | 14.3% | 50.0% | — | A |
+| `b42e183a7af4` | Claude Code · claude-opus-5-5 (rules 35bedb) | 1 | 0 | $2.87 | too young | too young | too young | 100.0% | — | A |
 | `b84cde69171a` | Claude Code · claude-opus-4-8[1m] | 1 | 1 | unknown (0/1 priced) | 94.1% | 0.0% | 3.1% | 0.0% | — | A |
 | `c4595f0cb476` | Claude Code · claude-fable-5 | 1 | 1 | unknown (0/1 priced) | 95.7% | 0.0% | 2.4% | 0.0% | — | A |
 | `dc969432d1ac` | Claude Code · claude-sonnet-4-6 | 1 | 1 | unknown (0/1 priced) | 94.7% | 0.0% | 3.9% | 0.0% | — | A |
@@ -37,7 +38,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 6 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 7 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 16 sessions have no price (unknown model, or a price that depends on prompt size)
 - 4 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
