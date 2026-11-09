@@ -1,8 +1,8 @@
 {
-  "id": "hslee16__Archy-20261107101855",
+  "id": "hslee16__Archy-20261109114052",
   "repo": "hslee16/Archy",
-  "created_at": "2026-11-07T10:18:55.932Z",
-  "generated_at": "2026-11-07T10:18:55.932Z",
+  "created_at": "2026-11-09T11:40:52.407Z",
+  "generated_at": "2026-11-09T11:40:52.407Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -144,17 +144,17 @@
       "harness": "Claude Code",
       "model": "claude-sonnet-5-5",
       "rules_hash": "f9011a86eca94711879bbabdaf585227f360dd7d133806e4d8cef229ea00a314",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "spend_usd": 0.7029743,
-      "priced_sessions": 1,
+      "sessions": 2,
+      "mature_sessions": 1,
+      "spend_usd": 3.8013679000000002,
+      "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
-      "cost_per_surviving_change": null,
+      "survival": 1,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1,
+      "cost_per_surviving_change": 0.7029743,
       "evidence_level": "A"
     },
     {
