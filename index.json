@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-11-09T11:41:19.702Z",
+  "generated_at": "2026-11-09T11:41:24.764Z",
   "reviews": [
+    {
+      "repo": "BbrSofiane/email-os",
+      "slug": "BbrSofiane__email-os",
+      "href": "/r/BbrSofiane/email-os",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:08.148Z",
+      "finished_at": "2026-11-09T11:41:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610956758",
+      "label": "no_suspect",
+      "sessions": 31,
+      "mature_sessions": 25,
+      "setups": [
+        {
+          "setup_id": "07bb48443cba",
+          "label": "Pi · openai/gpt-6.1-sol",
+          "harness": "Pi",
+          "model": "openai/gpt-6.1-sol",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.8947128958972559,
+          "surviving_changes": 3.5788515835890236,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "13c4217bacc0",
+          "label": "Pi · gpt-6-astra",
+          "harness": "Pi",
+          "model": "gpt-6-astra",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.483631,
+          "survival": 0.9829059829059829,
+          "surviving_changes": 0.9829059829059829,
+          "cost_per_surviving_change": 1.5094332782608695
+        },
+        {
+          "setup_id": "18f9e6037871",
+          "label": "Pi · mistral-large-4",
+          "harness": "Pi",
+          "model": "mistral-large-4",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9280575539568345,
+          "surviving_changes": 0.9280575539568345,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "35330a03cbb9",
+          "label": "Pi · z-ai/glm-5.3-flash",
+          "harness": "Pi",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9209225700164745,
+          "surviving_changes": 1.841845140032949,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 5.904479200000001,
+          "survival": 0.9531568228105907,
+          "surviving_changes": 0.9531568228105907,
+          "cost_per_surviving_change": 4.93006952008547
+        },
+        {
+          "setup_id": "63585ff5bfa6",
+          "label": "Pi · claude-fable-5-1",
+          "harness": "Pi",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "645bdcfd61d8",
+          "label": "Pi · glm-5.3-flash",
+          "harness": "Pi",
+          "model": "glm-5.3-flash",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "72389f1baa31",
+          "label": "Pi · gpt-6.1-sol",
+          "harness": "Pi",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 14,
+          "mature_sessions": 9,
+          "spend_usd": 25.783296800000002,
+          "survival": 0.900582848304049,
+          "surviving_changes": 8.105245634736441,
+          "cost_per_surviving_change": 1.5608289705351257
+        },
+        {
+          "setup_id": "f2cf008d960c",
+          "label": "Pi · deepseek-v4.1-flash",
+          "harness": "Pi",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -1780,140 +1914,6 @@
           "survival": 0.8637439001990042,
           "surviving_changes": 7.773695101791037,
           "cost_per_surviving_change": 1.6467859663097086
-        }
-      ]
-    },
-    {
-      "repo": "BbrSofiane/email-os",
-      "slug": "BbrSofiane__email-os",
-      "href": "/r/BbrSofiane/email-os",
-      "outcome": "ok",
-      "generated_at": "2026-11-08T10:28:51.625Z",
-      "finished_at": "2026-11-08T10:29:01Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471580902",
-      "label": "no_suspect",
-      "sessions": 25,
-      "mature_sessions": 23,
-      "setups": [
-        {
-          "setup_id": "07bb48443cba",
-          "label": "Pi · openai/gpt-6.1-sol",
-          "harness": "Pi",
-          "model": "openai/gpt-6.1-sol",
-          "sessions": 4,
-          "mature_sessions": 4,
-          "spend_usd": null,
-          "survival": 0.8930460145937877,
-          "surviving_changes": 3.572184058375151,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "13c4217bacc0",
-          "label": "Pi · gpt-6-astra",
-          "harness": "Pi",
-          "model": "gpt-6-astra",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 1.483631,
-          "survival": 0.9829059829059829,
-          "surviving_changes": 0.9829059829059829,
-          "cost_per_surviving_change": 1.5094332782608695
-        },
-        {
-          "setup_id": "18f9e6037871",
-          "label": "Pi · mistral-large-4",
-          "harness": "Pi",
-          "model": "mistral-large-4",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "35330a03cbb9",
-          "label": "Pi · z-ai/glm-5.3-flash",
-          "harness": "Pi",
-          "model": "z-ai/glm-5.3-flash",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9209225700164745,
-          "surviving_changes": 1.841845140032949,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 4.6991294,
-          "survival": 0.9511201629327902,
-          "surviving_changes": 0.9511201629327902,
-          "cost_per_surviving_change": 4.940626414132763
-        },
-        {
-          "setup_id": "63585ff5bfa6",
-          "label": "Pi · claude-fable-5-1",
-          "harness": "Pi",
-          "model": "claude-fable-5-1",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "645bdcfd61d8",
-          "label": "Pi · glm-5.3-flash",
-          "harness": "Pi",
-          "model": "glm-5.3-flash",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "72389f1baa31",
-          "label": "Pi · gpt-6.1-sol",
-          "harness": "Pi",
-          "model": "gpt-6.1-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "94304fba8bc8",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 9,
-          "mature_sessions": 8,
-          "spend_usd": 12.6509022,
-          "survival": 0.9109658312249631,
-          "surviving_changes": 7.287726649799705,
-          "cost_per_surviving_change": 1.063065873939293
-        },
-        {
-          "setup_id": "f2cf008d960c",
-          "label": "Pi · deepseek-v4.1-flash",
-          "harness": "Pi",
-          "model": "deepseek-v4.1-flash",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
         }
       ]
     },
