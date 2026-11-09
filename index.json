@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:40:58.690Z",
+  "generated_at": "2026-11-09T11:41:02.998Z",
   "reviews": [
+    {
+      "repo": "AbisoyeOnanuga/price-wire",
+      "slug": "AbisoyeOnanuga__price-wire",
+      "href": "/r/AbisoyeOnanuga/price-wire",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:01.185Z",
+      "finished_at": "2026-11-09T11:41:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610946934",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "75e5dcfa8dc2",
+          "label": "Cursor · composer-2.5",
+          "harness": "Cursor",
+          "model": "composer-2.5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9384615384615385,
+          "surviving_changes": 0.9384615384615385,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mostafasayed118/Quran-App",
       "slug": "mostafasayed118__Quran-App",
