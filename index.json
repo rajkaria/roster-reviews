@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:40:52.587Z",
+  "generated_at": "2026-11-09T11:40:55.317Z",
   "reviews": [
+    {
+      "repo": "kurianbenoy/kallar",
+      "slug": "kurianbenoy__kallar",
+      "href": "/r/kurianbenoy/kallar",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:40:46.530Z",
+      "finished_at": "2026-11-09T11:40:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610917754",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "892ecf68a4b5",
+          "label": "OpenCode · deepseek-v4.1-flash",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9490084985835694,
+          "surviving_changes": 0.9490084985835694,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Kavanio/RecordAgent",
       "slug": "Kavanio__RecordAgent",
