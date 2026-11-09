@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:41:36.686Z",
+  "generated_at": "2026-11-09T11:41:39.206Z",
   "reviews": [
+    {
+      "repo": "suryatejaamanana/Godavarighaatu",
+      "slug": "suryatejaamanana__Godavarighaatu",
+      "href": "/r/suryatejaamanana/Godavarighaatu",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:02.144Z",
+      "finished_at": "2026-11-09T11:41:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610951941",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 4.6458883,
+          "survival": 0.9783845278725825,
+          "surviving_changes": 0.9783845278725825,
+          "cost_per_surviving_change": 4.155116300581396
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/sof-pi",
       "slug": "BbrSofiane__sof-pi",
