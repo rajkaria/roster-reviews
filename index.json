@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:41:28.901Z",
+  "generated_at": "2026-11-09T11:41:31.164Z",
   "reviews": [
+    {
+      "repo": "pawtograder/platform",
+      "slug": "pawtograder__platform",
+      "href": "/r/pawtograder/platform",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:04.235Z",
+      "finished_at": "2026-11-09T11:41:31Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610954515",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "cb061db7c078",
+          "label": "Claude Code · claude-opus-4-8",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",
