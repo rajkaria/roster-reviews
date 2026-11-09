@@ -1,8 +1,8 @@
 {
-  "id": "crcorbett__taxkit-20261105110236",
+  "id": "crcorbett__taxkit-20261109114111",
   "repo": "crcorbett/taxkit",
-  "created_at": "2026-11-05T11:02:36.225Z",
-  "generated_at": "2026-11-05T11:02:36.225Z",
+  "created_at": "2026-11-09T11:41:11.927Z",
+  "generated_at": "2026-11-09T11:41:11.927Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -74,11 +74,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.10061349693251534,
+      "survival": 0.0785276073619632,
       "reverted": 1,
       "rework_human": 0.8959660297239915,
-      "surviving_changes": 0.10061349693251534,
-      "cost_per_surviving_change": 1139.5293325,
+      "surviving_changes": 0.0785276073619632,
+      "cost_per_surviving_change": 1460.021957265625,
       "evidence_level": "A"
     },
     {
@@ -112,11 +112,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 1,
+      "survival": 0.9117647058823529,
       "reverted": 0,
       "rework_human": 0.10650887573964497,
-      "surviving_changes": 1,
-      "cost_per_surviving_change": 54.758855000000004,
+      "surviving_changes": 0.9117647058823529,
+      "cost_per_surviving_change": 60.05809903225807,
       "evidence_level": "A"
     },
     {
@@ -169,10 +169,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.853035143769968,
+      "survival": 0.7955271565495208,
       "reverted": 0,
       "rework_human": 0.08854166666666667,
-      "surviving_changes": 0.853035143769968,
+      "surviving_changes": 0.7955271565495208,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
