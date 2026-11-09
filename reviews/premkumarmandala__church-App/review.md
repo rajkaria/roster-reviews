@@ -1,7 +1,7 @@
 # Review: premkumarmandala/church-App
 
-- Review id: `premkumarmandala__church-App-20261107101919`
-- Created: 2026-11-07T10:19:19.242Z
+- Review id: `premkumarmandala__church-App-20261109114100`
+- Created: 2026-11-09T11:41:00.889Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `66e99877fde1` | Antigravity · unknown | 8 | 7 | unknown (0/8 priced) | 39.9% | 57.1% | 0.0% | 0.0% | — | A |
+| `66e99877fde1` | Antigravity · unknown | 8 | 7 | unknown (0/8 priced) | 39.3% | 57.1% | 0.0% | 0.0% | — | A |
 
 ## Notes
 

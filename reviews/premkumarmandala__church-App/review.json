@@ -1,8 +1,8 @@
 {
-  "id": "premkumarmandala__church-App-20261107101919",
+  "id": "premkumarmandala__church-App-20261109114100",
   "repo": "premkumarmandala/church-App",
-  "created_at": "2026-11-07T10:19:19.242Z",
-  "generated_at": "2026-11-07T10:19:19.242Z",
+  "created_at": "2026-11-09T11:41:00.889Z",
+  "generated_at": "2026-11-09T11:41:00.889Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.3985604595126885,
+      "survival": 0.3927507656964379,
       "reverted": 0.5714285714285714,
       "rework_human": 0.00027667290356276643,
-      "surviving_changes": 2.7899232165888193,
+      "surviving_changes": 2.7492553598750655,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

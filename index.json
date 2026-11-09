@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:41:43.505Z",
+  "generated_at": "2026-11-09T11:41:45.654Z",
   "reviews": [
+    {
+      "repo": "premkumarmandala/church-App",
+      "slug": "premkumarmandala__church-App",
+      "href": "/r/premkumarmandala/church-App",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:00.889Z",
+      "finished_at": "2026-11-09T11:41:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610944203",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 8,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.3927507656964379,
+          "surviving_changes": 2.7492553598750655,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
@@ -4684,32 +4710,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "premkumarmandala/church-App",
-      "slug": "premkumarmandala__church-App",
-      "href": "/r/premkumarmandala/church-App",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:19:19.242Z",
-      "finished_at": "2026-11-07T10:19:27Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363437251",
-      "label": "insufficient_data",
-      "sessions": 8,
-      "mature_sessions": 7,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 8,
-          "mature_sessions": 7,
-          "spend_usd": null,
-          "survival": 0.3985604595126885,
-          "surviving_changes": 2.7899232165888193,
           "cost_per_surviving_change": null
         }
       ]
