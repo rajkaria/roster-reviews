@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:41:05.166Z",
+  "generated_at": "2026-11-09T11:41:07.162Z",
   "reviews": [
+    {
+      "repo": "Blaise1030/cms",
+      "slug": "Blaise1030__cms",
+      "href": "/r/Blaise1030/cms",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:40:53.818Z",
+      "finished_at": "2026-11-09T11:41:07Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610930358",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "3190a508e1b1",
+          "label": "Cursor · default",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
