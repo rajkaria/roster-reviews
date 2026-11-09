@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-11-09T11:41:07.162Z",
+  "generated_at": "2026-11-09T11:41:09.576Z",
   "reviews": [
+    {
+      "repo": "aadehamid/scada_harmonization",
+      "slug": "aadehamid__scada_harmonization",
+      "href": "/r/aadehamid/scada_harmonization",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:05.219Z",
+      "finished_at": "2026-11-09T11:41:09Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610959324",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "6cc073b84402",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.04929577464788732,
+          "surviving_changes": 0.04929577464788732,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6e6106a25a3c",
+          "label": "Claude Code · claude-opus-4-8 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "79f330087560",
+          "label": "Claude Code · claude-opus-4-8 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9bf97c89f226",
+          "label": "Claude Code · claude-opus-4-8 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e6e599c711b5",
+          "label": "Claude Code · claude-opus-4-8[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.030303030303030304,
+          "surviving_changes": 0.030303030303030304,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e9b48cc262bb",
+          "label": "Claude Code · claude-opus-4-6",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Blaise1030/cms",
       "slug": "Blaise1030__cms",
@@ -2342,92 +2428,6 @@
           "survival": 0.7223300170728912,
           "surviving_changes": 5.77864013658313,
           "cost_per_surviving_change": 5.999323297626025
-        }
-      ]
-    },
-    {
-      "repo": "aadehamid/scada_harmonization",
-      "slug": "aadehamid__scada_harmonization",
-      "href": "/r/aadehamid/scada_harmonization",
-      "outcome": "ok",
-      "generated_at": "2026-11-08T10:28:34.989Z",
-      "finished_at": "2026-11-08T10:28:39Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42471563704",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 6,
-      "setups": [
-        {
-          "setup_id": "6cc073b84402",
-          "label": "Claude Code · claude-opus-5[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-5[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.04929577464788732,
-          "surviving_changes": 0.04929577464788732,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6e6106a25a3c",
-          "label": "Claude Code · claude-opus-4-8 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "79f330087560",
-          "label": "Claude Code · claude-opus-4-8 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "9bf97c89f226",
-          "label": "Claude Code · claude-opus-4-8 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "e6e599c711b5",
-          "label": "Claude Code · claude-opus-4-8[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-8[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.030303030303030304,
-          "surviving_changes": 0.030303030303030304,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "e9b48cc262bb",
-          "label": "Claude Code · claude-opus-4-6",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-6",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
