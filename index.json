@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T11:41:17.146Z",
+  "generated_at": "2026-11-09T11:41:19.702Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:12.460Z",
+      "finished_at": "2026-11-09T11:41:19Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610969196",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
@@ -5127,32 +5153,6 @@
           "spend_usd": null,
           "survival": 0.75,
           "surviving_changes": 1.5,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-11-06T11:00:37.618Z",
-      "finished_at": "2026-11-06T11:00:40Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42206939067",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
           "cost_per_surviving_change": null
         }
       ]
