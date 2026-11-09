@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-09T11:41:47.958Z",
+  "generated_at": "2026-11-09T11:42:02.246Z",
   "reviews": [
+    {
+      "repo": "OctopusGarage/mesh-talk",
+      "slug": "OctopusGarage__mesh-talk",
+      "href": "/r/OctopusGarage/mesh-talk",
+      "outcome": "ok",
+      "generated_at": "2026-11-09T11:41:00.006Z",
+      "finished_at": "2026-11-09T11:42:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610941504",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "24a3249ae4c6",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9572158365261814,
+          "surviving_changes": 0.9572158365261814,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b778c715e43a",
+          "label": "Codex · gpt-6.1-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "thorgas/Youmotion",
       "slug": "thorgas__Youmotion",
@@ -11166,19 +11204,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "OctopusGarage/mesh-talk",
-      "slug": "OctopusGarage__mesh-talk",
-      "href": "/r/OctopusGarage/mesh-talk",
-      "outcome": "ok",
-      "generated_at": "2026-10-31T09:44:41.450Z",
-      "finished_at": "2026-10-31T09:44:47Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41189917408",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "aaishikasb/uno-q-workshops",
