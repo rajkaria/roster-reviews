@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T11:19:22.590Z",
+  "generated_at": "2026-11-10T11:19:24.489Z",
   "reviews": [
+    {
+      "repo": "DarthMDev/pmd-sky-recomp",
+      "slug": "DarthMDev__pmd-sky-recomp",
+      "href": "/r/DarthMDev/pmd-sky-recomp",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:22.590Z",
+      "finished_at": "2026-11-10T11:19:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806493009",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 5,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.7045847704504645,
+          "surviving_changes": 2.1137543113513937,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "elviskahoro/cmu-database-group-lectures",
       "slug": "elviskahoro__cmu-database-group-lectures",
@@ -2265,32 +2291,6 @@
           "spend_usd": null,
           "survival": 0.9775280898876404,
           "surviving_changes": 0.9775280898876404,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "DarthMDev/pmd-sky-recomp",
-      "slug": "DarthMDev__pmd-sky-recomp",
-      "href": "/r/DarthMDev/pmd-sky-recomp",
-      "outcome": "ok",
-      "generated_at": "2026-11-09T11:40:47.203Z",
-      "finished_at": "2026-11-09T11:40:48Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610920202",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 4,
-          "mature_sessions": 3,
-          "spend_usd": null,
-          "survival": 0.7063865722522662,
-          "surviving_changes": 2.1191597167567986,
           "cost_per_surviving_change": null
         }
       ]
