@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-11-10T11:19:42.840Z",
+  "generated_at": "2026-11-10T11:19:45.532Z",
   "reviews": [
+    {
+      "repo": "discobox-ai/discobox",
+      "slug": "discobox-ai__discobox",
+      "href": "/r/discobox-ai/discobox",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:37.613Z",
+      "finished_at": "2026-11-10T11:19:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806521167",
+      "label": "insufficient_data",
+      "sessions": 46,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "453f115aa07d",
+          "label": "Claude Code · claude-opus-5-5 (rules e36c78)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 11,
+          "mature_sessions": 0,
+          "spend_usd": 16.648272600000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4a8dd0fcff77",
+          "label": "Claude Code · claude-opus-5-5 (rules c4a696)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": 4.3913020000000005,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4e0a57bb63b2",
+          "label": "Claude Code · claude-opus-5-5 (rules dc46bd)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 9,
+          "mature_sessions": 0,
+          "spend_usd": 10.414497400000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "748f350f3fca",
+          "label": "Claude Code · claude-opus-5-5 (rules a3e3fc)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 1.1903698,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7b51204ef87e",
+          "label": "Claude Code · claude-opus-5-5 (rules 7bf37c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 3.2368788,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d80ddabec7dc",
+          "label": "Claude Code · <synthetic>",
+          "harness": "Claude Code",
+          "model": "<synthetic>",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "db3ea07e87c1",
+          "label": "Claude Code · claude-opus-5-5 (rules 6fb119)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 0.36585,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "dd8abad69251",
+          "label": "Claude Code · claude-opus-5-5 (rules d2a256)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 7,
+          "mature_sessions": 0,
+          "spend_usd": 4.472224199999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "df70795dd5e1",
+          "label": "Claude Code · claude-opus-5-5 (rules 36c0b9)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 19.5998264,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f89b7769e967",
+          "label": "Claude Code · claude-opus-5-5 (rules d6184b)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": 3.896986,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mostafasayed118/Quran-App",
       "slug": "mostafasayed118__Quran-App",
