@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-10T11:20:01.380Z",
+  "generated_at": "2026-11-10T11:20:05.635Z",
   "reviews": [
+    {
+      "repo": "webframp/dotfiles",
+      "slug": "webframp__dotfiles",
+      "href": "/r/webframp/dotfiles",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:27.987Z",
+      "finished_at": "2026-11-10T11:20:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806502098",
+      "label": "insufficient_data",
+      "sessions": 12,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2692ec25424a",
+          "label": "Claude Code · claude-sonnet-5-5 (rules d890b2)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 1.0618637,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7d717963b973",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 634c18)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 0.5006170000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a228e5444739",
+          "label": "Claude Code · claude-opus-5-5 (rules d890b2)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 4.6090476,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "febf7acd95d3",
+          "label": "Claude Code · claude-opus-5-5 (rules 634c18)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 4.8850774,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "dliedke/ClaudeCodeExtension",
       "slug": "dliedke__ClaudeCodeExtension",
