@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-10T11:19:45.532Z",
+  "generated_at": "2026-11-10T11:19:47.442Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:18.770Z",
+      "finished_at": "2026-11-10T11:19:47Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806483634",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "discobox-ai/discobox",
       "slug": "discobox-ai__discobox",
@@ -5416,19 +5429,6 @@
           "cost_per_surviving_change": 0.05970287756491286
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:18:56.100Z",
-      "finished_at": "2026-11-07T10:19:32Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363412641",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "basher83/Omni-Scale",
