@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T11:19:47.442Z",
+  "generated_at": "2026-11-10T11:19:51.287Z",
   "reviews": [
+    {
+      "repo": "detailyang/dotfiles",
+      "slug": "detailyang__dotfiles",
+      "href": "/r/detailyang/dotfiles",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:36.147Z",
+      "finished_at": "2026-11-10T11:19:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806512332",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "ac57e9726633",
+          "label": "Pi · group/deepseek",
+          "harness": "Pi",
+          "model": "group/deepseek",
+          "sessions": 4,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
@@ -9924,32 +9950,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": 11.257007,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "detailyang/dotfiles",
-      "slug": "detailyang__dotfiles",
-      "href": "/r/detailyang/dotfiles",
-      "outcome": "ok",
-      "generated_at": "2026-11-03T10:58:46.320Z",
-      "finished_at": "2026-11-03T10:58:48Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/41623668149",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "ac57e9726633",
-          "label": "Pi · group/deepseek",
-          "harness": "Pi",
-          "model": "group/deepseek",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
