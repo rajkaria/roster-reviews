@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T11:19:35.403Z",
+  "generated_at": "2026-11-10T11:19:36.909Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/shajare1_bot",
+      "slug": "sepantasaadat__shajare1_bot",
+      "href": "/r/sepantasaadat/shajare1_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:35.624Z",
+      "finished_at": "2026-11-10T11:19:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806518162",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "binhex/gamarr",
       "slug": "binhex__gamarr",
