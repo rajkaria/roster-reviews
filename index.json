@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-10T11:19:15.485Z",
+  "generated_at": "2026-11-10T11:19:22.590Z",
   "reviews": [
+    {
+      "repo": "elviskahoro/cmu-database-group-lectures",
+      "slug": "elviskahoro__cmu-database-group-lectures",
+      "href": "/r/elviskahoro/cmu-database-group-lectures",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:12.984Z",
+      "finished_at": "2026-11-10T11:19:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806470773",
+      "label": "no_suspect",
+      "sessions": 33,
+      "mature_sessions": 31,
+      "setups": [
+        {
+          "setup_id": "2cfb671b2bfe",
+          "label": "Pi · accounts/fireworks/models/kimi-k3",
+          "harness": "Pi",
+          "model": "accounts/fireworks/models/kimi-k3",
+          "sessions": 20,
+          "mature_sessions": 20,
+          "spend_usd": null,
+          "survival": 0.8130047582623506,
+          "surviving_changes": 16.260095165247012,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4aec3e30c053",
+          "label": "Claude Code · claude-sonnet-5-5 (rules c89947)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 8,
+          "mature_sessions": 7,
+          "spend_usd": 4.8734161,
+          "survival": 0.7867017774851875,
+          "surviving_changes": 5.506912442396313,
+          "cost_per_surviving_change": 0.13326868870292888
+        },
+        {
+          "setup_id": "50e810436600",
+          "label": "Claude Code · claude-haiku-4-5-20251001",
+          "harness": "Claude Code",
+          "model": "claude-haiku-4-5-20251001",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.7733526840798434,
+          "surviving_changes": 3.0934107363193735,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d1934960c7a2",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 80a936)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.5768027,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mvwi/wt",
       "slug": "mvwi__wt",
@@ -5365,56 +5427,6 @@
           "spend_usd": null,
           "survival": 0.8421052631578947,
           "surviving_changes": 0.8421052631578947,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "elviskahoro/cmu-database-group-lectures",
-      "slug": "elviskahoro__cmu-database-group-lectures",
-      "href": "/r/elviskahoro/cmu-database-group-lectures",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:19:01.508Z",
-      "finished_at": "2026-11-07T10:19:05Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363416597",
-      "label": "no_suspect",
-      "sessions": 28,
-      "mature_sessions": 22,
-      "setups": [
-        {
-          "setup_id": "2cfb671b2bfe",
-          "label": "Pi · accounts/fireworks/models/kimi-k3",
-          "harness": "Pi",
-          "model": "accounts/fireworks/models/kimi-k3",
-          "sessions": 19,
-          "mature_sessions": 13,
-          "spend_usd": null,
-          "survival": 0.7709717529294802,
-          "surviving_changes": 10.022632788083243,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4aec3e30c053",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": 0.4397527,
-          "survival": 0.7013824884792627,
-          "surviving_changes": 3.506912442396313,
-          "cost_per_surviving_change": 0.12539597358738502
-        },
-        {
-          "setup_id": "50e810436600",
-          "label": "Claude Code · claude-haiku-4-5-20251001",
-          "harness": "Claude Code",
-          "model": "claude-haiku-4-5-20251001",
-          "sessions": 4,
-          "mature_sessions": 4,
-          "spend_usd": null,
-          "survival": 0.7713606522073334,
-          "surviving_changes": 3.0854426088293336,
           "cost_per_surviving_change": null
         }
       ]
