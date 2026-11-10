@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261105-017",
+  "job": "disc-20261110-025",
   "repo": "dliedke/ClaudeCodeExtension",
   "outcome": "ok",
   "error": null,
-  "run_id": 42015626610,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015626610",
+  "run_id": 42806524657,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806524657",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "df5fa1c607dafb29d0a10c49e03181e16672b3e4",
+  "target_head": "8a438a1b434bef5ce6719ffac0fe6c7525384dc4",
   "checkpoint_head": null,
-  "started_at": "2026-11-05T11:02:22Z",
-  "finished_at": "2026-11-05T11:02:38Z"
+  "started_at": "2026-11-10T11:19:35Z",
+  "finished_at": "2026-11-10T11:20:01Z"
 }
