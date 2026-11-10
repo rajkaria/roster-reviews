@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-10T11:20:05.635Z",
+  "generated_at": "2026-11-10T11:20:10.349Z",
   "reviews": [
+    {
+      "repo": "tacoda/bastion",
+      "slug": "tacoda__bastion",
+      "href": "/r/tacoda/bastion",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:03.927Z",
+      "finished_at": "2026-11-10T11:20:10Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806447113",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "6b2ae178f85f",
+          "label": "Claude Code · claude-opus-5-5 (rules 2a2f29)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 176.1299082,
+          "survival": 0.8834886817576564,
+          "surviving_changes": 1.7669773635153128,
+          "cost_per_surviving_change": 99.67864435433309
+        },
+        {
+          "setup_id": "cfc486fe85ce",
+          "label": "Claude Code · claude-opus-5-5 (rules 17f201)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 3.9262646,
+          "survival": 0.5530144326614493,
+          "surviving_changes": 1.659043297984348,
+          "cost_per_surviving_change": 2.3665835634128474
+        }
+      ]
+    },
     {
       "repo": "webframp/dotfiles",
       "slug": "webframp__dotfiles",
@@ -5596,44 +5634,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "tacoda/bastion",
-      "slug": "tacoda__bastion",
-      "href": "/r/tacoda/bastion",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:18:48.579Z",
-      "finished_at": "2026-11-07T10:19:41Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363403634",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "6b2ae178f85f",
-          "label": "Claude Code · claude-opus-5-5 (rules 2a2f29)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": 67.85726460000001,
-          "survival": 0.9014647137150467,
-          "surviving_changes": 1.8029294274300933,
-          "cost_per_surviving_change": 37.6372272633678
-        },
-        {
-          "setup_id": "cfc486fe85ce",
-          "label": "Claude Code · claude-opus-5-5 (rules 17f201)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 3.9262646,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
