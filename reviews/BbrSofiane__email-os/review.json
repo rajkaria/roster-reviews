@@ -1,8 +1,8 @@
 {
-  "id": "BbrSofiane__email-os-20261109114108",
+  "id": "BbrSofiane__email-os-20261110111912",
   "repo": "BbrSofiane/email-os",
-  "created_at": "2026-11-09T11:41:08.148Z",
-  "generated_at": "2026-11-09T11:41:08.148Z",
+  "created_at": "2026-11-10T11:19:12.359Z",
+  "generated_at": "2026-11-10T11:19:12.359Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.75,
-      "survival": 0.8947128958972559,
+      "survival": 0.878104615048188,
       "reverted": 0,
       "rework_human": 0.04045035279711533,
-      "surviving_changes": 3.5788515835890236,
+      "surviving_changes": 3.512418460192752,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -36,11 +36,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
-      "survival": 0.9829059829059829,
+      "survival": 0.9743589743589743,
       "reverted": 0,
       "rework_human": 0.029069767441860465,
-      "surviving_changes": 0.9829059829059829,
-      "cost_per_surviving_change": 1.5094332782608695,
+      "surviving_changes": 0.9743589743589743,
+      "cost_per_surviving_change": 1.5226739210526314,
       "evidence_level": "A"
     },
     {
@@ -55,10 +55,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9280575539568345,
+      "survival": 0.9275779376498801,
       "reverted": 0,
-      "rework_human": 0.0017101325352714834,
-      "surviving_changes": 0.9280575539568345,
+      "rework_human": 0.003847798204360838,
+      "surviving_changes": 0.9275779376498801,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -88,16 +88,16 @@
       "model": "claude-opus-5-5",
       "rules_hash": null,
       "sessions": 2,
-      "mature_sessions": 1,
+      "mature_sessions": 2,
       "spend_usd": 5.904479200000001,
       "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0.5,
-      "survival": 0.9531568228105907,
+      "survival": 0.47657841140529533,
       "reverted": 0,
-      "rework_human": 0.06533575317604355,
+      "rework_human": 0.03539019963702359,
       "surviving_changes": 0.9531568228105907,
-      "cost_per_surviving_change": 4.93006952008547,
+      "cost_per_surviving_change": 6.194656596581197,
       "evidence_level": "A"
     },
     {
@@ -163,17 +163,17 @@
       "harness": "Claude Code",
       "model": "claude-sonnet-5-5",
       "rules_hash": null,
-      "sessions": 14,
-      "mature_sessions": 9,
-      "spend_usd": 25.783296800000002,
-      "priced_sessions": 14,
+      "sessions": 15,
+      "mature_sessions": 14,
+      "spend_usd": 36.4155892,
+      "priced_sessions": 15,
       "spend_lower_bound": false,
-      "unattended": 0.35714285714285715,
-      "survival": 0.900582848304049,
-      "reverted": 0.1111111111111111,
-      "rework_human": 0.09161429937182591,
-      "surviving_changes": 8.105245634736441,
-      "cost_per_surviving_change": 1.5608289705351257,
+      "unattended": 0.2,
+      "survival": 0.7676206021328371,
+      "reverted": 0.07142857142857142,
+      "rework_human": 0.09216710260140401,
+      "surviving_changes": 10.74668842985972,
+      "cost_per_surviving_change": 2.872002859433684,
       "evidence_level": "A"
     },
     {
@@ -198,11 +198,11 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 2.5150925024342743,
+  "odds_ratio": 1.721942281264315,
   "ci95": [
-    0.2791623000045386,
-    22.65954355476459
+    0.1989360182530362,
+    14.904717838648603
   ],
-  "p_value": 0.8852339044689062,
+  "p_value": 1,
   "evidence_level": "A"
 }
