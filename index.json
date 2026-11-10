@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T11:19:26.207Z",
+  "generated_at": "2026-11-10T11:19:28.466Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/psychology_bot",
+      "slug": "sepantasaadat__psychology_bot",
+      "href": "/r/sepantasaadat/psychology_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:21.087Z",
+      "finished_at": "2026-11-10T11:19:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806480976",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tuanluu-agilityio/danang-vite",
       "slug": "tuanluu-agilityio__danang-vite",
