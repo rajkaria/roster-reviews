@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-10T11:19:38.366Z",
+  "generated_at": "2026-11-10T11:19:41.312Z",
   "reviews": [
+    {
+      "repo": "jessearmand/subaki-realtime",
+      "slug": "jessearmand__subaki-realtime",
+      "href": "/r/jessearmand/subaki-realtime",
+      "outcome": "ok",
+      "generated_at": "2026-11-10T11:19:26.013Z",
+      "finished_at": "2026-11-10T11:19:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806498947",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "23515646803f",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66ef0cbd8f01",
+          "label": "Claude Code · claude-fable-5-1",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9a8fb6675dc5",
+          "label": "Claude Code · claude-fable-5",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/email-os",
       "slug": "BbrSofiane__email-os",
