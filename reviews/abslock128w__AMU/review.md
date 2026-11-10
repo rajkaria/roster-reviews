@@ -1,7 +1,7 @@
 # Review: abslock128w/AMU
 
-- Review id: `abslock128w__AMU-20261104110310`
-- Created: 2026-11-04T11:03:10.306Z
+- Review id: `abslock128w__AMU-20261110111924`
+- Created: 2026-11-10T11:19:24.877Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `5cd69ef0bfb1` | Claude Code · claude-opus-5-5 | 1 | 1 | $78.99 | 100.0% | 0.0% | 0.0% | 0.0% | $78.99 | A |
+| `5cd69ef0bfb1` | Claude Code · claude-opus-5-5 | 2 | 2 | $85.19 | 49.2% | 0.0% | 0.0% | 50.0% | $86.54 | A |
 
 ## Notes
 
