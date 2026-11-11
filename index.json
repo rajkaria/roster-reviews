@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-11T11:06:32.642Z",
+  "generated_at": "2026-11-11T11:06:35.956Z",
   "reviews": [
+    {
+      "repo": "binhex/gamarr",
+      "slug": "binhex__gamarr",
+      "href": "/r/binhex/gamarr",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:57.415Z",
+      "finished_at": "2026-11-11T11:06:35Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009068953",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "ba7f6375220d",
+          "label": "Pi · unknown",
+          "harness": "Pi",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f2cf008d960c",
+          "label": "Pi · deepseek-v4.1-flash",
+          "harness": "Pi",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Jtoosh/baseball-mcp",
       "slug": "Jtoosh__baseball-mcp",
@@ -3450,44 +3488,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "binhex/gamarr",
-      "slug": "binhex__gamarr",
-      "href": "/r/binhex/gamarr",
-      "outcome": "ok",
-      "generated_at": "2026-11-10T11:19:32.351Z",
-      "finished_at": "2026-11-10T11:19:35Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806509347",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "ba7f6375220d",
-          "label": "Pi · unknown",
-          "harness": "Pi",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "f2cf008d960c",
-          "label": "Pi · deepseek-v4.1-flash",
-          "harness": "Pi",
-          "model": "deepseek-v4.1-flash",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
