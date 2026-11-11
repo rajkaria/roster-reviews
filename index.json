@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-11T11:06:10.670Z",
+  "generated_at": "2026-11-11T11:06:14.059Z",
   "reviews": [
+    {
+      "repo": "singampalliveerendra/your_family_farmer",
+      "slug": "singampalliveerendra__your_family_farmer",
+      "href": "/r/singampalliveerendra/your_family_farmer",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:58.780Z",
+      "finished_at": "2026-11-11T11:06:14Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009072007",
+      "label": "no_suspect",
+      "sessions": 120,
+      "mature_sessions": 118,
+      "setups": [
+        {
+          "setup_id": "11ddb5e729a5",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 18,
+          "mature_sessions": 18,
+          "spend_usd": null,
+          "survival": 0.465618515214492,
+          "surviving_changes": 8.381133273860856,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "2bbfa6aa3110",
+          "label": "OpenCode · big-pickle",
+          "harness": "OpenCode",
+          "model": "big-pickle",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9776119402985075,
+          "surviving_changes": 0.9776119402985075,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "846af223db64",
+          "label": "Claude Code · claude-opus-4-7",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7",
+          "sessions": 20,
+          "mature_sessions": 20,
+          "spend_usd": null,
+          "survival": 0.5898662058322129,
+          "surviving_changes": 11.797324116644258,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9bf800bb4255",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 10,
+          "mature_sessions": 8,
+          "spend_usd": 15.952269399999999,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a916515b334b",
+          "label": "Claude Code · claude-opus-4-8",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-8",
+          "sessions": 71,
+          "mature_sessions": 71,
+          "spend_usd": null,
+          "survival": 0.6838237218710386,
+          "surviving_changes": 48.551484252843736,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Pine-Island-Food-Pantry-Site/main-website",
       "slug": "Pine-Island-Food-Pantry-Site__main-website",
