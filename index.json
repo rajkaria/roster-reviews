@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-11T11:06:14.059Z",
+  "generated_at": "2026-11-11T11:06:17.431Z",
   "reviews": [
+    {
+      "repo": "ajeet-krish/stormfund",
+      "slug": "ajeet-krish__stormfund",
+      "href": "/r/ajeet-krish/stormfund",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:53.245Z",
+      "finished_at": "2026-11-11T11:06:17Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009066129",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "17d8b269353f",
+          "label": "OpenCode · mimo-v2.6-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "mimo-v2.6-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.25446836811039986,
+          "surviving_changes": 0.25446836811039986,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3fa944a6af61",
+          "label": "OpenCode · mimo-v2.6-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "mimo-v2.6-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c823bb155245",
+          "label": "OpenCode · mimo-v2.6-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "mimo-v2.6-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9664660361134996,
+          "surviving_changes": 0.9664660361134996,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "singampalliveerendra/your_family_farmer",
       "slug": "singampalliveerendra__your_family_farmer",
