@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T11:05:56.985Z",
+  "generated_at": "2026-11-11T11:05:59.819Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/psychology_bot",
+      "slug": "sepantasaadat__psychology_bot",
+      "href": "/r/sepantasaadat/psychology_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:46.300Z",
+      "finished_at": "2026-11-11T11:05:59Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009055103",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9406919275123559,
+          "surviving_changes": 0.9406919275123559,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "bmwinstead/sailing",
       "slug": "bmwinstead__sailing",
@@ -3357,32 +3383,6 @@
           "survival": 0.9873046875,
           "surviving_changes": 0.9873046875,
           "cost_per_surviving_change": 36.672897493966374
-        }
-      ]
-    },
-    {
-      "repo": "sepantasaadat/psychology_bot",
-      "slug": "sepantasaadat__psychology_bot",
-      "href": "/r/sepantasaadat/psychology_bot",
-      "outcome": "ok",
-      "generated_at": "2026-11-10T11:19:21.087Z",
-      "finished_at": "2026-11-10T11:19:28Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806480976",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },

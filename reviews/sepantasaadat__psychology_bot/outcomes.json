@@ -1,11 +1,11 @@
 [
   {
     "session_id": "bc33b0c6-57c3-4b45-897d-6a4a3b990b80",
-    "status": "too_young",
-    "survival": null,
-    "reverted": null,
-    "rework_human": null,
-    "rework_agent": null,
+    "status": "mature",
+    "survival": 0.9406919275123559,
+    "reverted": false,
+    "rework_human": 0,
+    "rework_agent": 0.08500772797527048,
     "unattended": false,
     "tests_at_commit": null,
     "difficulty": 0,
