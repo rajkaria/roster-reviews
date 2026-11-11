@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261111-015",
+  "repo": "synaptiai/agent-capability-standard",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 43009052185,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009052185",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "e9d31f5d8370c9ffc960a370cf5b284cede68f80",
+  "checkpoint_head": "037a1a94edd5ac8696868efffb4d6451d924651a",
+  "started_at": "2026-11-11T11:05:42Z",
+  "finished_at": "2026-11-11T11:06:25Z"
+}

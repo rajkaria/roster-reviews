@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-11T11:06:21.833Z",
+  "generated_at": "2026-11-11T11:06:25.533Z",
   "reviews": [
+    {
+      "repo": "synaptiai/agent-capability-standard",
+      "slug": "synaptiai__agent-capability-standard",
+      "href": "/r/synaptiai/agent-capability-standard",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:47.438Z",
+      "finished_at": "2026-11-11T11:06:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009052185",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "57d952f91681",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 13.8562502,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "93a71e3a6140",
+          "label": "Claude Code · claude-opus-4-6",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "df3bd17486fc",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",
