@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-10T11:30:19.902Z",
+  "generated_at": "2026-11-11T11:05:37.884Z",
   "reviews": [
+    {
+      "repo": "mostafasayed118/Quran-App",
+      "slug": "mostafasayed118__Quran-App",
+      "href": "/r/mostafasayed118/Quran-App",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:30.110Z",
+      "finished_at": "2026-11-11T11:05:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009010182",
+      "label": "no_suspect",
+      "sessions": 30,
+      "mature_sessions": 30,
+      "setups": [
+        {
+          "setup_id": "8a0f11a8db69",
+          "label": "OpenCode 2 · unknown (rules unknown)",
+          "harness": "OpenCode 2",
+          "model": "unknown",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.6123743615093096,
+          "surviving_changes": 4.286620530565167,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c70a19be1c8c",
+          "label": "OpenCode 2 · unknown (rules unknown)",
+          "harness": "OpenCode 2",
+          "model": "unknown",
+          "sessions": 21,
+          "mature_sessions": 21,
+          "spend_usd": null,
+          "survival": 0.13145539906103293,
+          "surviving_changes": 2.760563380281692,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "edd4ee6db0de",
+          "label": "OpenCode 2 · unknown (rules unknown)",
+          "harness": "OpenCode 2",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.6857142857142857,
+          "surviving_changes": 1.3714285714285714,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "orin-dx/caliper",
       "slug": "orin-dx__caliper",
@@ -2360,44 +2410,6 @@
           "spend_usd": 3.896986,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "mostafasayed118/Quran-App",
-      "slug": "mostafasayed118__Quran-App",
-      "href": "/r/mostafasayed118/Quran-App",
-      "outcome": "ok",
-      "generated_at": "2026-11-10T11:19:35.299Z",
-      "finished_at": "2026-11-10T11:19:42Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806515161",
-      "label": "insufficient_data",
-      "sessions": 21,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "8a0f11a8db69",
-          "label": "OpenCode 2 · unknown (rules unknown)",
-          "harness": "OpenCode 2",
-          "model": "unknown",
-          "sessions": 19,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "edd4ee6db0de",
-          "label": "OpenCode 2 · unknown (rules unknown)",
-          "harness": "OpenCode 2",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.6857142857142857,
-          "surviving_changes": 1.3714285714285714,
           "cost_per_surviving_change": null
         }
       ]
