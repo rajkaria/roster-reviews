@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261110-007",
+  "job": "disc-20261111-003",
   "repo": "BbrSofiane/email-os",
   "outcome": "ok",
   "error": null,
-  "run_id": 42806468084,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806468084",
+  "run_id": 43009013764,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009013764",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "5df839de70c34a66e510e8e77e69a8cb70c3eacd",
+  "target_head": "5aa7dea47ce853b71e266af7d525c855f45a611e",
   "checkpoint_head": null,
-  "started_at": "2026-11-10T11:19:08Z",
-  "finished_at": "2026-11-10T11:19:38Z"
+  "started_at": "2026-11-11T11:05:25Z",
+  "finished_at": "2026-11-11T11:05:54Z"
 }
