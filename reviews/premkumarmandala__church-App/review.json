@@ -1,8 +1,8 @@
 {
-  "id": "premkumarmandala__church-App-20261109114100",
+  "id": "premkumarmandala__church-App-20261111110538",
   "repo": "premkumarmandala/church-App",
-  "created_at": "2026-11-09T11:41:00.889Z",
-  "generated_at": "2026-11-09T11:41:00.889Z",
+  "created_at": "2026-11-11T11:05:38.537Z",
+  "generated_at": "2026-11-11T11:05:38.537Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,24 +11,27 @@
       "harness": "Antigravity",
       "model": "unknown",
       "rules_hash": null,
-      "sessions": 8,
-      "mature_sessions": 7,
+      "sessions": 10,
+      "mature_sessions": 8,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.3927507656964379,
-      "reverted": 0.5714285714285714,
-      "rework_human": 0.00027667290356276643,
-      "surviving_changes": 2.7492553598750655,
+      "survival": 0.4401130218154046,
+      "reverted": 0.5,
+      "rework_human": 0.00024208879061742063,
+      "surviving_changes": 3.520904174523237,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
-  "label": "insufficient_data",
+  "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": null,
-  "ci95": null,
-  "p_value": null,
+  "odds_ratio": 1.0597014925373134,
+  "ci95": [
+    0.07983667987481222,
+    14.06580603109594
+  ],
+  "p_value": 1,
   "evidence_level": "A"
 }

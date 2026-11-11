@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T11:05:37.884Z",
+  "generated_at": "2026-11-11T11:05:46.989Z",
   "reviews": [
+    {
+      "repo": "premkumarmandala/church-App",
+      "slug": "premkumarmandala__church-App",
+      "href": "/r/premkumarmandala/church-App",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:38.537Z",
+      "finished_at": "2026-11-11T11:05:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009040496",
+      "label": "no_suspect",
+      "sessions": 10,
+      "mature_sessions": 8,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 10,
+          "mature_sessions": 8,
+          "spend_usd": null,
+          "survival": 0.4401130218154046,
+          "surviving_changes": 3.520904174523237,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mostafasayed118/Quran-App",
       "slug": "mostafasayed118__Quran-App",
@@ -3614,32 +3640,6 @@
           "spend_usd": null,
           "survival": 0.9685598377281948,
           "surviving_changes": 1.9371196754563895,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "premkumarmandala/church-App",
-      "slug": "premkumarmandala__church-App",
-      "href": "/r/premkumarmandala/church-App",
-      "outcome": "ok",
-      "generated_at": "2026-11-09T11:41:00.889Z",
-      "finished_at": "2026-11-09T11:41:45Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610944203",
-      "label": "insufficient_data",
-      "sessions": 8,
-      "mature_sessions": 7,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 8,
-          "mature_sessions": 7,
-          "spend_usd": null,
-          "survival": 0.3927507656964379,
-          "surviving_changes": 2.7492553598750655,
           "cost_per_surviving_change": null
         }
       ]
