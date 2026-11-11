@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T11:06:03.721Z",
+  "generated_at": "2026-11-11T11:06:07.523Z",
   "reviews": [
+    {
+      "repo": "newsdayads/tigeriq-ai-lab",
+      "slug": "newsdayads__tigeriq-ai-lab",
+      "href": "/r/newsdayads/tigeriq-ai-lab",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:06:01.961Z",
+      "finished_at": "2026-11-11T11:06:07Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009075621",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "188a15f2d8d2",
+          "label": "Antigravity · gemini-3.8-flash-medium",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "tuanluu-agilityio/danang-vite",
       "slug": "tuanluu-agilityio__danang-vite",
