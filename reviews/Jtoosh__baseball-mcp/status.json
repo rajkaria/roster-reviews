@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261111-025",
+  "repo": "Jtoosh/baseball-mcp",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 43009081815,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009081815",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "12df48f89ecaf7fa6f858f0e6681c6e7ac999b20",
+  "checkpoint_head": null,
+  "started_at": "2026-11-11T11:06:01Z",
+  "finished_at": "2026-11-11T11:06:32Z"
+}

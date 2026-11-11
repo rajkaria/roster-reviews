@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T11:06:25.533Z",
+  "generated_at": "2026-11-11T11:06:32.642Z",
   "reviews": [
+    {
+      "repo": "Jtoosh/baseball-mcp",
+      "slug": "Jtoosh__baseball-mcp",
+      "href": "/r/Jtoosh/baseball-mcp",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:06:06.454Z",
+      "finished_at": "2026-11-11T11:06:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009081815",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "d2f6b23f46b5",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "synaptiai/agent-capability-standard",
       "slug": "synaptiai__agent-capability-standard",
