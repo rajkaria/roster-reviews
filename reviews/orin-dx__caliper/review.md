@@ -1,7 +1,7 @@
 # Review: orin-dx/caliper
 
-- Review id: `orin-dx__caliper-20261110111919`
-- Created: 2026-11-10T11:19:19.151Z
+- Review id: `orin-dx__caliper-20261111110534`
+- Created: 2026-11-11T11:05:34.133Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -19,7 +19,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `c3b4d0cf13d2` | Claude Code · claude-sonnet-5 (rules ca5bbf) | 2 | 1 | unknown (0/2 priced) | 2.5% | 0.0% | 0.6% | 50.0% | — | A |
 | `c70cc9e34e1f` | Claude Code · claude-sonnet-5 (rules 978aa0) | 1 | 1 | unknown (0/1 priced) | 6.6% | 0.0% | 0.0% | 0.0% | — | A |
 | `cb8e85ad0a05` | Claude Code · claude-sonnet-4-6 | 1 | 1 | unknown (0/1 priced) | 47.8% | 0.0% | 3.4% | 0.0% | — | A |
-| `f8a6521f18c1` | Claude Code · claude-sonnet-5-5 (rules 19c636) | 4 | 3 | $106.93 | 93.9% | 0.0% | 0.6% | 0.0% | $32.85 | A |
+| `f8a6521f18c1` | Claude Code · claude-sonnet-5-5 (rules 19c636) | 4 | 3 | $114.21 | 93.9% | 0.0% | 0.6% | 0.0% | $35.43 | A |
 
 ## Notes
 
