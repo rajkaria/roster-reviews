@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-11T11:06:43.504Z",
+  "generated_at": "2026-11-11T11:06:46.549Z",
   "reviews": [
+    {
+      "repo": "AlbusKavaliro/AutoApprover",
+      "slug": "AlbusKavaliro__AutoApprover",
+      "href": "/r/AlbusKavaliro/AutoApprover",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:06:06.045Z",
+      "finished_at": "2026-11-11T11:06:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009078499",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "9b49e45db4e4",
+          "label": "OpenCode · nemotron-3.5-super-vl-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "nemotron-3.5-super-vl-free",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "dd3e8e1b39cc",
+          "label": "OpenCode · nemotron-3.5-super-vl-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "nemotron-3.5-super-vl-free",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.12,
+          "surviving_changes": 0.24,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "indkhan/Moneo",
       "slug": "indkhan__Moneo",
