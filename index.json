@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T11:05:54.323Z",
+  "generated_at": "2026-11-11T11:05:56.985Z",
   "reviews": [
+    {
+      "repo": "bmwinstead/sailing",
+      "slug": "bmwinstead__sailing",
+      "href": "/r/bmwinstead/sailing",
+      "outcome": "ok",
+      "generated_at": "2026-11-11T11:05:53.471Z",
+      "finished_at": "2026-11-11T11:05:56Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009063394",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "3685f2a901d4",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 5,
+          "mature_sessions": 2,
+          "spend_usd": 4.9950092,
+          "survival": 0.9424460431654677,
+          "surviving_changes": 1.8848920863309353,
+          "cost_per_surviving_change": 0.5424809236641221
+        }
+      ]
+    },
     {
       "repo": "BbrSofiane/email-os",
       "slug": "BbrSofiane__email-os",
@@ -6275,32 +6301,6 @@
           "spend_usd": null,
           "survival": 0.8421052631578947,
           "surviving_changes": 0.8421052631578947,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "bmwinstead/sailing",
-      "slug": "bmwinstead__sailing",
-      "href": "/r/bmwinstead/sailing",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:19:02.624Z",
-      "finished_at": "2026-11-07T10:19:04Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363420542",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "3685f2a901d4",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 3.9724911999999994,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]

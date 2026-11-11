@@ -1,7 +1,7 @@
 # Review: bmwinstead/sailing
 
-- Review id: `bmwinstead__sailing-20261107101902`
-- Created: 2026-11-07T10:19:02.624Z
+- Review id: `bmwinstead__sailing-20261111110553`
+- Created: 2026-11-11T11:05:53.471Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `3685f2a901d4` | Claude Code · claude-sonnet-5-5 | 3 | 0 | $3.97 | too young | too young | too young | 0.0% | — | A |
+| `3685f2a901d4` | Claude Code · claude-sonnet-5-5 | 5 | 2 | $5.00 | 94.2% | 0.0% | 0.0% | 0.0% | $0.54 | A |
 
 ## Notes
 

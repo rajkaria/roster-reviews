@@ -1,8 +1,8 @@
 {
-  "id": "bmwinstead__sailing-20261107101902",
+  "id": "bmwinstead__sailing-20261111110553",
   "repo": "bmwinstead/sailing",
-  "created_at": "2026-11-07T10:19:02.624Z",
-  "generated_at": "2026-11-07T10:19:02.624Z",
+  "created_at": "2026-11-11T11:05:53.471Z",
+  "generated_at": "2026-11-11T11:05:53.471Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,17 +11,17 @@
       "harness": "Claude Code",
       "model": "claude-sonnet-5-5",
       "rules_hash": "7650d4cbc2796671a860bffeb5aba1deea2091e593fd6147b9abddeb5634ad19",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "spend_usd": 3.9724911999999994,
-      "priced_sessions": 3,
+      "sessions": 5,
+      "mature_sessions": 2,
+      "spend_usd": 4.9950092,
+      "priced_sessions": 5,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
-      "cost_per_surviving_change": null,
+      "survival": 0.9424460431654677,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 1.8848920863309353,
+      "cost_per_surviving_change": 0.5424809236641221,
       "evidence_level": "A"
     }
   ],
