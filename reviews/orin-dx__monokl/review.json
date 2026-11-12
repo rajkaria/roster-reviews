@@ -1,8 +1,8 @@
 {
-  "id": "orin-dx__monokl-20261111110532",
+  "id": "orin-dx__monokl-20261112112337",
   "repo": "orin-dx/monokl",
-  "created_at": "2026-11-11T11:05:32.981Z",
-  "generated_at": "2026-11-11T11:05:32.981Z",
+  "created_at": "2026-11-12T11:23:37.131Z",
+  "generated_at": "2026-11-12T11:23:37.131Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -32,7 +32,7 @@
       "rules_hash": "85d28755ca88f142d95c0c2e1d01affc33bc1460cec12a5685acd194f577f811",
       "sessions": 1,
       "mature_sessions": 1,
-      "spend_usd": 250.4119308,
+      "spend_usd": 292.28670120000004,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
@@ -40,7 +40,7 @@
       "reverted": 0,
       "rework_human": 0,
       "surviving_changes": 1,
-      "cost_per_surviving_change": 250.4119308,
+      "cost_per_surviving_change": 292.28670120000004,
       "evidence_level": "A"
     }
   ],
