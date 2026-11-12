@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-12T11:23:54.629Z",
+  "generated_at": "2026-11-12T11:23:55.999Z",
   "reviews": [
+    {
+      "repo": "jh1909/vidaaOS-moonlight",
+      "slug": "jh1909__vidaaOS-moonlight",
+      "href": "/r/jh1909/vidaaOS-moonlight",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:54.879Z",
+      "finished_at": "2026-11-12T11:23:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208786821",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "a261422ab2f0",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "dtmkeng/try-entire",
       "slug": "dtmkeng__try-entire",
