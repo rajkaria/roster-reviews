@@ -1,8 +1,8 @@
 {
-  "id": "gkeyllorg__postgkyl-20261104110316",
+  "id": "gkeyllorg__postgkyl-20261112112403",
   "repo": "gkeyllorg/postgkyl",
-  "created_at": "2026-11-04T11:03:16.813Z",
-  "generated_at": "2026-11-04T11:03:16.813Z",
+  "created_at": "2026-11-12T11:24:03.486Z",
+  "generated_at": "2026-11-12T11:24:03.486Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -30,17 +30,17 @@
       "harness": "Codex",
       "model": "gpt-6-astra",
       "rules_hash": null,
-      "sessions": 61,
+      "sessions": 63,
       "mature_sessions": 61,
-      "spend_usd": 258.91350600000004,
-      "priced_sessions": 61,
+      "spend_usd": 264.873848,
+      "priced_sessions": 63,
       "spend_lower_bound": false,
-      "unattended": 0.5081967213114754,
-      "survival": 0.8351476976555052,
+      "unattended": 0.5079365079365079,
+      "survival": 0.8343354174497712,
       "reverted": 0.04918032786885246,
       "rework_human": 0.06071596464944648,
-      "surviving_changes": 50.94400955698582,
-      "cost_per_surviving_change": 5.082315040601195,
+      "surviving_changes": 50.894460464436044,
+      "cost_per_surviving_change": 5.087263007354665,
       "evidence_level": "A"
     },
     {
@@ -131,11 +131,11 @@
       "priced_sessions": 11,
       "spend_lower_bound": false,
       "unattended": 0.2727272727272727,
-      "survival": 0.8045109057680686,
+      "survival": 0.7971931461283273,
       "reverted": 0,
       "rework_human": 0.047209584801366895,
-      "surviving_changes": 8.849619963448754,
-      "cost_per_surviving_change": 4.307163715214008,
+      "surviving_changes": 8.7691246074116,
+      "cost_per_surviving_change": 4.346700920156156,
       "evidence_level": "A"
     },
     {
@@ -179,10 +179,10 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 1.9742105263157896,
+  "odds_ratio": 1.7495491885393708,
   "ci95": [
-    0.20833929971234727,
-    18.70749881370116
+    0.1612779016387725,
+    18.979180234962215
   ],
   "p_value": 1,
   "evidence_level": "A"
