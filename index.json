@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-12T11:24:00.240Z",
+  "generated_at": "2026-11-12T11:24:03.233Z",
   "reviews": [
+    {
+      "repo": "acramatte/zaimu-tomo",
+      "slug": "acramatte__zaimu-tomo",
+      "href": "/r/acramatte/zaimu-tomo",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:57.001Z",
+      "finished_at": "2026-11-12T11:24:03Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208790060",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "66d0a5b0f1df",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 11.517786400000002,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 11.517786400000002
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
@@ -3749,32 +3775,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "acramatte/zaimu-tomo",
-      "slug": "acramatte__zaimu-tomo",
-      "href": "/r/acramatte/zaimu-tomo",
-      "outcome": "ok",
-      "generated_at": "2026-11-11T11:05:48.826Z",
-      "finished_at": "2026-11-11T11:05:51Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009058226",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "66d0a5b0f1df",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 11.517786400000002,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
