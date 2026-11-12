@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-12T11:23:55.999Z",
+  "generated_at": "2026-11-12T11:23:58.208Z",
   "reviews": [
+    {
+      "repo": "Zhav1/peta-nadi",
+      "slug": "Zhav1__peta-nadi",
+      "href": "/r/Zhav1/peta-nadi",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:52.416Z",
+      "finished_at": "2026-11-12T11:23:58Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208777111",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "619b2a645711",
+          "label": "Antigravity · gemini-3.8-flash-tiered",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-tiered",
+          "sessions": 5,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.9454545454545454,
+          "surviving_changes": 3.7818181818181817,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "aa1283e79fe5",
+          "label": "Antigravity · claude-sonnet-5-5-medium",
+          "harness": "Antigravity",
+          "model": "claude-sonnet-5-5-medium",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9454545454545454,
+          "surviving_changes": 0.9454545454545454,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jh1909/vidaaOS-moonlight",
       "slug": "jh1909__vidaaOS-moonlight",
