@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-12T11:24:11.627Z",
+  "generated_at": "2026-11-12T11:24:13.848Z",
   "reviews": [
+    {
+      "repo": "awun8191/vigil",
+      "slug": "awun8191__vigil",
+      "href": "/r/awun8191/vigil",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:47.463Z",
+      "finished_at": "2026-11-12T11:24:13Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208764507",
+      "label": "insufficient_data",
+      "sessions": 66,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "2bd5468f0da2",
+          "label": "Antigravity · gemini-4-argon-medium",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon-medium",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9639206253758268,
+          "surviving_changes": 0.9639206253758268,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "50f535c0aba8",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 8,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "619b2a645711",
+          "label": "Antigravity · gemini-3.8-flash-tiered",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-tiered",
+          "sessions": 57,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
