@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-12T11:24:03.233Z",
+  "generated_at": "2026-11-12T11:24:04.655Z",
   "reviews": [
+    {
+      "repo": "buddhamagnet/dotclaude",
+      "slug": "buddhamagnet__dotclaude",
+      "href": "/r/buddhamagnet/dotclaude",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:24:01.175Z",
+      "finished_at": "2026-11-12T11:24:04Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208792670",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "53c9bd725cb8",
+          "label": "Claude Code · claude-sonnet-4-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.0007940196761949028,
+          "surviving_changes": 0.0015880393523898056,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9b6a22c20348",
+          "label": "Claude Code · claude-sonnet-4-5-20250929 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-5-20250929",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c2f38dff9dc3",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.5184179,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "cde52853f692",
+          "label": "Claude Code · claude-sonnet-4-5-20250929 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-5-20250929",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f2621d160346",
+          "label": "Claude Code · claude-sonnet-4-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9887640449438202,
+          "surviving_changes": 1.9775280898876404,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "acramatte/zaimu-tomo",
       "slug": "acramatte__zaimu-tomo",
