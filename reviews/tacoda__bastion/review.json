@@ -1,8 +1,8 @@
 {
-  "id": "tacoda__bastion-20261111110528",
+  "id": "tacoda__bastion-20261112112334",
   "repo": "tacoda/bastion",
-  "created_at": "2026-11-11T11:05:28.465Z",
-  "generated_at": "2026-11-11T11:05:28.465Z",
+  "created_at": "2026-11-12T11:23:34.216Z",
+  "generated_at": "2026-11-12T11:23:34.216Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -13,15 +13,15 @@
       "rules_hash": "2a2f29ac623f3da56c022d3fa8f7a49ffba7750beb9cbb8ca737a0fe8d383e8f",
       "sessions": 2,
       "mature_sessions": 2,
-      "spend_usd": 68.11877559999999,
+      "spend_usd": 40.8845566,
       "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.881491344873502,
+      "survival": 0.5252996005326231,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 1.762982689747004,
-      "cost_per_surviving_change": 38.63836893927492,
+      "surviving_changes": 1.0505992010652463,
+      "cost_per_surviving_change": 38.91546515411914,
       "evidence_level": "A"
     },
     {
@@ -36,11 +36,11 @@
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.503656105388459,
+      "survival": 0.2522730808612561,
       "reverted": 0.3333333333333333,
       "rework_human": 0,
-      "surviving_changes": 1.5109683161653769,
-      "cost_per_surviving_change": 2.598508888633947,
+      "surviving_changes": 0.7568192425837683,
+      "cost_per_surviving_change": 5.187849857775547,
       "evidence_level": "A"
     }
   ],

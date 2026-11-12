@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-12T11:25:25.155Z",
+  "generated_at": "2026-11-12T11:25:53.714Z",
   "reviews": [
+    {
+      "repo": "tacoda/bastion",
+      "slug": "tacoda__bastion",
+      "href": "/r/tacoda/bastion",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:34.216Z",
+      "finished_at": "2026-11-12T11:25:53Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208726486",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "6b2ae178f85f",
+          "label": "Claude Code · claude-opus-5-5 (rules 2a2f29)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 40.8845566,
+          "survival": 0.5252996005326231,
+          "surviving_changes": 1.0505992010652463,
+          "cost_per_surviving_change": 38.91546515411914
+        },
+        {
+          "setup_id": "cfc486fe85ce",
+          "label": "Claude Code · claude-opus-5-5 (rules 17f201)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 3.9262646,
+          "survival": 0.2522730808612561,
+          "surviving_changes": 0.7568192425837683,
+          "cost_per_surviving_change": 5.187849857775547
+        }
+      ]
+    },
     {
       "repo": "OctopusGarage/mesh-talk",
       "slug": "OctopusGarage__mesh-talk",
@@ -3489,44 +3527,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "tacoda/bastion",
-      "slug": "tacoda__bastion",
-      "href": "/r/tacoda/bastion",
-      "outcome": "ok",
-      "generated_at": "2026-11-11T11:05:28.465Z",
-      "finished_at": "2026-11-11T11:07:09Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009006774",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 5,
-      "setups": [
-        {
-          "setup_id": "6b2ae178f85f",
-          "label": "Claude Code · claude-opus-5-5 (rules 2a2f29)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": 68.11877559999999,
-          "survival": 0.881491344873502,
-          "surviving_changes": 1.762982689747004,
-          "cost_per_surviving_change": 38.63836893927492
-        },
-        {
-          "setup_id": "cfc486fe85ce",
-          "label": "Claude Code · claude-opus-5-5 (rules 17f201)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": 3.9262646,
-          "survival": 0.503656105388459,
-          "surviving_changes": 1.5109683161653769,
-          "cost_per_surviving_change": 2.598508888633947
         }
       ]
     },
