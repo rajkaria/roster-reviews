@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-12T11:23:46.696Z",
+  "generated_at": "2026-11-12T11:23:49.780Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/psychology_bot",
+      "slug": "sepantasaadat__psychology_bot",
+      "href": "/r/sepantasaadat/psychology_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:42.582Z",
+      "finished_at": "2026-11-12T11:23:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208754395",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9373970345963756,
+          "surviving_changes": 0.9373970345963756,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "DarthMDev/pmd-sky-recomp",
       "slug": "DarthMDev__pmd-sky-recomp",
@@ -3061,32 +3087,6 @@
           "spend_usd": null,
           "survival": 0.9339622641509434,
           "surviving_changes": 0.9339622641509434,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "sepantasaadat/psychology_bot",
-      "slug": "sepantasaadat__psychology_bot",
-      "href": "/r/sepantasaadat/psychology_bot",
-      "outcome": "ok",
-      "generated_at": "2026-11-11T11:05:46.300Z",
-      "finished_at": "2026-11-11T11:05:59Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009055103",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9406919275123559,
-          "surviving_changes": 0.9406919275123559,
           "cost_per_surviving_change": null
         }
       ]

@@ -1,7 +1,7 @@
 # Review: sepantasaadat/psychology_bot
 
-- Review id: `sepantasaadat__psychology_bot-20261111110546`
-- Created: 2026-11-11T11:05:46.300Z
+- Review id: `sepantasaadat__psychology_bot-20261112112342`
+- Created: 2026-11-12T11:23:42.582Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `66e99877fde1` | Antigravity · unknown | 1 | 1 | unknown (0/1 priced) | 94.1% | 0.0% | 0.0% | 0.0% | — | A |
+| `66e99877fde1` | Antigravity · unknown | 1 | 1 | unknown (0/1 priced) | 93.7% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes
 
