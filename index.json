@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-12T11:23:51.664Z",
+  "generated_at": "2026-11-12T11:23:54.629Z",
   "reviews": [
+    {
+      "repo": "dtmkeng/try-entire",
+      "slug": "dtmkeng__try-entire",
+      "href": "/r/dtmkeng/try-entire",
+      "outcome": "ok",
+      "generated_at": "2026-11-12T11:23:48.732Z",
+      "finished_at": "2026-11-12T11:23:54Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208770377",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "5e0abe6ccb56",
+          "label": "Antigravity · gemini-4-argon-high",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "heath0xFF/sidelit",
       "slug": "heath0xFF__sidelit",

@@ -1,0 +1,14 @@
+[
+  {
+    "session_id": "14176c05-6371-4c85-a5d1-94844acd1e54",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0,
+    "tercile": 1
+  }
+]
