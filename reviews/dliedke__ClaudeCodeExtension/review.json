@@ -1,8 +1,8 @@
 {
-  "id": "dliedke__ClaudeCodeExtension-20261110111938",
+  "id": "dliedke__ClaudeCodeExtension-20261113110704",
   "repo": "dliedke/ClaudeCodeExtension",
-  "created_at": "2026-11-10T11:19:38.670Z",
-  "generated_at": "2026-11-10T11:19:38.670Z",
+  "created_at": "2026-11-13T11:07:04.046Z",
+  "generated_at": "2026-11-13T11:07:04.046Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,11 +17,11 @@
       "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0.5,
-      "survival": 0.888617677286742,
+      "survival": 0.888103802672148,
       "reverted": 0,
       "rework_human": 0.00862851952770209,
-      "surviving_changes": 1.777235354573484,
-      "cost_per_surviving_change": 2.552699386901836,
+      "surviving_changes": 1.776207605344296,
+      "cost_per_surviving_change": 2.55417642979893,
       "evidence_level": "A"
     },
     {
@@ -49,12 +49,12 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "310cf4bb24984860a760d93461604f69e550a0479b8aa13e815820ea13cab5b0",
-      "sessions": 1,
+      "sessions": 2,
       "mature_sessions": 0,
-      "spend_usd": 0.48659240000000004,
-      "priced_sessions": 1,
+      "spend_usd": 5.226886,
+      "priced_sessions": 2,
       "spend_lower_bound": false,
-      "unattended": 1,
+      "unattended": 0.5,
       "survival": null,
       "reverted": null,
       "rework_human": null,
@@ -88,26 +88,26 @@
       "model": "claude-opus-5-5",
       "rules_hash": "b8008cea4c6e3b939d306ad147e8af03b7351c73d0521f58733bb6e19b47027c",
       "sessions": 11,
-      "mature_sessions": 10,
+      "mature_sessions": 11,
       "spend_usd": 14.073036399999998,
       "priced_sessions": 11,
       "spend_lower_bound": false,
       "unattended": 0.5454545454545454,
-      "survival": 0.6538261471930202,
-      "reverted": 0.5,
-      "rework_human": 0.01,
-      "surviving_changes": 6.538261471930203,
-      "cost_per_surviving_change": 2.0874765958190937,
+      "survival": 0.6852964974482002,
+      "reverted": 0.45454545454545453,
+      "rework_human": 0.009090909090909092,
+      "surviving_changes": 7.538261471930203,
+      "cost_per_surviving_change": 1.866880905153392,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 2.8636363636363633,
+  "odds_ratio": 2.557894736842105,
   "ci95": [
-    0.3363345928130782,
-    24.38171213538527
+    0.3059822865297414,
+    21.38302043222551
   ],
-  "p_value": 0.4442167119374003,
+  "p_value": 0.4730280577916215,
   "evidence_level": "A"
 }
