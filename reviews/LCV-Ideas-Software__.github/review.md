@@ -1,7 +1,7 @@
 # Review: LCV-Ideas-Software/.github
 
-- Review id: `LCV-Ideas-Software__.github-20261106110020`
-- Created: 2026-11-06T11:00:20.276Z
+- Review id: `LCV-Ideas-Software__.github-20261113110703`
+- Created: 2026-11-13T11:07:03.145Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -15,7 +15,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `8dd34d2d4bd6` | Claude Code · claude-opus-5-5 | 1 | 0 | $16.61 | too young | too young | too young | 0.0% | — | A |
 | `9383dc723dd6` | Claude Code · claude-mythos-5-1 | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `9690645e9c28` | Codex · gpt-6.1-sol | 1 | 1 | unknown (0/1 priced) | 53.8% | 100.0% | 7.1% | 0.0% | — | A |
+| `9690645e9c28` | Codex · gpt-6.1-sol | 1 | 1 | unknown (0/1 priced) | 38.5% | 100.0% | 7.1% | 0.0% | — | A |
 
 ## Notes
 

@@ -50,10 +50,10 @@
   {
     "session_id": "01a1a459-6e84-74c0-bc34-ec2fc7d7530c",
     "status": "mature",
-    "survival": 0.5384615384615384,
+    "survival": 0.38461538461538464,
     "reverted": true,
     "rework_human": 0.07142857142857142,
-    "rework_agent": 0.5,
+    "rework_agent": 0.6428571428571429,
     "unattended": false,
     "tests_at_commit": null,
     "difficulty": 0.5761203540330875,
