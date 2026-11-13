@@ -1,7 +1,7 @@
 # Review: babamba2/superclaude-for-sap
 
-- Review id: `babamba2__superclaude-for-sap-20261112112337`
-- Created: 2026-11-12T11:23:37.093Z
+- Review id: `babamba2__superclaude-for-sap-20261113110705`
+- Created: 2026-11-13T11:07:05.530Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -26,6 +26,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `575f72e67eeb` | Claude Code · claude-opus-5-5 (rules unknown) | 1 | 1 | $0.70 | 100.0% | 0.0% | 0.0% | 100.0% | $0.70 | A |
 | `713ed3781fc7` | Claude Code · claude-opus-4-7 (rules unknown) | 6 | 5 | unknown (0/6 priced) | 69.7% | 0.0% | 0.1% | 66.7% | — | A |
 | `8495ae0a71ee` | Claude Code · claude-opus-5-5 (rules 6ccb7e) | 1 | 1 | $44.22 | 99.1% | 0.0% | 0.0% | 100.0% | $44.62 | A |
+| `8953ffd51a6a` | Claude Code · claude-opus-5-5 (rules 5848dd) | 1 | 0 | $2.68 | too young | too young | too young | 100.0% | — | A |
 | `8c3e2dca1abe` | Claude Code · claude-opus-5-5 (rules abe441) | 1 | 1 | $83.00 | 37.5% | 0.0% | 0.0% | 100.0% | $221.33 | A |
 | `967ea54bfa4c` | Claude Code · claude-opus-5-5 (rules 85b57f) | 3 | 3 | $12.14 | 98.9% | 0.0% | 0.0% | 100.0% | $4.09 | A |
 | `a374448a951f` | Claude Code · claude-opus-5-5 (rules c0935b) | 2 | 2 | $34.30 | 97.5% | 0.0% | 0.0% | 100.0% | $17.59 | A |
@@ -39,11 +40,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `dd8dca5d364d` | Claude Code · claude-opus-5-5 (rules 416805) | 4 | 4 | $43.25 | 91.3% | 0.0% | 0.0% | 100.0% | $11.85 | A |
 | `e5535dfeb239` | Claude Code · claude-opus-5-5 (rules a95455) | 1 | 1 | $5.16 | 37.5% | 0.0% | 0.0% | 100.0% | $13.77 | A |
 | `ee0d50be9e48` | Claude Code · claude-opus-5-5 (rules e8e94e) | 1 | 1 | $36.21 | 97.9% | 0.0% | 0.0% | 100.0% | $36.98 | A |
-| `f33ef3af0ef2` | Claude Code · claude-opus-5-5 (rules 5b61da) | 2 | 1 | $7.23 | 86.5% | 0.0% | 0.0% | 100.0% | $1.96 | A |
+| `f33ef3af0ef2` | Claude Code · claude-opus-5-5 (rules 5b61da) | 3 | 1 | $12.43 | 86.5% | 0.0% | 0.0% | 100.0% | $1.96 | A |
 
 ## Notes
 
-- 6 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 8 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 16 sessions have no price (unknown model, or a price that depends on prompt size)
 - 4 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
