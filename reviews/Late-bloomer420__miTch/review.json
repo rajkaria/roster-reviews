@@ -1,0 +1,34 @@
+{
+  "id": "Late-bloomer420__miTch-20261113110709",
+  "repo": "Late-bloomer420/miTch",
+  "created_at": "2026-11-13T11:07:09.087Z",
+  "generated_at": "2026-11-13T11:07:09.087Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "47624bf8e184",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "74035be0ea3c958aa88ce587ead1026a55864679582f3921071eecd5db5ec6f0",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "spend_usd": 58.22687000000001,
+      "priced_sessions": 4,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
