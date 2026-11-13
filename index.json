@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-12T11:29:29.699Z",
+  "generated_at": "2026-11-13T11:06:55.098Z",
   "reviews": [
+    {
+      "repo": "AsheeshSrivastava/aethelgard-academy",
+      "slug": "AsheeshSrivastava__aethelgard-academy",
+      "href": "/r/AsheeshSrivastava/aethelgard-academy",
+      "outcome": "ok",
+      "generated_at": "2026-11-13T11:06:52.031Z",
+      "finished_at": "2026-11-13T11:06:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43414384108",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "d2f698b131e8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 7.8936651000000015,
+          "survival": 0.9878048780487805,
+          "surviving_changes": 0.9878048780487805,
+          "cost_per_surviving_change": 7.991117755555557
+        }
+      ]
+    },
     {
       "repo": "orin-dx/monokl",
       "slug": "orin-dx__monokl",
