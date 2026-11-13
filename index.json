@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-13T11:07:15.080Z",
+  "generated_at": "2026-11-13T11:07:17.125Z",
   "reviews": [
+    {
+      "repo": "newsdayads/tigeriq-ai-lab",
+      "slug": "newsdayads__tigeriq-ai-lab",
+      "href": "/r/newsdayads/tigeriq-ai-lab",
+      "outcome": "ok",
+      "generated_at": "2026-11-13T11:06:55.942Z",
+      "finished_at": "2026-11-13T11:07:17Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43414400848",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "100a0aafe8b8",
+          "label": "Codex · gpt-5.6-luna",
+          "harness": "Codex",
+          "model": "gpt-5.6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9913144180660104,
+          "surviving_changes": 0.9913144180660104,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "188a15f2d8d2",
+          "label": "Antigravity · gemini-3.8-flash-medium",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-medium",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.4956572090330052,
+          "surviving_changes": 0.9913144180660104,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6ffc187c8796",
+          "label": "Antigravity · gemini-3.8-flash-tiered",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-tiered",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9913144180660104,
+          "surviving_changes": 0.9913144180660104,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "hslee16/Archy",
       "slug": "hslee16__Archy",
@@ -4417,32 +4467,6 @@
           "sessions": 2,
           "mature_sessions": 0,
           "spend_usd": 1.1008294,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "newsdayads/tigeriq-ai-lab",
-      "slug": "newsdayads__tigeriq-ai-lab",
-      "href": "/r/newsdayads/tigeriq-ai-lab",
-      "outcome": "ok",
-      "generated_at": "2026-11-11T11:06:01.961Z",
-      "finished_at": "2026-11-11T11:06:07Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43009075621",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "188a15f2d8d2",
-          "label": "Antigravity · gemini-3.8-flash-medium",
-          "harness": "Antigravity",
-          "model": "gemini-3.8-flash-medium",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
