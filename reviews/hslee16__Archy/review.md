@@ -1,7 +1,7 @@
 # Review: hslee16/Archy
 
-- Review id: `hslee16__Archy-20261112112347`
-- Created: 2026-11-12T11:23:47.509Z
+- Review id: `hslee16__Archy-20261113110650`
+- Created: 2026-11-13T11:06:50.059Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -17,7 +17,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `1956db7cb532` | Claude Code · claude-sonnet-5-5 (rules 2eb597) | 2 | 0 | $4.14 | too young | too young | too young | 50.0% | — | A |
 | `1e2ec648781c` | Claude Code · claude-sonnet-5-5 (rules dc55f7) | 2 | 0 | $1.25 | too young | too young | too young | 0.0% | — | A |
 | `2566075cb9c5` | Claude Code · claude-opus-5-5 (rules 9852cd) | 1 | 0 | $12.17 | too young | too young | too young | 0.0% | — | A |
-| `3c2bdc241897` | Claude Code · claude-sonnet-5-5 (rules bd1ede) | 3 | 0 | $56.20 | too young | too young | too young | 33.3% | — | A |
+| `3c2bdc241897` | Claude Code · claude-sonnet-5-5 (rules bd1ede) | 4 | 1 | $71.94 | 0.0% | 0.0% | 0.0% | 25.0% | — | A |
 | `521650daa61e` | Claude Code · claude-sonnet-5-5 (rules a3fd13) | 2 | 0 | $3.08 | too young | too young | too young | 50.0% | — | A |
 | `777391836d2f` | Claude Code · claude-sonnet-5-5 (rules b2b856) | 1 | 0 | $0.14 | too young | too young | too young | 100.0% | — | A |
 | `86f2b06d300f` | Claude Code · claude-sonnet-5-5 (rules ea6dcf) | 5 | 0 | $23.91 | too young | too young | too young | 0.0% | — | A |
