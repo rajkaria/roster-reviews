@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T10:33:36.794Z",
+  "generated_at": "2026-11-14T10:33:41.412Z",
   "reviews": [
+    {
+      "repo": "mustafadev123/TriageX",
+      "slug": "mustafadev123__TriageX",
+      "href": "/r/mustafadev123/TriageX",
+      "outcome": "ok",
+      "generated_at": "2026-11-14T10:33:36.923Z",
+      "finished_at": "2026-11-14T10:33:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585847502",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "8718acc46b7d",
+          "label": "Claude Code · claude-fable-5-2",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-2",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Blaise1030/cms",
       "slug": "Blaise1030__cms",
