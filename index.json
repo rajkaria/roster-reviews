@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T10:33:48.394Z",
+  "generated_at": "2026-11-14T10:33:52.310Z",
   "reviews": [
+    {
+      "repo": "AbisoyeOnanuga/price-wire",
+      "slug": "AbisoyeOnanuga__price-wire",
+      "href": "/r/AbisoyeOnanuga/price-wire",
+      "outcome": "ok",
+      "generated_at": "2026-11-14T10:33:45.829Z",
+      "finished_at": "2026-11-14T10:33:52Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585849184",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "75e5dcfa8dc2",
+          "label": "Cursor · composer-2.5",
+          "harness": "Cursor",
+          "model": "composer-2.5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9384615384615385,
+          "surviving_changes": 0.9384615384615385,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "william-coronado/syncd",
       "slug": "william-coronado__syncd",
@@ -6169,32 +6195,6 @@
           "spend_usd": null,
           "survival": 0.9947698744769874,
           "surviving_changes": 0.9947698744769874,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "AbisoyeOnanuga/price-wire",
-      "slug": "AbisoyeOnanuga__price-wire",
-      "href": "/r/AbisoyeOnanuga/price-wire",
-      "outcome": "ok",
-      "generated_at": "2026-11-09T11:41:01.185Z",
-      "finished_at": "2026-11-09T11:41:02Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610946934",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "75e5dcfa8dc2",
-          "label": "Cursor · composer-2.5",
-          "harness": "Cursor",
-          "model": "composer-2.5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9384615384615385,
-          "surviving_changes": 0.9384615384615385,
           "cost_per_surviving_change": null
         }
       ]
