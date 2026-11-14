@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-14T10:34:05.130Z",
+  "generated_at": "2026-11-14T10:34:15.859Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-14T10:33:46.868Z",
+      "finished_at": "2026-11-14T10:34:15Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585858616",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -4125,19 +4138,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-12T11:23:42.353Z",
-      "finished_at": "2026-11-12T11:24:16Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208751018",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "awun8191/vigil",
