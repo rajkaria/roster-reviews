@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-14T10:33:52.310Z",
+  "generated_at": "2026-11-14T10:33:54.717Z",
   "reviews": [
+    {
+      "repo": "rwitesh/openlog",
+      "slug": "rwitesh__openlog",
+      "href": "/r/rwitesh/openlog",
+      "outcome": "ok",
+      "generated_at": "2026-11-14T10:33:39.702Z",
+      "finished_at": "2026-11-14T10:33:54Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585852327",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "2355281d0421",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 13.5075564,
+          "survival": 0.6730836849507735,
+          "surviving_changes": 2.0192510548523206,
+          "cost_per_surviving_change": 6.689389299830221
+        },
+        {
+          "setup_id": "36778026d732",
+          "label": "Pi · kimi-k3",
+          "harness": "Pi",
+          "model": "kimi-k3",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9310344827586207,
+          "surviving_changes": 0.9310344827586207,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "AbisoyeOnanuga/price-wire",
       "slug": "AbisoyeOnanuga__price-wire",
@@ -2155,44 +2193,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "rwitesh/openlog",
-      "slug": "rwitesh__openlog",
-      "href": "/r/rwitesh/openlog",
-      "outcome": "ok",
-      "generated_at": "2026-11-13T11:06:55.444Z",
-      "finished_at": "2026-11-13T11:06:59Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43414389485",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "2355281d0421",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": 14.247495200000001,
-          "survival": 0.6939170182841069,
-          "surviving_changes": 2.0817510548523206,
-          "cost_per_surviving_change": 6.843995667392957
-        },
-        {
-          "setup_id": "36778026d732",
-          "label": "Pi · kimi-k3",
-          "harness": "Pi",
-          "model": "kimi-k3",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
