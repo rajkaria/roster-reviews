@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-14T10:33:41.412Z",
+  "generated_at": "2026-11-14T10:33:43.284Z",
   "reviews": [
+    {
+      "repo": "catalyteaflare/project1_submission1",
+      "slug": "catalyteaflare__project1_submission1",
+      "href": "/r/catalyteaflare/project1_submission1",
+      "outcome": "ok",
+      "generated_at": "2026-11-14T10:33:35.606Z",
+      "finished_at": "2026-11-14T10:33:43Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585846123",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mustafadev123/TriageX",
       "slug": "mustafadev123__TriageX",
