@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T10:33:46.893Z",
+  "generated_at": "2026-11-14T10:33:48.394Z",
   "reviews": [
+    {
+      "repo": "william-coronado/syncd",
+      "slug": "william-coronado__syncd",
+      "href": "/r/william-coronado/syncd",
+      "outcome": "ok",
+      "generated_at": "2026-11-14T10:33:42.369Z",
+      "finished_at": "2026-11-14T10:33:48Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585855533",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.0431039999999996,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "LCV-Ideas-Software/.github",
       "slug": "LCV-Ideas-Software__.github",
