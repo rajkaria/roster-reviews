@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-15T11:02:00.184Z",
+  "generated_at": "2026-11-15T11:02:01.747Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:33.695Z",
+      "finished_at": "2026-11-15T11:02:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706877569",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "sandbox-kit/kit",
       "slug": "sandbox-kit__kit",
@@ -1766,19 +1779,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-14T10:33:46.868Z",
-      "finished_at": "2026-11-14T10:34:15Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585858616",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "lcv-leo/lcv-leo",
