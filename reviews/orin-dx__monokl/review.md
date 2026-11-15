@@ -1,7 +1,7 @@
 # Review: orin-dx/monokl
 
-- Review id: `orin-dx__monokl-20261112112337`
-- Created: 2026-11-12T11:23:37.131Z
+- Review id: `orin-dx__monokl-20261115110132`
+- Created: 2026-11-15T11:01:32.527Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,8 +13,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `0c0d6f847398` | Claude Code · claude-sonnet-5 | 1 | 1 | unknown (0/1 priced) | 25.9% | 0.0% | 0.0% | 0.0% | — | A |
-| `dbae669f990a` | Claude Code · claude-opus-5-5 | 1 | 1 | $292.29 | 100.0% | 0.0% | 0.0% | 0.0% | $292.29 | A |
+| `0c0d6f847398` | Claude Code · claude-sonnet-5 | 1 | 1 | unknown (0/1 priced) | 25.6% | 0.0% | 0.0% | 0.0% | — | A |
+| `dbae669f990a` | Claude Code · claude-opus-5-5 | 1 | 1 | $301.35 | 100.0% | 0.0% | 0.0% | 0.0% | $301.35 | A |
 
 ## Notes
 
