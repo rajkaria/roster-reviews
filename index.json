@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T10:34:35.790Z",
+  "generated_at": "2026-11-15T11:01:32.019Z",
   "reviews": [
+    {
+      "repo": "jessearmand/lazyvim-config",
+      "slug": "jessearmand__lazyvim-config",
+      "href": "/r/jessearmand/lazyvim-config",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:31.086Z",
+      "finished_at": "2026-11-15T11:01:31Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706872323",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "6288e8206d6e",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "PJensen/jshack",
       "slug": "PJensen__jshack",
