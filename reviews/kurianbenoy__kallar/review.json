@@ -1,8 +1,8 @@
 {
-  "id": "kurianbenoy__kallar-20261109114046",
+  "id": "kurianbenoy__kallar-20261115110140",
   "repo": "kurianbenoy/kallar",
-  "created_at": "2026-11-09T11:40:46.530Z",
-  "generated_at": "2026-11-09T11:40:46.530Z",
+  "created_at": "2026-11-15T11:01:40.286Z",
+  "generated_at": "2026-11-15T11:01:40.286Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,16 +11,16 @@
       "harness": "OpenCode",
       "model": "deepseek-v4.1-flash",
       "rules_hash": null,
-      "sessions": 3,
-      "mature_sessions": 1,
+      "sessions": 4,
+      "mature_sessions": 2,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9490084985835694,
-      "reverted": 0,
-      "rework_human": 0.08816120906801007,
-      "surviving_changes": 0.9490084985835694,
+      "survival": 0.4914273262148616,
+      "reverted": 0.5,
+      "rework_human": 0.04408060453400504,
+      "surviving_changes": 0.9828546524297233,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

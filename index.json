@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-15T11:01:45.369Z",
+  "generated_at": "2026-11-15T11:01:48.617Z",
   "reviews": [
+    {
+      "repo": "kurianbenoy/kallar",
+      "slug": "kurianbenoy__kallar",
+      "href": "/r/kurianbenoy/kallar",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:40.286Z",
+      "finished_at": "2026-11-15T11:01:48Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706879004",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "892ecf68a4b5",
+          "label": "OpenCode · deepseek-v4.1-flash",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.4914273262148616,
+          "surviving_changes": 0.9828546524297233,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "dtmkeng/try-entire",
       "slug": "dtmkeng__try-entire",
@@ -7251,32 +7277,6 @@
           "spend_usd": null,
           "survival": 0.9947698744769874,
           "surviving_changes": 0.9947698744769874,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "kurianbenoy/kallar",
-      "slug": "kurianbenoy__kallar",
-      "href": "/r/kurianbenoy/kallar",
-      "outcome": "ok",
-      "generated_at": "2026-11-09T11:40:46.530Z",
-      "finished_at": "2026-11-09T11:40:55Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42610917754",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "892ecf68a4b5",
-          "label": "OpenCode · deepseek-v4.1-flash",
-          "harness": "OpenCode",
-          "model": "deepseek-v4.1-flash",
-          "sessions": 3,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9490084985835694,
-          "surviving_changes": 0.9490084985835694,
           "cost_per_surviving_change": null
         }
       ]

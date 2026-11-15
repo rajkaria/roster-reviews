@@ -1,7 +1,7 @@
 # Review: kurianbenoy/kallar
 
-- Review id: `kurianbenoy__kallar-20261109114046`
-- Created: 2026-11-09T11:40:46.530Z
+- Review id: `kurianbenoy__kallar-20261115110140`
+- Created: 2026-11-15T11:01:40.286Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,11 +13,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `892ecf68a4b5` | OpenCode · deepseek-v4.1-flash | 3 | 1 | unknown (0/3 priced) | 94.9% | 0.0% | 8.8% | 0.0% | — | A |
+| `892ecf68a4b5` | OpenCode · deepseek-v4.1-flash | 4 | 2 | unknown (0/4 priced) | 49.1% | 50.0% | 4.4% | 0.0% | — | A |
 
 ## Notes
 
 - 2 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 3 sessions have no price (unknown model, or a price that depends on prompt size)
+- 4 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
