@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-15T11:01:36.855Z",
+  "generated_at": "2026-11-15T11:01:40.802Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:38.730Z",
+      "finished_at": "2026-11-15T11:01:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706880662",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "9tsrea1/Curren-Sing",
       "slug": "9tsrea1__Curren-Sing",
@@ -1335,32 +1361,6 @@
       "sessions": 0,
       "mature_sessions": 0,
       "setups": []
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-11-14T10:33:50.263Z",
-      "finished_at": "2026-11-14T10:34:05Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585863333",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
     },
     {
       "repo": "lcv-leo/lcv-leo",
