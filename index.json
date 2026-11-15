@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-15T11:01:48.617Z",
+  "generated_at": "2026-11-15T11:01:56.678Z",
   "reviews": [
+    {
+      "repo": "jessearmand/subaki-realtime",
+      "slug": "jessearmand__subaki-realtime",
+      "href": "/r/jessearmand/subaki-realtime",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:36.286Z",
+      "finished_at": "2026-11-15T11:01:56Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706873987",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "219f6cd3e32b",
+          "label": "Claude Code · claude-opus-5-5 (rules 760a8c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 4.231666000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "23515646803f",
+          "label": "Claude Code · claude-opus-5-5 (rules 9bc1d8)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.17625440000000003,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66ef0cbd8f01",
+          "label": "Claude Code · claude-fable-5-1",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "9a8fb6675dc5",
+          "label": "Claude Code · claude-fable-5",
+          "harness": "Claude Code",
+          "model": "claude-fable-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "kurianbenoy/kallar",
       "slug": "kurianbenoy__kallar",
@@ -6701,56 +6763,6 @@
           "sessions": 4,
           "mature_sessions": 0,
           "spend_usd": 3.896986,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jessearmand/subaki-realtime",
-      "slug": "jessearmand__subaki-realtime",
-      "href": "/r/jessearmand/subaki-realtime",
-      "outcome": "ok",
-      "generated_at": "2026-11-10T11:19:26.013Z",
-      "finished_at": "2026-11-10T11:19:41Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42806498947",
-      "label": "insufficient_data",
-      "sessions": 5,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "23515646803f",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 0,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "66ef0cbd8f01",
-          "label": "Claude Code · claude-fable-5-1",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-1",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "9a8fb6675dc5",
-          "label": "Claude Code · claude-fable-5",
-          "harness": "Claude Code",
-          "model": "claude-fable-5",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
