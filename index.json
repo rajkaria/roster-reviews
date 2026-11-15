@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-15T11:01:34.694Z",
+  "generated_at": "2026-11-15T11:01:36.855Z",
   "reviews": [
+    {
+      "repo": "9tsrea1/Curren-Sing",
+      "slug": "9tsrea1__Curren-Sing",
+      "href": "/r/9tsrea1/Curren-Sing",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:31.028Z",
+      "finished_at": "2026-11-15T11:01:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706867421",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.0481016,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "cardinalcolby/phish-sense",
       "slug": "cardinalcolby__phish-sense",
