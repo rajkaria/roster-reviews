@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-15T11:01:32.019Z",
+  "generated_at": "2026-11-15T11:01:34.694Z",
   "reviews": [
+    {
+      "repo": "cardinalcolby/phish-sense",
+      "slug": "cardinalcolby__phish-sense",
+      "href": "/r/cardinalcolby/phish-sense",
+      "outcome": "ok",
+      "generated_at": "2026-11-15T11:01:29.608Z",
+      "finished_at": "2026-11-15T11:01:34Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706863895",
+      "label": "no_suspect",
+      "sessions": 21,
+      "mature_sessions": 9,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 20,
+          "mature_sessions": 8,
+          "spend_usd": 30.479709400000004,
+          "survival": 0.918410353281286,
+          "surviving_changes": 7.347282826250288,
+          "cost_per_surviving_change": 2.7780580770724086
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jessearmand/lazyvim-config",
       "slug": "jessearmand__lazyvim-config",
