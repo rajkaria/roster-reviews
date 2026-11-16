@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-16T11:31:57.722Z",
+  "generated_at": "2026-11-16T11:32:01.540Z",
   "reviews": [
+    {
+      "repo": "ehewes/durhack-proj",
+      "slug": "ehewes__durhack-proj",
+      "href": "/r/ehewes/durhack-proj",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:31:45.503Z",
+      "finished_at": "2026-11-16T11:32:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858529349",
+      "label": "insufficient_data",
+      "sessions": 10,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 7,
+          "mature_sessions": 3,
+          "spend_usd": 123.4145192,
+          "survival": 0.3333333333333333,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 27.2944178
+        },
+        {
+          "setup_id": "4ffee5a8945d",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.5617592,
+          "survival": 0.9573038578240138,
+          "surviving_changes": 0.9573038578240138,
+          "cost_per_surviving_change": 0.5868138892460947
+        },
+        {
+          "setup_id": "c66b66662588",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 7.547373800000001,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": 3.7736869000000004
+        }
+      ]
+    },
     {
       "repo": "dtmkeng/try-entire",
       "slug": "dtmkeng__try-entire",
