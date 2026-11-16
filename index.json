@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-16T11:32:12.034Z",
+  "generated_at": "2026-11-16T11:32:14.119Z",
   "reviews": [
+    {
+      "repo": "nesono/infrastructure",
+      "slug": "nesono__infrastructure",
+      "href": "/r/nesono/infrastructure",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:08.253Z",
+      "finished_at": "2026-11-16T11:32:14Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858567406",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sepantasaadat/psychology_bot",
       "slug": "sepantasaadat__psychology_bot",
