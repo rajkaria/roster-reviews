@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-16T11:32:07.550Z",
+  "generated_at": "2026-11-16T11:32:09.015Z",
   "reviews": [
+    {
+      "repo": "nasirr07/Durhack",
+      "slug": "nasirr07__Durhack",
+      "href": "/r/nasirr07/Durhack",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:05.638Z",
+      "finished_at": "2026-11-16T11:32:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858555846",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "222e5c997977",
+          "label": "Antigravity · gemini-4-argon",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a4573844caa7",
+          "label": "Copilot CLI · auto (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "auto",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.6510067114093959,
+          "surviving_changes": 0.6510067114093959,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "adfa67ddf71e",
+          "label": "Copilot CLI · auto (rules unknown)",
+          "harness": "Copilot CLI",
+          "model": "auto",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.15441176470588236,
+          "surviving_changes": 0.15441176470588236,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "rakaseptian/entire-antigravity",
       "slug": "rakaseptian__entire-antigravity",
