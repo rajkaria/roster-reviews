@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-16T11:32:21.433Z",
+  "generated_at": "2026-11-16T11:32:24.172Z",
   "reviews": [
+    {
+      "repo": "mustafadev123/TriageX",
+      "slug": "mustafadev123__TriageX",
+      "href": "/r/mustafadev123/TriageX",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:18.738Z",
+      "finished_at": "2026-11-16T11:32:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858594907",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 30.086724,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8718acc46b7d",
+          "label": "Claude Code · claude-fable-5-2",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-2",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
@@ -3324,32 +3362,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "mustafadev123/TriageX",
-      "slug": "mustafadev123__TriageX",
-      "href": "/r/mustafadev123/TriageX",
-      "outcome": "ok",
-      "generated_at": "2026-11-14T10:33:36.923Z",
-      "finished_at": "2026-11-14T10:33:41Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585847502",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "8718acc46b7d",
-          "label": "Claude Code · claude-fable-5-2",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-2",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
