@@ -1,8 +1,8 @@
 {
-  "id": "BbrSofiane__email-os-20261115110126",
+  "id": "BbrSofiane__email-os-20261116113150",
   "repo": "BbrSofiane/email-os",
-  "created_at": "2026-11-15T11:01:26.238Z",
-  "generated_at": "2026-11-15T11:01:26.238Z",
+  "created_at": "2026-11-16T11:31:50.969Z",
+  "generated_at": "2026-11-16T11:31:50.969Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.75,
-      "survival": 0.5537472761485219,
+      "survival": 0.5500594341309155,
       "reverted": 0,
       "rework_human": 0.04045035279711533,
-      "surviving_changes": 2.2149891045940877,
+      "surviving_changes": 2.200237736523662,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -163,7 +163,7 @@
       "harness": "Claude Code",
       "model": "claude-fable-5-2",
       "rules_hash": null,
-      "sessions": 1,
+      "sessions": 2,
       "mature_sessions": 1,
       "spend_usd": null,
       "priced_sessions": 0,
@@ -182,17 +182,17 @@
       "harness": "Claude Code",
       "model": "claude-sonnet-5-5",
       "rules_hash": null,
-      "sessions": 21,
-      "mature_sessions": 20,
-      "spend_usd": 90.50105130000001,
-      "priced_sessions": 21,
+      "sessions": 24,
+      "mature_sessions": 21,
+      "spend_usd": 96.57825240000003,
+      "priced_sessions": 24,
       "spend_lower_bound": false,
-      "unattended": 0.14285714285714285,
-      "survival": 0.5869297133335281,
-      "reverted": 0.3,
-      "rework_human": 0.25556057633064333,
-      "surviving_changes": 11.73859426667056,
-      "cost_per_surviving_change": 7.316975904335557,
+      "unattended": 0.16666666666666666,
+      "survival": 0.6065997269843124,
+      "reverted": 0.2857142857142857,
+      "rework_human": 0.24339102507680319,
+      "surviving_changes": 12.73859426667056,
+      "cost_per_surviving_change": 7.1103992798472,
       "evidence_level": "A"
     },
     {
@@ -236,11 +236,11 @@
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 5.133333333333334,
+  "odds_ratio": 5.699999999999999,
   "ci95": [
-    0.4877505814428183,
-    54.02579128283501
+    0.5210976385082431,
+    62.34915992521052
   ],
-  "p_value": 0.34063761694208483,
+  "p_value": 0.30601939638223313,
   "evidence_level": "A"
 }

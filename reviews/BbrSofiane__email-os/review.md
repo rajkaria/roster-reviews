@@ -1,7 +1,7 @@
 # Review: BbrSofiane/email-os
 
-- Review id: `BbrSofiane__email-os-20261115110126`
-- Created: 2026-11-15T11:01:26.238Z
+- Review id: `BbrSofiane__email-os-20261116113150`
+- Created: 2026-11-16T11:31:50.969Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -13,7 +13,7 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `07bb48443cba` | Pi · openai/gpt-6.1-sol | 4 | 4 | unknown (0/4 priced) | 55.4% | 0.0% | 4.0% | 75.0% | — | A |
+| `07bb48443cba` | Pi · openai/gpt-6.1-sol | 4 | 4 | unknown (0/4 priced) | 55.0% | 0.0% | 4.0% | 75.0% | — | A |
 | `13c4217bacc0` | Pi · gpt-6-astra | 1 | 1 | $1.48 | 97.4% | 0.0% | 2.9% | 100.0% | $1.52 | A |
 | `18f9e6037871` | Pi · mistral-large-4 | 1 | 1 | unknown (0/1 priced) | 28.4% | 100.0% | 54.4% | 0.0% | — | A |
 | `35330a03cbb9` | Pi · z-ai/glm-5.3-flash | 2 | 2 | unknown (0/2 priced) | 83.2% | 0.0% | 0.8% | 100.0% | — | A |
@@ -21,14 +21,14 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | `63585ff5bfa6` | Pi · claude-fable-5-1 | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `645bdcfd61d8` | Pi · glm-5.3-flash | 2 | 2 | unknown (0/2 priced) | 100.0% | 0.0% | 0.0% | 50.0% | — | A |
 | `72389f1baa31` | Pi · gpt-6.1-sol | 2 | 2 | unknown (0/2 priced) | 100.0% | 0.0% | 0.0% | 100.0% | — | A |
-| `8718acc46b7d` | Claude Code · claude-fable-5-2 | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
-| `94304fba8bc8` | Claude Code · claude-sonnet-5-5 | 21 | 20 | $90.50 | 58.7% | 30.0% | 25.6% | 14.3% | $7.32 | A |
+| `8718acc46b7d` | Claude Code · claude-fable-5-2 | 2 | 1 | unknown (0/2 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
+| `94304fba8bc8` | Claude Code · claude-sonnet-5-5 | 24 | 21 | $96.58 | 60.7% | 28.6% | 24.3% | 16.7% | $7.11 | A |
 | `cd3924fbe2c0` | Pi · kt/midm-k-3.0-pro | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `f2cf008d960c` | Pi · deepseek-v4.1-flash | 2 | 2 | unknown (0/2 priced) | 100.0% | 0.0% | 0.0% | 100.0% | — | A |
 
 ## Notes
 
-- 9 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 16 sessions have no price (unknown model, or a price that depends on prompt size)
+- 12 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 17 sessions have no price (unknown model, or a price that depends on prompt size)
 - 8 sessions have no setup because their rules hash is unknown
 - suspect call: no setup with ≥ 8 mature sessions has a difficulty-matched odds ratio above 1 at p < 0.05
