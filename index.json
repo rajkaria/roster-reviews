@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-16T11:32:24.172Z",
+  "generated_at": "2026-11-16T11:32:25.904Z",
   "reviews": [
+    {
+      "repo": "theRealMarkCastillo/neo4j-graph-tutorial",
+      "slug": "theRealMarkCastillo__neo4j-graph-tutorial",
+      "href": "/r/theRealMarkCastillo/neo4j-graph-tutorial",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:09.689Z",
+      "finished_at": "2026-11-16T11:32:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858585620",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "041bb19d473b",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 87.34817539999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mustafadev123/TriageX",
       "slug": "mustafadev123__TriageX",
