@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261107-021",
+  "job": "disc-20261116-015",
   "repo": "JustEthanCodes/rustix",
   "outcome": "ok",
   "error": null,
-  "run_id": 42363432660,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363432660",
+  "run_id": 43858570665,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858570665",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "770f9c742dd07a00f6b53274ea05a1eca010d146",
+  "target_head": "9d5351ff9df4d152b1e05527027ade9b89951063",
   "checkpoint_head": null,
-  "started_at": "2026-11-07T10:19:09Z",
-  "finished_at": "2026-11-07T10:19:25Z"
+  "started_at": "2026-11-16T11:31:58Z",
+  "finished_at": "2026-11-16T11:32:27Z"
 }

@@ -1,6 +1,18 @@
 [
   {
     "session_id": "zed-current",
+    "status": "mature",
+    "survival": 1,
+    "reverted": false,
+    "rework_human": 0.0070921985815602835,
+    "rework_agent": 0,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.25000000000000006,
+    "tercile": 1
+  },
+  {
+    "session_id": "ses_e1c3a3800ffeE3A7mY9iUjVyMR",
     "status": "too_young",
     "survival": null,
     "reverted": null,
@@ -8,7 +20,7 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 0,
-    "tercile": 1
+    "difficulty": 0.24999999999999997,
+    "tercile": 2
   }
 ]

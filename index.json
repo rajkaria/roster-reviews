@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-16T11:32:25.904Z",
+  "generated_at": "2026-11-16T11:32:27.307Z",
   "reviews": [
+    {
+      "repo": "JustEthanCodes/rustix",
+      "slug": "JustEthanCodes__rustix",
+      "href": "/r/JustEthanCodes/rustix",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:04.408Z",
+      "finished_at": "2026-11-16T11:32:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858570665",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "487c3712ff83",
+          "label": "Zed · unknown",
+          "harness": "Zed",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4e4c3bd1afe5",
+          "label": "OpenCode · inkling-2-small-free",
+          "harness": "OpenCode",
+          "model": "inkling-2-small-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "theRealMarkCastillo/neo4j-graph-tutorial",
       "slug": "theRealMarkCastillo__neo4j-graph-tutorial",
@@ -9265,32 +9303,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "JustEthanCodes/rustix",
-      "slug": "JustEthanCodes__rustix",
-      "href": "/r/JustEthanCodes/rustix",
-      "outcome": "ok",
-      "generated_at": "2026-11-07T10:19:15.054Z",
-      "finished_at": "2026-11-07T10:19:25Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363432660",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "487c3712ff83",
-          "label": "Zed · unknown",
-          "harness": "Zed",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
