@@ -1,8 +1,8 @@
 {
-  "id": "hslee16__Archy-20261113110650",
+  "id": "hslee16__Archy-20261116113208",
   "repo": "hslee16/Archy",
-  "created_at": "2026-11-13T11:06:50.059Z",
-  "generated_at": "2026-11-13T11:06:50.059Z",
+  "created_at": "2026-11-16T11:32:08.182Z",
+  "generated_at": "2026-11-16T11:32:08.182Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -89,7 +89,7 @@
       "rules_hash": "bd1ede1fbe66274f42497ac552364768f350375e5a7288b895a6fc7130268cab",
       "sessions": 4,
       "mature_sessions": 1,
-      "spend_usd": 71.94060470000001,
+      "spend_usd": 90.94150150000002,
       "priced_sessions": 4,
       "spend_lower_bound": false,
       "unattended": 0.25,
