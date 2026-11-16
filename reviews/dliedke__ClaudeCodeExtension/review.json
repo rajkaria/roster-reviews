@@ -1,8 +1,8 @@
 {
-  "id": "dliedke__ClaudeCodeExtension-20261113110704",
+  "id": "dliedke__ClaudeCodeExtension-20261116113217",
   "repo": "dliedke/ClaudeCodeExtension",
-  "created_at": "2026-11-13T11:07:04.046Z",
-  "generated_at": "2026-11-13T11:07:04.046Z",
+  "created_at": "2026-11-16T11:32:17.961Z",
+  "generated_at": "2026-11-16T11:32:17.961Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -31,16 +31,16 @@
       "model": "claude-opus-5-5",
       "rules_hash": "efbc66df4e444d8fc80b7b1d8b92287f249f4f97325fb779eca56db9133a55d9",
       "sessions": 2,
-      "mature_sessions": 0,
+      "mature_sessions": 1,
       "spend_usd": 1.3314606,
       "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0.5,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
-      "cost_per_surviving_change": null,
+      "survival": 0.9387755102040817,
+      "reverted": 0,
+      "rework_human": 0,
+      "surviving_changes": 0.9387755102040817,
+      "cost_per_surviving_change": 1.0400109391304346,
       "evidence_level": "A"
     },
     {
@@ -49,12 +49,12 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "310cf4bb24984860a760d93461604f69e550a0479b8aa13e815820ea13cab5b0",
-      "sessions": 2,
+      "sessions": 3,
       "mature_sessions": 0,
-      "spend_usd": 5.226886,
-      "priced_sessions": 2,
+      "spend_usd": 6.2961032,
+      "priced_sessions": 3,
       "spend_lower_bound": false,
-      "unattended": 0.5,
+      "unattended": 0.3333333333333333,
       "survival": null,
       "reverted": null,
       "rework_human": null,
@@ -93,21 +93,21 @@
       "priced_sessions": 11,
       "spend_lower_bound": false,
       "unattended": 0.5454545454545454,
-      "survival": 0.6852964974482002,
+      "survival": 0.6786120054695907,
       "reverted": 0.45454545454545453,
       "rework_human": 0.009090909090909092,
-      "surviving_changes": 7.538261471930203,
-      "cost_per_surviving_change": 1.866880905153392,
+      "surviving_changes": 7.464732060165497,
+      "cost_per_surviving_change": 1.8852701324805476,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 2.557894736842105,
+  "odds_ratio": 2.4814814814814814,
   "ci95": [
-    0.3059822865297414,
-    21.38302043222551
+    0.2730374048259351,
+    22.552772016204795
   ],
-  "p_value": 0.4730280577916215,
+  "p_value": 0.7314455780984075,
   "evidence_level": "A"
 }
