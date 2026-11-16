@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-16T11:31:55.429Z",
+  "generated_at": "2026-11-16T11:31:57.722Z",
   "reviews": [
+    {
+      "repo": "dtmkeng/try-entire",
+      "slug": "dtmkeng__try-entire",
+      "href": "/r/dtmkeng/try-entire",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:31:52.058Z",
+      "finished_at": "2026-11-16T11:31:57Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858547216",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "5e0abe6ccb56",
+          "label": "Antigravity · gemini-4-argon-high",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon-high",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9767441860465116,
+          "surviving_changes": 1.9534883720930232,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "AbisoyeOnanuga/trail-sketch",
       "slug": "AbisoyeOnanuga__trail-sketch",
@@ -758,32 +784,6 @@
           "spend_usd": null,
           "survival": 0.4914273262148616,
           "surviving_changes": 0.9828546524297233,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "dtmkeng/try-entire",
-      "slug": "dtmkeng__try-entire",
-      "href": "/r/dtmkeng/try-entire",
-      "outcome": "ok",
-      "generated_at": "2026-11-15T11:01:30.739Z",
-      "finished_at": "2026-11-15T11:01:45Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43706865935",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "5e0abe6ccb56",
-          "label": "Antigravity · gemini-4-argon-high",
-          "harness": "Antigravity",
-          "model": "gemini-4-argon-high",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
