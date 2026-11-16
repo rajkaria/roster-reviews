@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-16T11:32:09.015Z",
+  "generated_at": "2026-11-16T11:32:12.034Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/psychology_bot",
+      "slug": "sepantasaadat__psychology_bot",
+      "href": "/r/sepantasaadat/psychology_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:07.599Z",
+      "finished_at": "2026-11-16T11:32:12Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858558881",
+      "label": "no_suspect",
+      "sessions": 11,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "50f535c0aba8",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 10,
+          "mature_sessions": 10,
+          "spend_usd": null,
+          "survival": 0.8447647845595443,
+          "surviving_changes": 8.447647845595442,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9242174629324547,
+          "surviving_changes": 0.9242174629324547,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "nasirr07/Durhack",
       "slug": "nasirr07__Durhack",
@@ -6168,32 +6206,6 @@
           "survival": 0.96875,
           "surviving_changes": 1.9375,
           "cost_per_surviving_change": 6.116103225806452
-        }
-      ]
-    },
-    {
-      "repo": "sepantasaadat/psychology_bot",
-      "slug": "sepantasaadat__psychology_bot",
-      "href": "/r/sepantasaadat/psychology_bot",
-      "outcome": "ok",
-      "generated_at": "2026-11-12T11:23:42.582Z",
-      "finished_at": "2026-11-12T11:23:49Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43208754395",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9373970345963756,
-          "surviving_changes": 0.9373970345963756,
-          "cost_per_surviving_change": null
         }
       ]
     },
