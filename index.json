@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-16T11:32:05.391Z",
+  "generated_at": "2026-11-16T11:32:07.550Z",
   "reviews": [
+    {
+      "repo": "rakaseptian/entire-antigravity",
+      "slug": "rakaseptian__entire-antigravity",
+      "href": "/r/rakaseptian/entire-antigravity",
+      "outcome": "ok",
+      "generated_at": "2026-11-16T11:32:06.603Z",
+      "finished_at": "2026-11-16T11:32:07Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858582537",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "50f535c0aba8",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sepantasaadat/shajare1_bot",
       "slug": "sepantasaadat__shajare1_bot",
