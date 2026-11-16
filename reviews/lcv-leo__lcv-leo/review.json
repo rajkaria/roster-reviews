@@ -1,8 +1,8 @@
 {
-  "id": "lcv-leo__lcv-leo-20261114103347",
+  "id": "lcv-leo__lcv-leo-20261116113204",
   "repo": "lcv-leo/lcv-leo",
-  "created_at": "2026-11-14T10:33:47.476Z",
-  "generated_at": "2026-11-14T10:33:47.476Z",
+  "created_at": "2026-11-16T11:32:04.753Z",
+  "generated_at": "2026-11-16T11:32:04.753Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -188,6 +188,25 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "37c1a1fe122e",
+      "label": "Codex · gpt-6.1-sol",
+      "harness": "Codex",
+      "model": "gpt-6.1-sol",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
       "survival": null,
       "reverted": null,
       "rework_human": null,

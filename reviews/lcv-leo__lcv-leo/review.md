@@ -1,7 +1,7 @@
 # Review: lcv-leo/lcv-leo
 
-- Review id: `lcv-leo__lcv-leo-20261114103347`
-- Created: 2026-11-14T10:33:47.476Z
+- Review id: `lcv-leo__lcv-leo-20261116113204`
+- Created: 2026-11-16T11:32:04.753Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -23,6 +23,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `28617af82de1` | Claude Code · claude-opus-5-5 (rules 8a09a8) | 1 | 0 | $0.66 | too young | too young | too young | 100.0% | — | A |
 | `2da388b4fbe1` | Claude Code · claude-mythos-5-1 (rules e2d14c) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 | `302f04665029` | Claude Code · claude-opus-5-5 (rules 696328) | 1 | 0 | $0.71 | too young | too young | too young | 100.0% | — | A |
+| `37c1a1fe122e` | Codex · gpt-6.1-sol | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `37fca169ed6f` | Claude Code · claude-opus-5-5 (rules 07bf0b) | 1 | 0 | $0.59 | too young | too young | too young | 100.0% | — | A |
 | `39a5ee824421` | Claude Code · claude-opus-5-5 (rules 830a8e) | 1 | 0 | $0.67 | too young | too young | too young | 100.0% | — | A |
 | `3a86ff538385` | Claude Code · claude-mythos-5-1 (rules a6dafb) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
@@ -69,7 +70,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 54 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 15 sessions have no price (unknown model, or a price that depends on prompt size)
+- 55 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 16 sessions have no price (unknown model, or a price that depends on prompt size)
 - 2 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
