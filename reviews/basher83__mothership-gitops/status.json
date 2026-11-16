@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261107-015",
+  "job": "disc-20261116-018",
   "repo": "basher83/mothership-gitops",
   "outcome": "ok",
   "error": null,
-  "run_id": 42363423573,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363423573",
+  "run_id": 43858580014,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858580014",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "977c5bff8e92785e931434dd1ddbef933a783b10",
+  "target_head": "c3b2b291cd165cbb88936aea0c764b8fa507ed10",
   "checkpoint_head": null,
-  "started_at": "2026-11-07T10:19:02Z",
-  "finished_at": "2026-11-07T10:19:14Z"
+  "started_at": "2026-11-16T11:32:04Z",
+  "finished_at": "2026-11-16T11:32:18Z"
 }
