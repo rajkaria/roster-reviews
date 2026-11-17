@@ -1,7 +1,7 @@
 # Review: ajeet-krish/stormfund
 
-- Review id: `ajeet-krish__stormfund-20261111110553`
-- Created: 2026-11-11T11:05:53.245Z
+- Review id: `ajeet-krish__stormfund-20261117115824`
+- Created: 2026-11-17T11:58:24.077Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -15,7 +15,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `17d8b269353f` | OpenCode · mimo-v2.6-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 25.4% | 0.0% | 0.0% | 0.0% | — | A |
 | `3fa944a6af61` | OpenCode · mimo-v2.6-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 100.0% | 0.0% | 0.0% | — | A |
-| `c823bb155245` | OpenCode · mimo-v2.6-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 96.6% | 0.0% | 0.0% | 0.0% | — | A |
+| `c823bb155245` | OpenCode · mimo-v2.6-flash (rules unknown) | 1 | 1 | unknown (0/1 priced) | 90.4% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes
 
