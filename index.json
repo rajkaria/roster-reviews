@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-17T11:58:42.856Z",
+  "generated_at": "2026-11-17T11:58:44.665Z",
   "reviews": [
+    {
+      "repo": "danielm5/tiffcraft",
+      "slug": "danielm5__tiffcraft",
+      "href": "/r/danielm5/tiffcraft",
+      "outcome": "ok",
+      "generated_at": "2026-11-17T11:58:36.982Z",
+      "finished_at": "2026-11-17T11:58:44Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078799525",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c62e7560b962",
+          "label": "OpenCode · flint-40b-free",
+          "harness": "OpenCode",
+          "model": "flint-40b-free",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sepantasaadat/psychology_bot",
       "slug": "sepantasaadat__psychology_bot",
