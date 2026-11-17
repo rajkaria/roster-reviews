@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-17T11:58:41.492Z",
+  "generated_at": "2026-11-17T11:58:42.856Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/psychology_bot",
+      "slug": "sepantasaadat__psychology_bot",
+      "href": "/r/sepantasaadat/psychology_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-17T11:58:32.546Z",
+      "finished_at": "2026-11-17T11:58:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078786116",
+      "label": "no_suspect",
+      "sessions": 11,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "50f535c0aba8",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 10,
+          "mature_sessions": 10,
+          "spend_usd": null,
+          "survival": 0.8448015331391995,
+          "surviving_changes": 8.448015331391995,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9242174629324547,
+          "surviving_changes": 0.9242174629324547,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -2382,44 +2420,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "sepantasaadat/psychology_bot",
-      "slug": "sepantasaadat__psychology_bot",
-      "href": "/r/sepantasaadat/psychology_bot",
-      "outcome": "ok",
-      "generated_at": "2026-11-16T11:32:07.599Z",
-      "finished_at": "2026-11-16T11:32:12Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858558881",
-      "label": "no_suspect",
-      "sessions": 11,
-      "mature_sessions": 11,
-      "setups": [
-        {
-          "setup_id": "50f535c0aba8",
-          "label": "Antigravity · gemini-3.8-flash-high",
-          "harness": "Antigravity",
-          "model": "gemini-3.8-flash-high",
-          "sessions": 10,
-          "mature_sessions": 10,
-          "spend_usd": null,
-          "survival": 0.8447647845595443,
-          "surviving_changes": 8.447647845595442,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9242174629324547,
-          "surviving_changes": 0.9242174629324547,
           "cost_per_surviving_change": null
         }
       ]
