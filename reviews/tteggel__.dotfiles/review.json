@@ -1,8 +1,8 @@
 {
-  "id": "tteggel__.dotfiles-20261102111743",
+  "id": "tteggel__.dotfiles-20261117115829",
   "repo": "tteggel/.dotfiles",
-  "created_at": "2026-11-02T11:17:43.518Z",
-  "generated_at": "2026-11-02T11:17:43.518Z",
+  "created_at": "2026-11-17T11:58:29.806Z",
+  "generated_at": "2026-11-17T11:58:29.806Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -55,11 +55,11 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
-      "survival": 0.8918918918918919,
+      "survival": 0.8648648648648649,
       "reverted": 0,
       "rework_human": 0.022727272727272728,
-      "surviving_changes": 0.8918918918918919,
-      "cost_per_surviving_change": 2.66890193939394,
+      "surviving_changes": 0.8648648648648649,
+      "cost_per_surviving_change": 2.7523051250000004,
       "evidence_level": "A"
     },
     {
@@ -74,11 +74,11 @@
       "priced_sessions": 2,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8918918918918919,
+      "survival": 0.8648648648648649,
       "reverted": 0,
       "rework_human": 0.022727272727272728,
-      "surviving_changes": 1.7837837837837838,
-      "cost_per_surviving_change": 6.019167175757576,
+      "surviving_changes": 1.7297297297297298,
+      "cost_per_surviving_change": 6.20726615,
       "evidence_level": "A"
     },
     {
@@ -112,11 +112,11 @@
       "priced_sessions": 3,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9473684210526316,
+      "survival": 0.9437452326468345,
       "reverted": 0,
       "rework_human": 0.054945054945054944,
-      "surviving_changes": 1.8947368421052633,
-      "cost_per_surviving_change": 3.2619334055555553,
+      "surviving_changes": 1.887490465293669,
+      "cost_per_surviving_change": 3.274456487936957,
       "evidence_level": "A"
     },
     {
@@ -183,15 +183,15 @@
       "model": "gpt-6.1-sol",
       "rules_hash": null,
       "sessions": 1,
-      "mature_sessions": 0,
+      "mature_sessions": 1,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": null,
-      "reverted": null,
-      "rework_human": null,
-      "surviving_changes": 0,
+      "survival": 0.9483568075117371,
+      "reverted": 0,
+      "rework_human": 0.11392405063291139,
+      "surviving_changes": 0.9483568075117371,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -212,6 +212,25 @@
       "rework_human": 0,
       "surviving_changes": 0.8762886597938144,
       "cost_per_surviving_change": 4.055193411764706,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "dd83b64c2baa",
+      "label": "Codex · gpt-6.1-sol (rules unknown)",
+      "harness": "Codex",
+      "model": "gpt-6.1-sol",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {
