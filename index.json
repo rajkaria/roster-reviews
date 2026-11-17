@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-17T11:58:28.183Z",
+  "generated_at": "2026-11-17T11:58:31.277Z",
   "reviews": [
+    {
+      "repo": "abelkun-androniq/MercedesExperience",
+      "slug": "abelkun-androniq__MercedesExperience",
+      "href": "/r/abelkun-androniq/MercedesExperience",
+      "outcome": "ok",
+      "generated_at": "2026-11-17T11:58:20.881Z",
+      "finished_at": "2026-11-17T11:58:31Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078767884",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": 63.6567474,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "sepantasaadat/shajare1_bot",
       "slug": "sepantasaadat__shajare1_bot",
