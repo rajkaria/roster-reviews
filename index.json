@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-17T11:58:46.247Z",
+  "generated_at": "2026-11-17T11:58:53.438Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-17T11:58:27.689Z",
+      "finished_at": "2026-11-17T11:58:53Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078775874",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "Kiy-K/oxide",
       "slug": "Kiy-K__oxide",
@@ -2566,19 +2579,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-16T11:31:57.173Z",
-      "finished_at": "2026-11-16T11:32:21Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858562043",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "basher83/mothership-gitops",
