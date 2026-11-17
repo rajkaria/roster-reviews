@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-17T11:58:31.277Z",
+  "generated_at": "2026-11-17T11:58:32.794Z",
   "reviews": [
+    {
+      "repo": "shinma06/entire-agent-devin",
+      "slug": "shinma06__entire-agent-devin",
+      "href": "/r/shinma06/entire-agent-devin",
+      "outcome": "ok",
+      "generated_at": "2026-11-17T11:58:27.097Z",
+      "finished_at": "2026-11-17T11:58:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078781124",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "3dcd37371ce2",
+          "label": "Devin · unknown",
+          "harness": "Devin",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8,
+          "surviving_changes": 0.8,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "abelkun-androniq/MercedesExperience",
       "slug": "abelkun-androniq__MercedesExperience",

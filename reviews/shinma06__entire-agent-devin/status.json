@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261117-008",
+  "repo": "shinma06/entire-agent-devin",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 44078781124,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078781124",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "0278af280f55740036af0ad6712494694f4a7bc3",
+  "checkpoint_head": "6dffdbae6ebe1573db2ca051bc8a9fdb243ca1ea",
+  "started_at": "2026-11-17T11:58:23Z",
+  "finished_at": "2026-11-17T11:58:32Z"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "session_id": "devin-3c4fc3d1af2549b9b149bde4f6ce3626",
+    "status": "mature",
+    "survival": 0.8,
+    "reverted": false,
+    "rework_human": 0.42857142857142855,
+    "rework_agent": 0,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 0,
+    "tercile": 1
+  }
+]
