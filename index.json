@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-17T11:58:37.460Z",
+  "generated_at": "2026-11-17T11:58:39.689Z",
   "reviews": [
+    {
+      "repo": "blackgirlbytes/interactive-storybook",
+      "slug": "blackgirlbytes__interactive-storybook",
+      "href": "/r/blackgirlbytes/interactive-storybook",
+      "outcome": "ok",
+      "generated_at": "2026-11-17T11:58:33.545Z",
+      "finished_at": "2026-11-17T11:58:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078794496",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c9723435b5e1",
+          "label": "Factory AI Droid · unknown",
+          "harness": "Factory AI Droid",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "taymoork2/CIVIC",
       "slug": "taymoork2__CIVIC",
