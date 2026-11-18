@@ -1,7 +1,7 @@
 # Review: lcv-leo/lcv-leo
 
-- Review id: `lcv-leo__lcv-leo-20261116113204`
-- Created: 2026-11-16T11:32:04.753Z
+- Review id: `lcv-leo__lcv-leo-20261118115144`
+- Created: 2026-11-18T11:51:44.453Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -15,7 +15,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `06f16daa03a5` | Claude Code · claude-opus-5-5 (rules 1d72cc) | 1 | 0 | $0.65 | too young | too young | too young | 100.0% | — | A |
 | `0e3b48380496` | Claude Code · claude-opus-5-5 (rules a536eb) | 1 | 0 | $0.70 | too young | too young | too young | 100.0% | — | A |
-| `13c50cfb184d` | Claude Code · claude-opus-5-5 (rules e3b0c4) | 2 | 0 | $1.86 | too young | too young | too young | 100.0% | — | A |
+| `13c50cfb184d` | Claude Code · claude-opus-5-5 (rules e3b0c4) | 2 | 2 | $1.86 | 100.0% | 0.0% | 0.0% | 100.0% | $0.93 | A |
 | `21e4552c32a6` | Codex · gpt-5.6-sol | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 16.7% | 100.0% | — | A |
 | `22787b14ed51` | Claude Code · claude-mythos-5-1 (rules 165031) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 | `23446a499bfa` | Claude Code · claude-opus-5-5 (rules 99109c) | 1 | 0 | $0.80 | too young | too young | too young | 100.0% | — | A |
@@ -23,7 +23,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `28617af82de1` | Claude Code · claude-opus-5-5 (rules 8a09a8) | 1 | 0 | $0.66 | too young | too young | too young | 100.0% | — | A |
 | `2da388b4fbe1` | Claude Code · claude-mythos-5-1 (rules e2d14c) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
 | `302f04665029` | Claude Code · claude-opus-5-5 (rules 696328) | 1 | 0 | $0.71 | too young | too young | too young | 100.0% | — | A |
-| `37c1a1fe122e` | Codex · gpt-6.1-sol | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `37c1a1fe122e` | Codex · gpt-6.1-sol | 2 | 0 | unknown (0/2 priced) | too young | too young | too young | 0.0% | — | A |
 | `37fca169ed6f` | Claude Code · claude-opus-5-5 (rules 07bf0b) | 1 | 0 | $0.59 | too young | too young | too young | 100.0% | — | A |
 | `39a5ee824421` | Claude Code · claude-opus-5-5 (rules 830a8e) | 1 | 0 | $0.67 | too young | too young | too young | 100.0% | — | A |
 | `3a86ff538385` | Claude Code · claude-mythos-5-1 (rules a6dafb) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
@@ -33,7 +33,6 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `4acd8848d959` | Claude Code · claude-opus-5-5 (rules 7d1b4e) | 1 | 0 | $0.55 | too young | too young | too young | 100.0% | — | A |
 | `4fd7c14766b6` | Claude Code · claude-opus-5-5 (rules 113685) | 1 | 0 | $0.68 | too young | too young | too young | 100.0% | — | A |
 | `563363a7ef65` | Claude Code · claude-opus-5-5 (rules 81f1ca) | 1 | 0 | $0.74 | too young | too young | too young | 100.0% | — | A |
-| `5b5a445bd472` | Cursor · grok-4.7-xhigh-fast | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `5c29d99f31a1` | Claude Code · claude-opus-5-5 (rules 7ae428) | 1 | 0 | $0.67 | too young | too young | too young | 100.0% | — | A |
 | `619e3b4a8632` | Claude Code · claude-opus-5-5 (rules 3bc9b3) | 1 | 0 | $0.65 | too young | too young | too young | 100.0% | — | A |
 | `628c2b7aab9e` | Claude Code · claude-opus-5-5 (rules c4035b) | 1 | 0 | $0.59 | too young | too young | too young | 100.0% | — | A |
@@ -71,6 +70,6 @@ No suspect call: no setup has ≥ 8 mature sessions.
 ## Notes
 
 - 55 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 16 sessions have no price (unknown model, or a price that depends on prompt size)
-- 2 sessions have no setup because their rules hash is unknown
+- 17 sessions have no price (unknown model, or a price that depends on prompt size)
+- 3 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
