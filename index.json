@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-11-18T11:52:05.775Z",
+  "generated_at": "2026-11-18T11:52:08.382Z",
   "reviews": [
+    {
+      "repo": "chrisdoc/surveybeat-next",
+      "slug": "chrisdoc__surveybeat-next",
+      "href": "/r/chrisdoc/surveybeat-next",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:37.195Z",
+      "finished_at": "2026-11-18T11:52:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298466557",
+      "label": "insufficient_data",
+      "sessions": 30,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "0ca5d67990e1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8133848133848134,
+          "surviving_changes": 1.6267696267696268,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 11.095874199999999,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "3c34122acccf",
+          "label": "Claude Code · claude-opus-5-5 (rules d7722b)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": 19.6689308,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4ef33c65261c",
+          "label": "Claude Code · claude-opus-5-5 (rules 861b7c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 16,
+          "mature_sessions": 1,
+          "spend_usd": 35.803421199999995,
+          "survival": 0.625,
+          "surviving_changes": 0.625,
+          "cost_per_surviving_change": 0
+        },
+        {
+          "setup_id": "5f156f841b58",
+          "label": "Claude Code · claude-opus-5-5 (rules 12c80c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 1.5618466,
+          "survival": 0.8541666666666666,
+          "surviving_changes": 0.8541666666666666,
+          "cost_per_surviving_change": 1.828503336585366
+        },
+        {
+          "setup_id": "75f0c856b5d2",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": 10.8348856,
+          "survival": 0.6463068181818182,
+          "surviving_changes": 0.6463068181818182,
+          "cost_per_surviving_change": 0
+        },
+        {
+          "setup_id": "aea250a8252a",
+          "label": "Claude Code · claude-opus-5-5 (rules de2527)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 9.8661128,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "mustafadev123/TriageX",
       "slug": "mustafadev123__TriageX",
