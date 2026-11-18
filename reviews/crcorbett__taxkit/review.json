@@ -1,8 +1,8 @@
 {
-  "id": "crcorbett__taxkit-20261112112402",
+  "id": "crcorbett__taxkit-20261118115159",
   "repo": "crcorbett/taxkit",
-  "created_at": "2026-11-12T11:24:02.707Z",
-  "generated_at": "2026-11-12T11:24:02.707Z",
+  "created_at": "2026-11-18T11:51:59.351Z",
+  "generated_at": "2026-11-18T11:51:59.351Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -55,10 +55,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.0019782393669634025,
+      "survival": 0.0009891196834817012,
       "reverted": 1,
       "rework_human": 0.9014084507042254,
-      "surviving_changes": 0.0019782393669634025,
+      "surviving_changes": 0.0009891196834817012,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
