@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-18T11:51:51.038Z",
+  "generated_at": "2026-11-18T11:51:53.566Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/shajare1_bot",
+      "slug": "sepantasaadat__shajare1_bot",
+      "href": "/r/sepantasaadat/shajare1_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:46.762Z",
+      "finished_at": "2026-11-18T11:51:53Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298487529",
+      "label": "no_suspect",
+      "sessions": 12,
+      "mature_sessions": 12,
+      "setups": [
+        {
+          "setup_id": "619b2a645711",
+          "label": "Antigravity · gemini-3.8-flash-tiered",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-tiered",
+          "sessions": 11,
+          "mature_sessions": 11,
+          "spend_usd": null,
+          "survival": 0.7363636363636363,
+          "surviving_changes": 8.1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7601115760111576,
+          "surviving_changes": 0.7601115760111576,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "konstruktoid/agent-instructions-skills",
       "slug": "konstruktoid__agent-instructions-skills",
@@ -2203,44 +2241,6 @@
           "survival": 0.95,
           "surviving_changes": 0.95,
           "cost_per_surviving_change": 8.962688421052633
-        }
-      ]
-    },
-    {
-      "repo": "sepantasaadat/shajare1_bot",
-      "slug": "sepantasaadat__shajare1_bot",
-      "href": "/r/sepantasaadat/shajare1_bot",
-      "outcome": "ok",
-      "generated_at": "2026-11-17T11:58:27.082Z",
-      "finished_at": "2026-11-17T11:58:28Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078770828",
-      "label": "no_suspect",
-      "sessions": 12,
-      "mature_sessions": 12,
-      "setups": [
-        {
-          "setup_id": "619b2a645711",
-          "label": "Antigravity · gemini-3.8-flash-tiered",
-          "harness": "Antigravity",
-          "model": "gemini-3.8-flash-tiered",
-          "sessions": 11,
-          "mature_sessions": 11,
-          "spend_usd": null,
-          "survival": 0.7363636363636363,
-          "surviving_changes": 8.1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.7601115760111576,
-          "surviving_changes": 0.7601115760111576,
-          "cost_per_surviving_change": null
         }
       ]
     },
