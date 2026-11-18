@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-18T11:52:10.424Z",
+  "generated_at": "2026-11-18T11:52:13.032Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:42.545Z",
+      "finished_at": "2026-11-18T11:52:13Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298469798",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "sepantasaadat/psychology_bot",
       "slug": "sepantasaadat__psychology_bot",
@@ -2088,19 +2101,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-17T11:58:27.689Z",
-      "finished_at": "2026-11-17T11:58:53Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078775874",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "Kiy-K/oxide",
