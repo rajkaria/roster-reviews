@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:51:32.525Z",
+  "generated_at": "2026-11-18T11:51:34.148Z",
   "reviews": [
+    {
+      "repo": "entireio/entire-vscode",
+      "slug": "entireio__entire-vscode",
+      "href": "/r/entireio/entire-vscode",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:33.051Z",
+      "finished_at": "2026-11-18T11:51:34Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298454433",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "9c1e2c07abb1",
+          "label": "Claude Code · claude-fable-5-2",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-2",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "northerncatboy/exDesktop-website",
       "slug": "northerncatboy__exDesktop-website",
