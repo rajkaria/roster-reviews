@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-11-18T11:52:13.032Z",
+  "generated_at": "2026-11-18T11:52:15.942Z",
   "reviews": [
+    {
+      "repo": "Kavanio/RecordAgent",
+      "slug": "Kavanio__RecordAgent",
+      "href": "/r/Kavanio/RecordAgent",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:31.788Z",
+      "finished_at": "2026-11-18T11:52:15Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298451365",
+      "label": "insufficient_data",
+      "sessions": 17,
+      "mature_sessions": 17,
+      "setups": [
+        {
+          "setup_id": "3262f5a21474",
+          "label": "Antigravity · gemini-4-argon-medium",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon-medium",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8681818181818182,
+          "surviving_changes": 0.8681818181818182,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "387c5a0b3b74",
+          "label": "Antigravity · gemini-4-hydrogen-high (rules unknown)",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-high",
+          "sessions": 4,
+          "mature_sessions": 4,
+          "spend_usd": null,
+          "survival": 0.24962518740629686,
+          "surviving_changes": 0.9985007496251874,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4cae8c540e19",
+          "label": "Antigravity · gemini-4-argon-high",
+          "harness": "Antigravity",
+          "model": "gemini-4-argon-high",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.7657200811359026,
+          "surviving_changes": 1.5314401622718052,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5ac99c8a8237",
+          "label": "Antigravity · claude-opus-5-5-medium",
+          "harness": "Antigravity",
+          "model": "claude-opus-5-5-medium",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.5028913260219342,
+          "surviving_changes": 1.0057826520438684,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6878ddeb60f9",
+          "label": "Antigravity · gemini-4-hydrogen-high (rules unknown)",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-high",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.504308093994778,
+          "surviving_changes": 1.008616187989556,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c72ab80e8d2c",
+          "label": "Antigravity · gemini-4-hydrogen-medium",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-medium",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.5,
+          "surviving_changes": 0.5,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "cc39690ca454",
+          "label": "Antigravity · gemini-4-hydrogen-high (rules unknown)",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-high",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8136035313001605,
+          "surviving_changes": 1.627207062600321,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "cca2a20c85f3",
+          "label": "Antigravity · gemini-4-hydrogen-high (rules unknown)",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-high",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8958333333333334,
+          "surviving_changes": 0.8958333333333334,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f83920beb615",
+          "label": "Pi · deepseek-v4.1-flash",
+          "harness": "Pi",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fccbf9529a40",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9470304975922953,
+          "surviving_changes": 0.9470304975922953,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
@@ -3662,92 +3796,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "Kavanio/RecordAgent",
-      "slug": "Kavanio__RecordAgent",
-      "href": "/r/Kavanio/RecordAgent",
-      "outcome": "ok",
-      "generated_at": "2026-11-16T11:31:47.554Z",
-      "finished_at": "2026-11-16T11:31:52Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858535263",
-      "label": "insufficient_data",
-      "sessions": 9,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "3262f5a21474",
-          "label": "Antigravity · gemini-4-argon-medium",
-          "harness": "Antigravity",
-          "model": "gemini-4-argon-medium",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4cae8c540e19",
-          "label": "Antigravity · gemini-4-argon-high",
-          "harness": "Antigravity",
-          "model": "gemini-4-argon-high",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "5ac99c8a8237",
-          "label": "Antigravity · claude-opus-5-5-medium",
-          "harness": "Antigravity",
-          "model": "claude-opus-5-5-medium",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "cc39690ca454",
-          "label": "Antigravity · gemini-4-hydrogen-high (rules unknown)",
-          "harness": "Antigravity",
-          "model": "gemini-4-hydrogen-high",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "cca2a20c85f3",
-          "label": "Antigravity · gemini-4-hydrogen-high (rules unknown)",
-          "harness": "Antigravity",
-          "model": "gemini-4-hydrogen-high",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "fccbf9529a40",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9470304975922953,
-          "surviving_changes": 0.9470304975922953,
           "cost_per_surviving_change": null
         }
       ]
