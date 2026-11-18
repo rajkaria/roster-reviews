@@ -1,7 +1,7 @@
 # Review: dliedke/ClaudeCodeExtension
 
-- Review id: `dliedke__ClaudeCodeExtension-20261116113217`
-- Created: 2026-11-16T11:32:17.961Z
+- Review id: `dliedke__ClaudeCodeExtension-20261118115147`
+- Created: 2026-11-18T11:51:47.904Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -14,8 +14,8 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `14190b0359e6` | Claude Code · claude-opus-5-5 (rules 986646) | 2 | 2 | $4.54 | 88.8% | 0.0% | 0.9% | 50.0% | $2.55 | A |
-| `1a1d47e1a4b7` | Claude Code · claude-opus-5-5 (rules efbc66) | 2 | 1 | $1.33 | 93.9% | 0.0% | 0.0% | 50.0% | $1.04 | A |
-| `1bb6b2827c6a` | Claude Code · claude-opus-5-5 (rules 310cf4) | 3 | 0 | $6.30 | too young | too young | too young | 33.3% | — | A |
+| `1a1d47e1a4b7` | Claude Code · claude-opus-5-5 (rules efbc66) | 2 | 2 | $1.33 | 75.5% | 0.0% | 0.0% | 50.0% | $0.88 | A |
+| `1bb6b2827c6a` | Claude Code · claude-opus-5-5 (rules 310cf4) | 5 | 1 | $8.48 | 57.1% | 0.0% | 0.0% | 20.0% | $0.85 | A |
 | `85dc97fef881` | Claude Code · claude-haiku-5-5 | 1 | 1 | ≥ $0.01 | 93.7% | 0.0% | 0.0% | 100.0% | $0.01 | A |
 | `c21942e249ae` | Claude Code · claude-opus-5-5 (rules b8008c) | 11 | 11 | $14.07 | 67.9% | 45.5% | 0.9% | 54.5% | $1.89 | A |
 

@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-18T11:52:18.902Z",
+  "generated_at": "2026-11-18T11:52:23.986Z",
   "reviews": [
+    {
+      "repo": "dliedke/ClaudeCodeExtension",
+      "slug": "dliedke__ClaudeCodeExtension",
+      "href": "/r/dliedke/ClaudeCodeExtension",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:47.904Z",
+      "finished_at": "2026-11-18T11:52:23Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298490638",
+      "label": "no_suspect",
+      "sessions": 21,
+      "mature_sessions": 17,
+      "setups": [
+        {
+          "setup_id": "14190b0359e6",
+          "label": "Claude Code · claude-opus-5-5 (rules 986646)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 4.5367476,
+          "survival": 0.888103802672148,
+          "surviving_changes": 1.776207605344296,
+          "cost_per_surviving_change": 2.55417642979893
+        },
+        {
+          "setup_id": "1a1d47e1a4b7",
+          "label": "Claude Code · claude-opus-5-5 (rules efbc66)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 1.3314606,
+          "survival": 0.7551020408163265,
+          "surviving_changes": 1.510204081632653,
+          "cost_per_surviving_change": 0.8816428297297297
+        },
+        {
+          "setup_id": "1bb6b2827c6a",
+          "label": "Claude Code · claude-opus-5-5 (rules 310cf4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 5,
+          "mature_sessions": 1,
+          "spend_usd": 8.4843004,
+          "survival": 0.5714285714285714,
+          "surviving_changes": 0.5714285714285714,
+          "cost_per_surviving_change": 0.8515367000000001
+        },
+        {
+          "setup_id": "85dc97fef881",
+          "label": "Claude Code · claude-haiku-5-5",
+          "harness": "Claude Code",
+          "model": "claude-haiku-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.013038085,
+          "survival": 0.9368421052631579,
+          "surviving_changes": 0.9368421052631579,
+          "cost_per_surviving_change": 0.01391705702247191
+        },
+        {
+          "setup_id": "c21942e249ae",
+          "label": "Claude Code · claude-opus-5-5 (rules b8008c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 11,
+          "mature_sessions": 11,
+          "spend_usd": 14.073036399999998,
+          "survival": 0.6786120054695907,
+          "surviving_changes": 7.464732060165497,
+          "cost_per_surviving_change": 1.8852701324805476
+        }
+      ]
+    },
     {
       "repo": "danielm5/tiffcraft",
       "slug": "danielm5__tiffcraft",
@@ -2919,80 +2993,6 @@
           "survival": 1,
           "surviving_changes": 1,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "dliedke/ClaudeCodeExtension",
-      "slug": "dliedke__ClaudeCodeExtension",
-      "href": "/r/dliedke/ClaudeCodeExtension",
-      "outcome": "ok",
-      "generated_at": "2026-11-16T11:32:17.961Z",
-      "finished_at": "2026-11-16T11:32:38Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858597549",
-      "label": "no_suspect",
-      "sessions": 19,
-      "mature_sessions": 15,
-      "setups": [
-        {
-          "setup_id": "14190b0359e6",
-          "label": "Claude Code · claude-opus-5-5 (rules 986646)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": 4.5367476,
-          "survival": 0.888103802672148,
-          "surviving_changes": 1.776207605344296,
-          "cost_per_surviving_change": 2.55417642979893
-        },
-        {
-          "setup_id": "1a1d47e1a4b7",
-          "label": "Claude Code · claude-opus-5-5 (rules efbc66)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": 1.3314606,
-          "survival": 0.9387755102040817,
-          "surviving_changes": 0.9387755102040817,
-          "cost_per_surviving_change": 1.0400109391304346
-        },
-        {
-          "setup_id": "1bb6b2827c6a",
-          "label": "Claude Code · claude-opus-5-5 (rules 310cf4)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 6.2961032,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "85dc97fef881",
-          "label": "Claude Code · claude-haiku-5-5",
-          "harness": "Claude Code",
-          "model": "claude-haiku-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 0.013038085,
-          "survival": 0.9368421052631579,
-          "surviving_changes": 0.9368421052631579,
-          "cost_per_surviving_change": 0.01391705702247191
-        },
-        {
-          "setup_id": "c21942e249ae",
-          "label": "Claude Code · claude-opus-5-5 (rules b8008c)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 11,
-          "mature_sessions": 11,
-          "spend_usd": 14.073036399999998,
-          "survival": 0.6786120054695907,
-          "surviving_changes": 7.464732060165497,
-          "cost_per_surviving_change": 1.8852701324805476
         }
       ]
     },
