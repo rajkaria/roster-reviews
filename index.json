@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:51:44.997Z",
+  "generated_at": "2026-11-18T11:51:47.084Z",
   "reviews": [
+    {
+      "repo": "eddy147/vim",
+      "slug": "eddy147__vim",
+      "href": "/r/eddy147/vim",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:33.106Z",
+      "finished_at": "2026-11-18T11:51:47Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298448451",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c68be915baa9",
+          "label": "Codex · gpt-6.1-terra",
+          "harness": "Codex",
+          "model": "gpt-6.1-terra",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "babamba2/superclaude-for-sap",
       "slug": "babamba2__superclaude-for-sap",
