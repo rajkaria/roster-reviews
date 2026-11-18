@@ -8,11 +8,35 @@
     "rework_agent": 1,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 6.2727600891321345e-15,
-    "tercile": 1
+    "difficulty": 0.6251948574061412,
+    "tercile": 3
   },
   {
     "session_id": "a4590b24-e4b7-4aa4-9a66-c1ce4901172a",
+    "status": "mature",
+    "survival": 0.9956289460903351,
+    "reverted": false,
+    "rework_human": 0,
+    "rework_agent": 0.013776722090261283,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.3512392427226453,
+    "tercile": 1
+  },
+  {
+    "session_id": "27b41e01-de7d-4a6f-9e2b-b1fa8aa23d19",
+    "status": "mature",
+    "survival": 0.9162995594713657,
+    "reverted": false,
+    "rework_human": 0,
+    "rework_agent": 0.08870967741935484,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.12853839246388912,
+    "tercile": 2
+  },
+  {
+    "session_id": "e7fa0b82-3a99-4269-b8f3-6566e044934e",
     "status": "too_young",
     "survival": null,
     "reverted": null,
@@ -20,7 +44,43 @@
     "rework_agent": null,
     "unattended": false,
     "tests_at_commit": null,
-    "difficulty": 6.2727600891321345e-15,
+    "difficulty": -0.07125467569021504,
     "tercile": 2
+  },
+  {
+    "session_id": "7a13cfb5-c13e-4e80-b62b-99472a6f0801",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.27177561435697134,
+    "tercile": 1
+  },
+  {
+    "session_id": "5bca6127-f5ed-46b3-ba1b-59db93407feb",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.8344335453723828,
+    "tercile": 1
+  },
+  {
+    "session_id": "9e81937d-309b-4c6b-b1d5-aba6e1a64c2b",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 1.0320466131999622,
+    "tercile": 3
   }
 ]

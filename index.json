@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:51:34.148Z",
+  "generated_at": "2026-11-18T11:51:37.676Z",
   "reviews": [
+    {
+      "repo": "abelkun-androniq/MercedesExperience",
+      "slug": "abelkun-androniq__MercedesExperience",
+      "href": "/r/abelkun-androniq/MercedesExperience",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:28.403Z",
+      "finished_at": "2026-11-18T11:51:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298431860",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 7,
+          "mature_sessions": 3,
+          "spend_usd": 128.421425,
+          "survival": 0.6373095018539002,
+          "surviving_changes": 1.9119285055617008,
+          "cost_per_surviving_change": 42.436205414576186
+        }
+      ]
+    },
     {
       "repo": "entireio/entire-vscode",
       "slug": "entireio__entire-vscode",
@@ -1015,32 +1041,6 @@
           "survival": 0.95,
           "surviving_changes": 0.95,
           "cost_per_surviving_change": 8.962688421052633
-        }
-      ]
-    },
-    {
-      "repo": "abelkun-androniq/MercedesExperience",
-      "slug": "abelkun-androniq__MercedesExperience",
-      "href": "/r/abelkun-androniq/MercedesExperience",
-      "outcome": "ok",
-      "generated_at": "2026-11-17T11:58:20.881Z",
-      "finished_at": "2026-11-17T11:58:31Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078767884",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "13c50cfb184d",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": 63.6567474,
-          "survival": 0,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
