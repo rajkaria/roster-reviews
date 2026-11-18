@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-18T11:51:37.676Z",
+  "generated_at": "2026-11-18T11:51:42.295Z",
   "reviews": [
+    {
+      "repo": "newsdayads/tigeriq-ai-lab",
+      "slug": "newsdayads__tigeriq-ai-lab",
+      "href": "/r/newsdayads/tigeriq-ai-lab",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:35.111Z",
+      "finished_at": "2026-11-18T11:51:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298457416",
+      "label": "insufficient_data",
+      "sessions": 10,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "100a0aafe8b8",
+          "label": "Codex · gpt-5.6-luna",
+          "harness": "Codex",
+          "model": "gpt-5.6-luna",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9863925883034164,
+          "surviving_changes": 0.9863925883034164,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "188a15f2d8d2",
+          "label": "Antigravity · gemini-3.8-flash-medium",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-medium",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.4931962941517082,
+          "surviving_changes": 0.9863925883034164,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6ffc187c8796",
+          "label": "Antigravity · gemini-3.8-flash-tiered",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-tiered",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9863925883034164,
+          "surviving_changes": 0.9863925883034164,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fba8e2780630",
+          "label": "Antigravity · gemini-4-hydrogen-medium",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-medium",
+          "sessions": 6,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "abelkun-androniq/MercedesExperience",
       "slug": "abelkun-androniq__MercedesExperience",
@@ -6548,56 +6610,6 @@
           "spend_usd": 58.22687000000001,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "newsdayads/tigeriq-ai-lab",
-      "slug": "newsdayads__tigeriq-ai-lab",
-      "href": "/r/newsdayads/tigeriq-ai-lab",
-      "outcome": "ok",
-      "generated_at": "2026-11-13T11:06:55.942Z",
-      "finished_at": "2026-11-13T11:07:17Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43414400848",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 4,
-      "setups": [
-        {
-          "setup_id": "100a0aafe8b8",
-          "label": "Codex · gpt-5.6-luna",
-          "harness": "Codex",
-          "model": "gpt-5.6-luna",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9913144180660104,
-          "surviving_changes": 0.9913144180660104,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "188a15f2d8d2",
-          "label": "Antigravity · gemini-3.8-flash-medium",
-          "harness": "Antigravity",
-          "model": "gemini-3.8-flash-medium",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.4956572090330052,
-          "surviving_changes": 0.9913144180660104,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6ffc187c8796",
-          "label": "Antigravity · gemini-3.8-flash-tiered",
-          "harness": "Antigravity",
-          "model": "gemini-3.8-flash-tiered",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9913144180660104,
-          "surviving_changes": 0.9913144180660104,
           "cost_per_surviving_change": null
         }
       ]
