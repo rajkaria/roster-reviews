@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:51:27.860Z",
+  "generated_at": "2026-11-18T11:51:30.313Z",
   "reviews": [
+    {
+      "repo": "shinma06/entire-agent-devin",
+      "slug": "shinma06__entire-agent-devin",
+      "href": "/r/shinma06/entire-agent-devin",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:28.666Z",
+      "finished_at": "2026-11-18T11:51:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298434826",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "3dcd37371ce2",
+          "label": "Devin · unknown",
+          "harness": "Devin",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8,
+          "surviving_changes": 0.8,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "salim-b/home-assistant-apps-salim",
       "slug": "salim-b__home-assistant-apps-salim",
@@ -937,32 +963,6 @@
           "survival": 0.95,
           "surviving_changes": 0.95,
           "cost_per_surviving_change": 8.962688421052633
-        }
-      ]
-    },
-    {
-      "repo": "shinma06/entire-agent-devin",
-      "slug": "shinma06__entire-agent-devin",
-      "href": "/r/shinma06/entire-agent-devin",
-      "outcome": "ok",
-      "generated_at": "2026-11-17T11:58:27.097Z",
-      "finished_at": "2026-11-17T11:58:32Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078781124",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "3dcd37371ce2",
-          "label": "Devin · unknown",
-          "harness": "Devin",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.8,
-          "surviving_changes": 0.8,
-          "cost_per_surviving_change": null
         }
       ]
     },
