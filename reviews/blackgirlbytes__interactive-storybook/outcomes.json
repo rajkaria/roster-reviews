@@ -6,7 +6,7 @@
     "reverted": null,
     "rework_human": null,
     "rework_agent": null,
-    "unattended": true,
+    "unattended": false,
     "tests_at_commit": null,
     "difficulty": 0,
     "tercile": 1

@@ -1,7 +1,7 @@
 # Review: blackgirlbytes/interactive-storybook
 
-- Review id: `blackgirlbytes__interactive-storybook-20261117115833`
-- Created: 2026-11-17T11:58:33.545Z
+- Review id: `blackgirlbytes__interactive-storybook-20261118115136`
+- Created: 2026-11-18T11:51:36.428Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `c9723435b5e1` | Factory AI Droid · unknown | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 100.0% | — | A |
+| `7a33908888f9` | Factory AI Droid · auto | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 
 ## Notes
 
