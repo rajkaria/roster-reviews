@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:52:15.942Z",
+  "generated_at": "2026-11-18T11:52:18.902Z",
   "reviews": [
+    {
+      "repo": "danielm5/tiffcraft",
+      "slug": "danielm5__tiffcraft",
+      "href": "/r/danielm5/tiffcraft",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:55.166Z",
+      "finished_at": "2026-11-18T11:52:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298497203",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c62e7560b962",
+          "label": "OpenCode · flint-40b-free",
+          "harness": "OpenCode",
+          "model": "flint-40b-free",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Kavanio/RecordAgent",
       "slug": "Kavanio__RecordAgent",
@@ -2451,32 +2477,6 @@
           "survival": 0.8846153846153846,
           "surviving_changes": 0.8846153846153846,
           "cost_per_surviving_change": 0.01306748695652174
-        }
-      ]
-    },
-    {
-      "repo": "danielm5/tiffcraft",
-      "slug": "danielm5__tiffcraft",
-      "href": "/r/danielm5/tiffcraft",
-      "outcome": "ok",
-      "generated_at": "2026-11-17T11:58:36.982Z",
-      "finished_at": "2026-11-17T11:58:44Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078799525",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "c62e7560b962",
-          "label": "OpenCode · flint-40b-free",
-          "harness": "OpenCode",
-          "model": "flint-40b-free",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
