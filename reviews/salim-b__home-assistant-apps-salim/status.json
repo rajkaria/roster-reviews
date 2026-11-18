@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261118-002",
+  "repo": "salim-b/home-assistant-apps-salim",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 44298429154,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298429154",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "4abbb7e82c7844bfe6bb462c279638254ae9a62a",
+  "checkpoint_head": null,
+  "started_at": "2026-11-18T11:51:20Z",
+  "finished_at": "2026-11-18T11:51:27Z"
+}

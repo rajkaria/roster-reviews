@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-17T12:00:09.898Z",
+  "generated_at": "2026-11-18T11:51:27.860Z",
   "reviews": [
+    {
+      "repo": "salim-b/home-assistant-apps-salim",
+      "slug": "salim-b__home-assistant-apps-salim",
+      "href": "/r/salim-b/home-assistant-apps-salim",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:25.315Z",
+      "finished_at": "2026-11-18T11:51:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298429154",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "c68942a24c6f",
+          "label": "Goose · z-ai/glm-5.3-flash",
+          "harness": "Goose",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 5,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "OctopusGarage/mesh-talk",
       "slug": "OctopusGarage__mesh-talk",
