@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:51:30.313Z",
+  "generated_at": "2026-11-18T11:51:32.525Z",
   "reviews": [
+    {
+      "repo": "northerncatboy/exDesktop-website",
+      "slug": "northerncatboy__exDesktop-website",
+      "href": "/r/northerncatboy/exDesktop-website",
+      "outcome": "ok",
+      "generated_at": "2026-11-18T11:51:26.696Z",
+      "finished_at": "2026-11-18T11:51:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298438885",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "shinma06/entire-agent-devin",
       "slug": "shinma06__entire-agent-devin",
