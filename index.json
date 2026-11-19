@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-18T11:53:44.676Z",
+  "generated_at": "2026-11-19T11:47:32.721Z",
   "reviews": [
+    {
+      "repo": "UnderCooled/blink-fff.nvim",
+      "slug": "UnderCooled__blink-fff.nvim",
+      "href": "/r/UnderCooled/blink-fff.nvim",
+      "outcome": "ok",
+      "generated_at": "2026-11-19T11:47:31.771Z",
+      "finished_at": "2026-11-19T11:47:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517929568",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "001b87a8e7ac",
+          "label": "Oh My Pi · LongCat-2.5-Preview",
+          "harness": "Oh My Pi",
+          "model": "LongCat-2.5-Preview",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "crcorbett/taxkit",
       "slug": "crcorbett__taxkit",
