@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-19T11:47:42.529Z",
+  "generated_at": "2026-11-19T11:47:44.899Z",
   "reviews": [
+    {
+      "repo": "partio-io/cli",
+      "slug": "partio-io__cli",
+      "href": "/r/partio-io/cli",
+      "outcome": "ok",
+      "generated_at": "2026-11-19T11:47:42.784Z",
+      "finished_at": "2026-11-19T11:47:44Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517957632",
+      "label": "no_suspect",
+      "sessions": 18,
+      "mature_sessions": 17,
+      "setups": [
+        {
+          "setup_id": "27ed88905130",
+          "label": "Claude Code · claude-opus-5-5 (rules efea8a)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 17,
+          "mature_sessions": 17,
+          "spend_usd": 25.6164756,
+          "survival": 0.9427881354752531,
+          "surviving_changes": 16.027398303079302,
+          "cost_per_surviving_change": 1.5982928180600824
+        },
+        {
+          "setup_id": "8b1f504295dd",
+          "label": "Claude Code · claude-opus-5-5 (rules f7f7ad)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.2802624,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "ta93abe/me",
       "slug": "ta93abe__me",
@@ -2613,32 +2651,6 @@
           "survival": 0.8928658375334454,
           "surviving_changes": 2.6785975126003363,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "partio-io/cli",
-      "slug": "partio-io__cli",
-      "href": "/r/partio-io/cli",
-      "outcome": "ok",
-      "generated_at": "2026-11-17T11:58:39.155Z",
-      "finished_at": "2026-11-17T11:59:04Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44078807468",
-      "label": "no_suspect",
-      "sessions": 17,
-      "mature_sessions": 17,
-      "setups": [
-        {
-          "setup_id": "27ed88905130",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 17,
-          "mature_sessions": 17,
-          "spend_usd": 25.6164756,
-          "survival": 0.9427881354752531,
-          "surviving_changes": 16.027398303079302,
-          "cost_per_surviving_change": 1.5982928180600824
         }
       ]
     },
