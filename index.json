@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-19T11:47:55.283Z",
+  "generated_at": "2026-11-19T11:48:06.005Z",
   "reviews": [
+    {
+      "repo": "Syati/dot.d",
+      "slug": "Syati__dot.d",
+      "href": "/r/Syati/dot.d",
+      "outcome": "ok",
+      "generated_at": "2026-11-19T11:47:38.458Z",
+      "finished_at": "2026-11-19T11:48:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517946002",
+      "label": "insufficient_data",
+      "sessions": 12,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "bd0a35c28458",
+          "label": "Claude Code · claude-opus-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fa59049f1d6f",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.8971914323190683,
+          "surviving_changes": 6.280340026233478,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
