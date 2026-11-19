@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-19T11:47:34.925Z",
+  "generated_at": "2026-11-19T11:47:37.806Z",
   "reviews": [
+    {
+      "repo": "danielm5/tiffcraft",
+      "slug": "danielm5__tiffcraft",
+      "href": "/r/danielm5/tiffcraft",
+      "outcome": "ok",
+      "generated_at": "2026-11-19T11:47:35.895Z",
+      "finished_at": "2026-11-19T11:47:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517942215",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c62e7560b962",
+          "label": "OpenCode · flint-40b-free",
+          "harness": "OpenCode",
+          "model": "flint-40b-free",
+          "sessions": 4,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "northerncatboy/exDesktop-website",
       "slug": "northerncatboy__exDesktop-website",
@@ -284,32 +310,6 @@
           "survival": 0.6786120054695907,
           "surviving_changes": 7.464732060165497,
           "cost_per_surviving_change": 1.8852701324805476
-        }
-      ]
-    },
-    {
-      "repo": "danielm5/tiffcraft",
-      "slug": "danielm5__tiffcraft",
-      "href": "/r/danielm5/tiffcraft",
-      "outcome": "ok",
-      "generated_at": "2026-11-18T11:51:55.166Z",
-      "finished_at": "2026-11-18T11:52:18Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298497203",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "c62e7560b962",
-          "label": "OpenCode · flint-40b-free",
-          "harness": "OpenCode",
-          "model": "flint-40b-free",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
         }
       ]
     },
