@@ -1,7 +1,7 @@
 # Review: hslee16/Archy
 
-- Review id: `hslee16__Archy-20261116113208`
-- Created: 2026-11-16T11:32:08.182Z
+- Review id: `hslee16__Archy-20261119114746`
+- Created: 2026-11-19T11:47:46.593Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -14,6 +14,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `0257e9d02a3c` | Claude Code · claude-sonnet-5-5 (rules d13509) | 2 | 0 | $20.54 | too young | too young | too young | 0.0% | — | A |
+| `11afcb8a741d` | Claude Code · claude-fable-5-2 | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `1956db7cb532` | Claude Code · claude-sonnet-5-5 (rules 2eb597) | 2 | 0 | $4.14 | too young | too young | too young | 50.0% | — | A |
 | `1e2ec648781c` | Claude Code · claude-sonnet-5-5 (rules dc55f7) | 2 | 0 | $1.25 | too young | too young | too young | 0.0% | — | A |
 | `2566075cb9c5` | Claude Code · claude-opus-5-5 (rules 9852cd) | 1 | 0 | $12.17 | too young | too young | too young | 0.0% | — | A |
@@ -28,7 +29,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 42 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 22 sessions have no price (unknown model, or a price that depends on prompt size)
+- 43 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 23 sessions have no price (unknown model, or a price that depends on prompt size)
 - 21 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
