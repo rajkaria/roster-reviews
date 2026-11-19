@@ -1,7 +1,7 @@
 # Review: SMK1085/paigasus-core
 
-- Review id: `SMK1085__paigasus-core-20261116113210`
-- Created: 2026-11-16T11:32:10.760Z
+- Review id: `SMK1085__paigasus-core-20261119114745`
+- Created: 2026-11-19T11:47:45.574Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -15,8 +15,10 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `055b4933e2f5` | Claude Code · claude-opus-5[1m] | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `0f006fc2668e` | Claude Code · claude-opus-5-5 (rules 6c0639) | 1 | 0 | $25.35 | too young | too young | too young | 0.0% | — | A |
+| `2202c51d1a8f` | Claude Code · claude-opus-5-5 (rules 481b67) | 1 | 0 | $22.81 | too young | too young | too young | 0.0% | — | A |
 | `3f2ab1f9bbec` | Claude Code · claude-opus-4-8 | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `4afe92d05453` | Claude Code · claude-opus-5-5 (rules 4a0e3c) | 1 | 0 | $5.80 | too young | too young | too young | 0.0% | — | A |
+| `43245ae075e9` | Claude Code · claude-opus-5-5 (rules 467e8f) | 2 | 0 | $29.71 | too young | too young | too young | 0.0% | — | A |
+| `4afe92d05453` | Claude Code · claude-opus-5-5 (rules 4a0e3c) | 2 | 0 | $1.85 | too young | too young | too young | 50.0% | — | A |
 | `4e1eb2029fe2` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `6c64767bc61c` | Claude Code · claude-opus-4-8[1m] | 1 | 1 | unknown (0/1 priced) | 95.1% | 0.0% | 0.0% | 0.0% | — | A |
 | `8eaa1a34c7bb` | Claude Code · claude-opus-5 (rules 533770) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
@@ -27,7 +29,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 58 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 62 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 55 sessions have no price (unknown model, or a price that depends on prompt size)
 - 47 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
