@@ -1,8 +1,8 @@
 {
-  "id": "WolfSoko__wol-sok-mono-20261112112359",
+  "id": "WolfSoko__wol-sok-mono-20261119114732",
   "repo": "WolfSoko/wol-sok-mono",
-  "created_at": "2026-11-12T11:23:59.839Z",
-  "generated_at": "2026-11-12T11:23:59.839Z",
+  "created_at": "2026-11-19T11:47:32.847Z",
+  "generated_at": "2026-11-19T11:47:32.847Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -82,6 +82,25 @@
       "evidence_level": "A"
     },
     {
+      "setup_id": "c783672965c8",
+      "label": "Claude Code · claude-opus-5-5 (rules e4dd2a)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "e4dd2a66e04f6454b572dcd30839e724ef431b9e0f5d9290e84dd15b99f80827",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "spend_usd": 8.106200000000001,
+      "priced_sessions": 3,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
       "setup_id": "ca0324639e77",
       "label": "Claude Code · claude-opus-5-5 (rules unknown)",
       "harness": "Claude Code",
@@ -98,6 +117,25 @@
       "rework_human": 0,
       "surviving_changes": 0.9798657718120806,
       "cost_per_surviving_change": 0.6339839780821918,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "d435b2d12042",
+      "label": "Claude Code · claude-opus-5-5 (rules a7fc9b)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "a7fc9b9e283b985e215844502f471bc8f8a37205acdb9b3aea02d985bdf5dca8",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": 3.3292628000000004,
+      "priced_sessions": 2,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {
