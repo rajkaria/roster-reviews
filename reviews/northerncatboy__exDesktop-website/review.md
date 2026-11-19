@@ -1,7 +1,7 @@
 # Review: northerncatboy/exDesktop-website
 
-- Review id: `northerncatboy__exDesktop-website-20261118115126`
-- Created: 2026-11-18T11:51:26.696Z
+- Review id: `northerncatboy__exDesktop-website-20261119114733`
+- Created: 2026-11-19T11:47:33.309Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,11 +13,12 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `66e99877fde1` | Antigravity · unknown | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `50f535c0aba8` | Antigravity · gemini-3.8-flash-high | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `66e99877fde1` | Antigravity · unknown | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes
 
 - 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 1 sessions have no price (unknown model, or a price that depends on prompt size)
+- 2 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
