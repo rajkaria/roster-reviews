@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261119-008",
+  "repo": "jonbackhaus/meal-planner",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 44517948978,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517948978",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "0f97942ea6775f6afb8f5403f44f8b90360d5823",
+  "checkpoint_head": null,
+  "started_at": "2026-11-19T11:47:35Z",
+  "finished_at": "2026-11-19T11:48:20Z"
+}
