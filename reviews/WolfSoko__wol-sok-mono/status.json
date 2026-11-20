@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261119-003",
+  "job": "disc-20261120-006",
   "repo": "WolfSoko/wol-sok-mono",
   "outcome": "ok",
   "error": null,
-  "run_id": 44517932828,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517932828",
+  "run_id": 44730506713,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730506713",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "a14c95672baae0712c1320a5591c59bf5c8fcdd3",
+  "target_head": "59dcf68caf54bc1742fbecd0472873fc01758fc1",
   "checkpoint_head": null,
-  "started_at": "2026-11-19T11:47:28Z",
-  "finished_at": "2026-11-19T11:47:49Z"
+  "started_at": "2026-11-20T11:47:58Z",
+  "finished_at": "2026-11-20T11:48:21Z"
 }
