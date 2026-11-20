@@ -1,0 +1,34 @@
+{
+  "id": "ohcnetwork__care_fe-20261120114759",
+  "repo": "ohcnetwork/care_fe",
+  "created_at": "2026-11-20T11:47:59.581Z",
+  "generated_at": "2026-11-20T11:47:59.581Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "b26aff50994c",
+      "label": "Claude Code · claude-opus-5[1m]",
+      "harness": "Claude Code",
+      "model": "claude-opus-5[1m]",
+      "rules_hash": "0e67dab1c96518531e4dfe7a216013c8d1db01bfb36c15fe4696de198560f9cc",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261120-002",
+  "repo": "ohcnetwork/care_fe",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 44730495957,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730495957",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "214de627ad12a333bc06e8c050c95e86e27cd146",
+  "checkpoint_head": null,
+  "started_at": "2026-11-20T11:47:54Z",
+  "finished_at": "2026-11-20T11:48:07Z"
+}
