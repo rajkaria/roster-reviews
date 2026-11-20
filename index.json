@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-20T11:48:16.092Z",
+  "generated_at": "2026-11-20T11:48:18.398Z",
   "reviews": [
+    {
+      "repo": "AkshayGuleria/cricketjyvaskyla",
+      "slug": "AkshayGuleria__cricketjyvaskyla",
+      "href": "/r/AkshayGuleria/cricketjyvaskyla",
+      "outcome": "ok",
+      "generated_at": "2026-11-20T11:48:04.034Z",
+      "finished_at": "2026-11-20T11:48:18Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730511974",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2f37f3469172",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 2.3917595,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Kavanio/RecordAgent",
       "slug": "Kavanio__RecordAgent",

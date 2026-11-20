@@ -1,0 +1,13 @@
+{
+  "job": "disc-20261120-008",
+  "repo": "AkshayGuleria/cricketjyvaskyla",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 44730511974,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730511974",
+  "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
+  "target_head": "493ac5cf64e807cd7128f02005ae4177b079b0a2",
+  "checkpoint_head": null,
+  "started_at": "2026-11-20T11:48:00Z",
+  "finished_at": "2026-11-20T11:48:18Z"
+}
