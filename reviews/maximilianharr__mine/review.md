@@ -1,0 +1,23 @@
+# Review: maximilianharr/mine
+
+- Review id: `maximilianharr__mine-20261120114803`
+- Created: 2026-11-20T11:48:03.597Z
+- Entire data: yes
+- Evidence level: A (observational)
+- Label: `insufficient_data`
+- Suspect: none
+
+No suspect call: no setup has ≥ 8 mature sessions.
+
+## Setups
+
+| Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
+| `057d7b99dfc3` | Claude Code · claude-opus-5 | 4 | 2 | unknown (0/4 priced) | 33.2% | 100.0% | 0.0% | 25.0% | — | A |
+
+## Notes
+
+- 2 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 4 sessions have no price (unknown model, or a price that depends on prompt size)
+- 0 sessions have no setup because their rules hash is unknown
+- suspect call: no setup has ≥ 8 mature sessions
