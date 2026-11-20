@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-20T11:48:36.415Z",
+  "generated_at": "2026-11-20T11:48:42.053Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-20T11:48:10.822Z",
+      "finished_at": "2026-11-20T11:48:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730519579",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "chrisdoc/surveybeat-next",
       "slug": "chrisdoc__surveybeat-next",
@@ -2236,19 +2249,6 @@
           "cost_per_surviving_change": 1.8852701324805476
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-18T11:51:42.545Z",
-      "finished_at": "2026-11-18T11:52:13Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298469798",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "sepantasaadat/psychology_bot",
