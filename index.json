@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-20T11:48:22.703Z",
+  "generated_at": "2026-11-20T11:48:26.751Z",
   "reviews": [
+    {
+      "repo": "SahidGit/git-explore",
+      "slug": "SahidGit__git-explore",
+      "href": "/r/SahidGit/git-explore",
+      "outcome": "ok",
+      "generated_at": "2026-11-20T11:48:11.344Z",
+      "finished_at": "2026-11-20T11:48:26Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730521776",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9151670951156813,
+          "surviving_changes": 1.8303341902313626,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -18519,32 +18545,6 @@
           "spend_usd": null,
           "survival": 0.7955974842767296,
           "surviving_changes": 0.7955974842767296,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "SahidGit/git-explore",
-      "slug": "SahidGit__git-explore",
-      "href": "/r/SahidGit/git-explore",
-      "outcome": "ok",
-      "generated_at": "2026-10-22T08:42:04.725Z",
-      "finished_at": "2026-10-22T08:42:19Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39749681897",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.9151670951156813,
-          "surviving_changes": 1.8303341902313626,
           "cost_per_surviving_change": null
         }
       ]
