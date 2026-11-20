@@ -1,8 +1,8 @@
 {
-  "id": "ta93abe__me-20261119114739",
+  "id": "ta93abe__me-20261120114808",
   "repo": "ta93abe/me",
-  "created_at": "2026-11-19T11:47:39.381Z",
-  "generated_at": "2026-11-19T11:47:39.381Z",
+  "created_at": "2026-11-20T11:48:08.241Z",
+  "generated_at": "2026-11-20T11:48:08.241Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -36,10 +36,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.22058823529411764,
+      "survival": 0.22549019607843138,
       "reverted": 1,
       "rework_human": 0.5167173252279635,
-      "surviving_changes": 0.22058823529411764,
+      "surviving_changes": 0.22549019607843138,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },

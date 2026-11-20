@@ -1,7 +1,7 @@
 # Review: ta93abe/me
 
-- Review id: `ta93abe__me-20261119114739`
-- Created: 2026-11-19T11:47:39.381Z
+- Review id: `ta93abe__me-20261120114808`
+- Created: 2026-11-20T11:48:08.241Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -14,7 +14,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `3152ffc21340` | Claude Code · claude-fable-5 | 1 | 1 | unknown (0/1 priced) | 76.9% | 0.0% | 14.8% | 0.0% | — | A |
-| `47e49d385727` | Claude Code · unknown | 1 | 1 | unknown (0/1 priced) | 22.1% | 100.0% | 51.7% | 0.0% | — | A |
+| `47e49d385727` | Claude Code · unknown | 1 | 1 | unknown (0/1 priced) | 22.5% | 100.0% | 51.7% | 0.0% | — | A |
 | `5b2b1e537406` | Codex · gpt-5.5 | 1 | 1 | unknown (0/1 priced) | 50.0% | 100.0% | 75.0% | 0.0% | — | A |
 | `69fe34ad9e30` | Claude Code · claude-sonnet-4-6 | 1 | 1 | unknown (0/1 priced) | 95.8% | 0.0% | 1.9% | 0.0% | — | A |
 | `6b468a41bf53` | Claude Code · claude-opus-4-8[1m] | 3 | 3 | unknown (0/3 priced) | 28.2% | 33.3% | 21.6% | 0.0% | — | A |
