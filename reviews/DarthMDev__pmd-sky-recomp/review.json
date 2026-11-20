@@ -1,8 +1,8 @@
 {
-  "id": "DarthMDev__pmd-sky-recomp-20261113110703",
+  "id": "DarthMDev__pmd-sky-recomp-20261120114800",
   "repo": "DarthMDev/pmd-sky-recomp",
-  "created_at": "2026-11-13T11:07:03.941Z",
-  "generated_at": "2026-11-13T11:07:03.941Z",
+  "created_at": "2026-11-20T11:48:00.135Z",
+  "generated_at": "2026-11-20T11:48:00.135Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -40,6 +40,25 @@
       "reverted": 0,
       "rework_human": 0.1781931477627022,
       "surviving_changes": 4.097386613524277,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "a0009372acd1",
+      "label": "Antigravity · gemini-pro-orchestrator-g1-pro",
+      "harness": "Antigravity",
+      "model": "gemini-pro-orchestrator-g1-pro",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }

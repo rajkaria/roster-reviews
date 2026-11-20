@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261113-009",
+  "job": "disc-20261120-005",
   "repo": "DarthMDev/pmd-sky-recomp",
   "outcome": "ok",
   "error": null,
-  "run_id": 43414405846,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43414405846",
+  "run_id": 44730503878,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730503878",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "f872f20eea442a0e2aa5e2dd9c0dcf20a0387b0f",
+  "target_head": "95284d1173f62ef5b773c4750efd8e03fe9b774d",
   "checkpoint_head": null,
-  "started_at": "2026-11-13T11:06:56Z",
-  "finished_at": "2026-11-13T11:07:08Z"
+  "started_at": "2026-11-20T11:47:56Z",
+  "finished_at": "2026-11-20T11:48:03Z"
 }

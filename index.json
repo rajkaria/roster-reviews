@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-19T11:48:23.543Z",
+  "generated_at": "2026-11-20T11:48:03.984Z",
   "reviews": [
+    {
+      "repo": "DarthMDev/pmd-sky-recomp",
+      "slug": "DarthMDev__pmd-sky-recomp",
+      "href": "/r/DarthMDev/pmd-sky-recomp",
+      "outcome": "ok",
+      "generated_at": "2026-11-20T11:48:00.135Z",
+      "finished_at": "2026-11-20T11:48:03Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730503878",
+      "label": "insufficient_data",
+      "sessions": 9,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 2,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9424342105263158,
+          "surviving_changes": 0.9424342105263158,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 5,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.8194773227048554,
+          "surviving_changes": 4.097386613524277,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a0009372acd1",
+          "label": "Antigravity · gemini-pro-orchestrator-g1-pro",
+          "harness": "Antigravity",
+          "model": "gemini-pro-orchestrator-g1-pro",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "SMK1085/paigasus-core",
       "slug": "SMK1085__paigasus-core",
@@ -7486,44 +7536,6 @@
           "spend_usd": 58.22687000000001,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "DarthMDev/pmd-sky-recomp",
-      "slug": "DarthMDev__pmd-sky-recomp",
-      "href": "/r/DarthMDev/pmd-sky-recomp",
-      "outcome": "ok",
-      "generated_at": "2026-11-13T11:07:03.941Z",
-      "finished_at": "2026-11-13T11:07:08Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43414405846",
-      "label": "insufficient_data",
-      "sessions": 7,
-      "mature_sessions": 6,
-      "setups": [
-        {
-          "setup_id": "64bbc9f14c5d",
-          "label": "Codex · gpt-6-luna",
-          "harness": "Codex",
-          "model": "gpt-6-luna",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9424342105263158,
-          "surviving_changes": 0.9424342105263158,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 0.8194773227048554,
-          "surviving_changes": 4.097386613524277,
           "cost_per_surviving_change": null
         }
       ]
