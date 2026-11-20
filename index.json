@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-20T11:48:21.112Z",
+  "generated_at": "2026-11-20T11:48:22.703Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-11-20T11:48:20.151Z",
+      "finished_at": "2026-11-20T11:48:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730527455",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "WolfSoko/wol-sok-mono",
       "slug": "WolfSoko__wol-sok-mono",
@@ -1261,32 +1287,6 @@
           "spend_usd": null,
           "survival": 0.8971914323190683,
           "surviving_changes": 6.280340026233478,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-11-19T11:47:47.997Z",
-      "finished_at": "2026-11-19T11:47:55Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44517971679",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
           "cost_per_surviving_change": null
         }
       ]
