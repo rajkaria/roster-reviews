@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261105-022",
+  "job": "disc-20261121-018",
   "repo": "integrio-intropy/intropy-cli",
   "outcome": "ok",
   "error": null,
-  "run_id": 42015640915,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015640915",
+  "run_id": 44898074998,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898074998",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "02facdbfbeff69325c6b983552f8c9f9800d5201",
-  "checkpoint_head": "9b2cb55cec445d3a94adbcccef7349decfa3cc9e",
-  "started_at": "2026-11-05T11:02:29Z",
-  "finished_at": "2026-11-05T11:02:53Z"
+  "target_head": "8496713595f5df4c781824879224eb2a32f6c7e4",
+  "checkpoint_head": "bbe3d651ba866d6f769c470c0e69973c5d2cee81",
+  "started_at": "2026-11-21T11:13:33Z",
+  "finished_at": "2026-11-21T11:13:52Z"
 }
