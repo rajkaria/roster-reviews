@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-20T11:48:42.053Z",
+  "generated_at": "2026-11-21T11:13:24.805Z",
   "reviews": [
+    {
+      "repo": "kernelKain/chesspulse",
+      "slug": "kernelKain__chesspulse",
+      "href": "/r/kernelKain/chesspulse",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:22.602Z",
+      "finished_at": "2026-11-21T11:13:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898056443",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "257d6af296bd",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6cfac0cfd398",
+          "label": "Cursor · gemini-4-neon-high",
+          "harness": "Cursor",
+          "model": "gemini-4-neon-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "70761cd63ca7",
+          "label": "Cursor · unknown",
+          "harness": "Cursor",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
