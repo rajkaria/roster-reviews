@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-21T11:13:28.112Z",
+  "generated_at": "2026-11-21T11:13:32.046Z",
   "reviews": [
+    {
+      "repo": "TheFridey/ScaleSmiths",
+      "slug": "TheFridey__ScaleSmiths",
+      "href": "/r/TheFridey/ScaleSmiths",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:24.722Z",
+      "finished_at": "2026-11-21T11:13:32Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898050104",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "df2a87745251",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 85.6731316,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "DarthMDev/pmd-sky-recomp",
       "slug": "DarthMDev__pmd-sky-recomp",
