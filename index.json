@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-21T11:13:40.677Z",
+  "generated_at": "2026-11-21T11:13:42.281Z",
   "reviews": [
+    {
+      "repo": "danielm5/tiffcraft",
+      "slug": "danielm5__tiffcraft",
+      "href": "/r/danielm5/tiffcraft",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:37.620Z",
+      "finished_at": "2026-11-21T11:13:42Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898073595",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "1d3a8c9141a9",
+          "label": "OpenCode · hy4-flash-free",
+          "harness": "OpenCode",
+          "model": "hy4-flash-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c62e7560b962",
+          "label": "OpenCode · flint-40b-free",
+          "harness": "OpenCode",
+          "model": "flint-40b-free",
+          "sessions": 5,
+          "mature_sessions": 3,
+          "spend_usd": null,
+          "survival": 0.980952380952381,
+          "surviving_changes": 2.942857142857143,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d9d62bb5ec7b",
+          "label": "OpenCode · beam-free",
+          "harness": "OpenCode",
+          "model": "beam-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "RyanPeters06/mustang-city",
       "slug": "RyanPeters06__mustang-city",
@@ -1396,44 +1446,6 @@
           "spend_usd": null,
           "survival": 0.36585365853658536,
           "surviving_changes": 0.36585365853658536,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "danielm5/tiffcraft",
-      "slug": "danielm5__tiffcraft",
-      "href": "/r/danielm5/tiffcraft",
-      "outcome": "ok",
-      "generated_at": "2026-11-20T11:48:06.167Z",
-      "finished_at": "2026-11-20T11:48:09Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730514744",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "c62e7560b962",
-          "label": "OpenCode · flint-40b-free",
-          "harness": "OpenCode",
-          "model": "flint-40b-free",
-          "sessions": 5,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9428571428571428,
-          "surviving_changes": 0.9428571428571428,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "d9d62bb5ec7b",
-          "label": "OpenCode · beam-free",
-          "harness": "OpenCode",
-          "model": "beam-free",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]

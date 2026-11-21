@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261120-009",
+  "job": "disc-20261121-017",
   "repo": "danielm5/tiffcraft",
   "outcome": "ok",
   "error": null,
-  "run_id": 44730514744,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730514744",
+  "run_id": 44898073595,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898073595",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "d934a81d2d40d43e444a90b54fe48af12e2f710c",
+  "target_head": "95f48168b188bcce6849c79629d27fd99641dc2a",
   "checkpoint_head": null,
-  "started_at": "2026-11-20T11:48:02Z",
-  "finished_at": "2026-11-20T11:48:09Z"
+  "started_at": "2026-11-21T11:13:32Z",
+  "finished_at": "2026-11-21T11:13:42Z"
 }
