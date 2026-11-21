@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-21T11:13:36.117Z",
+  "generated_at": "2026-11-21T11:13:37.586Z",
   "reviews": [
+    {
+      "repo": "sepantasaadat/psychology_bot",
+      "slug": "sepantasaadat__psychology_bot",
+      "href": "/r/sepantasaadat/psychology_bot",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:30.106Z",
+      "finished_at": "2026-11-21T11:13:37Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898064935",
+      "label": "no_suspect",
+      "sessions": 11,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "50f535c0aba8",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 10,
+          "mature_sessions": 10,
+          "spend_usd": null,
+          "survival": 0.8409636953094901,
+          "surviving_changes": 8.409636953094902,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9242174629324547,
+          "surviving_changes": 0.9242174629324547,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "maximepatry/k8s-homelab",
       "slug": "maximepatry__k8s-homelab",
@@ -2373,44 +2411,6 @@
           "survival": 0.6786120054695907,
           "surviving_changes": 7.464732060165497,
           "cost_per_surviving_change": 1.8852701324805476
-        }
-      ]
-    },
-    {
-      "repo": "sepantasaadat/psychology_bot",
-      "slug": "sepantasaadat__psychology_bot",
-      "href": "/r/sepantasaadat/psychology_bot",
-      "outcome": "ok",
-      "generated_at": "2026-11-18T11:51:28.184Z",
-      "finished_at": "2026-11-18T11:52:10Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298442252",
-      "label": "no_suspect",
-      "sessions": 11,
-      "mature_sessions": 11,
-      "setups": [
-        {
-          "setup_id": "50f535c0aba8",
-          "label": "Antigravity · gemini-3.8-flash-high",
-          "harness": "Antigravity",
-          "model": "gemini-3.8-flash-high",
-          "sessions": 10,
-          "mature_sessions": 10,
-          "spend_usd": null,
-          "survival": 0.8437256335473124,
-          "surviving_changes": 8.437256335473124,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9242174629324547,
-          "surviving_changes": 0.9242174629324547,
-          "cost_per_surviving_change": null
         }
       ]
     },
