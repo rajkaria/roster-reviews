@@ -1,7 +1,7 @@
 # Review: petercr/jev-orchestrator
 
-- Review id: `petercr__jev-orchestrator-20261111110543`
-- Created: 2026-11-11T11:05:43.566Z
+- Review id: `petercr__jev-orchestrator-20261121111333`
+- Created: 2026-11-21T11:13:33.035Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -18,9 +18,10 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `1593e4ec5ef9` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 86.4% | 0.0% | 16.3% | 0.0% | — | A |
 | `2d85e4310da1` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 95.5% | 0.0% | 5.4% | 100.0% | — | A |
 | `308b61c6d44f` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 99.3% | 0.0% | 2.3% | 50.0% | — | A |
-| `47e087a8d541` | Codex · gpt-6.1-sol (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `47e087a8d541` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 2.8% | 0.0% | — | A |
+| `4e1feaaad309` | Codex · gpt-6.2-sol | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `4e21faaa6348` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 95.8% | 0.0% | 3.2% | 0.0% | — | A |
-| `7a76fe841202` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 94.4% | 0.0% | 0.8% | 50.0% | — | A |
+| `7a76fe841202` | Codex · gpt-6.1-sol (rules unknown) | 2 | 2 | unknown (0/2 priced) | 94.2% | 0.0% | 1.1% | 50.0% | — | A |
 | `8fccdcfb3fa6` | Codex · gpt-6-luna (rules unknown) | 1 | 1 | unknown (0/1 priced) | 41.9% | 100.0% | 58.0% | 100.0% | — | A |
 | `a39cc49ab51e` | Codex · gpt-6.1-sol (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.9% | 0.0% | 7.4% | 0.0% | — | A |
 | `aa663c1fb61f` | Codex · gpt-6-luna (rules unknown) | 1 | 1 | unknown (0/1 priced) | 95.5% | 0.0% | 5.4% | 100.0% | — | A |
@@ -29,7 +30,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 1 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 15 sessions have no price (unknown model, or a price that depends on prompt size)
-- 0 sessions have no setup because their rules hash is unknown
+- 2 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 17 sessions have no price (unknown model, or a price that depends on prompt size)
+- 1 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
