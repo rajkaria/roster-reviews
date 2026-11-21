@@ -1,7 +1,7 @@
 # Review: gkeyllorg/postgkyl
 
-- Review id: `gkeyllorg__postgkyl-20261119114746`
-- Created: 2026-11-19T11:47:46.066Z
+- Review id: `gkeyllorg__postgkyl-20261121111344`
+- Created: 2026-11-21T11:13:44.577Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `no_suspect`
@@ -21,7 +21,7 @@ No setup is flagged: no setup with ≥ 8 mature sessions has a difficulty-matche
 | `749fbe9c72b9` | Codex · gpt-6-astra (rules unknown) | 2 | 2 | $3.54 | 47.9% | 0.0% | 9.7% | 0.0% | $3.69 | A |
 | `880e8b2d28af` | Codex · gpt-6-astra (rules unknown) | 11 | 11 | $38.12 | 79.7% | 0.0% | 4.7% | 27.3% | $4.35 | A |
 | `a424ac4c98e0` | Codex · gpt-6-astra (rules unknown) | 6 | 6 | $13.51 | 30.0% | 0.0% | 1.8% | 0.0% | $7.50 | A |
-| `c4da1686a163` | Codex · gpt-5.6-sol (rules unknown) | 3 | 3 | unknown (0/3 priced) | 89.3% | 0.0% | 1.2% | 0.0% | — | A |
+| `c4da1686a163` | Codex · gpt-5.6-sol (rules unknown) | 3 | 3 | unknown (0/3 priced) | 88.5% | 0.0% | 1.2% | 0.0% | — | A |
 
 ## Notes
 
