@@ -1,7 +1,7 @@
 # Review: SMK1085/paigasus-core
 
-- Review id: `SMK1085__paigasus-core-20261119114745`
-- Created: 2026-11-19T11:47:45.574Z
+- Review id: `SMK1085__paigasus-core-20261121111330`
+- Created: 2026-11-21T11:13:30.310Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -17,11 +17,13 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `0f006fc2668e` | Claude Code · claude-opus-5-5 (rules 6c0639) | 1 | 0 | $25.35 | too young | too young | too young | 0.0% | — | A |
 | `2202c51d1a8f` | Claude Code · claude-opus-5-5 (rules 481b67) | 1 | 0 | $22.81 | too young | too young | too young | 0.0% | — | A |
 | `3f2ab1f9bbec` | Claude Code · claude-opus-4-8 | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `43245ae075e9` | Claude Code · claude-opus-5-5 (rules 467e8f) | 2 | 0 | $29.71 | too young | too young | too young | 0.0% | — | A |
+| `43245ae075e9` | Claude Code · claude-opus-5-5 (rules 467e8f) | 3 | 0 | $36.90 | too young | too young | too young | 0.0% | — | A |
 | `4afe92d05453` | Claude Code · claude-opus-5-5 (rules 4a0e3c) | 2 | 0 | $1.85 | too young | too young | too young | 50.0% | — | A |
 | `4e1eb2029fe2` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `6c64767bc61c` | Claude Code · claude-opus-4-8[1m] | 1 | 1 | unknown (0/1 priced) | 95.1% | 0.0% | 0.0% | 0.0% | — | A |
 | `8eaa1a34c7bb` | Claude Code · claude-opus-5 (rules 533770) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `99cf5f31a6a3` | Claude Code · claude-opus-5-5 (rules d57eca) | 1 | 0 | $19.72 | too young | too young | too young | 0.0% | — | A |
+| `b6292e8d43b8` | Claude Code · claude-opus-5-5 (rules c40577) | 1 | 0 | $7.15 | too young | too young | too young | 0.0% | — | A |
 | `bf4789fabb5e` | Claude Code · claude-opus-5 (rules 38863e) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `c2bb17dd4f0a` | Claude Code · claude-opus-5-5 (rules c074b5) | 3 | 0 | $24.30 | too young | too young | too young | 0.0% | — | A |
 | `d1f1a7550aa2` | Claude Code · claude-opus-5 (rules 45cce8) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
@@ -29,7 +31,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 62 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 65 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 55 sessions have no price (unknown model, or a price that depends on prompt size)
 - 47 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
