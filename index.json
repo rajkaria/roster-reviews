@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-21T11:13:42.281Z",
+  "generated_at": "2026-11-21T11:13:43.949Z",
   "reviews": [
+    {
+      "repo": "ohcnetwork/care_fe",
+      "slug": "ohcnetwork__care_fe",
+      "href": "/r/ohcnetwork/care_fe",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:37.761Z",
+      "finished_at": "2026-11-21T11:13:43Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898076532",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "b26aff50994c",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "danielm5/tiffcraft",
       "slug": "danielm5__tiffcraft",
@@ -1446,32 +1472,6 @@
           "spend_usd": null,
           "survival": 0.36585365853658536,
           "surviving_changes": 0.36585365853658536,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "ohcnetwork/care_fe",
-      "slug": "ohcnetwork__care_fe",
-      "href": "/r/ohcnetwork/care_fe",
-      "outcome": "ok",
-      "generated_at": "2026-11-20T11:47:59.581Z",
-      "finished_at": "2026-11-20T11:48:07Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730495957",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "b26aff50994c",
-          "label": "Claude Code · claude-opus-5[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-5[1m]",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
