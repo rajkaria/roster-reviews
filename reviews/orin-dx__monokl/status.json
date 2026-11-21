@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261116-005",
+  "job": "disc-20261121-009",
   "repo": "orin-dx/monokl",
   "outcome": "ok",
   "error": null,
-  "run_id": 43858540786,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858540786",
+  "run_id": 44898062129,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898062129",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "701adec89df55eacfaf2c90046f56072a7d604ed",
+  "target_head": "ea1e4dd459a1b2c7dde1afc5cbc5e1570e19fb19",
   "checkpoint_head": null,
-  "started_at": "2026-11-16T11:31:45Z",
-  "finished_at": "2026-11-16T11:39:44Z"
+  "started_at": "2026-11-21T11:13:22Z",
+  "finished_at": "2026-11-21T11:19:27Z"
 }

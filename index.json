@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-21T11:17:31.098Z",
+  "generated_at": "2026-11-21T11:19:27.555Z",
   "reviews": [
+    {
+      "repo": "orin-dx/monokl",
+      "slug": "orin-dx__monokl",
+      "href": "/r/orin-dx/monokl",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:26.712Z",
+      "finished_at": "2026-11-21T11:19:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898062129",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "0c0d6f847398",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.25552968568102447,
+          "surviving_changes": 0.25552968568102447,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "dbae669f990a",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 336.9630144,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 336.9630144
+        }
+      ]
+    },
     {
       "repo": "orin-dx/michi",
       "slug": "orin-dx__michi",
@@ -5257,44 +5295,6 @@
           "survival": 0.95,
           "surviving_changes": 0.95,
           "cost_per_surviving_change": 8.962688421052633
-        }
-      ]
-    },
-    {
-      "repo": "orin-dx/monokl",
-      "slug": "orin-dx__monokl",
-      "href": "/r/orin-dx/monokl",
-      "outcome": "ok",
-      "generated_at": "2026-11-16T11:31:49.861Z",
-      "finished_at": "2026-11-16T11:39:44Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858540786",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "0c0d6f847398",
-          "label": "Claude Code · claude-sonnet-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.25552968568102447,
-          "surviving_changes": 0.25552968568102447,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "dbae669f990a",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 323.5310028,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 323.5310028
         }
       ]
     },
