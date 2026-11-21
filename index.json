@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21T11:13:55.918Z",
+  "generated_at": "2026-11-21T11:13:57.916Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:31.681Z",
+      "finished_at": "2026-11-21T11:13:57Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898066246",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "biswas-dev/taskai",
       "slug": "biswas-dev__taskai",
@@ -1164,19 +1177,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-20T11:48:10.822Z",
-      "finished_at": "2026-11-20T11:48:42Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730519579",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "chrisdoc/surveybeat-next",
