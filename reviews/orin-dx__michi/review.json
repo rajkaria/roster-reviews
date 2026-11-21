@@ -1,8 +1,8 @@
 {
-  "id": "orin-dx__michi-20261112112353",
+  "id": "orin-dx__michi-20261121111325",
   "repo": "orin-dx/michi",
-  "created_at": "2026-11-12T11:23:53.174Z",
-  "generated_at": "2026-11-12T11:23:53.174Z",
+  "created_at": "2026-11-21T11:13:25.397Z",
+  "generated_at": "2026-11-21T11:13:25.397Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,6 +17,25 @@
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 1,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "13c50cfb184d",
+      "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": 11.3256422,
+      "priced_sessions": 1,
+      "spend_lower_bound": false,
+      "unattended": 0,
       "survival": null,
       "reverted": null,
       "rework_human": null,
@@ -98,6 +117,25 @@
       "rework_human": 0,
       "surviving_changes": 0,
       "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "b04b4b35833f",
+      "label": "Claude Code · claude-sonnet-5-5",
+      "harness": "Claude Code",
+      "model": "claude-sonnet-5-5",
+      "rules_hash": "5bc410c06f67a694804fb1886785369b8dbb921663562ccc1e78a2ac3506eb4a",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "spend_usd": 20.8667161,
+      "priced_sessions": 2,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.526984126984127,
+      "reverted": 0.5,
+      "rework_human": 0.42857142857142855,
+      "surviving_changes": 1.053968253968254,
+      "cost_per_surviving_change": 19.79823967319277,
       "evidence_level": "A"
     }
   ],
