@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-21T11:13:24.805Z",
+  "generated_at": "2026-11-21T11:13:28.112Z",
   "reviews": [
+    {
+      "repo": "DarthMDev/pmd-sky-recomp",
+      "slug": "DarthMDev__pmd-sky-recomp",
+      "href": "/r/DarthMDev/pmd-sky-recomp",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:23.033Z",
+      "finished_at": "2026-11-21T11:13:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898058242",
+      "label": "insufficient_data",
+      "sessions": 11,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "2c0dd9b5d259",
+          "label": "Antigravity · gemini-4-hydrogen-medium",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "64bbc9f14c5d",
+          "label": "Codex · gpt-6-luna",
+          "harness": "Codex",
+          "model": "gpt-6-luna",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9637280701754386,
+          "surviving_changes": 1.9274561403508772,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7ca3385bdc7b",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 6,
+          "mature_sessions": 5,
+          "spend_usd": null,
+          "survival": 0.7868153087467297,
+          "surviving_changes": 3.9340765437336485,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "a0009372acd1",
+          "label": "Antigravity · gemini-pro-orchestrator-g1-pro",
+          "harness": "Antigravity",
+          "model": "gemini-pro-orchestrator-g1-pro",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "kernelKain/chesspulse",
       "slug": "kernelKain__chesspulse",
@@ -1296,56 +1358,6 @@
           "spend_usd": null,
           "survival": 0.3322314757896728,
           "surviving_changes": 0.6644629515793457,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "DarthMDev/pmd-sky-recomp",
-      "slug": "DarthMDev__pmd-sky-recomp",
-      "href": "/r/DarthMDev/pmd-sky-recomp",
-      "outcome": "ok",
-      "generated_at": "2026-11-20T11:48:00.135Z",
-      "finished_at": "2026-11-20T11:48:03Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44730503878",
-      "label": "insufficient_data",
-      "sessions": 9,
-      "mature_sessions": 6,
-      "setups": [
-        {
-          "setup_id": "64bbc9f14c5d",
-          "label": "Codex · gpt-6-luna",
-          "harness": "Codex",
-          "model": "gpt-6-luna",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9424342105263158,
-          "surviving_changes": 0.9424342105263158,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "7ca3385bdc7b",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 5,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 0.8194773227048554,
-          "surviving_changes": 4.097386613524277,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "a0009372acd1",
-          "label": "Antigravity · gemini-pro-orchestrator-g1-pro",
-          "harness": "Antigravity",
-          "model": "gemini-pro-orchestrator-g1-pro",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
