@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-11-21T11:13:52.791Z",
+  "generated_at": "2026-11-21T11:13:55.918Z",
   "reviews": [
+    {
+      "repo": "biswas-dev/taskai",
+      "slug": "biswas-dev__taskai",
+      "href": "/r/biswas-dev/taskai",
+      "outcome": "ok",
+      "generated_at": "2026-11-21T11:13:34.829Z",
+      "finished_at": "2026-11-21T11:13:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898070432",
+      "label": "no_suspect",
+      "sessions": 23,
+      "mature_sessions": 22,
+      "setups": [
+        {
+          "setup_id": "266ee30b79d4",
+          "label": "Claude Code · claude-opus-5-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 31.582025400000003,
+          "survival": 0.8481141692150866,
+          "surviving_changes": 0.8481141692150866,
+          "cost_per_surviving_change": 37.23794100649039
+        },
+        {
+          "setup_id": "5d47ed832a5e",
+          "label": "Claude Code · claude-sonnet-4-5-20250929",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-5-20250929",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9759775138848042,
+          "surviving_changes": 1.9519550277696085,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "77ff76d8ceaa",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 10.5859606,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ab91f254d447",
+          "label": "Claude Code · claude-opus-4-6[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6[1m]",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.42970529907716487,
+          "surviving_changes": 3.007937093540154,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b70d8a8d1b95",
+          "label": "Claude Code · claude-fable-5-1",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-1",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "d358ae17c46f",
+          "label": "Claude Code · claude-opus-4-7[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7[1m]",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.7956989247311828,
+          "surviving_changes": 1.5913978494623655,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "e9b48cc262bb",
+          "label": "Claude Code · claude-opus-4-6",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6",
+          "sessions": 8,
+          "mature_sessions": 8,
+          "spend_usd": null,
+          "survival": 0.65277975947819,
+          "surviving_changes": 5.22223807582552,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ee19ce7f4185",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8827694728560189,
+          "surviving_changes": 0.8827694728560189,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "integrio-intropy/intropy-cli",
       "slug": "integrio-intropy__intropy-cli",
