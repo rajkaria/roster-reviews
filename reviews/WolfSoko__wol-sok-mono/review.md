@@ -1,7 +1,7 @@
 # Review: WolfSoko/wol-sok-mono
 
-- Review id: `WolfSoko__wol-sok-mono-20261121111325`
-- Created: 2026-11-21T11:13:25.277Z
+- Review id: `WolfSoko__wol-sok-mono-20261122113239`
+- Created: 2026-11-22T11:32:39.926Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -17,8 +17,9 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `127a8cdfa4f0` | Claude Code · claude-opus-5-5 (rules b460a5) | 1 | 0 | $3.35 | too young | too young | too young | 0.0% | — | A |
 | `35e0ef0d0a7c` | Claude Code · claude-opus-5-5 (rules df466c) | 1 | 0 | $19.66 | too young | too young | too young | 0.0% | — | A |
 | `4623b2932862` | Claude Code · claude-opus-5-5 (rules 1d455c) | 1 | 0 | $3.85 | too young | too young | too young | 0.0% | — | A |
+| `46d9ef02c0f0` | Claude Code · claude-opus-5-5 (rules 39e7b7) | 6 | 1 | $41.66 | 100.0% | 0.0% | 0.0% | 0.0% | $2.53 | A |
 | `53dbaa4b749e` | Claude Code · claude-opus-5-5 (rules a189b2) | 1 | 0 | $5.00 | too young | too young | too young | 0.0% | — | A |
-| `671397f279bc` | Claude Code · claude-opus-5-5 (rules 572ffc) | 4 | 1 | $19.43 | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
+| `671397f279bc` | Claude Code · claude-opus-5-5 (rules 572ffc) | 4 | 0 | $19.43 | too young | too young | too young | 0.0% | — | A |
 | `9a748b7c2bf5` | Claude Code · claude-opus-5-5 (rules 5e0494) | 2 | 0 | $8.63 | too young | too young | too young | 0.0% | — | A |
 | `a8dec4d69917` | Claude Code · claude-opus-5-5 (rules 93917f) | 1 | 0 | $4.47 | too young | too young | too young | 0.0% | — | A |
 | `addf2f52d0e3` | Claude Code · claude-opus-5-5 (rules 8e0bf5) | 1 | 1 | $0.86 | 100.0% | 0.0% | 0.0% | 0.0% | $0.86 | A |
@@ -31,7 +32,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 ## Notes
 
-- 20 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 26 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 0 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
