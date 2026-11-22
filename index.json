@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:32:57.015Z",
+  "generated_at": "2026-11-22T11:32:58.950Z",
   "reviews": [
+    {
+      "repo": "abdul-cl/hackwestern26",
+      "slug": "abdul-cl__hackwestern26",
+      "href": "/r/abdul-cl/hackwestern26",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:45.354Z",
+      "finished_at": "2026-11-22T11:32:58Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017839360",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 2,
+          "spend_usd": 61.284693000000004,
+          "survival": 0.9536585365853658,
+          "surviving_changes": 1.9073170731707316,
+          "cost_per_surviving_change": 25.44877340153453
+        }
+      ]
+    },
     {
       "repo": "lindaeq/BrightEye",
       "slug": "lindaeq__BrightEye",
