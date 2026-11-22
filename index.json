@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-22T11:32:49.141Z",
+  "generated_at": "2026-11-22T11:32:51.809Z",
   "reviews": [
+    {
+      "repo": "amjadsaadeh/musicrs",
+      "slug": "amjadsaadeh__musicrs",
+      "href": "/r/amjadsaadeh/musicrs",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:48.656Z",
+      "finished_at": "2026-11-22T11:32:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017840936",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "0b9a7716be31",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.0185088,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "10d51e6cb182",
+          "label": "Claude Code · claude-opus-5-5 (rules e5df55)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 3.9735008,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 2.8916206,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "5d714ec0749a",
+          "label": "Claude Code · claude-opus-5-5 (rules 0a1676)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.7237598,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c88e0f57dcce",
+          "label": "Claude Code · claude-opus-5-5 (rules 041dba)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.5672884,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "llLucidll/VEGA",
       "slug": "llLucidll__VEGA",
