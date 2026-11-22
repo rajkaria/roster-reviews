@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:32:55.776Z",
+  "generated_at": "2026-11-22T11:32:57.015Z",
   "reviews": [
+    {
+      "repo": "lindaeq/BrightEye",
+      "slug": "lindaeq__BrightEye",
+      "href": "/r/lindaeq/BrightEye",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:51.114Z",
+      "finished_at": "2026-11-22T11:32:56Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017845696",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "50f535c0aba8",
+          "label": "Antigravity · gemini-3.8-flash-high",
+          "harness": "Antigravity",
+          "model": "gemini-3.8-flash-high",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.5525599802127134,
+          "surviving_changes": 0.5525599802127134,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Blaise1030/orso",
       "slug": "Blaise1030__orso",
