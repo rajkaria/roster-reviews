@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-22T11:33:00.322Z",
+  "generated_at": "2026-11-22T11:33:03.788Z",
   "reviews": [
+    {
+      "repo": "TheFridey/ScaleSmiths",
+      "slug": "TheFridey__ScaleSmiths",
+      "href": "/r/TheFridey/ScaleSmiths",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:44.518Z",
+      "finished_at": "2026-11-22T11:33:03Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017837848",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "041bb19d473b",
+          "label": "Claude Code · claude-opus-5-5 (rules d743ab)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 9.0953368,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "df2a87745251",
+          "label": "Claude Code · claude-opus-5-5 (rules 9f6369)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 162.79208060000002,
+          "survival": 0.9991474850809889,
+          "surviving_changes": 2.997442455242967,
+          "cost_per_surviving_change": 54.310327230887374
+        }
+      ]
+    },
     {
       "repo": "e-yang6/uncle",
       "slug": "e-yang6__uncle",
@@ -2232,32 +2270,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "TheFridey/ScaleSmiths",
-      "slug": "TheFridey__ScaleSmiths",
-      "href": "/r/TheFridey/ScaleSmiths",
-      "outcome": "ok",
-      "generated_at": "2026-11-21T11:13:24.722Z",
-      "finished_at": "2026-11-21T11:13:32Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898050104",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "df2a87745251",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 85.6731316,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
