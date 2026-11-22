@@ -1,8 +1,8 @@
 {
-  "id": "k-kinzal__php-ai-toolkit-20261026090247",
+  "id": "k-kinzal__php-ai-toolkit-20261122113252",
   "repo": "k-kinzal/php-ai-toolkit",
-  "created_at": "2026-10-26T09:02:47.628Z",
-  "generated_at": "2026-10-26T09:02:47.628Z",
+  "created_at": "2026-11-22T11:32:52.209Z",
+  "generated_at": "2026-11-22T11:32:52.209Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -22,6 +22,25 @@
       "rework_human": 0,
       "surviving_changes": 1.601156069364162,
       "cost_per_surviving_change": 19.733619104693137,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "12403ae47505",
+      "label": "Codex · gpt-6.2-sol",
+      "harness": "Codex",
+      "model": "gpt-6.2-sol",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 1,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
     {
@@ -69,16 +88,16 @@
       "model": "gpt-6-astra",
       "rules_hash": null,
       "sessions": 6,
-      "mature_sessions": 4,
+      "mature_sessions": 5,
       "spend_usd": 46.600472,
       "priced_sessions": 6,
       "spend_lower_bound": false,
       "unattended": 0.6666666666666666,
-      "survival": 0.9785973554868903,
+      "survival": 0.972793850776067,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 3.9143894219475612,
-      "cost_per_surviving_change": 6.530457050765669,
+      "surviving_changes": 4.8639692538803345,
+      "cost_per_surviving_change": 9.532282705736998,
       "evidence_level": "A"
     },
     {
@@ -255,11 +274,11 @@
   ],
   "label": "suspect",
   "suspect": "0f6c2c59eb07",
-  "odds_ratio": 9.689453125,
+  "odds_ratio": 9.735197368421053,
   "ci95": [
-    1.9270662586367562,
-    48.71939480066901
+    1.9319469663036921,
+    49.05624712019875
   ],
-  "p_value": 0.00455348471567801,
+  "p_value": 0.0039135653234991,
   "evidence_level": "A"
 }
