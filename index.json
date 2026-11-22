@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:33:03.788Z",
+  "generated_at": "2026-11-22T11:33:05.522Z",
   "reviews": [
+    {
+      "repo": "RyanPeters06/mustang-city",
+      "slug": "RyanPeters06__mustang-city",
+      "href": "/r/RyanPeters06/mustang-city",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:43.556Z",
+      "finished_at": "2026-11-22T11:33:05Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017827897",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 164.0238464,
+          "survival": 0.9380458515283843,
+          "surviving_changes": 1.8760917030567685,
+          "cost_per_surviving_change": 87.42848024579575
+        }
+      ]
+    },
     {
       "repo": "TheFridey/ScaleSmiths",
       "slug": "TheFridey__ScaleSmiths",
@@ -2168,32 +2194,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "RyanPeters06/mustang-city",
-      "slug": "RyanPeters06__mustang-city",
-      "href": "/r/RyanPeters06/mustang-city",
-      "outcome": "ok",
-      "generated_at": "2026-11-21T11:13:23.854Z",
-      "finished_at": "2026-11-21T11:13:40Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898054663",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "13c50cfb184d",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 1.5015146000000001,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
