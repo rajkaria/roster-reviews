@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-22T11:33:06.857Z",
+  "generated_at": "2026-11-22T11:33:08.847Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:40.888Z",
+      "finished_at": "2026-11-22T11:33:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017836443",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "danielm5/tiffcraft",
       "slug": "danielm5__tiffcraft",
@@ -1312,19 +1325,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-21T11:13:31.681Z",
-      "finished_at": "2026-11-21T11:13:57Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898066246",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "biswas-dev/taskai",
