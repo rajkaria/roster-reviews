@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:33:20.576Z",
+  "generated_at": "2026-11-22T11:33:25.349Z",
   "reviews": [
+    {
+      "repo": "GLeanM/HackWestern13",
+      "slug": "GLeanM__HackWestern13",
+      "href": "/r/GLeanM/HackWestern13",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:45.443Z",
+      "finished_at": "2026-11-22T11:33:25Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017832480",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 41.473307600000005,
+          "survival": 0.8919631093544137,
+          "surviving_changes": 1.7839262187088274,
+          "cost_per_surviving_change": 23.24833121742984
+        }
+      ]
+    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",

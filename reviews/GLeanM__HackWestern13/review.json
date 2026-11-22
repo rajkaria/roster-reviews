@@ -1,0 +1,34 @@
+{
+  "id": "GLeanM__HackWestern13-20261122113245",
+  "repo": "GLeanM/HackWestern13",
+  "created_at": "2026-11-22T11:32:45.443Z",
+  "generated_at": "2026-11-22T11:32:45.443Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "518d4e106433",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 2,
+      "spend_usd": 41.473307600000005,
+      "priced_sessions": 2,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.8919631093544137,
+      "reverted": 0,
+      "rework_human": 0.05103359173126615,
+      "surviving_changes": 1.7839262187088274,
+      "cost_per_surviving_change": 23.24833121742984,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
