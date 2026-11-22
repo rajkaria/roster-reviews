@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-22T11:32:58.950Z",
+  "generated_at": "2026-11-22T11:33:00.322Z",
   "reviews": [
+    {
+      "repo": "e-yang6/uncle",
+      "slug": "e-yang6__uncle",
+      "href": "/r/e-yang6/uncle",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:35.099Z",
+      "finished_at": "2026-11-22T11:33:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017824425",
+      "label": "insufficient_data",
+      "sessions": 6,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 6.4048122,
+          "survival": 0.9935637272988151,
+          "surviving_changes": 1.9871274545976303,
+          "cost_per_surviving_change": 3.2231511799513126
+        },
+        {
+          "setup_id": "c66b66662588",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 0.8135928000000001,
+          "survival": 0.9478199197716021,
+          "surviving_changes": 1.8956398395432041,
+          "cost_per_surviving_change": 0.4291916549907777
+        },
+        {
+          "setup_id": "e827467e354b",
+          "label": "Claude Code · claude-opus-4-6",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-6",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9994623655913979,
+          "surviving_changes": 1.9989247311827958,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "abdul-cl/hackwestern26",
       "slug": "abdul-cl__hackwestern26",
