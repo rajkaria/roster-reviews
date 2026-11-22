@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:32:53.738Z",
+  "generated_at": "2026-11-22T11:32:55.776Z",
   "reviews": [
+    {
+      "repo": "Blaise1030/orso",
+      "slug": "Blaise1030__orso",
+      "href": "/r/Blaise1030/orso",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:37.835Z",
+      "finished_at": "2026-11-22T11:32:55Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017831040",
+      "label": "no_suspect",
+      "sessions": 17,
+      "mature_sessions": 15,
+      "setups": [
+        {
+          "setup_id": "3190a508e1b1",
+          "label": "Cursor · default",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 17,
+          "mature_sessions": 15,
+          "spend_usd": null,
+          "survival": 0.31835804608768214,
+          "surviving_changes": 4.775370691315232,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
