@@ -1,0 +1,53 @@
+{
+  "id": "Kingsolima__HackWestern-2026-20261122113236",
+  "repo": "Kingsolima/HackWestern-2026",
+  "created_at": "2026-11-22T11:32:36.989Z",
+  "generated_at": "2026-11-22T11:32:36.989Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "13c50cfb184d",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sessions": 8,
+      "mature_sessions": 3,
+      "spend_usd": 7.3980695999999995,
+      "priced_sessions": 8,
+      "spend_lower_bound": false,
+      "unattended": 0.125,
+      "survival": 0.8143621084797555,
+      "reverted": 0,
+      "rework_human": 0.21691989870718378,
+      "surviving_changes": 2.4430863254392667,
+      "cost_per_surviving_change": 0.9797467142589118,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "9c1e2c07abb1",
+      "label": "Claude Code · claude-fable-5-2",
+      "harness": "Claude Code",
+      "model": "claude-fable-5-2",
+      "rules_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
