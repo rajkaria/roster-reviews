@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:33:11.281Z",
+  "generated_at": "2026-11-22T11:33:17.743Z",
   "reviews": [
+    {
+      "repo": "marcocharco/acme-pricing-demo",
+      "slug": "marcocharco__acme-pricing-demo",
+      "href": "/r/marcocharco/acme-pricing-demo",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:53.059Z",
+      "finished_at": "2026-11-22T11:33:17Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017849765",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c66b66662588",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": 1.3346114,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "WolfSoko/wol-sok-mono",
       "slug": "WolfSoko__wol-sok-mono",
