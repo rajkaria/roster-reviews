@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T11:32:45.630Z",
+  "generated_at": "2026-11-22T11:32:47.702Z",
   "reviews": [
+    {
+      "repo": "navyn13/entire-testing",
+      "slug": "navyn13__entire-testing",
+      "href": "/r/navyn13/entire-testing",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:46.520Z",
+      "finished_at": "2026-11-22T11:32:47Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017842365",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "b8b842d7dda4",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.4101032000000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "darkprince558/path-app",
       "slug": "darkprince558__path-app",
