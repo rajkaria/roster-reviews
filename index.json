@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-22T11:32:47.702Z",
+  "generated_at": "2026-11-22T11:32:49.141Z",
   "reviews": [
+    {
+      "repo": "llLucidll/VEGA",
+      "slug": "llLucidll__VEGA",
+      "href": "/r/llLucidll/VEGA",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:42.382Z",
+      "finished_at": "2026-11-22T11:32:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017835139",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "0f7890b9c6da",
+          "label": "Pi · gemini-4-hydrogen-sonar",
+          "harness": "Pi",
+          "model": "gemini-4-hydrogen-sonar",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "fcd22aea77f5",
+          "label": "Pi · gpt-6.2-sol",
+          "harness": "Pi",
+          "model": "gpt-6.2-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8876796679359198,
+          "surviving_changes": 1.7753593358718396,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "navyn13/entire-testing",
       "slug": "navyn13__entire-testing",

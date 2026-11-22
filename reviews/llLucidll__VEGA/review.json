@@ -1,0 +1,53 @@
+{
+  "id": "llLucidll__VEGA-20261122113242",
+  "repo": "llLucidll/VEGA",
+  "created_at": "2026-11-22T11:32:42.382Z",
+  "generated_at": "2026-11-22T11:32:42.382Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "0f7890b9c6da",
+      "label": "Pi · gemini-4-hydrogen-sonar",
+      "harness": "Pi",
+      "model": "gemini-4-hydrogen-sonar",
+      "rules_hash": null,
+      "sessions": 1,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "fcd22aea77f5",
+      "label": "Pi · gpt-6.2-sol",
+      "harness": "Pi",
+      "model": "gpt-6.2-sol",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 2,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0.5,
+      "survival": 0.8876796679359198,
+      "reverted": 0,
+      "rework_human": 0.15813124298915657,
+      "surviving_changes": 1.7753593358718396,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
