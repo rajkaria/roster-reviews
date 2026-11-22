@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-21T11:19:27.555Z",
+  "generated_at": "2026-11-22T11:32:35.245Z",
   "reviews": [
+    {
+      "repo": "marcocharco/qa-agent",
+      "slug": "marcocharco__qa-agent",
+      "href": "/r/marcocharco/qa-agent",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:32.762Z",
+      "finished_at": "2026-11-22T11:32:35Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017822623",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "c66b66662588",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 4.0974986,
+          "survival": 0.8454545454545455,
+          "surviving_changes": 0.8454545454545455,
+          "cost_per_surviving_change": 4.846503720430107
+        }
+      ]
+    },
     {
       "repo": "orin-dx/monokl",
       "slug": "orin-dx__monokl",
