@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-22T11:32:43.202Z",
+  "generated_at": "2026-11-22T11:32:45.630Z",
   "reviews": [
+    {
+      "repo": "darkprince558/path-app",
+      "slug": "darkprince558__path-app",
+      "href": "/r/darkprince558/path-app",
+      "outcome": "ok",
+      "generated_at": "2026-11-22T11:32:38.302Z",
+      "finished_at": "2026-11-22T11:32:45Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017829559",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 5,
+          "mature_sessions": 3,
+          "spend_usd": 95.9312188,
+          "survival": 0.8346213090601595,
+          "surviving_changes": 2.5038639271804786,
+          "cost_per_surviving_change": 25.469050257779195
+        },
+        {
+          "setup_id": "ca8930aee399",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9750795334040296,
+          "surviving_changes": 1.9501590668080593,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f9a5f8dd5f34",
+          "label": "Claude Code · claude-haiku-5-5",
+          "harness": "Claude Code",
+          "model": "claude-haiku-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.00455208,
+          "survival": 0.9804161566707467,
+          "surviving_changes": 0.9804161566707467,
+          "cost_per_surviving_change": 0.004643007940074906
+        }
+      ]
+    },
     {
       "repo": "Kingsolima/HackWestern-2026",
       "slug": "Kingsolima__HackWestern-2026",
