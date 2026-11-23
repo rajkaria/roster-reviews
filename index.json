@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-23T12:56:58.875Z",
+  "generated_at": "2026-11-23T12:57:00.334Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-11-23T12:56:53.301Z",
+      "finished_at": "2026-11-23T12:57:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179076377",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "amjadsaadeh/doorbell-detector",
       "slug": "amjadsaadeh__doorbell-detector",
@@ -2328,32 +2354,6 @@
           "spend_usd": null,
           "survival": 0.31835804608768214,
           "surviving_changes": 4.775370691315232,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-11-22T11:32:52.275Z",
-      "finished_at": "2026-11-22T11:32:53Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017851202",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
           "cost_per_surviving_change": null
         }
       ]
