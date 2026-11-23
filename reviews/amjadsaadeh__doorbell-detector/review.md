@@ -1,7 +1,7 @@
 # Review: amjadsaadeh/doorbell-detector
 
-- Review id: `amjadsaadeh__doorbell-detector-20261018080719`
-- Created: 2026-10-18T08:07:19.134Z
+- Review id: `amjadsaadeh__doorbell-detector-20261123125651`
+- Created: 2026-11-23T12:56:51.109Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -16,10 +16,10 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `0a94f5d39e79` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 66.7% | 0.0% | 26.7% | 100.0% | — | A |
 | `10632be0aded` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `19c226a2c258` | Claude Code · claude-fable-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `1f93c98c1ce5` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
-| `41ff0af85046` | Claude Code · claude-opus-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `1f93c98c1ce5` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.8% | 0.0% | 11.1% | 0.0% | — | A |
+| `41ff0af85046` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 98.9% | 0.0% | 1.5% | 0.0% | — | A |
 | `7aa62d49da08` | Claude Code · claude-opus-5-5[1m] | 2 | 0 | $4.84 | too young | too young | too young | 0.0% | — | A |
-| `7c19005e12c0` | Claude Code · claude-opus-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `7c19005e12c0` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 90.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `80354e2b478d` | Claude Code · claude-opus-5-5 | 1 | 0 | $3.64 | too young | too young | too young | 0.0% | — | A |
 | `848dfc92ec30` | Claude Code · claude-opus-5 (rules 8322f8) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `8554ea49bd31` | Claude Code · claude-opus-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
@@ -30,12 +30,12 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `c18baa0b8673` | Claude Code · claude-sonnet-5-5 | 1 | 0 | $0.57 | too young | too young | too young | 0.0% | — | A |
 | `c93bb4cc58ac` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 5.6% | 0.0% | — | A |
 | `d4f1088012b9` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 66.7% | 0.0% | 4.1% | 0.0% | — | A |
-| `e249be7dc756` | Claude Code · claude-opus-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
+| `e249be7dc756` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 99.9% | 0.0% | 2.1% | 0.0% | — | A |
 | `f2facb9ad2be` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes
 
-- 19 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 15 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 1 sessions could not be scored (git failed or timed out), so they count as neither mature nor too young
 - could not be scored: b340abf8-81be-44f2-85b0-58412a0adca2: not_scored: every changed file was skipped (dvc.lock: lockfile)
 - 27 sessions have no price (unknown model, or a price that depends on prompt size)

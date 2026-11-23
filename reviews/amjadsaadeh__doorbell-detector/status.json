@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261018-022",
+  "job": "disc-20261123-014",
   "repo": "amjadsaadeh/doorbell-detector",
   "outcome": "ok",
   "error": null,
-  "run_id": 39110218483,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39110218483",
+  "run_id": 45179073337,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179073337",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "69d026576d2a0bdf71b8fd6c62d2929cb4266f60",
+  "target_head": "07004db18fa3a2e60077b50950de5253cdccfd1d",
   "checkpoint_head": "78f76e6ce4471a01be42686e4a2d2df7ddf2a858",
-  "started_at": "2026-10-18T08:07:16Z",
-  "finished_at": "2026-10-18T08:07:34Z"
+  "started_at": "2026-11-23T12:56:47Z",
+  "finished_at": "2026-11-23T12:56:58Z"
 }
