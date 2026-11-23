@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-23T12:56:45.551Z",
+  "generated_at": "2026-11-23T12:56:49.501Z",
   "reviews": [
+    {
+      "repo": "ravblk/auth",
+      "slug": "ravblk__auth",
+      "href": "/r/ravblk/auth",
+      "outcome": "ok",
+      "generated_at": "2026-11-23T12:56:47.799Z",
+      "finished_at": "2026-11-23T12:56:49Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179056627",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "7d65a9b4d199",
+          "label": "Claude Code · zai-org/GLM-4.7[1m]",
+          "harness": "Claude Code",
+          "model": "zai-org/GLM-4.7[1m]",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "aa283bdaa3e2",
+          "label": "Cursor · grok-4.7-high",
+          "harness": "Cursor",
+          "model": "grok-4.7-high",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b55371711874",
+          "label": "Claude Code · MiniMaxAI/MiniMax-M2.5",
+          "harness": "Claude Code",
+          "model": "MiniMaxAI/MiniMax-M2.5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8333333333333333,
+          "surviving_changes": 1.6666666666666665,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "salim-b/home-assistant-apps-salim",
       "slug": "salim-b__home-assistant-apps-salim",
@@ -19826,44 +19876,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "ravblk/auth",
-      "slug": "ravblk__auth",
-      "href": "/r/ravblk/auth",
-      "outcome": "ok",
-      "generated_at": "2026-10-21T08:40:08.013Z",
-      "finished_at": "2026-10-21T08:40:14Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/39570990845",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "7d65a9b4d199",
-          "label": "Claude Code · zai-org/GLM-4.7[1m]",
-          "harness": "Claude Code",
-          "model": "zai-org/GLM-4.7[1m]",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "b55371711874",
-          "label": "Claude Code · MiniMaxAI/MiniMax-M2.5",
-          "harness": "Claude Code",
-          "model": "MiniMaxAI/MiniMax-M2.5",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.6666666666666666,
-          "surviving_changes": 0.6666666666666666,
           "cost_per_surviving_change": null
         }
       ]
