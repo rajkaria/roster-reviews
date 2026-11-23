@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-23T12:57:00.334Z",
+  "generated_at": "2026-11-23T12:57:02.015Z",
   "reviews": [
+    {
+      "repo": "eddy147/vim",
+      "slug": "eddy147__vim",
+      "href": "/r/eddy147/vim",
+      "outcome": "ok",
+      "generated_at": "2026-11-23T12:56:47.436Z",
+      "finished_at": "2026-11-23T12:57:01Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179054025",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "c68be915baa9",
+          "label": "Codex · gpt-6.1-terra",
+          "harness": "Codex",
+          "model": "gpt-6.1-terra",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -6240,32 +6266,6 @@
           "sessions": 1,
           "mature_sessions": 0,
           "spend_usd": 0.6555698,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "eddy147/vim",
-      "slug": "eddy147__vim",
-      "href": "/r/eddy147/vim",
-      "outcome": "ok",
-      "generated_at": "2026-11-18T11:51:33.106Z",
-      "finished_at": "2026-11-18T11:51:47Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298448451",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "c68be915baa9",
-          "label": "Codex · gpt-6.1-terra",
-          "harness": "Codex",
-          "model": "gpt-6.1-terra",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
