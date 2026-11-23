@@ -1,7 +1,7 @@
 # Review: TheFridey/ScaleSmiths
 
-- Review id: `TheFridey__ScaleSmiths-20261122113244`
-- Created: 2026-11-22T11:32:44.518Z
+- Review id: `TheFridey__ScaleSmiths-20261123125642`
+- Created: 2026-11-23T12:56:42.285Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,8 +13,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `041bb19d473b` | Claude Code · claude-opus-5-5 (rules d743ab) | 1 | 0 | $9.10 | too young | too young | too young | 0.0% | — | A |
-| `df2a87745251` | Claude Code · claude-opus-5-5 (rules 9f6369) | 3 | 3 | $162.79 | 99.9% | 0.0% | 0.4% | 33.3% | $54.31 | A |
+| `041bb19d473b` | Claude Code · claude-opus-5-5 (rules d743ab) | 1 | 1 | $9.10 | 100.0% | 0.0% | 0.0% | 0.0% | $9.10 | A |
+| `df2a87745251` | Claude Code · claude-opus-5-5 (rules 9f6369) | 4 | 3 | $165.94 | 99.9% | 0.0% | 0.4% | 25.0% | $54.31 | A |
 
 ## Notes
 

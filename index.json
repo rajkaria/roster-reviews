@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-23T12:57:05.363Z",
+  "generated_at": "2026-11-23T12:57:10.451Z",
   "reviews": [
+    {
+      "repo": "TheFridey/ScaleSmiths",
+      "slug": "TheFridey__ScaleSmiths",
+      "href": "/r/TheFridey/ScaleSmiths",
+      "outcome": "ok",
+      "generated_at": "2026-11-23T12:56:42.285Z",
+      "finished_at": "2026-11-23T12:57:10Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179040978",
+      "label": "insufficient_data",
+      "sessions": 5,
+      "mature_sessions": 4,
+      "setups": [
+        {
+          "setup_id": "041bb19d473b",
+          "label": "Claude Code · claude-opus-5-5 (rules d743ab)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 9.0953368,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 9.0953368
+        },
+        {
+          "setup_id": "df2a87745251",
+          "label": "Claude Code · claude-opus-5-5 (rules 9f6369)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 4,
+          "mature_sessions": 3,
+          "spend_usd": 165.93614780000001,
+          "survival": 0.9991474850809889,
+          "surviving_changes": 2.997442455242967,
+          "cost_per_surviving_change": 54.310327230887374
+        }
+      ]
+    },
     {
       "repo": "Pine-Island-Food-Pantry-Site/main-website",
       "slug": "Pine-Island-Food-Pantry-Site__main-website",
@@ -2289,44 +2327,6 @@
           "survival": 0.9380458515283843,
           "surviving_changes": 1.8760917030567685,
           "cost_per_surviving_change": 87.42848024579575
-        }
-      ]
-    },
-    {
-      "repo": "TheFridey/ScaleSmiths",
-      "slug": "TheFridey__ScaleSmiths",
-      "href": "/r/TheFridey/ScaleSmiths",
-      "outcome": "ok",
-      "generated_at": "2026-11-22T11:32:44.518Z",
-      "finished_at": "2026-11-22T11:33:03Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45017837848",
-      "label": "insufficient_data",
-      "sessions": 4,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "041bb19d473b",
-          "label": "Claude Code · claude-opus-5-5 (rules d743ab)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 9.0953368,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "df2a87745251",
-          "label": "Claude Code · claude-opus-5-5 (rules 9f6369)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": 162.79208060000002,
-          "survival": 0.9991474850809889,
-          "surviving_changes": 2.997442455242967,
-          "cost_per_surviving_change": 54.310327230887374
         }
       ]
     },
