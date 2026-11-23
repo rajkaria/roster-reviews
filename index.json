@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-11-22T11:33:41.991Z",
+  "generated_at": "2026-11-23T12:56:40.777Z",
   "reviews": [
+    {
+      "repo": "kernelKain/chesspulse",
+      "slug": "kernelKain__chesspulse",
+      "href": "/r/kernelKain/chesspulse",
+      "outcome": "ok",
+      "generated_at": "2026-11-23T12:56:35.611Z",
+      "finished_at": "2026-11-23T12:56:40Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179030732",
+      "label": "insufficient_data",
+      "sessions": 16,
+      "mature_sessions": 11,
+      "setups": [
+        {
+          "setup_id": "257d6af296bd",
+          "label": "Cursor · grok-4.7-high-fast",
+          "harness": "Cursor",
+          "model": "grok-4.7-high-fast",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6cfac0cfd398",
+          "label": "Cursor · gemini-4-neon-high",
+          "harness": "Cursor",
+          "model": "gemini-4-neon-high",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8909952606635071,
+          "surviving_changes": 0.8909952606635071,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "70761cd63ca7",
+          "label": "Cursor · unknown",
+          "harness": "Cursor",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "be111d57fa83",
+          "label": "Kiro · unknown",
+          "harness": "Kiro",
+          "model": "unknown",
+          "sessions": 5,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "de6bad593d19",
+          "label": "OpenCode · beam-free",
+          "harness": "OpenCode",
+          "model": "beam-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.823943661971831,
+          "surviving_changes": 0.823943661971831,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ebff8c82f7b8",
+          "label": "OpenCode · deepseek-v4.1-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9790828640386162,
+          "surviving_changes": 0.9790828640386162,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ec560762ae4f",
+          "label": "OpenCode · deepseek-v4.1-flash (rules unknown)",
+          "harness": "OpenCode",
+          "model": "deepseek-v4.1-flash",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.7140005437821261,
+          "surviving_changes": 4.284003262692757,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "k-kinzal/php-ai-toolkit",
       "slug": "k-kinzal__php-ai-toolkit",
@@ -3302,56 +3400,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "kernelKain/chesspulse",
-      "slug": "kernelKain__chesspulse",
-      "href": "/r/kernelKain/chesspulse",
-      "outcome": "ok",
-      "generated_at": "2026-11-21T11:13:22.602Z",
-      "finished_at": "2026-11-21T11:13:24Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898056443",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "257d6af296bd",
-          "label": "Cursor · grok-4.7-high-fast",
-          "harness": "Cursor",
-          "model": "grok-4.7-high-fast",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6cfac0cfd398",
-          "label": "Cursor · gemini-4-neon-high",
-          "harness": "Cursor",
-          "model": "gemini-4-neon-high",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "70761cd63ca7",
-          "label": "Cursor · unknown",
-          "harness": "Cursor",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
