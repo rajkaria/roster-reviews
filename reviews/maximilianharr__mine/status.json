@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261123-011",
+  "job": "disc-20261124-002",
   "repo": "maximilianharr/mine",
   "outcome": "ok",
   "error": null,
-  "run_id": 45179063553,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179063553",
+  "run_id": 45407745369,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407745369",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "e9d3e5ef7932c1262e68fca1ccd2e889c47abf33",
+  "target_head": "a686f9e653e5c8b773d1fd81a1d738f8af860f9e",
   "checkpoint_head": null,
-  "started_at": "2026-11-23T12:56:44Z",
-  "finished_at": "2026-11-23T12:56:57Z"
+  "started_at": "2026-11-24T13:51:23Z",
+  "finished_at": "2026-11-24T13:51:33Z"
 }
