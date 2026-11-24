@@ -1,8 +1,8 @@
 {
-  "id": "uvytle__HELP-ME-20261113110710",
+  "id": "uvytle__HELP-ME-20261124135145",
   "repo": "uvytle/HELP-ME",
-  "created_at": "2026-11-13T11:07:10.338Z",
-  "generated_at": "2026-11-13T11:07:10.338Z",
+  "created_at": "2026-11-24T13:51:45.255Z",
+  "generated_at": "2026-11-24T13:51:45.255Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -32,7 +32,7 @@
       "rules_hash": "b1237627bd27740b10260f6292262a73f76ccafb6b18ce37b689acd4ba71f527",
       "sessions": 1,
       "mature_sessions": 0,
-      "spend_usd": 3.5682536000000002,
+      "spend_usd": 5.298160900000001,
       "priced_sessions": 1,
       "spend_lower_bound": false,
       "unattended": 0,
