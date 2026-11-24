@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T13:51:42.892Z",
+  "generated_at": "2026-11-24T13:51:46.304Z",
   "reviews": [
+    {
+      "repo": "eddy147/vim",
+      "slug": "eddy147__vim",
+      "href": "/r/eddy147/vim",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:40.482Z",
+      "finished_at": "2026-11-24T13:51:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407782635",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "c68be915baa9",
+          "label": "Codex · gpt-6.1-terra",
+          "harness": "Codex",
+          "model": "gpt-6.1-terra",
+          "sessions": 3,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.6363636363636364,
+          "surviving_changes": 0.6363636363636364,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "ta93abe/me",
       "slug": "ta93abe__me",
@@ -1345,32 +1371,6 @@
           "sessions": 2,
           "mature_sessions": 0,
           "spend_usd": 1.1008294,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "eddy147/vim",
-      "slug": "eddy147__vim",
-      "href": "/r/eddy147/vim",
-      "outcome": "ok",
-      "generated_at": "2026-11-23T12:56:47.436Z",
-      "finished_at": "2026-11-23T12:57:01Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179054025",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "c68be915baa9",
-          "label": "Codex · gpt-6.1-terra",
-          "harness": "Codex",
-          "model": "gpt-6.1-terra",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
