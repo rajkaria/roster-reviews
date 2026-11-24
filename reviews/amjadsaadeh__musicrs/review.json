@@ -1,8 +1,8 @@
 {
-  "id": "amjadsaadeh__musicrs-20261123125650",
+  "id": "amjadsaadeh__musicrs-20261124135131",
   "repo": "amjadsaadeh/musicrs",
-  "created_at": "2026-11-23T12:56:50.374Z",
-  "generated_at": "2026-11-23T12:56:50.374Z",
+  "created_at": "2026-11-24T13:51:31.071Z",
+  "generated_at": "2026-11-24T13:51:31.071Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -49,17 +49,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "sessions": 4,
-      "mature_sessions": 2,
-      "spend_usd": 15.1512344,
-      "priced_sessions": 4,
+      "sessions": 5,
+      "mature_sessions": 3,
+      "spend_usd": 14.375677400000002,
+      "priced_sessions": 5,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.5945945945945946,
-      "reverted": 0.5,
-      "rework_human": 0.43388429752066116,
-      "surviving_changes": 1.1891891891891893,
-      "cost_per_surviving_change": 2.4956528590909093,
+      "survival": 0.7247546053516203,
+      "reverted": 0.3333333333333333,
+      "rework_human": 0.30487041504828066,
+      "surviving_changes": 2.174263816054861,
+      "cost_per_surviving_change": 1.518490707346939,
       "evidence_level": "A"
     },
     {

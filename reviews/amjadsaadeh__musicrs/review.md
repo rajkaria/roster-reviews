@@ -1,7 +1,7 @@
 # Review: amjadsaadeh/musicrs
 
-- Review id: `amjadsaadeh__musicrs-20261123125650`
-- Created: 2026-11-23T12:56:50.374Z
+- Review id: `amjadsaadeh__musicrs-20261124135131`
+- Created: 2026-11-24T13:51:31.071Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -15,7 +15,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
 | `0b9a7716be31` | Claude Code · claude-sonnet-5-5 | 1 | 0 | $0.02 | too young | too young | too young | 100.0% | — | A |
 | `10d51e6cb182` | Claude Code · claude-opus-5-5 (rules e5df55) | 1 | 0 | $3.97 | too young | too young | too young | 0.0% | — | A |
-| `13c50cfb184d` | Claude Code · claude-opus-5-5 (rules e3b0c4) | 4 | 2 | $15.15 | 59.5% | 50.0% | 43.4% | 0.0% | $2.50 | A |
+| `13c50cfb184d` | Claude Code · claude-opus-5-5 (rules e3b0c4) | 5 | 3 | $14.38 | 72.5% | 33.3% | 30.5% | 0.0% | $1.52 | A |
 | `5d714ec0749a` | Claude Code · claude-opus-5-5 (rules 0a1676) | 1 | 0 | $1.72 | too young | too young | too young | 0.0% | — | A |
 | `c88e0f57dcce` | Claude Code · claude-opus-5-5 (rules 041dba) | 1 | 0 | $0.57 | too young | too young | too young | 0.0% | — | A |
 
