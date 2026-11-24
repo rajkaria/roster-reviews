@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261123-006",
+  "job": "disc-20261124-011",
   "repo": "xifan2333/fcitx5-vinput",
-  "outcome": "failed",
-  "error": "[fetch] clone: attempt 3/3\ntime: fetch 3.65s · parse not run · identify not run · score not run · difficulty not run · export not run · total 3.65s\nroster review: git clone failed (128): fatal: unable to access 'https://github.com/xifan2333/fcitx5-vinput/': The requested URL returned error: 403",
-  "run_id": 45179047902,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179047902",
+  "outcome": "ok",
+  "error": null,
+  "run_id": 45407775452,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407775452",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "",
+  "target_head": "e5ab92ad30c5f43c869f1e8b80dce9470e1abc03",
   "checkpoint_head": null,
-  "started_at": "2026-11-23T12:56:40Z",
-  "finished_at": "2026-11-23T12:56:53Z"
+  "started_at": "2026-11-24T13:51:35Z",
+  "finished_at": "2026-11-24T13:52:22Z"
 }

@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-24T13:52:14.291Z",
+  "generated_at": "2026-11-24T13:52:22.082Z",
   "reviews": [
+    {
+      "repo": "xifan2333/fcitx5-vinput",
+      "slug": "xifan2333__fcitx5-vinput",
+      "href": "/r/xifan2333/fcitx5-vinput",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:39.549Z",
+      "finished_at": "2026-11-24T13:52:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407775452",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "Syati/dot.d",
       "slug": "Syati__dot.d",
@@ -3077,19 +3090,6 @@
           "cost_per_surviving_change": null
         }
       ]
-    },
-    {
-      "repo": "xifan2333/fcitx5-vinput",
-      "slug": "xifan2333__fcitx5-vinput",
-      "href": "/r/xifan2333/fcitx5-vinput",
-      "outcome": "ok",
-      "generated_at": "2026-11-22T11:32:40.888Z",
-      "finished_at": "2026-11-23T12:56:53Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179047902",
-      "label": "insufficient_data",
-      "sessions": 0,
-      "mature_sessions": 0,
-      "setups": []
     },
     {
       "repo": "ravblk/auth",
