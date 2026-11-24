@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261118-018",
+  "job": "disc-20261124-016",
   "repo": "lcv-leo/lcv-leo",
   "outcome": "ok",
   "error": null,
-  "run_id": 44298481141,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298481141",
+  "run_id": 45407798546,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407798546",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "7f40244eac3302c1adb687fd47f62839a2e6fffb",
+  "target_head": "8207d7197d31bbf2989de941ab3c9efc3b240cff",
   "checkpoint_head": null,
-  "started_at": "2026-11-18T11:51:40Z",
-  "finished_at": "2026-11-18T11:51:48Z"
+  "started_at": "2026-11-24T13:51:42Z",
+  "finished_at": "2026-11-24T13:51:49Z"
 }
