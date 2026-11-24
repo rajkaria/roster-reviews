@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261121-008",
+  "job": "disc-20261124-010",
   "repo": "orin-dx/michi",
   "outcome": "ok",
   "error": null,
-  "run_id": 44898060862,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44898060862",
+  "run_id": 45407772092,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407772092",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "cad6896eb2efe5b852df85e38d079e03bf5bb056",
+  "target_head": "dcdfc8bc36f9c2cc50431ac6d3f0fee4401ba675",
   "checkpoint_head": null,
-  "started_at": "2026-11-21T11:13:21Z",
-  "finished_at": "2026-11-21T11:17:31Z"
+  "started_at": "2026-11-24T13:51:34Z",
+  "finished_at": "2026-11-24T13:56:15Z"
 }
