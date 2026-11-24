@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-23T13:08:37.787Z",
+  "generated_at": "2026-11-24T13:51:30.510Z",
   "reviews": [
+    {
+      "repo": "salim-b/home-assistant-apps-salim",
+      "slug": "salim-b__home-assistant-apps-salim",
+      "href": "/r/salim-b/home-assistant-apps-salim",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:27.106Z",
+      "finished_at": "2026-11-24T13:51:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407741310",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 7,
+      "setups": [
+        {
+          "setup_id": "c68942a24c6f",
+          "label": "Goose · z-ai/glm-5.3-flash",
+          "harness": "Goose",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 7,
+          "mature_sessions": 7,
+          "spend_usd": null,
+          "survival": 0.9619047619047619,
+          "surviving_changes": 6.733333333333333,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "akm/claude-plugins",
       "slug": "akm__claude-plugins",
@@ -2074,32 +2100,6 @@
           "spend_usd": null,
           "survival": 0.8333333333333333,
           "surviving_changes": 1.6666666666666665,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "salim-b/home-assistant-apps-salim",
-      "slug": "salim-b__home-assistant-apps-salim",
-      "href": "/r/salim-b/home-assistant-apps-salim",
-      "outcome": "ok",
-      "generated_at": "2026-11-23T12:56:43.688Z",
-      "finished_at": "2026-11-23T12:56:45Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179051108",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 5,
-      "setups": [
-        {
-          "setup_id": "c68942a24c6f",
-          "label": "Goose · z-ai/glm-5.3-flash",
-          "harness": "Goose",
-          "model": "z-ai/glm-5.3-flash",
-          "sessions": 6,
-          "mature_sessions": 5,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 5,
           "cost_per_surviving_change": null
         }
       ]

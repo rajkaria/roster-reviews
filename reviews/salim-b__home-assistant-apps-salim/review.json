@@ -1,8 +1,8 @@
 {
-  "id": "salim-b__home-assistant-apps-salim-20261123125643",
+  "id": "salim-b__home-assistant-apps-salim-20261124135127",
   "repo": "salim-b/home-assistant-apps-salim",
-  "created_at": "2026-11-23T12:56:43.688Z",
-  "generated_at": "2026-11-23T12:56:43.688Z",
+  "created_at": "2026-11-24T13:51:27.106Z",
+  "generated_at": "2026-11-24T13:51:27.106Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,16 +11,16 @@
       "harness": "Goose",
       "model": "z-ai/glm-5.3-flash",
       "rules_hash": null,
-      "sessions": 6,
-      "mature_sessions": 5,
+      "sessions": 7,
+      "mature_sessions": 7,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 1,
+      "survival": 0.9619047619047619,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 5,
+      "surviving_changes": 6.733333333333333,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
