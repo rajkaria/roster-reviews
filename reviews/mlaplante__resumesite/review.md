@@ -1,7 +1,7 @@
 # Review: mlaplante/resumesite
 
-- Review id: `mlaplante__resumesite-20261118115148`
-- Created: 2026-11-18T11:51:48.860Z
+- Review id: `mlaplante__resumesite-20261124135147`
+- Created: 2026-11-24T13:51:47.960Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,8 +13,8 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `c6b1059925e8` | Claude Code · claude-opus-5-5 (rules b0b804) | 2 | 1 | $1.87 | 100.0% | 0.0% | 0.0% | 0.0% | $0.24 | A |
-| `d4a1bf690f0b` | Claude Code · claude-opus-5-5 (rules d980a2) | 3 | 2 | $1.86 | 100.0% | 0.0% | 0.0% | 66.7% | $0.27 | A |
+| `c6b1059925e8` | Claude Code · claude-opus-5-5 (rules b0b804) | 2 | 2 | $1.87 | 95.3% | 0.0% | 0.0% | 0.0% | $0.98 | A |
+| `d4a1bf690f0b` | Claude Code · claude-opus-5-5 (rules d980a2) | 4 | 2 | $2.36 | 100.0% | 0.0% | 0.0% | 75.0% | $0.27 | A |
 | `fb2431769e78` | Claude Code · claude-opus-5[1m] | 1 | 1 | unknown (0/1 priced) | 72.1% | 0.0% | 23.1% | 0.0% | — | A |
 
 ## Notes

@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-24T13:52:22.082Z",
+  "generated_at": "2026-11-24T13:52:28.111Z",
   "reviews": [
+    {
+      "repo": "mlaplante/resumesite",
+      "slug": "mlaplante__resumesite",
+      "href": "/r/mlaplante/resumesite",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:47.960Z",
+      "finished_at": "2026-11-24T13:52:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407802787",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 5,
+      "setups": [
+        {
+          "setup_id": "c6b1059925e8",
+          "label": "Claude Code · claude-opus-5-5 (rules b0b804)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 1.869953,
+          "survival": 0.9534883720930232,
+          "surviving_changes": 1.9069767441860463,
+          "cost_per_surviving_change": 0.9805851097560976
+        },
+        {
+          "setup_id": "d4a1bf690f0b",
+          "label": "Claude Code · claude-opus-5-5 (rules d980a2)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": 2.3608756,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": 0.26837
+        },
+        {
+          "setup_id": "fb2431769e78",
+          "label": "Claude Code · claude-opus-5[1m]",
+          "harness": "Claude Code",
+          "model": "claude-opus-5[1m]",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7213114754098361,
+          "surviving_changes": 0.7213114754098361,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "xifan2333/fcitx5-vinput",
       "slug": "xifan2333__fcitx5-vinput",
@@ -6707,56 +6757,6 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "mlaplante/resumesite",
-      "slug": "mlaplante__resumesite",
-      "href": "/r/mlaplante/resumesite",
-      "outcome": "ok",
-      "generated_at": "2026-11-18T11:51:48.860Z",
-      "finished_at": "2026-11-18T11:51:56Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298484016",
-      "label": "insufficient_data",
-      "sessions": 6,
-      "mature_sessions": 4,
-      "setups": [
-        {
-          "setup_id": "c6b1059925e8",
-          "label": "Claude Code · claude-opus-5-5 (rules b0b804)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 1,
-          "spend_usd": 1.869953,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 0.2444092
-        },
-        {
-          "setup_id": "d4a1bf690f0b",
-          "label": "Claude Code · claude-opus-5-5 (rules d980a2)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 2,
-          "spend_usd": 1.8557114000000001,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": 0.26837
-        },
-        {
-          "setup_id": "fb2431769e78",
-          "label": "Claude Code · claude-opus-5[1m]",
-          "harness": "Claude Code",
-          "model": "claude-opus-5[1m]",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.7213114754098361,
-          "surviving_changes": 0.7213114754098361,
           "cost_per_surviving_change": null
         }
       ]
