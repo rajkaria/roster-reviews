@@ -1,0 +1,14 @@
+{
+  "id": "open-source-fitness__open-fit-20261124135148",
+  "repo": "open-source-fitness/open-fit",
+  "created_at": "2026-11-24T13:51:48.794Z",
+  "generated_at": "2026-11-24T13:51:48.794Z",
+  "has_entire_data": true,
+  "setups": [],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

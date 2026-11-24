@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-24T13:51:58.189Z",
+  "generated_at": "2026-11-24T13:52:00.055Z",
   "reviews": [
+    {
+      "repo": "open-source-fitness/open-fit",
+      "slug": "open-source-fitness__open-fit",
+      "href": "/r/open-source-fitness/open-fit",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:48.794Z",
+      "finished_at": "2026-11-24T13:52:00Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407806558",
+      "label": "insufficient_data",
+      "sessions": 0,
+      "mature_sessions": 0,
+      "setups": []
+    },
     {
       "repo": "LCV-Ideas-Software/.github",
       "slug": "LCV-Ideas-Software__.github",
