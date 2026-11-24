@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T13:52:06.957Z",
+  "generated_at": "2026-11-24T13:52:08.826Z",
   "reviews": [
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:52.830Z",
+      "finished_at": "2026-11-24T13:52:08Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407812564",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Cj-bc/webxr-fable-demo",
       "slug": "Cj-bc__webxr-fable-demo",
@@ -2334,32 +2360,6 @@
           "spend_usd": 1.1008294,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-11-23T12:56:53.301Z",
-      "finished_at": "2026-11-23T12:57:00Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45179076377",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
           "cost_per_surviving_change": null
         }
       ]
