@@ -1,7 +1,7 @@
 # Review: babamba2/abap-mcp-adt-powerup
 
-- Review id: `babamba2__abap-mcp-adt-powerup-20261109114101`
-- Created: 2026-11-09T11:41:01.649Z
+- Review id: `babamba2__abap-mcp-adt-powerup-20261124135135`
+- Created: 2026-11-24T13:51:35.165Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,7 +13,7 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `206c0e2840de` | Claude Code · claude-opus-4-7 | 1 | 1 | unknown (0/1 priced) | 99.5% | 0.0% | 0.3% | 0.0% | — | A |
+| `206c0e2840de` | Claude Code · claude-opus-4-7 | 1 | 1 | unknown (0/1 priced) | 75.8% | 0.0% | 0.3% | 0.0% | — | A |
 
 ## Notes
 

@@ -1,8 +1,8 @@
 {
-  "id": "babamba2__abap-mcp-adt-powerup-20261109114101",
+  "id": "babamba2__abap-mcp-adt-powerup-20261124135135",
   "repo": "babamba2/abap-mcp-adt-powerup",
-  "created_at": "2026-11-09T11:41:01.649Z",
-  "generated_at": "2026-11-09T11:41:01.649Z",
+  "created_at": "2026-11-24T13:51:35.165Z",
+  "generated_at": "2026-11-24T13:51:35.165Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.9947698744769874,
+      "survival": 0.7578451882845189,
       "reverted": 0,
       "rework_human": 0.002757669769045157,
-      "surviving_changes": 0.9947698744769874,
+      "surviving_changes": 0.7578451882845189,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
