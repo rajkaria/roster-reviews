@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-24T13:52:00.055Z",
+  "generated_at": "2026-11-24T13:52:02.238Z",
   "reviews": [
+    {
+      "repo": "JustEthanCodes/rustix",
+      "slug": "JustEthanCodes__rustix",
+      "href": "/r/JustEthanCodes/rustix",
+      "outcome": "ok",
+      "generated_at": "2026-11-24T13:51:41.320Z",
+      "finished_at": "2026-11-24T13:52:02Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407779044",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "487c3712ff83",
+          "label": "Zed · unknown",
+          "harness": "Zed",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "4e4c3bd1afe5",
+          "label": "OpenCode · inkling-2-small-free",
+          "harness": "OpenCode",
+          "model": "inkling-2-small-free",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.048686131386861314,
+          "surviving_changes": 0.048686131386861314,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66c101991bbb",
+          "label": "OpenCode · beam-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "beam-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "da09f2ca076d",
+          "label": "OpenCode · beam-free (rules unknown)",
+          "harness": "OpenCode",
+          "model": "beam-free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "open-source-fitness/open-fit",
       "slug": "open-source-fitness__open-fit",
@@ -7875,44 +7937,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "JustEthanCodes/rustix",
-      "slug": "JustEthanCodes__rustix",
-      "href": "/r/JustEthanCodes/rustix",
-      "outcome": "ok",
-      "generated_at": "2026-11-16T11:32:04.408Z",
-      "finished_at": "2026-11-16T11:32:27Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43858570665",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "487c3712ff83",
-          "label": "Zed · unknown",
-          "harness": "Zed",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "4e4c3bd1afe5",
-          "label": "OpenCode · inkling-2-small-free",
-          "harness": "OpenCode",
-          "model": "inkling-2-small-free",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
