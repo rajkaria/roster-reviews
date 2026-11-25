@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-25T13:03:22.500Z",
+  "generated_at": "2026-11-25T13:03:24.385Z",
   "reviews": [
+    {
+      "repo": "zzztimbo/big-thinkers",
+      "slug": "zzztimbo__big-thinkers",
+      "href": "/r/zzztimbo/big-thinkers",
+      "outcome": "ok",
+      "generated_at": "2026-11-25T13:03:18.674Z",
+      "finished_at": "2026-11-25T13:03:24Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45619678657",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "cf382ca99e28",
+          "label": "Pi · baidu/ernie-5.5-flash-preview:free",
+          "harness": "Pi",
+          "model": "baidu/ernie-5.5-flash-preview:free",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "lcv-leo/lcv-leo",
       "slug": "lcv-leo__lcv-leo",
