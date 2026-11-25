@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-25T13:03:27.243Z",
+  "generated_at": "2026-11-25T13:03:30.470Z",
   "reviews": [
+    {
+      "repo": "blackgirlbytes/interactive-storybook",
+      "slug": "blackgirlbytes__interactive-storybook",
+      "href": "/r/blackgirlbytes/interactive-storybook",
+      "outcome": "ok",
+      "generated_at": "2026-11-25T13:03:05.115Z",
+      "finished_at": "2026-11-25T13:03:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45619632879",
+      "label": "insufficient_data",
+      "sessions": 8,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 10.145641200000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "158a3a51aaeb",
+          "label": "Codex · gpt-6-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-sol",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "7a33908888f9",
+          "label": "Factory AI Droid · auto",
+          "harness": "Factory AI Droid",
+          "model": "auto",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "87b2c81dee5a",
+          "label": "Codex · gpt-6-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6-sol",
+          "sessions": 3,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "swastik-nanda/Jaya-Jaga",
       "slug": "swastik-nanda__Jaya-Jaga",
@@ -6809,32 +6871,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 1,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "blackgirlbytes/interactive-storybook",
-      "slug": "blackgirlbytes__interactive-storybook",
-      "href": "/r/blackgirlbytes/interactive-storybook",
-      "outcome": "ok",
-      "generated_at": "2026-11-18T11:51:36.428Z",
-      "finished_at": "2026-11-18T11:52:02Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/44298463238",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "7a33908888f9",
-          "label": "Factory AI Droid · auto",
-          "harness": "Factory AI Droid",
-          "model": "auto",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
