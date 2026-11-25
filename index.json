@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T14:06:55.848Z",
+  "generated_at": "2026-11-25T13:03:09.112Z",
   "reviews": [
+    {
+      "repo": "babamba2/abap-mcp-adt-powerup",
+      "slug": "babamba2__abap-mcp-adt-powerup",
+      "href": "/r/babamba2/abap-mcp-adt-powerup",
+      "outcome": "ok",
+      "generated_at": "2026-11-25T13:03:06.618Z",
+      "finished_at": "2026-11-25T13:03:09Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45619642877",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "206c0e2840de",
+          "label": "Claude Code · claude-opus-4-7",
+          "harness": "Claude Code",
+          "model": "claude-opus-4-7",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.7578451882845189,
+          "surviving_changes": 0.7578451882845189,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "akm/claude-plugins",
       "slug": "akm__claude-plugins",
@@ -2082,32 +2108,6 @@
           "survival": 0.9371980676328503,
           "surviving_changes": 2.8115942028985508,
           "cost_per_surviving_change": 25.694659608247424
-        }
-      ]
-    },
-    {
-      "repo": "babamba2/abap-mcp-adt-powerup",
-      "slug": "babamba2__abap-mcp-adt-powerup",
-      "href": "/r/babamba2/abap-mcp-adt-powerup",
-      "outcome": "ok",
-      "generated_at": "2026-11-24T13:51:35.165Z",
-      "finished_at": "2026-11-24T13:51:37Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407764227",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "206c0e2840de",
-          "label": "Claude Code · claude-opus-4-7",
-          "harness": "Claude Code",
-          "model": "claude-opus-4-7",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.7578451882845189,
-          "surviving_changes": 0.7578451882845189,
-          "cost_per_surviving_change": null
         }
       ]
     },
