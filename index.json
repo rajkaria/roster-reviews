@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-25T13:03:24.385Z",
+  "generated_at": "2026-11-25T13:03:27.243Z",
   "reviews": [
+    {
+      "repo": "swastik-nanda/Jaya-Jaga",
+      "slug": "swastik-nanda__Jaya-Jaga",
+      "href": "/r/swastik-nanda/Jaya-Jaga",
+      "outcome": "ok",
+      "generated_at": "2026-11-25T13:03:11.992Z",
+      "finished_at": "2026-11-25T13:03:27Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45619658544",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "5d58148ee8b1",
+          "label": "Codex · gpt-5.6-terra",
+          "harness": "Codex",
+          "model": "gpt-5.6-terra",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "zzztimbo/big-thinkers",
       "slug": "zzztimbo__big-thinkers",
