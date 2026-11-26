@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261107-012",
+  "job": "disc-20261126-006",
   "repo": "basher83/tailnet-microservices",
   "outcome": "ok",
   "error": null,
-  "run_id": 42363419213,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42363419213",
+  "run_id": 45822309111,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822309111",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "2f79559d3257b517dc4282b4ced8370d8e195a2d",
-  "checkpoint_head": "49942a1bb2fb340e0022c7b7b7bec21d53c5a7ab",
-  "started_at": "2026-11-07T10:18:58Z",
-  "finished_at": "2026-11-07T10:19:07Z"
+  "target_head": "da92ee69ff1fb080119699890f7e9172b22ea9ab",
+  "checkpoint_head": "e20fbfaa5c4d66f8c0bbd1e295e4ee58b9f725b1",
+  "started_at": "2026-11-26T12:43:28Z",
+  "finished_at": "2026-11-26T12:43:35Z"
 }
