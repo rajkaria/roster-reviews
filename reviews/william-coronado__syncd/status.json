@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261114-010",
+  "job": "disc-20261126-002",
   "repo": "william-coronado/syncd",
   "outcome": "ok",
   "error": null,
-  "run_id": 43585855533,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/43585855533",
+  "run_id": 45822295774,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822295774",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "e2f2792a20cb05d4daec82d7f4a4313074c1b416",
+  "target_head": "e9f2b0396be4d549d98a457aa0ef49b95aea3e07",
   "checkpoint_head": null,
-  "started_at": "2026-11-14T10:33:38Z",
-  "finished_at": "2026-11-14T10:33:48Z"
+  "started_at": "2026-11-26T12:43:26Z",
+  "finished_at": "2026-11-26T12:43:38Z"
 }
