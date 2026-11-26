@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-26T12:43:48.753Z",
+  "generated_at": "2026-11-26T12:43:51.389Z",
   "reviews": [
+    {
+      "repo": "dhamnaik-lab/Eod-Charting-Platform",
+      "slug": "dhamnaik-lab__Eod-Charting-Platform",
+      "href": "/r/dhamnaik-lab/Eod-Charting-Platform",
+      "outcome": "ok",
+      "generated_at": "2026-11-26T12:43:36.192Z",
+      "finished_at": "2026-11-26T12:43:51Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822318724",
+      "label": "no_suspect",
+      "sessions": 19,
+      "mature_sessions": 19,
+      "setups": [
+        {
+          "setup_id": "48ebb3a00cb7",
+          "label": "Codex · gpt-6.1-sol",
+          "harness": "Codex",
+          "model": "gpt-6.1-sol",
+          "sessions": 16,
+          "mature_sessions": 16,
+          "spend_usd": null,
+          "survival": 0.8878370211855222,
+          "surviving_changes": 14.205392338968355,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "68830acd34e2",
+          "label": "Codex · gpt-6-astra",
+          "harness": "Codex",
+          "model": "gpt-6-astra",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 72.242956,
+          "survival": 0.9371980676328503,
+          "surviving_changes": 2.8115942028985508,
+          "cost_per_surviving_change": 25.694659608247424
+        }
+      ]
+    },
     {
       "repo": "babamba2/abap-mcp-adt-powerup",
       "slug": "babamba2__abap-mcp-adt-powerup",
@@ -3842,44 +3880,6 @@
           "survival": 0.6829268292682926,
           "surviving_changes": 1.3658536585365852,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "dhamnaik-lab/Eod-Charting-Platform",
-      "slug": "dhamnaik-lab__Eod-Charting-Platform",
-      "href": "/r/dhamnaik-lab/Eod-Charting-Platform",
-      "outcome": "ok",
-      "generated_at": "2026-11-24T13:51:29.608Z",
-      "finished_at": "2026-11-24T13:51:39Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407752256",
-      "label": "no_suspect",
-      "sessions": 19,
-      "mature_sessions": 19,
-      "setups": [
-        {
-          "setup_id": "48ebb3a00cb7",
-          "label": "Codex · gpt-6.1-sol",
-          "harness": "Codex",
-          "model": "gpt-6.1-sol",
-          "sessions": 16,
-          "mature_sessions": 16,
-          "spend_usd": null,
-          "survival": 0.888424795480193,
-          "surviving_changes": 14.214796727683089,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "68830acd34e2",
-          "label": "Codex · gpt-6-astra",
-          "harness": "Codex",
-          "model": "gpt-6-astra",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": 72.242956,
-          "survival": 0.9371980676328503,
-          "surviving_changes": 2.8115942028985508,
-          "cost_per_surviving_change": 25.694659608247424
         }
       ]
     },

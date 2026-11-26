@@ -1,8 +1,8 @@
 {
-  "id": "dhamnaik-lab__Eod-Charting-Platform-20261124135129",
+  "id": "dhamnaik-lab__Eod-Charting-Platform-20261126124336",
   "repo": "dhamnaik-lab/Eod-Charting-Platform",
-  "created_at": "2026-11-24T13:51:29.608Z",
-  "generated_at": "2026-11-24T13:51:29.608Z",
+  "created_at": "2026-11-26T12:43:36.192Z",
+  "generated_at": "2026-11-26T12:43:36.192Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.888424795480193,
+      "survival": 0.8878370211855222,
       "reverted": 0,
       "rework_human": 0.025231913793088177,
-      "surviving_changes": 14.214796727683089,
+      "surviving_changes": 14.205392338968355,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
