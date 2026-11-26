@@ -1,0 +1,53 @@
+{
+  "id": "allycallow__frame-inventory-exercise-main-20261126124330",
+  "repo": "allycallow/frame-inventory-exercise-main",
+  "created_at": "2026-11-26T12:43:30.224Z",
+  "generated_at": "2026-11-26T12:43:30.224Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "2b77a7e17ad5",
+      "label": "Codex · gpt-6.2-sol (rules unknown)",
+      "harness": "Codex",
+      "model": "gpt-6.2-sol",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "6fc7d2e1db57",
+      "label": "Codex · gpt-6.2-sol (rules unknown)",
+      "harness": "Codex",
+      "model": "gpt-6.2-sol",
+      "rules_hash": null,
+      "sessions": 2,
+      "mature_sessions": 0,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}

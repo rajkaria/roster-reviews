@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-26T12:43:41.791Z",
+  "generated_at": "2026-11-26T12:43:43.949Z",
   "reviews": [
+    {
+      "repo": "allycallow/frame-inventory-exercise-main",
+      "slug": "allycallow__frame-inventory-exercise-main",
+      "href": "/r/allycallow/frame-inventory-exercise-main",
+      "outcome": "ok",
+      "generated_at": "2026-11-26T12:43:30.224Z",
+      "finished_at": "2026-11-26T12:43:43Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822302214",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2b77a7e17ad5",
+          "label": "Codex · gpt-6.2-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6fc7d2e1db57",
+          "label": "Codex · gpt-6.2-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "blackgirlbytes/live-captions",
       "slug": "blackgirlbytes__live-captions",
