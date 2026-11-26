@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-25T13:04:12.235Z",
+  "generated_at": "2026-11-26T12:43:31.266Z",
   "reviews": [
+    {
+      "repo": "salim-b/home-assistant-apps-salim",
+      "slug": "salim-b__home-assistant-apps-salim",
+      "href": "/r/salim-b/home-assistant-apps-salim",
+      "outcome": "ok",
+      "generated_at": "2026-11-26T12:43:27.844Z",
+      "finished_at": "2026-11-26T12:43:31Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822292890",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "4e558439c16a",
+          "label": "Goose · z-ai/glm-5.3-flash (rules unknown)",
+          "harness": "Goose",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c68942a24c6f",
+          "label": "Goose · z-ai/glm-5.3-flash (rules unknown)",
+          "harness": "Goose",
+          "model": "z-ai/glm-5.3-flash",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.9944444444444445,
+          "surviving_changes": 1.988888888888889,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "TheFridey/ScaleSmiths",
       "slug": "TheFridey__ScaleSmiths",
@@ -3558,32 +3596,6 @@
           "survival": 0.9371980676328503,
           "surviving_changes": 2.8115942028985508,
           "cost_per_surviving_change": 25.694659608247424
-        }
-      ]
-    },
-    {
-      "repo": "salim-b/home-assistant-apps-salim",
-      "slug": "salim-b__home-assistant-apps-salim",
-      "href": "/r/salim-b/home-assistant-apps-salim",
-      "outcome": "ok",
-      "generated_at": "2026-11-24T13:51:27.106Z",
-      "finished_at": "2026-11-24T13:51:30Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407741310",
-      "label": "insufficient_data",
-      "sessions": 7,
-      "mature_sessions": 7,
-      "setups": [
-        {
-          "setup_id": "c68942a24c6f",
-          "label": "Goose · z-ai/glm-5.3-flash",
-          "harness": "Goose",
-          "model": "z-ai/glm-5.3-flash",
-          "sessions": 7,
-          "mature_sessions": 7,
-          "spend_usd": null,
-          "survival": 0.9619047619047619,
-          "surviving_changes": 6.733333333333333,
-          "cost_per_surviving_change": null
         }
       ]
     },
