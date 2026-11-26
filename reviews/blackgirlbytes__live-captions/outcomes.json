@@ -1,0 +1,38 @@
+[
+  {
+    "session_id": "81ecccbe-aa1d-4f97-8070-a49b0e80faab",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": 1.4113012522613577,
+    "tercile": 3
+  },
+  {
+    "session_id": "1d7c6208-043e-427f-aa44-23e1f99156b3",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": true,
+    "tests_at_commit": null,
+    "difficulty": -0.707837582142355,
+    "tercile": 1
+  },
+  {
+    "session_id": "ad81c77a-d3ac-4a43-8ebc-8aa81a818ff1",
+    "status": "too_young",
+    "survival": null,
+    "reverted": null,
+    "rework_human": null,
+    "rework_agent": null,
+    "unattended": false,
+    "tests_at_commit": null,
+    "difficulty": -0.7034636701190025,
+    "tercile": 2
+  }
+]

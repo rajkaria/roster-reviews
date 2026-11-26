@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-26T12:43:40.223Z",
+  "generated_at": "2026-11-26T12:43:41.791Z",
   "reviews": [
+    {
+      "repo": "blackgirlbytes/live-captions",
+      "slug": "blackgirlbytes__live-captions",
+      "href": "/r/blackgirlbytes/live-captions",
+      "outcome": "ok",
+      "generated_at": "2026-11-26T12:43:34.459Z",
+      "finished_at": "2026-11-26T12:43:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822305305",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 0.7269388000000001,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.48130420000000007,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "LCV-Ideas-Software/.github",
       "slug": "LCV-Ideas-Software__.github",
