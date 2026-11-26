@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-26T12:43:59.584Z",
+  "generated_at": "2026-11-26T12:44:03.147Z",
   "reviews": [
+    {
+      "repo": "eddy147/vim",
+      "slug": "eddy147__vim",
+      "href": "/r/eddy147/vim",
+      "outcome": "ok",
+      "generated_at": "2026-11-26T12:43:37.909Z",
+      "finished_at": "2026-11-26T12:44:03Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822315666",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "c68be915baa9",
+          "label": "Codex · gpt-6.1-terra",
+          "harness": "Codex",
+          "model": "gpt-6.1-terra",
+          "sessions": 4,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.8181818181818181,
+          "surviving_changes": 1.6363636363636362,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "maximilianharr/mine",
       "slug": "maximilianharr__mine",
@@ -3767,32 +3793,6 @@
           "spend_usd": 0.5672884,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "eddy147/vim",
-      "slug": "eddy147__vim",
-      "href": "/r/eddy147/vim",
-      "outcome": "ok",
-      "generated_at": "2026-11-24T13:51:40.482Z",
-      "finished_at": "2026-11-24T13:51:46Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45407782635",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "c68be915baa9",
-          "label": "Codex · gpt-6.1-terra",
-          "harness": "Codex",
-          "model": "gpt-6.1-terra",
-          "sessions": 3,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.6363636363636364,
-          "surviving_changes": 0.6363636363636364,
           "cost_per_surviving_change": null
         }
       ]

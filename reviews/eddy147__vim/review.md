@@ -1,7 +1,7 @@
 # Review: eddy147/vim
 
-- Review id: `eddy147__vim-20261124135140`
-- Created: 2026-11-24T13:51:40.482Z
+- Review id: `eddy147__vim-20261126124337`
+- Created: 2026-11-26T12:43:37.909Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,11 +13,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
-| `c68be915baa9` | Codex · gpt-6.1-terra | 3 | 1 | unknown (0/3 priced) | 63.6% | 0.0% | 0.0% | 33.3% | — | A |
+| `c68be915baa9` | Codex · gpt-6.1-terra | 4 | 2 | unknown (0/4 priced) | 81.8% | 0.0% | 0.0% | 25.0% | — | A |
 
 ## Notes
 
 - 2 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
-- 3 sessions have no price (unknown model, or a price that depends on prompt size)
+- 4 sessions have no price (unknown model, or a price that depends on prompt size)
 - 0 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
