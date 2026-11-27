@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-27T12:32:20.555Z",
+  "generated_at": "2026-11-27T12:32:22.416Z",
   "reviews": [
+    {
+      "repo": "saranatour1/site",
+      "slug": "saranatour1__site",
+      "href": "/r/saranatour1/site",
+      "outcome": "ok",
+      "generated_at": "2026-11-27T12:32:17.663Z",
+      "finished_at": "2026-11-27T12:32:22Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999448898",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 2.2383694,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "8718acc46b7d",
+          "label": "Claude Code · claude-fable-5-2",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-2",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "b3cb0a90610a",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 1.8739765,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8,
+          "surviving_changes": 0.8,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "allycallow/frame-inventory-exercise-main",
       "slug": "allycallow__frame-inventory-exercise-main",
