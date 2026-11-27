@@ -1,8 +1,8 @@
 {
-  "id": "abelkun-androniq__MercedesExperience-20261126124347",
+  "id": "abelkun-androniq__MercedesExperience-20261127123222",
   "repo": "abelkun-androniq/MercedesExperience",
-  "created_at": "2026-11-26T12:43:47.573Z",
-  "generated_at": "2026-11-26T12:43:47.573Z",
+  "created_at": "2026-11-27T12:32:22.671Z",
+  "generated_at": "2026-11-27T12:32:22.671Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,17 +11,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "sessions": 14,
-      "mature_sessions": 10,
-      "spend_usd": 200.01718400000004,
-      "priced_sessions": 14,
+      "sessions": 15,
+      "mature_sessions": 12,
+      "spend_usd": 222.83995740000006,
+      "priced_sessions": 15,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.7647308172586997,
-      "reverted": 0.1,
+      "survival": 0.7744130484567474,
+      "reverted": 0.08333333333333333,
       "rework_human": 0,
-      "surviving_changes": 7.647308172586998,
-      "cost_per_surviving_change": 19.42209612166775,
+      "surviving_changes": 9.292956581480968,
+      "cost_per_surviving_change": 18.573584400896138,
       "evidence_level": "A"
     },
     {
@@ -30,26 +30,26 @@
       "harness": "Codex",
       "model": "gpt-6.2-astra",
       "rules_hash": null,
-      "sessions": 5,
-      "mature_sessions": 1,
+      "sessions": 7,
+      "mature_sessions": 2,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
-      "unattended": 0.2,
-      "survival": 0.9361022364217252,
+      "unattended": 0.2857142857142857,
+      "survival": 0.869398152145756,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 0.9361022364217252,
+      "surviving_changes": 1.738796304291512,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 0.3870967741935483,
+  "odds_ratio": 0.37078651685393255,
   "ci95": [
-    0.028258785350183686,
-    5.3025602740592275
+    0.0301403076273646,
+    4.561421296040459
   ],
   "p_value": 1,
   "evidence_level": "A"

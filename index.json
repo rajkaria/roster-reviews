@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-27T12:32:43.201Z",
+  "generated_at": "2026-11-27T12:32:46.515Z",
   "reviews": [
+    {
+      "repo": "abelkun-androniq/MercedesExperience",
+      "slug": "abelkun-androniq__MercedesExperience",
+      "href": "/r/abelkun-androniq/MercedesExperience",
+      "outcome": "ok",
+      "generated_at": "2026-11-27T12:32:22.671Z",
+      "finished_at": "2026-11-27T12:32:46Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999457951",
+      "label": "no_suspect",
+      "sessions": 22,
+      "mature_sessions": 14,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 15,
+          "mature_sessions": 12,
+          "spend_usd": 222.83995740000006,
+          "survival": 0.7744130484567474,
+          "surviving_changes": 9.292956581480968,
+          "cost_per_surviving_change": 18.573584400896138
+        },
+        {
+          "setup_id": "13eb62fe69ab",
+          "label": "Codex · gpt-6.2-astra",
+          "harness": "Codex",
+          "model": "gpt-6.2-astra",
+          "sessions": 7,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.869398152145756,
+          "surviving_changes": 1.738796304291512,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "femto/mcp-chrome",
       "slug": "femto__mcp-chrome",
@@ -1149,44 +1187,6 @@
           "spend_usd": null,
           "survival": 1,
           "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "abelkun-androniq/MercedesExperience",
-      "slug": "abelkun-androniq__MercedesExperience",
-      "href": "/r/abelkun-androniq/MercedesExperience",
-      "outcome": "ok",
-      "generated_at": "2026-11-26T12:43:47.573Z",
-      "finished_at": "2026-11-26T12:44:10Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822327525",
-      "label": "no_suspect",
-      "sessions": 19,
-      "mature_sessions": 11,
-      "setups": [
-        {
-          "setup_id": "13c50cfb184d",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 14,
-          "mature_sessions": 10,
-          "spend_usd": 200.01718400000004,
-          "survival": 0.7647308172586997,
-          "surviving_changes": 7.647308172586998,
-          "cost_per_surviving_change": 19.42209612166775
-        },
-        {
-          "setup_id": "13eb62fe69ab",
-          "label": "Codex · gpt-6.2-astra",
-          "harness": "Codex",
-          "model": "gpt-6.2-astra",
-          "sessions": 5,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9361022364217252,
-          "surviving_changes": 0.9361022364217252,
           "cost_per_surviving_change": null
         }
       ]
