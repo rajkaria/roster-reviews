@@ -1,7 +1,7 @@
 # Review: babamba2/superclaude-for-sap
 
-- Review id: `babamba2__superclaude-for-sap-20261125130311`
-- Created: 2026-11-25T13:03:11.351Z
+- Review id: `babamba2__superclaude-for-sap-20261127123228`
+- Created: 2026-11-27T12:32:28.536Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -47,10 +47,11 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `e5535dfeb239` | Claude Code · claude-opus-5-5 (rules a95455) | 1 | 1 | $5.16 | 37.5% | 0.0% | 0.0% | 100.0% | $13.77 | A |
 | `ee0d50be9e48` | Claude Code · claude-opus-5-5 (rules e8e94e) | 1 | 1 | $36.21 | 97.9% | 0.0% | 0.0% | 100.0% | $36.99 | A |
 | `f33ef3af0ef2` | Claude Code · claude-opus-5-5 (rules 5b61da) | 3 | 3 | $12.43 | 94.5% | 0.0% | 0.8% | 100.0% | $4.38 | A |
+| `f4161ebb9f89` | Claude Code · claude-opus-5-5 (rules 791c42) | 1 | 0 | $2.68 | too young | too young | too young | 100.0% | — | A |
 
 ## Notes
 
-- 7 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
+- 8 sessions are too young or have no commit: a session is mature at ≥ 5 first-parent commits and ≥ 6 h before HEAD
 - 16 sessions have no price (unknown model, or a price that depends on prompt size)
 - 4 sessions have no setup because their rules hash is unknown
 - suspect call: no setup has ≥ 8 mature sessions
