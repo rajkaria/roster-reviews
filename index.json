@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-26T12:44:10.499Z",
+  "generated_at": "2026-11-27T12:32:14.010Z",
   "reviews": [
+    {
+      "repo": "richardjschoen-star/stayonsite",
+      "slug": "richardjschoen-star__stayonsite",
+      "href": "/r/richardjschoen-star/stayonsite",
+      "outcome": "ok",
+      "generated_at": "2026-11-27T12:32:11.077Z",
+      "finished_at": "2026-11-27T12:32:13Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999431386",
+      "label": "insufficient_data",
+      "sessions": 4,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "2c0dd9b5d259",
+          "label": "Antigravity · gemini-4-hydrogen-medium",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-medium",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "f86c5b081967",
+          "label": "Antigravity · gemini-4-hydrogen-low",
+          "harness": "Antigravity",
+          "model": "gemini-4-hydrogen-low",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "abelkun-androniq/MercedesExperience",
       "slug": "abelkun-androniq__MercedesExperience",
