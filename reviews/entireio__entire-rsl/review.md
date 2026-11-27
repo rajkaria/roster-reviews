@@ -1,7 +1,7 @@
 # Review: entireio/entire-rsl
 
-- Review id: `entireio__entire-rsl-20261105110208`
-- Created: 2026-11-05T11:02:08.629Z
+- Review id: `entireio__entire-rsl-20261127123227`
+- Created: 2026-11-27T12:32:27.242Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -13,9 +13,10 @@ No suspect call: no setup has ≥ 8 mature sessions.
 
 | Setup | Harness · model | Sessions | Mature | Spend | Survival | Reverted | Rework (human) | Unattended | $/surviving change | Evidence |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: |
+| `13c50cfb184d` | Claude Code · claude-opus-5-5 (rules e3b0c4) | 2 | 0 | $2.34 | too young | too young | too young | 0.0% | — | A |
 | `764f583291a5` | Claude Code · claude-opus-5-5 (rules unknown) | 1 | 1 | $47.63 | 100.0% | 0.0% | 0.0% | 0.0% | $47.63 | A |
-| `ea3267cba759` | Claude Code · claude-opus-5-5 (rules 80d159) | 6 | 0 | $20.42 | too young | too young | too young | 0.0% | — | A |
-| `ef0ef4e7f721` | Claude Code · claude-opus-5-5 (rules 1b7221) | 2 | 2 | $1.77 | 97.3% | 0.0% | 3.1% | 0.0% | $0.91 | A |
+| `ea3267cba759` | Claude Code · claude-opus-5-5 (rules 80d159) | 10 | 6 | $26.50 | 85.0% | 0.0% | 19.4% | 10.0% | $4.00 | A |
+| `ef0ef4e7f721` | Claude Code · claude-opus-5-5 (rules 1b7221) | 2 | 2 | $1.77 | 97.3% | 0.0% | 5.4% | 0.0% | $0.91 | A |
 
 ## Notes
 

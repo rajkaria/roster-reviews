@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-27T12:32:32.045Z",
+  "generated_at": "2026-11-27T12:32:36.047Z",
   "reviews": [
+    {
+      "repo": "entireio/entire-rsl",
+      "slug": "entireio__entire-rsl",
+      "href": "/r/entireio/entire-rsl",
+      "outcome": "ok",
+      "generated_at": "2026-11-27T12:32:27.242Z",
+      "finished_at": "2026-11-27T12:32:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999467240",
+      "label": "insufficient_data",
+      "sessions": 15,
+      "mature_sessions": 9,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 2.3424464,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "764f583291a5",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 47.6341774,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 47.6341774
+        },
+        {
+          "setup_id": "ea3267cba759",
+          "label": "Claude Code · claude-opus-5-5 (rules 80d159)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 10,
+          "mature_sessions": 6,
+          "spend_usd": 26.502191999999994,
+          "survival": 0.8501399915873601,
+          "surviving_changes": 5.10083994952416,
+          "cost_per_surviving_change": 4.0023909399283335
+        },
+        {
+          "setup_id": "ef0ef4e7f721",
+          "label": "Claude Code · claude-opus-5-5 (rules 1b7221)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": 1.7667625999999998,
+          "survival": 0.9732142857142857,
+          "surviving_changes": 1.9464285714285714,
+          "cost_per_surviving_change": 0.9076945467889908
+        }
+      ]
+    },
     {
       "repo": "jai-dewani/aiwritesblogs",
       "slug": "jai-dewani__aiwritesblogs",
@@ -15028,56 +15090,6 @@
           "survival": null,
           "surviving_changes": 0,
           "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "entireio/entire-rsl",
-      "slug": "entireio__entire-rsl",
-      "href": "/r/entireio/entire-rsl",
-      "outcome": "ok",
-      "generated_at": "2026-11-05T11:02:08.629Z",
-      "finished_at": "2026-11-05T11:02:15Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015585941",
-      "label": "insufficient_data",
-      "sessions": 9,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "764f583291a5",
-          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 47.6341774,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 47.6341774
-        },
-        {
-          "setup_id": "ea3267cba759",
-          "label": "Claude Code · claude-opus-5-5 (rules 80d159)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 6,
-          "mature_sessions": 0,
-          "spend_usd": 20.415555599999998,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "ef0ef4e7f721",
-          "label": "Claude Code · claude-opus-5-5 (rules 1b7221)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": 1.7667625999999998,
-          "survival": 0.9732142857142857,
-          "surviving_changes": 1.9464285714285714,
-          "cost_per_surviving_change": 0.9076945467889908
         }
       ]
     },

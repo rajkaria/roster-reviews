@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261105-003",
+  "job": "disc-20261127-014",
   "repo": "entireio/entire-rsl",
   "outcome": "ok",
   "error": null,
-  "run_id": 42015585941,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/42015585941",
+  "run_id": 45999467240,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999467240",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "2fdc2b581f0207a681691c80c66feaffb0f0f84e",
+  "target_head": "6dc36c9b9de1fe82a396967fcdb06bf88d2ac0db",
   "checkpoint_head": null,
-  "started_at": "2026-11-05T11:02:04Z",
-  "finished_at": "2026-11-05T11:02:15Z"
+  "started_at": "2026-11-27T12:32:22Z",
+  "finished_at": "2026-11-27T12:32:36Z"
 }
