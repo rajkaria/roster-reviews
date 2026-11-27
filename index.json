@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-27T12:32:25.258Z",
+  "generated_at": "2026-11-27T12:32:26.763Z",
   "reviews": [
+    {
+      "repo": "Angad-Chede/Gauntlet",
+      "slug": "Angad-Chede__Gauntlet",
+      "href": "/r/Angad-Chede/Gauntlet",
+      "outcome": "ok",
+      "generated_at": "2026-11-27T12:32:24.393Z",
+      "finished_at": "2026-11-27T12:32:26Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999460572",
+      "label": "insufficient_data",
+      "sessions": 7,
+      "mature_sessions": 6,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 7,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.7727272727272728,
+          "surviving_changes": 4.636363636363637,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Cj-bc/webxr-fable-demo",
       "slug": "Cj-bc__webxr-fable-demo",
