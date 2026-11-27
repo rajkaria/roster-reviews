@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-27T12:32:26.763Z",
+  "generated_at": "2026-11-27T12:32:29.993Z",
   "reviews": [
+    {
+      "repo": "Nassibab/applications_germany_2026",
+      "slug": "Nassibab__applications_germany_2026",
+      "href": "/r/Nassibab/applications_germany_2026",
+      "outcome": "ok",
+      "generated_at": "2026-11-27T12:32:23.955Z",
+      "finished_at": "2026-11-27T12:32:29Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999463731",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "e17c26f9cf24",
+          "label": "Cursor · default",
+          "harness": "Cursor",
+          "model": "default",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Angad-Chede/Gauntlet",
       "slug": "Angad-Chede__Gauntlet",
