@@ -1,0 +1,53 @@
+{
+  "id": "femto__mcp-chrome-20261127123217",
+  "repo": "femto/mcp-chrome",
+  "created_at": "2026-11-27T12:32:17.375Z",
+  "generated_at": "2026-11-27T12:32:17.375Z",
+  "has_entire_data": true,
+  "setups": [
+    {
+      "setup_id": "37e9586049fd",
+      "label": "Claude Code · claude-opus-4-5-20251101",
+      "harness": "Claude Code",
+      "model": "claude-opus-4-5-20251101",
+      "rules_hash": null,
+      "sessions": 7,
+      "mature_sessions": 7,
+      "spend_usd": null,
+      "priced_sessions": 0,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": 0.6527237744096098,
+      "reverted": 0.5714285714285714,
+      "rework_human": 0.18827462491846053,
+      "surviving_changes": 4.569066420867268,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    },
+    {
+      "setup_id": "acab5b84929f",
+      "label": "Claude Code · claude-opus-5-5",
+      "harness": "Claude Code",
+      "model": "claude-opus-5-5",
+      "rules_hash": "da7f47d2d02c75154b667a597ebb9355bd7c34f84ff9f3b3ca18eb93b570b453",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "spend_usd": 7.0018192,
+      "priced_sessions": 3,
+      "spend_lower_bound": false,
+      "unattended": 0,
+      "survival": null,
+      "reverted": null,
+      "rework_human": null,
+      "surviving_changes": 0,
+      "cost_per_surviving_change": null,
+      "evidence_level": "A"
+    }
+  ],
+  "label": "insufficient_data",
+  "suspect": null,
+  "odds_ratio": null,
+  "ci95": null,
+  "p_value": null,
+  "evidence_level": "A"
+}
