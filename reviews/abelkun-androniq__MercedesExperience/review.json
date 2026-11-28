@@ -1,8 +1,8 @@
 {
-  "id": "abelkun-androniq__MercedesExperience-20261127123222",
+  "id": "abelkun-androniq__MercedesExperience-20261128115417",
   "repo": "abelkun-androniq/MercedesExperience",
-  "created_at": "2026-11-27T12:32:22.671Z",
-  "generated_at": "2026-11-27T12:32:22.671Z",
+  "created_at": "2026-11-28T11:54:17.663Z",
+  "generated_at": "2026-11-28T11:54:17.663Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -11,17 +11,17 @@
       "harness": "Claude Code",
       "model": "claude-opus-5-5",
       "rules_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "sessions": 15,
-      "mature_sessions": 12,
-      "spend_usd": 222.83995740000006,
-      "priced_sessions": 15,
+      "sessions": 16,
+      "mature_sessions": 13,
+      "spend_usd": 231.96295480000006,
+      "priced_sessions": 16,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.7744130484567474,
-      "reverted": 0.08333333333333333,
+      "survival": 0.7862066237682168,
+      "reverted": 0.07692307692307693,
       "rework_human": 0,
-      "surviving_changes": 9.292956581480968,
-      "cost_per_surviving_change": 18.573584400896138,
+      "surviving_changes": 10.220686108986818,
+      "cost_per_surviving_change": 18.706035677183383,
       "evidence_level": "A"
     },
     {
@@ -31,25 +31,25 @@
       "model": "gpt-6.2-astra",
       "rules_hash": null,
       "sessions": 7,
-      "mature_sessions": 2,
+      "mature_sessions": 4,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0.2857142857142857,
-      "survival": 0.869398152145756,
+      "survival": 0.8987173789014969,
       "reverted": 0,
       "rework_human": 0,
-      "surviving_changes": 1.738796304291512,
+      "surviving_changes": 3.5948695156059878,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 0.37078651685393255,
+  "odds_ratio": 0.6734693877551021,
   "ci95": [
-    0.0301403076273646,
-    4.561421296040459
+    0.0670153116771386,
+    6.768020693962669
   ],
   "p_value": 1,
   "evidence_level": "A"
