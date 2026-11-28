@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-28T11:54:21.732Z",
+  "generated_at": "2026-11-28T11:54:23.382Z",
   "reviews": [
+    {
+      "repo": "DaduDev/Pit_Wall_AI",
+      "slug": "DaduDev__Pit_Wall_AI",
+      "href": "/r/DaduDev/Pit_Wall_AI",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:18.957Z",
+      "finished_at": "2026-11-28T11:54:23Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142041200",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "48f370d43d08",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "allycallow/frame-inventory-exercise-main",
       "slug": "allycallow__frame-inventory-exercise-main",
