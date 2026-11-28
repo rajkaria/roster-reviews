@@ -1,7 +1,7 @@
 # Review: amjadsaadeh/doorbell-detector
 
-- Review id: `amjadsaadeh__doorbell-detector-20261125130323`
-- Created: 2026-11-25T13:03:23.285Z
+- Review id: `amjadsaadeh__doorbell-detector-20261128115424`
+- Created: 2026-11-28T11:54:24.523Z
 - Entire data: yes
 - Evidence level: A (observational)
 - Label: `insufficient_data`
@@ -17,20 +17,20 @@ No suspect call: no setup has ≥ 8 mature sessions.
 | `10632be0aded` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `19c226a2c258` | Claude Code · claude-fable-5 (rules unknown) | 1 | 0 | unknown (0/1 priced) | too young | too young | too young | 0.0% | — | A |
 | `1f93c98c1ce5` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 94.8% | 0.0% | 11.1% | 0.0% | — | A |
-| `41ff0af85046` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 98.9% | 0.0% | 1.5% | 0.0% | — | A |
+| `41ff0af85046` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 98.9% | 0.0% | 4.6% | 0.0% | — | A |
 | `7aa62d49da08` | Claude Code · claude-opus-5-5[1m] | 2 | 2 | $4.84 | 96.2% | 0.0% | 5.8% | 0.0% | $2.52 | A |
-| `7c19005e12c0` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 90.0% | 0.0% | 0.0% | 0.0% | — | A |
+| `7c19005e12c0` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 90.0% | 0.0% | 40.0% | 0.0% | — | A |
 | `80354e2b478d` | Claude Code · claude-opus-5-5 | 1 | 1 | $3.64 | 93.9% | 0.0% | 12.8% | 0.0% | $3.88 | A |
-| `848dfc92ec30` | Claude Code · claude-opus-5 (rules 8322f8) | 1 | 1 | unknown (0/1 priced) | 97.1% | 0.0% | 0.7% | 0.0% | — | A |
+| `848dfc92ec30` | Claude Code · claude-opus-5 (rules 8322f8) | 1 | 1 | unknown (0/1 priced) | 97.1% | 0.0% | 4.1% | 0.0% | — | A |
 | `8554ea49bd31` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 97.7% | 0.0% | 0.4% | 0.0% | — | A |
-| `96f18d55ce02` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 59.7% | 100.0% | 51.0% | 0.0% | — | A |
+| `96f18d55ce02` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 59.7% | 100.0% | 56.0% | 0.0% | — | A |
 | `9d865a645c94` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
 | `b614cb157195` | Claude Code · claude-fable-5 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 0.0% | 0.0% | 0.0% | 0.0% | — | A |
-| `bb5600b608e7` | Claude Code · claude-sonnet-5 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 13.2% | 100.0% | 5.7% | 0.0% | — | A |
+| `bb5600b608e7` | Claude Code · claude-sonnet-5 (rules unknown) | 2 | 2 | unknown (0/2 priced) | 13.2% | 100.0% | 5.9% | 0.0% | — | A |
 | `c18baa0b8673` | Claude Code · claude-sonnet-5-5 | 1 | 1 | $0.57 | 100.0% | 0.0% | 3.0% | 0.0% | $0.57 | A |
 | `c93bb4cc58ac` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 5.6% | 0.0% | — | A |
 | `d4f1088012b9` | Claude Code · claude-sonnet-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 66.7% | 0.0% | 4.1% | 0.0% | — | A |
-| `e249be7dc756` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 99.9% | 0.0% | 2.1% | 0.0% | — | A |
+| `e249be7dc756` | Claude Code · claude-opus-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 99.9% | 0.0% | 2.3% | 0.0% | — | A |
 | `f2facb9ad2be` | Claude Code · claude-fable-5 (rules unknown) | 1 | 1 | unknown (0/1 priced) | 100.0% | 0.0% | 0.0% | 0.0% | — | A |
 
 ## Notes

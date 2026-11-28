@@ -1,8 +1,8 @@
 {
-  "id": "amjadsaadeh__doorbell-detector-20261125130323",
+  "id": "amjadsaadeh__doorbell-detector-20261128115424",
   "repo": "amjadsaadeh/doorbell-detector",
-  "created_at": "2026-11-25T13:03:23.285Z",
-  "generated_at": "2026-11-25T13:03:23.285Z",
+  "created_at": "2026-11-28T11:54:24.523Z",
+  "generated_at": "2026-11-28T11:54:24.523Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -95,7 +95,7 @@
       "unattended": 0,
       "survival": 0.9885057471264368,
       "reverted": 0,
-      "rework_human": 0.015209125475285171,
+      "rework_human": 0.045627376425855515,
       "surviving_changes": 0.9885057471264368,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -133,7 +133,7 @@
       "unattended": 0,
       "survival": 0.9,
       "reverted": 0,
-      "rework_human": 0,
+      "rework_human": 0.4,
       "surviving_changes": 0.9,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -171,7 +171,7 @@
       "unattended": 0,
       "survival": 0.970873786407767,
       "reverted": 0,
-      "rework_human": 0.006896551724137931,
+      "rework_human": 0.041379310344827586,
       "surviving_changes": 0.970873786407767,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -209,7 +209,7 @@
       "unattended": 0,
       "survival": 0.5967741935483871,
       "reverted": 1,
-      "rework_human": 0.51,
+      "rework_human": 0.56,
       "surviving_changes": 0.5967741935483871,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -266,7 +266,7 @@
       "unattended": 0,
       "survival": 0.13179581315419464,
       "reverted": 1,
-      "rework_human": 0.05721606611038073,
+      "rework_human": 0.05910761718225967,
       "surviving_changes": 0.2635916263083893,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
@@ -342,7 +342,7 @@
       "unattended": 0,
       "survival": 0.9987577639751553,
       "reverted": 0,
-      "rework_human": 0.021042084168336674,
+      "rework_human": 0.023046092184368736,
       "surviving_changes": 0.9987577639751553,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
