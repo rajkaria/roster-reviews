@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261127-010",
+  "job": "disc-20261128-012",
   "repo": "Cj-bc/webxr-fable-demo",
   "outcome": "ok",
   "error": null,
-  "run_id": 45999454919,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999454919",
+  "run_id": 46142048315,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142048315",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "f4ae8457d30881ea4fa462391ed16a8f06adbd71",
+  "target_head": "5285da74486c52d8ea77787135679ba05fc4616a",
   "checkpoint_head": null,
-  "started_at": "2026-11-27T12:32:16Z",
-  "finished_at": "2026-11-27T12:32:25Z"
+  "started_at": "2026-11-28T11:54:18Z",
+  "finished_at": "2026-11-28T11:54:30Z"
 }
