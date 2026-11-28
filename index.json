@@ -1,418 +1,14 @@
 {
-  "generated_at": "2026-11-28T11:54:39.305Z",
+  "generated_at": "2026-11-28T11:54:41.048Z",
   "reviews": [
-    {
-      "repo": "konstruktoid/agent-instructions-skills",
-      "slug": "konstruktoid__agent-instructions-skills",
-      "href": "/r/konstruktoid/agent-instructions-skills",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:15.691Z",
-      "finished_at": "2026-11-28T11:54:39Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142036918",
-      "label": "insufficient_data",
-      "sessions": 18,
-      "mature_sessions": 15,
-      "setups": [
-        {
-          "setup_id": "05963473a336",
-          "label": "Claude Code · claude-opus-5-5 (rules e30d35)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 3,
-          "spend_usd": 8.857690600000002,
-          "survival": 0.9676174664917255,
-          "surviving_changes": 2.9028523994751767,
-          "cost_per_surviving_change": 3.051374779372673
-        },
-        {
-          "setup_id": "0cba022d890f",
-          "label": "Claude Code · claude-opus-5-5 (rules 7d23ec)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 6,
-          "mature_sessions": 5,
-          "spend_usd": 9.060037000000001,
-          "survival": 0.7850680272108843,
-          "surviving_changes": 3.925340136054422,
-          "cost_per_surviving_change": 1.6786029163381138
-        },
-        {
-          "setup_id": "1ec1f286e147",
-          "label": "Claude Code · claude-sonnet-5-5 (rules e30d35)",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 3.7843353000000004,
-          "survival": 0.9922591743119266,
-          "surviving_changes": 0.9922591743119266,
-          "cost_per_surviving_change": 3.813857707714534
-        },
-        {
-          "setup_id": "cb1b9b6d882e",
-          "label": "Claude Code · claude-sonnet-5-5 (rules 7d23ec)",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 8,
-          "mature_sessions": 6,
-          "spend_usd": 7.4440262,
-          "survival": 0.8141252995123357,
-          "surviving_changes": 4.884751797074014,
-          "cost_per_surviving_change": 1.4000928776149182
-        }
-      ]
-    },
-    {
-      "repo": "blackgirlbytes/live-captions",
-      "slug": "blackgirlbytes__live-captions",
-      "href": "/r/blackgirlbytes/live-captions",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:16.990Z",
-      "finished_at": "2026-11-28T11:54:36Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142033984",
-      "label": "no_suspect",
-      "sessions": 11,
-      "mature_sessions": 9,
-      "setups": [
-        {
-          "setup_id": "13c50cfb184d",
-          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 10,
-          "mature_sessions": 8,
-          "spend_usd": 39.3303494,
-          "survival": 0.6195984304558357,
-          "surviving_changes": 4.956787443646686,
-          "cost_per_surviving_change": 7.6305493890966165
-        },
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 11.604001,
-          "survival": 0.8663793103448276,
-          "surviving_changes": 0.8663793103448276,
-          "cost_per_surviving_change": 13.3936727960199
-        }
-      ]
-    },
-    {
-      "repo": "konstruktoid/agent-config-baseline",
-      "slug": "konstruktoid__agent-config-baseline",
-      "href": "/r/konstruktoid/agent-config-baseline",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:20.069Z",
-      "finished_at": "2026-11-28T11:54:33Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142046999",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 1,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 0.5510794,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 0.5510794
-        },
-        {
-          "setup_id": "94304fba8bc8",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 4.8248599,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "Cj-bc/webxr-fable-demo",
-      "slug": "Cj-bc__webxr-fable-demo",
-      "href": "/r/Cj-bc/webxr-fable-demo",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:23.741Z",
-      "finished_at": "2026-11-28T11:54:30Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142048315",
-      "label": "no_suspect",
-      "sessions": 18,
-      "mature_sessions": 17,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 9.4452322,
-          "survival": 0.9954954954954955,
-          "surviving_changes": 0.9954954954954955,
-          "cost_per_surviving_change": 9.487970807239819
-        },
-        {
-          "setup_id": "8718acc46b7d",
-          "label": "Claude Code · claude-fable-5-2",
-          "harness": "Claude Code",
-          "model": "claude-fable-5-2",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.9015544041450777,
-          "surviving_changes": 0.9015544041450777,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "ca930686345d",
-          "label": "Claude Code · claude-opus-5-5 (rules b6d67c)",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 10,
-          "mature_sessions": 9,
-          "spend_usd": 16.018263800000003,
-          "survival": 0.9525700397993361,
-          "surviving_changes": 8.573130358194025,
-          "cost_per_surviving_change": 1.8247887698392031
-        },
-        {
-          "setup_id": "f93769548e98",
-          "label": "Codex · gpt-6.2-astra",
-          "harness": "Codex",
-          "model": "gpt-6.2-astra",
-          "sessions": 6,
-          "mature_sessions": 6,
-          "spend_usd": null,
-          "survival": 0.9333333333333332,
-          "surviving_changes": 5.6,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "jai-dewani/aiwritesblogs",
-      "slug": "jai-dewani__aiwritesblogs",
-      "href": "/r/jai-dewani/aiwritesblogs",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:25.840Z",
-      "finished_at": "2026-11-28T11:54:28Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142051220",
-      "label": "insufficient_data",
-      "sessions": 2,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "66e99877fde1",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 2,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "Shubhdeep12/shubhdeepchhabra.in",
-      "slug": "Shubhdeep12__shubhdeepchhabra.in",
-      "href": "/r/Shubhdeep12/shubhdeepchhabra.in",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:21.243Z",
-      "finished_at": "2026-11-28T11:54:26Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142045367",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "13501964d1fc",
-          "label": "Claude Code · claude-sonnet-5-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 0.19924180000000002,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "72ef4bb393a5",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 2,
-          "mature_sessions": 0,
-          "spend_usd": 43.0373564,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "DaduDev/Pit_Wall_AI",
-      "slug": "DaduDev__Pit_Wall_AI",
-      "href": "/r/DaduDev/Pit_Wall_AI",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:18.957Z",
-      "finished_at": "2026-11-28T11:54:23Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142041200",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "48f370d43d08",
-          "label": "Antigravity · unknown",
-          "harness": "Antigravity",
-          "model": "unknown",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "allycallow/frame-inventory-exercise-main",
-      "slug": "allycallow__frame-inventory-exercise-main",
-      "href": "/r/allycallow/frame-inventory-exercise-main",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:12.609Z",
-      "finished_at": "2026-11-28T11:54:21Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142032574",
-      "label": "no_suspect",
-      "sessions": 26,
-      "mature_sessions": 14,
-      "setups": [
-        {
-          "setup_id": "2b77a7e17ad5",
-          "label": "Codex · gpt-6.2-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.2-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.7177350427350427,
-          "surviving_changes": 1.4354700854700855,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6fc7d2e1db57",
-          "label": "Codex · gpt-6.2-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.2-sol",
-          "sessions": 24,
-          "mature_sessions": 12,
-          "spend_usd": null,
-          "survival": 0.3961976563919809,
-          "surviving_changes": 4.754371876703771,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "gyugyv/RVC_Assignment4",
-      "slug": "gyugyv__RVC_Assignment4",
-      "href": "/r/gyugyv/RVC_Assignment4",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:18.560Z",
-      "finished_at": "2026-11-28T11:54:20Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142043966",
-      "label": "insufficient_data",
-      "sessions": 1,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "2da77c180d9c",
-          "label": "Codex · gpt-6.2-sol",
-          "harness": "Codex",
-          "model": "gpt-6.2-sol",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": null,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "yteraoka/picton",
-      "slug": "yteraoka__picton",
-      "href": "/r/yteraoka/picton",
-      "outcome": "ok",
-      "generated_at": "2026-11-28T11:54:12.663Z",
-      "finished_at": "2026-11-28T11:54:15Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142035358",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 3,
-      "setups": [
-        {
-          "setup_id": "42fffe5a197d",
-          "label": "Claude Code · claude-sonnet-4-6",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-4-6",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.21875,
-          "surviving_changes": 0.21875,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": 8.547001999999999,
-          "survival": 1,
-          "surviving_changes": 1,
-          "cost_per_surviving_change": 8.547001999999999
-        },
-        {
-          "setup_id": "c904f216add7",
-          "label": "Claude Code · claude-sonnet-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.8888888888888888,
-          "surviving_changes": 0.8888888888888888,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",
       "href": "/r/malpercio-dev/ezpds",
       "outcome": "ok",
-      "generated_at": "2026-11-27T12:32:14.296Z",
-      "finished_at": "2026-11-27T12:33:08Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999440087",
+      "generated_at": "2026-11-28T11:54:15.846Z",
+      "finished_at": "2026-11-28T11:54:41Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142038368",
       "label": "insufficient_data",
       "sessions": 67,
       "mature_sessions": 11,
@@ -1123,6 +719,410 @@
           "spend_usd": null,
           "survival": null,
           "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "konstruktoid/agent-instructions-skills",
+      "slug": "konstruktoid__agent-instructions-skills",
+      "href": "/r/konstruktoid/agent-instructions-skills",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:15.691Z",
+      "finished_at": "2026-11-28T11:54:39Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142036918",
+      "label": "insufficient_data",
+      "sessions": 18,
+      "mature_sessions": 15,
+      "setups": [
+        {
+          "setup_id": "05963473a336",
+          "label": "Claude Code · claude-opus-5-5 (rules e30d35)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 3,
+          "mature_sessions": 3,
+          "spend_usd": 8.857690600000002,
+          "survival": 0.9676174664917255,
+          "surviving_changes": 2.9028523994751767,
+          "cost_per_surviving_change": 3.051374779372673
+        },
+        {
+          "setup_id": "0cba022d890f",
+          "label": "Claude Code · claude-opus-5-5 (rules 7d23ec)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 6,
+          "mature_sessions": 5,
+          "spend_usd": 9.060037000000001,
+          "survival": 0.7850680272108843,
+          "surviving_changes": 3.925340136054422,
+          "cost_per_surviving_change": 1.6786029163381138
+        },
+        {
+          "setup_id": "1ec1f286e147",
+          "label": "Claude Code · claude-sonnet-5-5 (rules e30d35)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 3.7843353000000004,
+          "survival": 0.9922591743119266,
+          "surviving_changes": 0.9922591743119266,
+          "cost_per_surviving_change": 3.813857707714534
+        },
+        {
+          "setup_id": "cb1b9b6d882e",
+          "label": "Claude Code · claude-sonnet-5-5 (rules 7d23ec)",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 8,
+          "mature_sessions": 6,
+          "spend_usd": 7.4440262,
+          "survival": 0.8141252995123357,
+          "surviving_changes": 4.884751797074014,
+          "cost_per_surviving_change": 1.4000928776149182
+        }
+      ]
+    },
+    {
+      "repo": "blackgirlbytes/live-captions",
+      "slug": "blackgirlbytes__live-captions",
+      "href": "/r/blackgirlbytes/live-captions",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:16.990Z",
+      "finished_at": "2026-11-28T11:54:36Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142033984",
+      "label": "no_suspect",
+      "sessions": 11,
+      "mature_sessions": 9,
+      "setups": [
+        {
+          "setup_id": "13c50cfb184d",
+          "label": "Claude Code · claude-opus-5-5 (rules e3b0c4)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 10,
+          "mature_sessions": 8,
+          "spend_usd": 39.3303494,
+          "survival": 0.6195984304558357,
+          "surviving_changes": 4.956787443646686,
+          "cost_per_surviving_change": 7.6305493890966165
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 11.604001,
+          "survival": 0.8663793103448276,
+          "surviving_changes": 0.8663793103448276,
+          "cost_per_surviving_change": 13.3936727960199
+        }
+      ]
+    },
+    {
+      "repo": "konstruktoid/agent-config-baseline",
+      "slug": "konstruktoid__agent-config-baseline",
+      "href": "/r/konstruktoid/agent-config-baseline",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:20.069Z",
+      "finished_at": "2026-11-28T11:54:33Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142046999",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.5510794,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.5510794
+        },
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 4.8248599,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "Cj-bc/webxr-fable-demo",
+      "slug": "Cj-bc__webxr-fable-demo",
+      "href": "/r/Cj-bc/webxr-fable-demo",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:23.741Z",
+      "finished_at": "2026-11-28T11:54:30Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142048315",
+      "label": "no_suspect",
+      "sessions": 18,
+      "mature_sessions": 17,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5 (rules unknown)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 9.4452322,
+          "survival": 0.9954954954954955,
+          "surviving_changes": 0.9954954954954955,
+          "cost_per_surviving_change": 9.487970807239819
+        },
+        {
+          "setup_id": "8718acc46b7d",
+          "label": "Claude Code · claude-fable-5-2",
+          "harness": "Claude Code",
+          "model": "claude-fable-5-2",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.9015544041450777,
+          "surviving_changes": 0.9015544041450777,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "ca930686345d",
+          "label": "Claude Code · claude-opus-5-5 (rules b6d67c)",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 10,
+          "mature_sessions": 9,
+          "spend_usd": 16.018263800000003,
+          "survival": 0.9525700397993361,
+          "surviving_changes": 8.573130358194025,
+          "cost_per_surviving_change": 1.8247887698392031
+        },
+        {
+          "setup_id": "f93769548e98",
+          "label": "Codex · gpt-6.2-astra",
+          "harness": "Codex",
+          "model": "gpt-6.2-astra",
+          "sessions": 6,
+          "mature_sessions": 6,
+          "spend_usd": null,
+          "survival": 0.9333333333333332,
+          "surviving_changes": 5.6,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "jai-dewani/aiwritesblogs",
+      "slug": "jai-dewani__aiwritesblogs",
+      "href": "/r/jai-dewani/aiwritesblogs",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:25.840Z",
+      "finished_at": "2026-11-28T11:54:28Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142051220",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 2,
+      "setups": [
+        {
+          "setup_id": "66e99877fde1",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 1,
+          "surviving_changes": 2,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "Shubhdeep12/shubhdeepchhabra.in",
+      "slug": "Shubhdeep12__shubhdeepchhabra.in",
+      "href": "/r/Shubhdeep12/shubhdeepchhabra.in",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:21.243Z",
+      "finished_at": "2026-11-28T11:54:26Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142045367",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "13501964d1fc",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.19924180000000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "72ef4bb393a5",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 43.0373564,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "DaduDev/Pit_Wall_AI",
+      "slug": "DaduDev__Pit_Wall_AI",
+      "href": "/r/DaduDev/Pit_Wall_AI",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:18.957Z",
+      "finished_at": "2026-11-28T11:54:23Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142041200",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "48f370d43d08",
+          "label": "Antigravity · unknown",
+          "harness": "Antigravity",
+          "model": "unknown",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "allycallow/frame-inventory-exercise-main",
+      "slug": "allycallow__frame-inventory-exercise-main",
+      "href": "/r/allycallow/frame-inventory-exercise-main",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:12.609Z",
+      "finished_at": "2026-11-28T11:54:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142032574",
+      "label": "no_suspect",
+      "sessions": 26,
+      "mature_sessions": 14,
+      "setups": [
+        {
+          "setup_id": "2b77a7e17ad5",
+          "label": "Codex · gpt-6.2-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.7177350427350427,
+          "surviving_changes": 1.4354700854700855,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6fc7d2e1db57",
+          "label": "Codex · gpt-6.2-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 24,
+          "mature_sessions": 12,
+          "spend_usd": null,
+          "survival": 0.3961976563919809,
+          "surviving_changes": 4.754371876703771,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "gyugyv/RVC_Assignment4",
+      "slug": "gyugyv__RVC_Assignment4",
+      "href": "/r/gyugyv/RVC_Assignment4",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:18.560Z",
+      "finished_at": "2026-11-28T11:54:20Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142043966",
+      "label": "insufficient_data",
+      "sessions": 1,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "2da77c180d9c",
+          "label": "Codex · gpt-6.2-sol",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": null,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
+    {
+      "repo": "yteraoka/picton",
+      "slug": "yteraoka__picton",
+      "href": "/r/yteraoka/picton",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:12.663Z",
+      "finished_at": "2026-11-28T11:54:15Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142035358",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "42fffe5a197d",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.21875,
+          "surviving_changes": 0.21875,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 8.547001999999999,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 8.547001999999999
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8888888888888888,
+          "surviving_changes": 0.8888888888888888,
           "cost_per_surviving_change": null
         }
       ]
