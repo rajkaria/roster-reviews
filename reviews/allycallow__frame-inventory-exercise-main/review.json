@@ -1,8 +1,8 @@
 {
-  "id": "allycallow__frame-inventory-exercise-main-20261127123211",
+  "id": "allycallow__frame-inventory-exercise-main-20261128115412",
   "repo": "allycallow/frame-inventory-exercise-main",
-  "created_at": "2026-11-27T12:32:11.907Z",
-  "generated_at": "2026-11-27T12:32:11.907Z",
+  "created_at": "2026-11-28T11:54:12.609Z",
+  "generated_at": "2026-11-28T11:54:12.609Z",
   "has_entire_data": true,
   "setups": [
     {
@@ -17,10 +17,10 @@
       "priced_sessions": 0,
       "spend_lower_bound": false,
       "unattended": 0,
-      "survival": 0.8194444444444444,
+      "survival": 0.7177350427350427,
       "reverted": 0,
       "rework_human": 0.06363636363636363,
-      "surviving_changes": 1.6388888888888888,
+      "surviving_changes": 1.4354700854700855,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     },
@@ -30,26 +30,26 @@
       "harness": "Codex",
       "model": "gpt-6.2-sol",
       "rules_hash": null,
-      "sessions": 19,
-      "mature_sessions": 10,
+      "sessions": 24,
+      "mature_sessions": 12,
       "spend_usd": null,
       "priced_sessions": 0,
       "spend_lower_bound": false,
-      "unattended": 0.05263157894736842,
-      "survival": 0.47902146786516003,
+      "unattended": 0,
+      "survival": 0.3961976563919809,
       "reverted": 0,
-      "rework_human": 0.0034988713318284425,
-      "surviving_changes": 4.7902146786516,
+      "rework_human": 0.0029157261098570354,
+      "surviving_changes": 4.754371876703771,
       "cost_per_surviving_change": null,
       "evidence_level": "A"
     }
   ],
   "label": "no_suspect",
   "suspect": null,
-  "odds_ratio": 0.2835820895522388,
+  "odds_ratio": 0.2323232323232323,
   "ci95": [
-    0.019682489028225517,
-    4.085804463017358
+    0.016601471974485492,
+    3.251162569202681
   ],
   "p_value": 1,
   "evidence_level": "A"

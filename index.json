@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-28T11:54:20.035Z",
+  "generated_at": "2026-11-28T11:54:21.732Z",
   "reviews": [
+    {
+      "repo": "allycallow/frame-inventory-exercise-main",
+      "slug": "allycallow__frame-inventory-exercise-main",
+      "href": "/r/allycallow/frame-inventory-exercise-main",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:12.609Z",
+      "finished_at": "2026-11-28T11:54:21Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142032574",
+      "label": "no_suspect",
+      "sessions": 26,
+      "mature_sessions": 14,
+      "setups": [
+        {
+          "setup_id": "2b77a7e17ad5",
+          "label": "Codex · gpt-6.2-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 2,
+          "mature_sessions": 2,
+          "spend_usd": null,
+          "survival": 0.7177350427350427,
+          "surviving_changes": 1.4354700854700855,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "6fc7d2e1db57",
+          "label": "Codex · gpt-6.2-sol (rules unknown)",
+          "harness": "Codex",
+          "model": "gpt-6.2-sol",
+          "sessions": 24,
+          "mature_sessions": 12,
+          "spend_usd": null,
+          "survival": 0.3961976563919809,
+          "surviving_changes": 4.754371876703771,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "gyugyv/RVC_Assignment4",
       "slug": "gyugyv__RVC_Assignment4",
@@ -2281,44 +2319,6 @@
           "spend_usd": null,
           "survival": 0.8,
           "surviving_changes": 0.8,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "allycallow/frame-inventory-exercise-main",
-      "slug": "allycallow__frame-inventory-exercise-main",
-      "href": "/r/allycallow/frame-inventory-exercise-main",
-      "outcome": "ok",
-      "generated_at": "2026-11-27T12:32:11.907Z",
-      "finished_at": "2026-11-27T12:32:20Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999428415",
-      "label": "no_suspect",
-      "sessions": 21,
-      "mature_sessions": 12,
-      "setups": [
-        {
-          "setup_id": "2b77a7e17ad5",
-          "label": "Codex · gpt-6.2-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.2-sol",
-          "sessions": 2,
-          "mature_sessions": 2,
-          "spend_usd": null,
-          "survival": 0.8194444444444444,
-          "surviving_changes": 1.6388888888888888,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "6fc7d2e1db57",
-          "label": "Codex · gpt-6.2-sol (rules unknown)",
-          "harness": "Codex",
-          "model": "gpt-6.2-sol",
-          "sessions": 19,
-          "mature_sessions": 10,
-          "spend_usd": null,
-          "survival": 0.47902146786516003,
-          "surviving_changes": 4.7902146786516,
           "cost_per_surviving_change": null
         }
       ]
