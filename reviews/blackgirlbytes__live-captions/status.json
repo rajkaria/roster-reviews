@@ -1,13 +1,13 @@
 {
-  "job": "disc-20261126-005",
+  "job": "disc-20261128-002",
   "repo": "blackgirlbytes/live-captions",
   "outcome": "ok",
   "error": null,
-  "run_id": 45822305305,
-  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45822305305",
+  "run_id": 46142033984,
+  "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142033984",
   "roster_sha": "fe9a47eb075661c7a34c16cbdcfdd3e3def92ba8",
-  "target_head": "6250625991c1e0fe0282cdb5393dd00c7737a7e0",
+  "target_head": "05dec373fcf37aac818b12aa07f5db4d553fe6af",
   "checkpoint_head": null,
-  "started_at": "2026-11-26T12:43:27Z",
-  "finished_at": "2026-11-26T12:43:41Z"
+  "started_at": "2026-11-28T11:54:09Z",
+  "finished_at": "2026-11-28T11:54:36Z"
 }
