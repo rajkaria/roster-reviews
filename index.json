@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-28T11:54:23.382Z",
+  "generated_at": "2026-11-28T11:54:26.152Z",
   "reviews": [
+    {
+      "repo": "Shubhdeep12/shubhdeepchhabra.in",
+      "slug": "Shubhdeep12__shubhdeepchhabra.in",
+      "href": "/r/Shubhdeep12/shubhdeepchhabra.in",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:21.243Z",
+      "finished_at": "2026-11-28T11:54:26Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142045367",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 0,
+      "setups": [
+        {
+          "setup_id": "13501964d1fc",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 0.19924180000000002,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "72ef4bb393a5",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 2,
+          "mature_sessions": 0,
+          "spend_usd": 43.0373564,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "DaduDev/Pit_Wall_AI",
       "slug": "DaduDev__Pit_Wall_AI",
