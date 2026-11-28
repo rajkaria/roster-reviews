@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-27T12:33:09.003Z",
+  "generated_at": "2026-11-28T11:54:15.587Z",
   "reviews": [
+    {
+      "repo": "yteraoka/picton",
+      "slug": "yteraoka__picton",
+      "href": "/r/yteraoka/picton",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:12.663Z",
+      "finished_at": "2026-11-28T11:54:15Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142035358",
+      "label": "insufficient_data",
+      "sessions": 3,
+      "mature_sessions": 3,
+      "setups": [
+        {
+          "setup_id": "42fffe5a197d",
+          "label": "Claude Code · claude-sonnet-4-6",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-4-6",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.21875,
+          "surviving_changes": 0.21875,
+          "cost_per_surviving_change": null
+        },
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 8.547001999999999,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 8.547001999999999
+        },
+        {
+          "setup_id": "c904f216add7",
+          "label": "Claude Code · claude-sonnet-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": null,
+          "survival": 0.8888888888888888,
+          "surviving_changes": 0.8888888888888888,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "malpercio-dev/ezpds",
       "slug": "malpercio-dev__ezpds",
@@ -1279,56 +1329,6 @@
           "spend_usd": 7.0018192,
           "survival": null,
           "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "yteraoka/picton",
-      "slug": "yteraoka__picton",
-      "href": "/r/yteraoka/picton",
-      "outcome": "ok",
-      "generated_at": "2026-11-27T12:32:15.579Z",
-      "finished_at": "2026-11-27T12:32:41Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/45999437620",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 2,
-      "setups": [
-        {
-          "setup_id": "42fffe5a197d",
-          "label": "Claude Code · claude-sonnet-4-6",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-4-6",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 0.75,
-          "surviving_changes": 0.75,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 1,
-          "mature_sessions": 0,
-          "spend_usd": 8.547001999999999,
-          "survival": null,
-          "surviving_changes": 0,
-          "cost_per_surviving_change": null
-        },
-        {
-          "setup_id": "c904f216add7",
-          "label": "Claude Code · claude-sonnet-5",
-          "harness": "Claude Code",
-          "model": "claude-sonnet-5",
-          "sessions": 1,
-          "mature_sessions": 1,
-          "spend_usd": null,
-          "survival": 1,
-          "surviving_changes": 1,
           "cost_per_surviving_change": null
         }
       ]
