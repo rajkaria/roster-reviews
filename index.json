@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-28T11:54:30.640Z",
+  "generated_at": "2026-11-28T11:54:33.773Z",
   "reviews": [
+    {
+      "repo": "konstruktoid/agent-config-baseline",
+      "slug": "konstruktoid__agent-config-baseline",
+      "href": "/r/konstruktoid/agent-config-baseline",
+      "outcome": "ok",
+      "generated_at": "2026-11-28T11:54:20.069Z",
+      "finished_at": "2026-11-28T11:54:33Z",
+      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/46142046999",
+      "label": "insufficient_data",
+      "sessions": 2,
+      "mature_sessions": 1,
+      "setups": [
+        {
+          "setup_id": "518d4e106433",
+          "label": "Claude Code · claude-opus-5-5",
+          "harness": "Claude Code",
+          "model": "claude-opus-5-5",
+          "sessions": 1,
+          "mature_sessions": 1,
+          "spend_usd": 0.5510794,
+          "survival": 1,
+          "surviving_changes": 1,
+          "cost_per_surviving_change": 0.5510794
+        },
+        {
+          "setup_id": "94304fba8bc8",
+          "label": "Claude Code · claude-sonnet-5-5",
+          "harness": "Claude Code",
+          "model": "claude-sonnet-5-5",
+          "sessions": 1,
+          "mature_sessions": 0,
+          "spend_usd": 4.8248599,
+          "survival": null,
+          "surviving_changes": 0,
+          "cost_per_surviving_change": null
+        }
+      ]
+    },
     {
       "repo": "Cj-bc/webxr-fable-demo",
       "slug": "Cj-bc__webxr-fable-demo",
@@ -18859,32 +18897,6 @@
           "spend_usd": null,
           "survival": 0.4256961178045516,
           "surviving_changes": 2.5541767068273096,
-          "cost_per_surviving_change": null
-        }
-      ]
-    },
-    {
-      "repo": "konstruktoid/agent-config-baseline",
-      "slug": "konstruktoid__agent-config-baseline",
-      "href": "/r/konstruktoid/agent-config-baseline",
-      "outcome": "ok",
-      "generated_at": "2026-10-28T09:47:03.048Z",
-      "finished_at": "2026-10-28T09:47:28Z",
-      "run_url": "https://github.com/rajkaria/roster-reviews/actions/runs/40666920910",
-      "label": "insufficient_data",
-      "sessions": 3,
-      "mature_sessions": 0,
-      "setups": [
-        {
-          "setup_id": "518d4e106433",
-          "label": "Claude Code · claude-opus-5-5",
-          "harness": "Claude Code",
-          "model": "claude-opus-5-5",
-          "sessions": 3,
-          "mature_sessions": 0,
-          "spend_usd": 6.228996800000001,
-          "survival": null,
-          "surviving_changes": 0,
           "cost_per_surviving_change": null
         }
       ]
